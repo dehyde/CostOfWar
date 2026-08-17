@@ -1,5 +1,5 @@
 period,date_from,date_to,OCHA,B'Tselem,Yesh Din,Reuters,AP,Guardian,+972 Magazine,Times of Israel,Haaretz,Israeli broadcasters,Palestinian / local reporting,Original social / entity searches,candidate_count,accepted_count,media_complete_count,status,notes
-2022-08,2022-08-17,2022-08-31,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,0,0,0,Not started,
+2022-08,2022-08-17,2022-08-31,In progress,In progress,In progress,Searched,Searched,Searched,Searched,Searched,In progress,In progress,In progress,In progress,41,19,2,In progress,19 accepted; 12 pending; 2 merged; 5 rejected; exact candidate ledger in candidates/2022-08.csv. Do not advance until pending/OCHA aggregate items and source lanes are resolved.
 2022-09,2022-09-01,2022-09-30,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,0,0,0,Not started,
 2022-10,2022-10-01,2022-10-31,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,0,0,0,Not started,
 2022-11,2022-11-01,2022-11-30,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,0,0,0,Not started,
