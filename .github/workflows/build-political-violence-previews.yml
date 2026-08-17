@@ -22,7 +22,7 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p political-violence-media/previews political-violence-media/tmp
-          jq -c '.[]' political-violence-media/manifest.json | while read -r item; do
+          while IFS= read -r item; do
             id=$(echo "$item" | jq -r '.media_id')
             type=$(echo "$item" | jq -r '.type')
             out="political-violence-media/previews/${id}.jpg"
@@ -39,16 +39,16 @@ jobs:
                 continue
               fi
               curl -fsSL --retry 3 "$thumb" -o "${tmp}.img"
-              ffmpeg -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"
+              ffmpeg -nostdin -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"
             elif [ "$type" = "video" ]; then
               source_url=$(echo "$item" | jq -r '.source_url')
-              ffmpeg -y -loglevel error -ss 1 -i "$source_url" -frames:v 1 -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"
+              ffmpeg -nostdin -y -loglevel error -ss 1 -i "$source_url" -frames:v 1 -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"
             elif [ "$type" = "image" ]; then
               source_url=$(echo "$item" | jq -r '.source_url')
               curl -fsSL --retry 3 "$source_url" -o "${tmp}.img"
-              ffmpeg -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"
+              ffmpeg -nostdin -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"
             fi
-          done
+          done < <(jq -c '.[]' political-violence-media/manifest.json)
           rm -rf political-violence-media/tmp
       - name: Commit previews
         run: |
