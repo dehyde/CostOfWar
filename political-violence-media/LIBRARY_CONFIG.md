@@ -77,10 +77,27 @@ Sheet values remain formal. Notion values should read naturally without property
 
 For LGBTQ people/events/organizations, peace/human-rights activists, journalists/media workers and other specific civil-society targets, use the closest supported existing canonical Target value and preserve the specific target identity in `Card Summary` and source/incident notes until a deliberate schema expansion is made.
 
+### Violence Type
+
+The canonical Sheet has a more detailed violence taxonomy than the current Notion gallery. **Do not assume the select options are identical and do not add Notion options ad hoc.** Fetch/validate the current Notion schema before batch publication.
+
+Current Notion presentation options are: `Harassment / intimidation`, `Physical assault`, `Shooting / firearm`, `Mob / collective violence`, `Property damage / vandalism`, `Other`.
+
+Map canonical values without changing the Sheet:
+- `Physical assault` -> `Physical assault`
+- `Shooting / firearm` -> `Shooting / firearm`
+- `Mob / collective violence` -> `Mob / collective violence`
+- `Property damage / vandalism` -> `Property damage / vandalism`
+- `Threat / intimidation` or `Harassment / abuse` -> `Harassment / intimidation`
+- `Stabbing`, `Vehicle attack`, `Use of force by security personnel`, or `Stone throwing` directed at people/occupied vehicles -> `Physical assault`
+- `Arson` or `Stone throwing` where the primary documented target/harm is property -> `Property damage / vandalism`
+- For `Explosive / incendiary device`, `Kidnapping / unlawful detention`, `Sexual violence`, `Other`, or any case where the broader categories would materially mislead -> `Other`.
+
+When a canonical value is collapsed into a broader Notion option, preserve the exact canonical conduct in `Card Summary`, `Description`, and/or notes so presentation never erases the specific act.
+
 ### Other card fields
 Keep these values concise and unprefixed because they are already self-explanatory:
 - Media Type: `Video`, `Static image`, `Screenshot`, `Document`, `Other`
-- Violence Type: existing classification labels
 - Severity: existing classification labels
 - Verification: existing verification labels
 
