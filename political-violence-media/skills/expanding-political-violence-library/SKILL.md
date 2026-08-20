@@ -15,22 +15,32 @@ Run the library as a pipeline, not as a pile of links. Canonical structured data
 
 For this project, read `political-violence-media/LIBRARY_CONFIG.md` first.
 
+## Collection priority
+
+For this project, discovery effort is intentionally asymmetric while evidence standards remain symmetric.
+
+1. **Highest discovery priority:** maximize well-sourced, showcaseable evidence/media of violence, credible threats, intimidation and targeted harassment against Israelis, especially Israeli protesters/activists, anti-government or liberal activists, LGBTQ people/events/organizations, peace/coexistence activists, human-rights activists, journalists/media workers and other civil-society targets.
+2. **Also important:** continue collecting violence, threats, intimidation and targeted harassment against Palestinians when they satisfy the same inclusion and evidence rules.
+3. **Same evidentiary threshold for every target group.** Search priority must never weaken corroboration, provenance, attribution, deduplication or uncertainty standards.
+4. **Media-first pursuit within otherwise comparable candidates.** Prefer candidates with exact recoverable photo/video/audio/original-post evidence because the library is intended to be showcaseable, but do not reject a strongly evidenced incident solely because exact media is unavailable.
+5. Search proactively in Hebrew and English. For the highest-priority lane, explicitly search mainstream Israeli media, local reporting, NGOs/civil-society organizations, participant/original social posts, police/court material when useful, and reputable international reporting. Do not rely on passive discovery from Palestinian-focused monitoring sources.
+
 ## Batch workflow
 
-1. **Define the batch.** Time window, geography, target populations, violence threshold and any requested search focus.
-2. **Discover candidates.** Search broadly. Keep a candidate list separate from accepted incidents.
+1. **Define the batch.** Time window, geography, target populations, violence threshold and requested search focus. Apply the project collection priority above unless the user explicitly overrides it.
+2. **Discover candidates.** Search broadly and deliberately across target-specific source lanes. Keep a candidate list separate from accepted incidents.
 3. **Research and deduplicate.** Apply `researching-political-violence-incidents` to every candidate worth pursuing.
 4. **Write canonical records.** Create/update incident, source, actor and media rows in the canonical dataset. Do not let Notion become the source of truth.
-5. **Recover and publish media.** Apply `publishing-evidence-media` for each accepted media item.
-6. **Keep weak cases honest.** If violence is verified but political attribution is not, retain only when useful and label it unclear/needs-more-sourcing with the caveat visible.
+5. **Recover and publish media.** Apply `publishing-evidence-media` for each accepted media item. Pursue the closest original media and exact incident preview aggressively for high-priority Israeli/civil-society incidents.
+6. **Keep weak cases honest.** If the incident is verified but political attribution is not, retain only when useful and label it unclear/needs-more-sourcing with the caveat visible.
 7. **Never fake visual completeness.** A media gap is preferable to a non-exact image.
 8. **Verify end to end.** Query both canonical data and visual records after the batch.
 
 ## Batch completion report
 
 Report only after verification:
-- incidents added;
-- incidents updated;
+- Israeli/civil-society incidents and media added or updated first;
+- Palestinian-target incidents and media added or updated;
 - candidates rejected/duplicates;
 - cases still needing sourcing;
 - media-complete vs media-incomplete records;
@@ -41,6 +51,7 @@ Keep the user-facing report concise unless a detailed audit is requested.
 ## Stop conditions
 
 Do not call a batch complete if:
+- the high-priority Israeli/civil-society discovery lane was skipped without an explicit reason;
 - duplicate checks were skipped;
 - political attribution relies only on context;
 - canonical records and Notion disagree;
