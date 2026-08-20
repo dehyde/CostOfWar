@@ -20,7 +20,7 @@ jobs:
       - name: Build previews
         shell: bash
         run: |
-          set -euo pipefail
+          set -uo pipefail
           mkdir -p political-violence-media/previews political-violence-media/tmp
           while IFS= read -r item; do
             id=$(echo "$item" | jq -r '.media_id')
@@ -32,21 +32,45 @@ jobs:
             if [ "$type" = "x" ]; then
               username=$(echo "$item" | jq -r '.username')
               status_id=$(echo "$item" | jq -r '.status_id')
-              json=$(curl -fsSL --retry 3 "https://api.fxtwitter.com/${username}/status/${status_id}")
-              thumb=$(echo "$json" | jq -r '[.tweet.media.videos[]?.thumbnail_url, .tweet.media.photos[]?.url] | map(select(. != null)) | .[0] // empty')
-              if [ -z "$thumb" ]; then
-                echo "No thumbnail found for $id" >&2
+              if ! json=$(curl -fsSL --retry 3 "https://api.fxtwitter.com/${username}/status/${status_id}"); then
+                echo "Could not fetch X metadata for $id; skipping" >&2
                 continue
               fi
-              curl -fsSL --retry 3 "$thumb" -o "${tmp}.img"
-              ffmpeg -nostdin -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"
+              thumb=$(echo "$json" | jq -r '[.tweet.media.videos[]?.thumbnail_url, .tweet.media.photos[]?.url] | map(select(. != null)) | .[0] // empty')
+              if [ -z "$thumb" ]; then
+                echo "No thumbnail found for $id; skipping" >&2
+                continue
+              fi
+              if ! curl -fsSL --retry 3 "$thumb" -o "${tmp}.img"; then
+                echo "Could not download thumbnail for $id; skipping" >&2
+                continue
+              fi
+              if ! ffmpeg -nostdin -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"; then
+                echo "Could not render preview for $id; skipping" >&2
+                rm -f "$out"
+                continue
+              fi
             elif [ "$type" = "video" ]; then
               source_url=$(echo "$item" | jq -r '.source_url')
-              ffmpeg -nostdin -y -loglevel error -ss 1 -i "$source_url" -frames:v 1 -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"
+              if ! ffmpeg -nostdin -y -loglevel error -ss 1 -i "$source_url" -frames:v 1 -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"; then
+                echo "Could not render video preview for $id; skipping" >&2
+                rm -f "$out"
+                continue
+              fi
             elif [ "$type" = "image" ]; then
               source_url=$(echo "$item" | jq -r '.source_url')
-              curl -fsSL --retry 3 "$source_url" -o "${tmp}.img"
-              ffmpeg -nostdin -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"
+              if ! curl -fsSL --retry 3 "$source_url" -o "${tmp}.img"; then
+                echo "Could not download image for $id; skipping" >&2
+                continue
+              fi
+              if ! ffmpeg -nostdin -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"; then
+                echo "Could not render image preview for $id; skipping" >&2
+                rm -f "$out"
+                continue
+              fi
+            else
+              echo "Unknown media type for $id: $type; skipping" >&2
+              continue
             fi
           done < <(jq -c '.[]' political-violence-media/manifest.json)
           rm -rf political-violence-media/tmp
