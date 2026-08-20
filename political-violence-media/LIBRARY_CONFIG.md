@@ -25,6 +25,21 @@ This file contains project-specific IDs, mappings and publishing conventions. Re
 - Workflow: `.github/workflows/build-political-violence-previews.yml`
 - Temporary repository only; preserve folder structure so it can be migrated later.
 
+## Collection priority
+
+- **Highest discovery priority:** violence, credible threats, intimidation and targeted harassment against Israelis, especially Israeli protesters/activists, anti-government or liberal activists, LGBTQ people/events/organizations, peace/coexistence activists, human-rights activists, journalists/media workers and other civil-society targets.
+- **Also important:** violence, credible threats, intimidation and targeted harassment against Palestinians.
+- Priority controls search effort and ordering only. Apply the same verification, corroboration, provenance, political-attribution, deduplication and uncertainty standards to all target groups.
+- Prefer exact recoverable photo/video/audio/original-post evidence when deciding which otherwise comparable candidates to pursue first. Do not reject a strongly evidenced incident solely because exact media is unavailable.
+- Search the Israeli/civil-society lane proactively in Hebrew and English across Israeli news, local reporting, NGOs/civil-society organizations, participant/original social posts, police/court material when useful, and reputable international reporting.
+
+## Inclusion scope
+
+- In-scope conduct includes physical violence and serious violence-adjacent conduct such as credible targeted threats, menacing with weapons, coercive intimidation, property attacks and sustained or targeted harassment when it is materially threatening/intimidating and politically relevant.
+- Ordinary insults, vague rhetoric, generalized online hostility and minor interpersonal disputes are not enough on their own.
+- Preserve the most specific victim/target identity supported by sources in summaries/notes even when the canonical Target select uses a broader existing category.
+- Do not invent new canonical select values ad hoc. If a more specific schema is desired, update the Sheet lookup/schema deliberately and then rehydrate presentation values.
+
 ## Data principles
 
 - Unit of analysis is the **incident**, not the article/post.
@@ -59,6 +74,8 @@ Sheet values remain formal. Notion values should read naturally without property
 - `Israeli Arab / Palestinian citizens` -> `Against Palestinian / Arab citizens of Israel`
 - `Property / institution` -> `Against an institution / property`
 - `Other` -> `Against another target`
+
+For LGBTQ people/events/organizations, peace/human-rights activists, journalists/media workers and other specific civil-society targets, use the closest supported existing canonical Target value and preserve the specific target identity in `Card Summary` and source/incident notes until a deliberate schema expansion is made.
 
 ### Other card fields
 Keep these values concise and unprefixed because they are already self-explanatory:
