@@ -37,10 +37,11 @@ Never substitute one field for all the others.
 5. **Build the Preview separately.** Use an exact JPEG/PNG/WebP from the incident. If none exists, derive a frame from the exact video.
 6. **Reject merely related imagery.** Same village, same actor, similar attack, later attack or generic illustrative photo is not acceptable evidence for the card.
 7. **Store the preview on stable project hosting.** Use the configured preview path keyed by `media_id`; do not leave the gallery dependent on an arbitrary publisher/social CDN.
-8. **Publish the visual record.** Card summary should be one short natural sentence. Preserve the most specific supported target identity in the summary, especially when the canonical Target value is broader. Display classification values so they make sense without field labels, e.g. `By settlers`, `Against Palestinians in the West Bank`.
-9. **Do not create redundant display-only badge fields.** Prefer conversational values in the existing presentation properties while keeping the canonical Sheet values formal.
-10. **After schema-option edits, rehydrate immediately.** Notion select-option changes can clear existing values; restore from the canonical dataset before continuing.
-11. **Verify the batch.** Query every affected record after writes rather than trusting successful update calls.
+8. **Validate the presentation schema before batch writes.** Fetch the current Notion data-source schema and map canonical Sheet values through `LIBRARY_CONFIG.md`. Never assume canonical and presentation select enums are identical, and never add a presentation option merely to make a batch write succeed. Preserve finer canonical detail in the summary/description when a presentation category is broader.
+9. **Publish the visual record.** Card summary should be one short natural sentence. Preserve the most specific supported target identity in the summary, especially when the canonical Target value is broader. Display classification values so they make sense without field labels, e.g. `By settlers`, `Against Palestinians in the West Bank`.
+10. **Do not create redundant display-only badge fields.** Prefer conversational values in the existing presentation properties while keeping the canonical Sheet values formal.
+11. **After schema-option edits, rehydrate immediately.** Notion select-option changes can clear existing values; restore from the canonical dataset before continuing.
+12. **Verify the batch.** Query every affected record after writes rather than trusting successful update calls.
 
 ## Completion contract
 
@@ -61,4 +62,5 @@ A published media card should have, when applicable:
 - Conflating a later incident's still with an earlier incident.
 - Linking only to an article when an original/direct media target exists.
 - Lowering exactness/provenance standards because a target group is a collection priority.
+- Assuming the canonical Sheet and Notion use identical select options.
 - Assuming a Notion write rendered correctly without querying it afterward.
