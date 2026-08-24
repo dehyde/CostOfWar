@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'political-violence-media/manifest.json'
+      - 'political-violence-media/historical-manifest.json'
       - '.github/workflows/build-political-violence-previews.yml'
   workflow_dispatch:
 
@@ -64,7 +65,7 @@ jobs:
                 continue
               fi
               if ! ffmpeg -nostdin -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out"; then
-                echo "Could not render image preview for $id; skipping" >&2
+                echo "Could not render image for $id; skipping" >&2
                 rm -f "$out"
                 continue
               fi
@@ -72,7 +73,12 @@ jobs:
               echo "Unknown media type for $id: $type; skipping" >&2
               continue
             fi
-          done < <(jq -c '.[]' political-violence-media/manifest.json)
+          done < <(
+            jq -c '.[]' political-violence-media/manifest.json
+            if [ -f political-violence-media/historical-manifest.json ]; then
+              jq -c '.[]' political-violence-media/historical-manifest.json
+            fi
+          )
           rm -rf political-violence-media/tmp
       - name: Commit previews
         run: |
