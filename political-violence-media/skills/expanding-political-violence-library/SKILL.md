@@ -25,9 +25,21 @@ For this project, discovery effort is intentionally asymmetric while evidence st
 4. **Media-first pursuit within otherwise comparable candidates.** Prefer candidates with exact recoverable photo/video/audio/original-post evidence because the library is intended to be showcaseable, but do not reject a strongly evidenced incident solely because exact media is unavailable.
 5. Search proactively in Hebrew and English. For the highest-priority lane, explicitly search mainstream Israeli media, local reporting, NGOs/civil-society organizations, participant/original social posts, police/court material when useful, and reputable international reporting. Do not rely on passive discovery from Palestinian-focused monitoring sources.
 
+## Continuous freshness lane
+
+For recurring expansion runs, the fresh-content scan is mandatory and separate from historical backfill.
+
+1. **Always run a freshness pass first.** Search for relevant incidents that occurred since the previous successful expansion run and for relevant reporting/media newly published since that run, including material about older incidents.
+2. **Never allow a gap from the monitoring start date.** For this project, treat **2026-08-18** as the continuous-monitoring start date. If run history is unavailable or uncertain, search from 2026-08-18 through the current run date.
+3. **Use a rolling lookback.** Re-scan at least the previous 14 days on every run so delayed reporting, late uploads, reposts pointing to originals, police/court follow-up and newly indexed material are not missed.
+4. **Search both incident date and publication date.** A newly surfaced exact video/photo/post for an incident already known is a valid fresh candidate even when no new incident row is needed.
+5. **Use explicit current-event lanes.** Search Hebrew and English mainstream Israeli media, local outlets, NGOs/civil-society sources, participant/original social posts, police/court updates and reputable international reporting for fresh items. Search the high-priority Israeli/civil-society lane most aggressively while still checking Palestinian-target lanes.
+6. **Deduplicate before writing.** Freshness discovery must be checked against existing incident/media records; add new media or sourcing to an existing incident rather than creating duplicates.
+7. **Backfill does not satisfy freshness.** Historical coverage work may run in parallel, but a recurring expansion run is incomplete if the freshness pass was skipped.
+
 ## Batch workflow
 
-1. **Define the batch.** Time window, geography, target populations, violence threshold and requested search focus. Apply the project collection priority above unless the user explicitly overrides it.
+1. **Define the batch.** Time window, geography, target populations, violence threshold and requested search focus. Apply the project collection priority above unless the user explicitly overrides it. For recurring runs, include the mandatory continuous freshness lane.
 2. **Discover candidates.** Search broadly and deliberately across target-specific source lanes. Keep a candidate list separate from accepted incidents.
 3. **Research and deduplicate.** Apply `researching-political-violence-incidents` to every candidate worth pursuing.
 4. **Write canonical records.** Create/update incident, source, actor and media rows in the canonical dataset. Do not let Notion become the source of truth.
@@ -51,6 +63,7 @@ Keep the user-facing report concise unless a detailed audit is requested.
 ## Stop conditions
 
 Do not call a batch complete if:
+- the mandatory freshness pass was skipped on a recurring run;
 - the high-priority Israeli/civil-society discovery lane was skipped without an explicit reason;
 - duplicate checks were skipped;
 - political attribution relies only on context;
