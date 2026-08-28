@@ -1,0 +1,82 @@
+name: Apply political violence backfill state
+
+on:
+  push:
+    paths:
+      - political-violence-media/historical-backfill/run-state-input.json
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply CSV state patch
+        run: |
+          python - <<'PY'
+          import csv, json
+          from pathlib import Path
+
+          root = Path('political-violence-media/historical-backfill')
+          payload = json.loads((root / 'run-state-input.json').read_text())
+          period = payload['period']
+
+          candidate_path = root / 'candidates' / f'{period}.csv'
+          with candidate_path.open(newline='', encoding='utf-8') as f:
+              reader = csv.DictReader(f)
+              fieldnames = reader.fieldnames
+              rows = list(reader)
+
+          by_id = {r['candidate_id']: r for r in rows}
+          for patch in payload.get('candidate_updates', []):
+              cid = patch['candidate_id']
+              if cid not in by_id:
+                  raise SystemExit(f'missing candidate {cid}')
+              by_id[cid].update({k: v for k, v in patch.items() if k != 'candidate_id'})
+
+          for new_row in payload.get('candidate_appends', []):
+              cid = new_row['candidate_id']
+              if cid in by_id:
+                  raise SystemExit(f'duplicate candidate {cid}')
+              row = {k: new_row.get(k, '') for k in fieldnames}
+              rows.append(row)
+              by_id[cid] = row
+
+          with candidate_path.open('w', newline='', encoding='utf-8') as f:
+              writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator='\n')
+              writer.writeheader()
+              writer.writerows(rows)
+
+          coverage_path = root / 'COVERAGE.csv'
+          with coverage_path.open(newline='', encoding='utf-8') as f:
+              reader = csv.DictReader(f)
+              cfields = reader.fieldnames
+              coverage = list(reader)
+          found = False
+          for row in coverage:
+              if row['period'] == period:
+                  row.update(payload['coverage_update'])
+                  found = True
+                  break
+          if not found:
+              raise SystemExit(f'missing coverage period {period}')
+          with coverage_path.open('w', newline='', encoding='utf-8') as f:
+              writer = csv.DictWriter(f, fieldnames=cfields, lineterminator='\n')
+              writer.writeheader()
+              writer.writerows(coverage)
+          PY
+      - name: Commit state
+        run: |
+          git config user.name "political-violence-backfill"
+          git config user.email "actions@users.noreply.github.com"
+          git add political-violence-media/historical-backfill/candidates/2023-01.csv political-violence-media/historical-backfill/COVERAGE.csv
+          if git diff --cached --quiet; then
+            echo "No state changes"
+          else
+            git commit -m "Checkpoint January 2023 backfill state"
+            git push
+          fi
