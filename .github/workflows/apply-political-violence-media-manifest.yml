@@ -1,0 +1,48 @@
+name: Apply political violence media manifest patch
+
+on:
+  push:
+    paths:
+      - political-violence-media/media-manifest-input.json
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Patch manifest
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          root = Path('political-violence-media')
+          manifest_path = root / 'manifest.json'
+          input_path = root / 'media-manifest-input.json'
+          manifest = json.loads(manifest_path.read_text())
+          payload = json.loads(input_path.read_text())
+          existing = {x['media_id'] for x in manifest}
+          changed = False
+          for item in payload.get('add', []):
+              if item['media_id'] not in existing:
+                  manifest.append(item)
+                  existing.add(item['media_id'])
+                  changed = True
+          if changed:
+              manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')
+          PY
+      - name: Commit manifest
+        run: |
+          git config user.name "political-violence-backfill"
+          git config user.email "actions@users.noreply.github.com"
+          git add political-violence-media/manifest.json
+          if git diff --cached --quiet; then
+            echo "No manifest changes"
+          else
+            git commit -m "Add January 2023 historical media preview"
+            git push
+          fi
