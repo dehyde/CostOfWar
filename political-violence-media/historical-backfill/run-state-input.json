@@ -1,0 +1,223 @@
+{
+  "period": "2023-01",
+  "coverage_update": {
+    "Yesh Din": "Complete",
+    "Israeli broadcasters": "Complete",
+    "Palestinian / local reporting": "In progress",
+    "Original social / entity searches": "In progress",
+    "candidate_count": "118",
+    "accepted_count": "103",
+    "media_complete_count": "9",
+    "status": "In progress",
+    "notes": "103 accepted, 5 pending work packages, 5 unresolved, 1 merged, 4 rejected. This run added 15 incidents: 7 Israeli/Israeli-security targets including Route 60/Karmei Tzur/Almog shootings and four road attacks; 8 Palestinian-target settler incidents including Imatin/Azzun, Huwwara/Madama/Yitzhar, Beit Iskariya/Efrat/Ma'on. Almog exact Kan original recovered; stable preview pending. Palestinian/local residual backlog remains."
+  },
+  "candidate_updates": [
+    {
+      "candidate_id": "JAN23-099",
+      "resolution_notes": "Progress: unitized four strongest/displayable road attacks as ILPV-2023-0102..0105 (Yakir bus with children; Aqraba Junction 2 soldiers injured; Migdalim-Aqraba 2 Israelis injured; Einav windshield). Remainder of large Jan24-26 wave still needs reconciliation/decision rather than bulk acceptance.",
+      "media_status": "Exact ITIC image leads for ILPV-2023-0103 and ILPV-2023-0105; stable extraction pending"
+    },
+    {
+      "candidate_id": "JAN23-100",
+      "resolution_notes": "Progress: accepted Huwwara gunfire ILPV-2023-0108, Madama home attack ILPV-2023-0109, and Jan26 Yitzhar-bypass stones ILPV-2023-0110. Residual Jan27-31 Nablus/Qalqiliya/Salfit dated events (Deir Sharaf, Beit Furik, Jit/Yasuf etc.) remain to unitize/dedupe.",
+      "media_status": "Exact media search pending"
+    },
+    {
+      "candidate_id": "JAN23-101",
+      "resolution_notes": "Progress: accepted Beit Iskariya assault ILPV-2023-0111, Efrat pepper spray ILPV-2023-0112, and Ma'on pepper spray ILPV-2023-0113. Kisan and additional Jan27-31 Bethlehem/Hebron road/property/assault events remain.",
+      "media_status": "Exact media search pending"
+    },
+    {
+      "candidate_id": "JAN23-102",
+      "resolution_notes": "Progress: accepted Imatin/Amateen tree attack ILPV-2023-0106 (WAFA/NAD date-count discrepancy preserved) and Azzun trees ILPV-2023-0107. Earlier residual land/road/home events remain to resolve.",
+      "media_status": "WAFA article image lead for Imatin; provenance/exactness check pending"
+    },
+    {
+      "candidate_id": "JAN23-103",
+      "resolution_notes": "Progress: unitized/accepted Route60 bus shooting ILPV-2023-0099, Karmei Tzur shooting ILPV-2023-0100 and Almog restaurant shooting ILPV-2023-0101. OCHA's three additional anonymous stone/Molotov vehicle-damage incidents remain to match safely against detailed road-attack reports.",
+      "media_status": "Almog exact Kan X recovered; stable preview pending; Route60 exact article photo embedded"
+    }
+  ],
+  "candidate_appends": [
+    {
+      "candidate_id": "JAN23-104",
+      "date": "2023-01-15",
+      "location": "Route 60 near Halhul",
+      "target": "Israeli Jewish civilians",
+      "summary": "Palestinian gunmen opened fire at an Israeli bus traveling Kiryat Arba-Jerusalem, damaging the bus; no injuries.",
+      "discovery_sources": "SRC-2023-0169; SRC-2023-0170",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0099",
+      "resolution_notes": "Times of Israel and Jerusalem Post independently corroborate IDF/local reporting; no militant-group affiliation inferred.",
+      "media_status": "Exact article photo embedded; stable direct asset unresolved"
+    },
+    {
+      "candidate_id": "JAN23-105",
+      "date": "2023-01-23",
+      "location": "Karmei Tzur settlement",
+      "target": "Israeli Jewish civilians",
+      "summary": "Three Palestinian gunmen fired toward Karmei Tzur; no injuries were reported.",
+      "discovery_sources": "SRC-2023-0171; SRC-2023-0172",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0100",
+      "resolution_notes": "ToI and Shin Bet establish date, shooting and suspects; no organizational membership inferred.",
+      "media_status": "No exact media yet"
+    },
+    {
+      "candidate_id": "JAN23-106",
+      "date": "2023-01-28",
+      "location": "Almog Junction restaurant",
+      "target": "Israeli Jewish civilians",
+      "summary": "Palestinian gunman fired at a restaurant near Almog Junction; rifle jammed after one shot and no one was injured.",
+      "discovery_sources": "SRC-2023-0173; SRC-2023-0174",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0101",
+      "resolution_notes": "ToI and OCHA corroborate; exact Kan surveillance post recovered; no factional affiliation inferred.",
+      "media_status": "Exact Kan X original recovered; stable preview pending"
+    },
+    {
+      "candidate_id": "JAN23-107",
+      "date": "2023-01-26",
+      "location": "Road between Yakir and Emanuel",
+      "target": "Israeli Jewish civilians",
+      "summary": "Palestinian stone throwers damaged Israeli vehicles including a bus carrying children; no injuries reported.",
+      "discovery_sources": "SRC-2023-0175; SRC-2023-0176",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0102",
+      "resolution_notes": "ITIC and Haredim10 support the event; casualty-free detail lacks police/IDF confirmation in reviewed sources.",
+      "media_status": "No stable preview yet"
+    },
+    {
+      "candidate_id": "JAN23-108",
+      "date": "2023-01-26",
+      "location": "Aqraba Junction between Tapuah and Migdalim",
+      "target": "Israeli security forces",
+      "summary": "Rock attack shattered vehicle glass and wounded two IDF soldiers.",
+      "discovery_sources": "SRC-2023-0177",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0103",
+      "resolution_notes": "Detailed ITIC event record with incident-specific windshield image; independent event-level corroboration still desirable.",
+      "media_status": "Exact ITIC image lead; stable extraction pending"
+    },
+    {
+      "candidate_id": "JAN23-109",
+      "date": "2023-01-28",
+      "location": "Road between Migdalim and Aqraba",
+      "target": "Israeli Jewish civilians",
+      "summary": "Rocks thrown at an Israeli vehicle injured two Israelis.",
+      "discovery_sources": "SRC-2023-0178",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0104",
+      "resolution_notes": "Detailed ITIC event record; exact identities and property damage were not independently established.",
+      "media_status": "No exact media yet"
+    },
+    {
+      "candidate_id": "JAN23-110",
+      "date": "2023-01-26",
+      "location": "Khirbet Samara near Einav",
+      "target": "Israeli Jewish civilians",
+      "summary": "Palestinian stone throwers shattered an Israeli vehicle windshield near Einav; no injuries reported.",
+      "discovery_sources": "SRC-2023-0179; SRC-2023-0180",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0105",
+      "resolution_notes": "ITIC exact image plus Haredim10 named eyewitness; source-chain independence remains uncertain.",
+      "media_status": "Exact ITIC image lead; stable extraction pending"
+    },
+    {
+      "candidate_id": "JAN23-111",
+      "date": "2023-01-07",
+      "location": "South of Imatin (Amateen)",
+      "target": "Palestinians — West Bank",
+      "summary": "Settlers cut roughly 40 olive trees belonging to two Imatin residents; NAD also records a damaged water tank.",
+      "discovery_sources": "SRC-2023-0181; SRC-2023-0182",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0106",
+      "resolution_notes": "WAFA says Jan7/about40 trees; NAD says Jan6/52 trees plus tank. Same owners/location indicate one event; discrepancy preserved.",
+      "media_status": "WAFA article image lead; provenance/exactness check pending"
+    },
+    {
+      "candidate_id": "JAN23-112",
+      "date": "2023-01-07",
+      "location": "Azzun agricultural land",
+      "target": "Palestinians — West Bank",
+      "summary": "Settlers from Ma'ale Shomron cut branches from about 30 olive trees on Radi Muhammad Radwan's land.",
+      "discovery_sources": "SRC-2023-0183",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0107",
+      "resolution_notes": "Detailed dated NAD event; independent incident-level corroboration not recovered.",
+      "media_status": "No exact media yet"
+    },
+    {
+      "candidate_id": "JAN23-113",
+      "date": "2023-01-26",
+      "location": "Huwwara main street",
+      "target": "Palestinians — West Bank",
+      "summary": "Settlers fired randomly toward Palestinian residents on Huwwara's main street; no injuries were specified.",
+      "discovery_sources": "SRC-2023-0184",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0108",
+      "resolution_notes": "NAD explicitly records gunfire; same-day WAFA corroborates settler road violence but not this gunfire component.",
+      "media_status": "No exact media yet"
+    },
+    {
+      "candidate_id": "JAN23-114",
+      "date": "2023-01-26",
+      "location": "Madama village outskirts",
+      "target": "Palestinians — West Bank",
+      "summary": "Settlers entered Madama's outskirts and targeted Palestinian homes; residents repelled the group.",
+      "discovery_sources": "SRC-2023-0185; SRC-2023-0186",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0109",
+      "resolution_notes": "NAD says homes attacked; WAFA describes attempted attack repelled by villagers. No property damage established.",
+      "media_status": "No exact media yet"
+    },
+    {
+      "candidate_id": "JAN23-115",
+      "date": "2023-01-26",
+      "location": "Yitzhar bypass road",
+      "target": "Palestinians — West Bank",
+      "summary": "Settlers threw stones at passing Palestinian vehicles; no injury or damage details were documented.",
+      "discovery_sources": "SRC-2023-0187",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0110",
+      "resolution_notes": "NAD January monthly monitoring records the distinct event.",
+      "media_status": "No exact media yet"
+    },
+    {
+      "candidate_id": "JAN23-116",
+      "date": "2023-01-28",
+      "location": "Khallet al-Balutah, Beit Iskariya",
+      "target": "Palestinians — West Bank",
+      "summary": "Settlers beat residents, bruising Samar Shaheen, and smashed windows in her home.",
+      "discovery_sources": "SRC-2023-0188",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0111",
+      "resolution_notes": "NAD provides named victim, location and property details; independent incident-level corroboration not recovered.",
+      "media_status": "No exact media yet"
+    },
+    {
+      "candidate_id": "JAN23-117",
+      "date": "2023-01-28",
+      "location": "Near Efrat settlement",
+      "target": "Palestinians — West Bank",
+      "summary": "Settlers attacked and pepper-sprayed Rami Muhammad Hamamra of Husan.",
+      "discovery_sources": "SRC-2023-0189",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0112",
+      "resolution_notes": "Named-victim NAD event; independent incident-level corroboration not recovered.",
+      "media_status": "No exact media yet"
+    },
+    {
+      "candidate_id": "JAN23-118",
+      "date": "2023-01-28",
+      "location": "Near Ma'on settlement, east of Yatta",
+      "target": "Palestinians — West Bank",
+      "summary": "Settlers pepper-sprayed Moamen Kaabneh and Musa Kaabneh.",
+      "discovery_sources": "SRC-2023-0190",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0113",
+      "resolution_notes": "NAD provides two named victims; independent incident-level corroboration not recovered.",
+      "media_status": "No exact media yet"
+    }
+  ]
+}
