@@ -22,32 +22,33 @@ jobs:
           checkpoint=$(git diff --name-only HEAD^ HEAD | grep '^political-violence-media/historical-backfill/checkpoints/.*\.json$' | tail -1)
           test -n "$checkpoint"
           python - "$checkpoint" <<'PY'
-          import csv, json, sys
+          import csv, io, json, sys
           from pathlib import Path
 
           cp = json.loads(Path(sys.argv[1]).read_text())
           candidate_path = Path(cp['candidate_path'])
-          with candidate_path.open(newline='', encoding='utf-8') as f:
-              rows = list(csv.DictReader(f))
-              fields = list(rows[0].keys()) if rows else cp['candidate_fields']
-          by_id = {r['candidate_id']: r for r in rows}
-          for patch in cp.get('candidate_updates', []):
-              if patch['candidate_id'] not in by_id:
-                  raise SystemExit(f"Unknown candidate {patch['candidate_id']}")
-              by_id[patch['candidate_id']].update(patch)
-          for row in cp.get('candidate_appends', []):
-              if row['candidate_id'] in by_id:
+          fields = cp['candidate_fields']
+          existing = candidate_path.read_text(encoding='utf-8')
+          existing_ids = {line.split(',', 1)[0] for line in existing.splitlines() if line.startswith('JAN')}
+          appends = cp.get('candidate_appends', [])
+          for row in appends:
+              if row['candidate_id'] in existing_ids:
                   raise SystemExit(f"Duplicate candidate {row['candidate_id']}")
-              normalized = {k: row.get(k, '') for k in fields}
-              rows.append(normalized)
-              by_id[normalized['candidate_id']] = normalized
-          with candidate_path.open('w', newline='', encoding='utf-8') as f:
-              w = csv.DictWriter(f, fieldnames=fields)
-              w.writeheader(); w.writerows(rows)
+          if appends:
+              out = io.StringIO(newline='')
+              w = csv.DictWriter(out, fieldnames=fields, lineterminator='\n')
+              for row in appends:
+                  w.writerow({k: row.get(k, '') for k in fields})
+              with candidate_path.open('a', encoding='utf-8', newline='') as f:
+                  if existing and not existing.endswith('\n'):
+                      f.write('\n')
+                  f.write(out.getvalue())
 
           coverage_path = Path(cp['coverage_path'])
           with coverage_path.open(newline='', encoding='utf-8') as f:
-              cov = list(csv.DictReader(f)); cov_fields = list(cov[0].keys())
+              reader = csv.DictReader(f)
+              cov_fields = reader.fieldnames
+              cov = list(reader)
           found = False
           for row in cov:
               if row['period'] == cp['period']:
