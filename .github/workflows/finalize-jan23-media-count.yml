@@ -1,0 +1,40 @@
+name: Finalize January 2023 media count
+on:
+  push:
+    paths:
+      - '.github/workflows/finalize-jan23-media-count.yml'
+permissions:
+  contents: write
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: bash
+        run: |
+          python - <<'PY'
+          import csv
+          from pathlib import Path
+          cpath=Path('political-violence-media/historical-backfill/candidates/2023-01.csv')
+          with cpath.open(newline='',encoding='utf-8-sig') as f:
+              r=csv.DictReader(f); fields=r.fieldnames; rows=list(r)
+          target=next(x for x in rows if x['candidate_id']=='JAN23-196')
+          target['media_status']='Exact original X post resolved; stable GitHub preview published as MED-2023-0030.jpg and Notion card created.'
+          with cpath.open('w',newline='',encoding='utf-8') as f:
+              w=csv.DictWriter(f,fieldnames=fields,lineterminator='\n'); w.writeheader(); w.writerows(rows)
+
+          p=Path('political-violence-media/historical-backfill/COVERAGE.csv')
+          with p.open(newline='',encoding='utf-8-sig') as f:
+              r=csv.DictReader(f); fields=r.fieldnames; rows=list(r)
+          row=next(x for x in rows if x['period']=='2023-01')
+          row['media_complete_count']='10'
+          row['notes']=row['notes'].replace('exact Havat Sde Ephraim original video remains recovered but without a stable published preview.','exact Havat Sde Ephraim original video now has a stable GitHub preview and Notion card.')
+          with p.open('w',newline='',encoding='utf-8') as f:
+              w=csv.DictWriter(f,fieldnames=fields,lineterminator='\n'); w.writeheader(); w.writerows(rows)
+          PY
+          git config user.name "historical-backfill-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add political-violence-media/historical-backfill/candidates/2023-01.csv political-violence-media/historical-backfill/COVERAGE.csv
+          git rm .github/workflows/finalize-jan23-media-count.yml
+          git commit -m 'Finalize January 2023 media completeness [skip ci]'
+          git push
