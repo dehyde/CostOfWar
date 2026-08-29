@@ -1,0 +1,29 @@
+name: Build Sde Ephraim preview once
+on:
+  push:
+    paths:
+      - '.github/workflows/build-sde-ephraim-preview-once.yml'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg jq
+      - shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p political-violence-media/previews political-violence-media/tmp
+          json=$(curl -fsSL --retry 3 'https://api.fxtwitter.com/yoavzitun/status/1616696986534838275')
+          thumb=$(echo "$json" | jq -r '[.tweet.media.videos[]?.thumbnail_url, .tweet.media.photos[]?.url] | map(select(. != null)) | .[0] // empty')
+          test -n "$thumb"
+          curl -fsSL --retry 3 "$thumb" -o political-violence-media/tmp/MED-2023-0030.img
+          ffmpeg -nostdin -y -loglevel error -i political-violence-media/tmp/MED-2023-0030.img -vf "scale='min(1400,iw)':-2" -q:v 3 political-violence-media/previews/MED-2023-0030.jpg
+          rm -rf political-violence-media/tmp
+          git config user.name "media-preview-bot"
+          git config user.email "media-preview-bot@users.noreply.github.com"
+          git add political-violence-media/previews/MED-2023-0030.jpg
+          git rm .github/workflows/build-sde-ephraim-preview-once.yml
+          git commit -m 'Build Sde Ephraim January 2023 preview [skip ci]'
+          git push
