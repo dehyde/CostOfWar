@@ -1,0 +1,30 @@
+name: Publish January 2023 Sde Ephraim preview
+on:
+  push:
+    paths:
+      - '.github/workflows/publish-jan23-sde-ephraim.yml'
+permissions:
+  contents: write
+jobs:
+  patch-manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p = Path('political-violence-media/manifest.json')
+          data = json.loads(p.read_text(encoding='utf-8'))
+          mid = 'MED-2023-0030'
+          if not any(x.get('media_id') == mid for x in data):
+              data.append({'media_id': mid, 'type': 'x', 'username': 'yoavzitun', 'status_id': '1616696986534838275'})
+          p.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          PY
+          git config user.name "historical-backfill-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add political-violence-media/manifest.json
+          git rm .github/workflows/publish-jan23-sde-ephraim.yml
+          git commit -m "Add Sde Ephraim January 2023 exact media preview"
+          git push
