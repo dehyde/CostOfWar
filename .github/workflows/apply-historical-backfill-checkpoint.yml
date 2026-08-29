@@ -29,6 +29,21 @@ jobs:
           candidate_path = Path(cp['candidate_path'])
           fields = cp['candidate_fields']
           existing = candidate_path.read_text(encoding='utf-8')
+
+          replacements = cp.get('candidate_replacements', [])
+          if replacements:
+              lines = existing.splitlines()
+              index = {line.split(',', 1)[0]: i for i, line in enumerate(lines) if line.startswith('JAN')}
+              for row in replacements:
+                  cid = row['candidate_id']
+                  if cid not in index:
+                      raise SystemExit(f"Unknown candidate {cid}")
+                  out = io.StringIO(newline='')
+                  csv.DictWriter(out, fieldnames=fields, lineterminator='').writerow({k: row.get(k, '') for k in fields})
+                  lines[index[cid]] = out.getvalue()
+              existing = '\n'.join(lines) + ('\n' if existing.endswith('\n') else '')
+              candidate_path.write_text(existing, encoding='utf-8')
+
           existing_ids = {line.split(',', 1)[0] for line in existing.splitlines() if line.startswith('JAN')}
           appends = cp.get('candidate_appends', [])
           for row in appends:
