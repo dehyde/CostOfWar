@@ -5,6 +5,7 @@ on:
     paths:
       - 'political-violence-media/manifest.json'
       - 'political-violence-media/historical-manifest.json'
+      - 'political-violence-media/fresh-manifest.json'
       - '.github/workflows/build-political-violence-previews.yml'
   workflow_dispatch:
 
@@ -77,6 +78,9 @@ jobs:
             jq -c '.[]' political-violence-media/manifest.json
             if [ -f political-violence-media/historical-manifest.json ]; then
               jq -c '.[]' political-violence-media/historical-manifest.json
+            fi
+            if [ -f political-violence-media/fresh-manifest.json ]; then
+              jq -c '.[]' political-violence-media/fresh-manifest.json
             fi
           )
           rm -rf political-violence-media/tmp
