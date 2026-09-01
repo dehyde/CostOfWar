@@ -1,21 +1,24 @@
 {
   "updates": [
     {
-      "path": "channel14-factcheck/backfill/COVERAGE.csv",
+      "path": "leadership-accountability/backfill/COVERAGE.csv",
       "key_column": "period",
-      "key": "2023-06",
+      "key": "2023-02",
       "set": {
-        "Channel14 own archive": "In progress",
-        "Major Israeli media": "Complete",
-        "International reporting": "No results",
-        "Official and legal": "Complete",
-        "Fact-check and research": "Complete",
+        "Netanyahu": "In progress",
+        "Smotrich": "Pending",
+        "Ben-Gvir": "Pending",
+        "Other current right leaders": "In progress",
+        "Official government": "In progress",
+        "Comptroller and inquiries": "Pending",
+        "Court and legal": "In progress",
+        "Knesset": "In progress",
         "Original media recovery": "In progress",
-        "candidate_count": "2",
+        "candidate_count": "1",
         "accepted_count": "1",
-        "media_complete_count": "1",
+        "media_complete_count": "0",
         "status": "In progress",
-        "notes": "June has two claim-level candidates. C14-JUN23-001 is Accepted as C14-2023-0002: guest Rabbi Amnon Yitzhak said Mapai was written on trains taking Jews during the Holocaust. Yad Vashem, quoted by The Seventh Eye, says the Hebrew-writing/extermination-train claim is completely false and identifies the cited Mapai-marked train image as displaced persons in 1947 after the war. The entry is explicitly Guest / interviewee, not Channel 14 editorial speech; Channel 14's disavowal/apology and Yitzhak's later objection to the interpretation are preserved. Exact Channel 14 imagery and a guest-hosted replay were recovered; stable GitHub preview C14MED-2023-0002 was built, the canonical Media row updated, Notion published and post-write verified. C14-JUN23-002 preserves Itamar Fleischman's claim that a reported Jerusalem Day attack on a Palestinian was fake as Pending until the exact Channel 14 date/original segment and exact underlying attack are matched. Own-archive/original-media work therefore remains open and no adverse verdict is forced."
+        "notes": "February opened after January completed with its explicit media gap. LEAD23-02-001 is Accepted as LEAD-2023-0003: on Feb. 2 Attorney General Gali Baharav-Miara formally applied Netanyahu's conflict-of-interest restrictions to the judicial-overhaul initiatives and required him to refrain from direct or indirect involvement because of a reasonable concern tied to his ongoing criminal trial. The record preserves that the specific restriction did not bar Justice Minister Yariv Levin or Constitution Committee chair Simcha Rothman from advancing the overhaul, and preserves Netanyahu/coalition objections. This is recorded as a formal attorney-general conflict-of-interest opinion, not as a criminal finding or proof of personal motive. Canonical Sheet, source corroboration and Notion publication are verified; the direct gov.il letter/exact original media was not recovered and no substitute image was used. Continue Smotrich, Ben-Gvir, other-current-right, Comptroller/inquiry, Knesset/legal and exact-media lanes before February completion."
       }
     }
   ]
