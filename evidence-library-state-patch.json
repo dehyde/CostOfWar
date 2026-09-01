@@ -1,24 +1,42 @@
 {
   "updates": [
     {
-      "path": "leadership-accountability/backfill/COVERAGE.csv",
+      "path": "channel14-factcheck/backfill/COVERAGE.csv",
       "key_column": "period",
-      "key": "2023-02",
+      "key": "2023-07",
       "set": {
-        "Netanyahu": "In progress",
-        "Smotrich": "Pending",
-        "Ben-Gvir": "Pending",
-        "Other current right leaders": "In progress",
-        "Official government": "In progress",
-        "Comptroller and inquiries": "Pending",
-        "Court and legal": "In progress",
-        "Knesset": "In progress",
-        "Original media recovery": "In progress",
+        "Channel14 own archive": "Blocked",
+        "Major Israeli media": "In progress",
+        "International reporting": "Pending",
+        "Official and legal": "Pending",
+        "Fact-check and research": "In progress",
+        "Original media recovery": "Blocked",
         "candidate_count": "1",
         "accepted_count": "1",
         "media_complete_count": "0",
         "status": "In progress",
-        "notes": "February opened after January completed with its explicit media gap. LEAD23-02-001 is Accepted as LEAD-2023-0003: on Feb. 2 Attorney General Gali Baharav-Miara formally applied Netanyahu's conflict-of-interest restrictions to the judicial-overhaul initiatives and required him to refrain from direct or indirect involvement because of a reasonable concern tied to his ongoing criminal trial. The record preserves that the specific restriction did not bar Justice Minister Yariv Levin or Constitution Committee chair Simcha Rothman from advancing the overhaul, and preserves Netanyahu/coalition objections. This is recorded as a formal attorney-general conflict-of-interest opinion, not as a criminal finding or proof of personal motive. Canonical Sheet, source corroboration and Notion publication are verified; the direct gov.il letter/exact original media was not recovered and no substitute image was used. Continue Smotrich, Ben-Gvir, other-current-right, Comptroller/inquiry, Knesset/legal and exact-media lanes before February completion."
+        "notes": "July opened and C14-JUL23-001 is Accepted as C14-2023-0003. Erel Segal's program attributed to Gittam BBDO an intention to recruit the Arab sector to the anti-government protest using a clip that Segal later acknowledged came from a different campaign. The verdict is narrowly False on that attribution and preserves Segal's statement that the error was unintentional and his apology. Canonical Sheet and Notion card are written. Exact original Channel 14 broadcast media could not be recovered through indexed VOD/YouTube/web routes, so original-media recovery and the historical own-archive lane are explicitly Blocked rather than substituted with a generic image. Continue July major-media, international, official/legal and research lanes before completion."
+      }
+    },
+    {
+      "path": "leadership-accountability/backfill/COVERAGE.csv",
+      "key_column": "period",
+      "key": "2023-03",
+      "set": {
+        "Netanyahu": "In progress",
+        "Smotrich": "Pending",
+        "Ben-Gvir": "Pending",
+        "Other current right leaders": "Pending",
+        "Official government": "In progress",
+        "Comptroller and inquiries": "Pending",
+        "Court and legal": "In progress",
+        "Knesset": "Pending",
+        "Original media recovery": "In progress",
+        "candidate_count": "1",
+        "accepted_count": "1",
+        "media_complete_count": "1",
+        "status": "In progress",
+        "notes": "March opened and LEAD23-03-001 is Accepted as LEAD-2023-0004. On Mar. 23 Netanyahu announced direct involvement in the judicial-overhaul process despite the conflict-of-interest restriction; the attorney general informed him the next day that the involvement violated the binding arrangement and was unlawful. The record preserves the limiting outcome: the AG later said contempt sanctions were not warranted, and the High Court rejected the contempt petition on May 1 while emphasizing that AG conflict opinions bind the prime minister unless a court rules otherwise. No motive is inferred and this is not a criminal conviction. Canonical Sheet, exact Kan News video, stable exact-video thumbnail preview and Notion publication are complete. Continue Smotrich, Ben-Gvir, other-current-right, institutional and legal lanes before March completion."
       }
     }
   ]
