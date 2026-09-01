@@ -1,0 +1,47 @@
+{
+  "updates": [
+    {
+      "path": "political-violence-media/historical-backfill/COVERAGE.csv",
+      "key_column": "period",
+      "key": "2023-03",
+      "set": {
+        "AP": "Complete",
+        "candidate_count": "17",
+        "accepted_count": "11",
+        "status": "In progress",
+        "notes": "11 accepted; 0 pending; 5 unresolved; 1 rejected. Israeli/civil-society priority added the Mar. 3 Huwwara solidarity-march dispersal: Israeli security forces shoved activists, repeatedly pushed former Knesset speaker Avraham Burg to the ground, used stun grenades/tear gas and briefly detained participants; the IDF closed-zone/security explanation is preserved and no political affiliation is inferred for soldiers. Exact Israel Frey video was recovered and queued for a stable preview. Palestinian-target work remains at the prior accepted Burin, Mar. 6 Huwwara and Mar. 25 Huwwara cases; unresolved OCHA unitization packages remain unsplit. Targeted recheck found a plausible Mar. 27 Deir Istiya vehicle-stoning injury lead but insufficient mapping to the OCHA two-event aggregate, so it remains unresolved. Continue B'Tselem/Yesh Din, Guardian, +972, Israeli-broadcaster/local and remaining exact-media lanes before month completion."
+      }
+    },
+    {
+      "path": "channel14-factcheck/backfill/COVERAGE.csv",
+      "key_column": "period",
+      "key": "2023-04",
+      "set": {
+        "Channel14 own archive": "Blocked",
+        "Major Israeli media": "Complete",
+        "International reporting": "No results",
+        "Official and legal": "Complete",
+        "Fact-check and research": "Complete",
+        "Original media recovery": "No results",
+        "candidate_count": "0",
+        "accepted_count": "0",
+        "media_complete_count": "0",
+        "status": "Complete with gaps",
+        "notes": "April is fully processed with an explicit archive gap. Repeated Hebrew/English date-targeted searches across indexed Channel 14 material, major Israeli media, official/legal records and independent media-watch/fact-check sources did not surface a defensible checkable factual claim requiring a verdict; results were primarily ratings, ownership/protest and media-industry items rather than claim units. International searching produced no qualifying case. The exact historical Channel 14 broadcast/archive remains incompletely indexable, so that lane is Blocked rather than overstated as complete. No threshold candidate means no exact-media recovery was required."
+      }
+    },
+    {
+      "path": "leadership-accountability/backfill/COVERAGE.csv",
+      "key_column": "period",
+      "key": "2022-12",
+      "set": {
+        "Original media recovery": "Complete",
+        "candidate_count": "2",
+        "accepted_count": "1",
+        "media_complete_count": "1",
+        "status": "In progress",
+        "notes": "December remains in progress after resolving the Ben-Gvir police-powers candidate. LEAD-2022-0004 records the Dec. 28 enacted Police Ordinance Amendment No. 37 and the later Jan. 2025 High Court disposition narrowly: Section 8D on ministerial investigations policy was struck 5-4, while the broader general-policy provisions were unanimously left standing subject to police professional independence. The exact enacted law, Knesset process, Ben-Gvir's defense and later ruling are preserved; exact page-2 media has a stable GitHub preview and verified Notion card. Netanyahu's Dec. 27 rehearing remains merged into LEAD-2022-0001. Remaining leader and institutional lanes still require systematic December completion."
+      }
+    }
+  ]
+}
