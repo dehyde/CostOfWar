@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install tools
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg jq
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg jq poppler-utils
       - name: Build previews
         shell: bash
         run: |
@@ -52,6 +52,18 @@ jobs:
                 source_url=$(echo "$item" | jq -r '.source_url')
                 curl -fsSL --retry 3 "$source_url" -o "${tmp}.img" || continue
                 ffmpeg -nostdin -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out" || rm -f "$out"
+              elif [ "$type" = "pdf" ]; then
+                source_url=$(echo "$item" | jq -r '.source_url')
+                page=$(echo "$item" | jq -r '.page // 1')
+                if ! curl -fsSL --retry 3 "$source_url" -o "${tmp}.pdf"; then
+                  echo "Could not download PDF for $id; skipping" >&2
+                  continue
+                fi
+                if ! pdftoppm -f "$page" -singlefile -jpeg -jpegopt quality=88 -scale-to-x 1400 -scale-to-y -1 "${tmp}.pdf" "${tmp}-page" >/dev/null 2>&1; then
+                  echo "Could not render PDF page for $id; skipping" >&2
+                  continue
+                fi
+                mv "${tmp}-page.jpg" "$out"
               else
                 echo "Unknown media type for $id: $type; skipping" >&2
               fi
