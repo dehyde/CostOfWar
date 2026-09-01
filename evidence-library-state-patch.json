@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "path": "political-violence-media/historical-backfill/COVERAGE.csv",
+      "key_column": "period",
+      "key": "2023-03",
+      "set": {
+        "candidate_count": "27",
+        "accepted_count": "20",
+        "media_complete_count": "3",
+        "status": "In progress",
+        "notes": "20 accepted; 0 pending; 4 unresolved; 2 merged; 1 rejected; 3 media-complete. MAR23-027 is now Accepted as ILPV-2023-0319 after PCHR independently documented the March 15 Qarawat Bani Hassan assault; WAFA corroborates two injured youths/hospital treatment and NAD names Muhammad Ahmad Assi and Ali Mahmoud Assi. OCHA's five-event aggregate is not used to allocate injuries. MAR23-014 is narrowed to remaining Sinjil/Tuba components; MAR23-010, MAR23-015 and MAR23-016 remain unresolved. Continue B'Tselem/Yesh Din, Guardian, +972, Israeli-broadcaster/local and exact-media lanes before month completion. No exact Qarawat incident media was recovered; archival/illustrative imagery was rejected and no substitute preview was used."
+      }
+    },
+    {
       "path": "channel14-factcheck/backfill/COVERAGE.csv",
       "key_column": "period",
       "key": "2023-07",
