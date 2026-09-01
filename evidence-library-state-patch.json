@@ -13,30 +13,9 @@
         "Original media recovery": "In progress",
         "candidate_count": "2",
         "accepted_count": "1",
-        "media_complete_count": "0",
-        "status": "In progress",
-        "notes": "June opened with two claim-level candidates. C14-JUN23-001 is Accepted as C14-2023-0002: guest Rabbi Amnon Yitzhak said Mapai was written on trains taking Jews during the Holocaust. Yad Vashem, quoted by The Seventh Eye, says the Hebrew-writing/extermination-train claim is completely false and identifies the cited Mapai-marked train image as displaced persons in 1947 after the war. The entry is explicitly Guest / interviewee, not Channel 14 editorial speech; Channel 14's disavowal/apology and Yitzhak's later objection to the interpretation are preserved. Exact claim-specific broadcast imagery and a guest-hosted replay were recovered; stable GitHub preview generation and Notion publication are still in progress. C14-JUN23-002 preserves Itamar Fleischman's claim that a reported Jerusalem Day attack on a Palestinian was fake as Pending until the exact Channel 14 date/original segment and exact underlying attack are matched. No adverse verdict is forced."
-      }
-    },
-    {
-      "path": "leadership-accountability/backfill/COVERAGE.csv",
-      "key_column": "period",
-      "key": "2023-01",
-      "set": {
-        "Netanyahu": "Complete",
-        "Smotrich": "Complete",
-        "Ben-Gvir": "Complete",
-        "Other current right leaders": "Complete",
-        "Official government": "Complete",
-        "Comptroller and inquiries": "Complete",
-        "Court and legal": "Complete",
-        "Knesset": "Complete",
-        "Original media recovery": "Blocked",
-        "candidate_count": "2",
-        "accepted_count": "2",
         "media_complete_count": "1",
-        "status": "Complete with gaps",
-        "notes": "January is fully processed with one explicit exact-media gap. Accepted events remain LEAD-2023-0001 (High Court invalidation of Netanyahu's Deri appointment; exact judgment preview and Notion card complete) and LEAD-2023-0002 (Ben-Gvir did not authorize the police commissioner and Border Police commander to attend the Jan. 23 State Control Committee hearing, causing the hearing to close; his scheduling explanation is preserved and no obstructive motive or illegality is inferred). Targeted rechecks of Smotrich and other current-right leaders found policy/jurisdiction disputes and the judicial-overhaul launch but no additional discrete event meeting the library's accountability threshold without forcing interpretation. Exact audiovisual recovery for LEAD-2023-0002 is Blocked: the Jan. 23 committee closure video could not be recovered from available Knesset/archive routes; a Mar. 15 follow-up committee video was explicitly rejected as non-exact and no substitute imagery was used."
+        "status": "In progress",
+        "notes": "June has two claim-level candidates. C14-JUN23-001 is Accepted as C14-2023-0002: guest Rabbi Amnon Yitzhak said Mapai was written on trains taking Jews during the Holocaust. Yad Vashem, quoted by The Seventh Eye, says the Hebrew-writing/extermination-train claim is completely false and identifies the cited Mapai-marked train image as displaced persons in 1947 after the war. The entry is explicitly Guest / interviewee, not Channel 14 editorial speech; Channel 14's disavowal/apology and Yitzhak's later objection to the interpretation are preserved. Exact Channel 14 imagery and a guest-hosted replay were recovered; stable GitHub preview C14MED-2023-0002 was built, the canonical Media row updated, Notion published and post-write verified. C14-JUN23-002 preserves Itamar Fleischman's claim that a reported Jerusalem Day attack on a Palestinian was fake as Pending until the exact Channel 14 date/original segment and exact underlying attack are matched. Own-archive/original-media work therefore remains open and no adverse verdict is forced."
       }
     }
   ]
