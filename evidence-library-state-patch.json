@@ -8,26 +8,27 @@
         "AP": "Complete",
         "candidate_count": "17",
         "accepted_count": "11",
+        "media_complete_count": "3",
         "status": "In progress",
-        "notes": "11 accepted; 0 pending; 5 unresolved; 1 rejected. Israeli/civil-society priority added the Mar. 3 Huwwara solidarity-march dispersal: Israeli security forces shoved activists, repeatedly pushed former Knesset speaker Avraham Burg to the ground, used stun grenades/tear gas and briefly detained participants; the IDF closed-zone/security explanation is preserved and no political affiliation is inferred for soldiers. Exact Israel Frey video was recovered and queued for a stable preview. Palestinian-target work remains at the prior accepted Burin, Mar. 6 Huwwara and Mar. 25 Huwwara cases; unresolved OCHA unitization packages remain unsplit. Targeted recheck found a plausible Mar. 27 Deir Istiya vehicle-stoning injury lead but insufficient mapping to the OCHA two-event aggregate, so it remains unresolved. Continue B'Tselem/Yesh Din, Guardian, +972, Israeli-broadcaster/local and remaining exact-media lanes before month completion."
+        "notes": "11 accepted; 0 pending; 5 unresolved; 1 rejected; 3 media-complete. Israeli/civil-society priority added the Mar. 3 Huwwara solidarity-march dispersal: Israeli security forces shoved activists, repeatedly pushed former Knesset speaker Avraham Burg to the ground, used stun grenades/tear gas and briefly detained participants; the IDF closed-zone/security explanation is preserved and no political affiliation is inferred for soldiers. Exact Israel Frey video now has a stable GitHub preview and verified Notion card. Burin exact Yesh Din media is likewise published and verified. Mar. 6 Huwwara exact Reuters video is retained but stable public preview is blocked by Reuters licensed/time-limited delivery; no substitute imagery used. Five OCHA/event-granularity packages remain unresolved rather than artificially split. Continue B'Tselem/Yesh Din, Guardian, +972, Israeli-broadcaster/local and remaining exact-media lanes before month completion."
       }
     },
     {
       "path": "channel14-factcheck/backfill/COVERAGE.csv",
       "key_column": "period",
-      "key": "2023-04",
+      "key": "2023-05",
       "set": {
-        "Channel14 own archive": "Blocked",
-        "Major Israeli media": "Complete",
+        "Channel14 own archive": "In progress",
+        "Major Israeli media": "In progress",
         "International reporting": "No results",
-        "Official and legal": "Complete",
-        "Fact-check and research": "Complete",
-        "Original media recovery": "No results",
+        "Official and legal": "In progress",
+        "Fact-check and research": "In progress",
+        "Original media recovery": "Pending",
         "candidate_count": "0",
         "accepted_count": "0",
         "media_complete_count": "0",
-        "status": "Complete with gaps",
-        "notes": "April is fully processed with an explicit archive gap. Repeated Hebrew/English date-targeted searches across indexed Channel 14 material, major Israeli media, official/legal records and independent media-watch/fact-check sources did not surface a defensible checkable factual claim requiring a verdict; results were primarily ratings, ownership/protest and media-industry items rather than claim units. International searching produced no qualifying case. The exact historical Channel 14 broadcast/archive remains incompletely indexable, so that lane is Blocked rather than overstated as complete. No threshold candidate means no exact-media recovery was required."
+        "status": "In progress",
+        "notes": "May opened after April completion. Initial Hebrew/English searches across indexed Channel 14 material, major Israeli media and independent media-watch sources found mostly ratings/media-industry items and no in-window factual claim yet meeting the candidate threshold. A May 10 report on Yinon Magal's mediated mutual-apology settlement was reviewed but concerns older personal social posts and is not treated as a May Channel 14 claim or adverse finding. Continue the own-archive/YouTube/social, official/legal and research lanes before resolution."
       }
     },
     {
@@ -35,12 +36,41 @@
       "key_column": "period",
       "key": "2022-12",
       "set": {
+        "Netanyahu": "Complete",
+        "Smotrich": "Complete",
+        "Ben-Gvir": "Complete",
+        "Other current right leaders": "Complete",
+        "Official government": "Complete",
+        "Comptroller and inquiries": "No results",
+        "Court and legal": "Complete",
+        "Knesset": "Complete",
         "Original media recovery": "Complete",
         "candidate_count": "2",
         "accepted_count": "1",
         "media_complete_count": "1",
+        "status": "Complete",
+        "notes": "December is fully processed. LEAD-2022-0004 records Ben-Gvir's Dec. 28 Police Ordinance Amendment No. 37 and the later Jan. 2025 High Court disposition narrowly: Section 8D on ministerial investigations policy was struck 5-4, while the broader general-policy provisions remained standing subject to police professional independence. Exact enacted law, Knesset process, Ben-Gvir's defense and later ruling are preserved; exact page-2 media has a stable GitHub preview and verified Notion card. Netanyahu's Dec. 27 rehearing remains merged into LEAD-2022-0001. Additional December searches across Netanyahu, Smotrich, Ben-Gvir, other current-right leaders, Knesset, court/legal, official/government and Comptroller/inquiry lanes found no second discrete threshold event; coalition legislation/policy proposals were not forced into individualized accountability findings without a direct adverse finding or responsibility link."
+      }
+    },
+    {
+      "path": "leadership-accountability/backfill/COVERAGE.csv",
+      "key_column": "period",
+      "key": "2023-01",
+      "set": {
+        "Netanyahu": "In progress",
+        "Smotrich": "Pending",
+        "Ben-Gvir": "In progress",
+        "Other current right leaders": "Pending",
+        "Official government": "In progress",
+        "Comptroller and inquiries": "Pending",
+        "Court and legal": "In progress",
+        "Knesset": "In progress",
+        "Original media recovery": "In progress",
+        "candidate_count": "1",
+        "accepted_count": "1",
+        "media_complete_count": "0",
         "status": "In progress",
-        "notes": "December remains in progress after resolving the Ben-Gvir police-powers candidate. LEAD-2022-0004 records the Dec. 28 enacted Police Ordinance Amendment No. 37 and the later Jan. 2025 High Court disposition narrowly: Section 8D on ministerial investigations policy was struck 5-4, while the broader general-policy provisions were unanimously left standing subject to police professional independence. The exact enacted law, Knesset process, Ben-Gvir's defense and later ruling are preserved; exact page-2 media has a stable GitHub preview and verified Notion card. Netanyahu's Dec. 27 rehearing remains merged into LEAD-2022-0001. Remaining leader and institutional lanes still require systematic December completion."
+        "notes": "January opened after December completion. LEAD23-01-001 is Accepted as LEAD-2023-0001: the Jan. 18 High Court judgment directly reviewed Netanyahu's appointment of Aryeh Deri and required Deri's removal; majority reasoning included extreme unreasonableness while several justices also relied on judicial estoppel, and Justice Elron dissented from immediate invalidation. Netanyahu's defenses and his Jan. 22 compliance are preserved. Exact judgment recovered; stable final-disposition preview and Notion publication are in progress. Initial searches also rechecked Ben-Gvir appointment litigation and coalition legal/governance developments; continue all remaining leader and institutional lanes before month completion."
       }
     }
   ]
