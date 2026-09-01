@@ -93,7 +93,6 @@ jobs:
             echo "No preview changes"
           else
             git commit -m "Build political violence previews"
+            git pull --rebase origin main
             git push
           fi
-
-# Manual trigger touch: 2026-09-01 historical backfill media batch
