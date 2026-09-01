@@ -1,55 +1,21 @@
 {
   "updates": [
     {
-      "path": "political-violence-media/historical-backfill/COVERAGE.csv",
-      "key_column": "period",
-      "key": "2023-03",
-      "set": {
-        "AP": "Complete",
-        "candidate_count": "17",
-        "accepted_count": "11",
-        "media_complete_count": "3",
-        "status": "In progress",
-        "notes": "11 accepted; 0 pending; 5 unresolved; 1 rejected; 3 media-complete. Israeli/civil-society priority added the Mar. 3 Huwwara solidarity-march dispersal: Israeli security forces shoved activists, repeatedly pushed former Knesset speaker Avraham Burg to the ground, used stun grenades/tear gas and briefly detained participants; the IDF closed-zone/security explanation is preserved and no political affiliation is inferred for soldiers. Exact Israel Frey video now has a stable GitHub preview and verified Notion card. Burin exact Yesh Din media is likewise published and verified. Mar. 6 Huwwara exact Reuters video is retained but stable public preview is blocked by Reuters licensed/time-limited delivery; no substitute imagery used. Five OCHA/event-granularity packages remain unresolved rather than artificially split. Continue B'Tselem/Yesh Din, Guardian, +972, Israeli-broadcaster/local and remaining exact-media lanes before month completion."
-      }
-    },
-    {
       "path": "channel14-factcheck/backfill/COVERAGE.csv",
       "key_column": "period",
-      "key": "2023-05",
+      "key": "2023-06",
       "set": {
         "Channel14 own archive": "In progress",
-        "Major Israeli media": "In progress",
+        "Major Israeli media": "Complete",
         "International reporting": "No results",
-        "Official and legal": "In progress",
-        "Fact-check and research": "In progress",
-        "Original media recovery": "Pending",
-        "candidate_count": "0",
-        "accepted_count": "0",
-        "media_complete_count": "0",
-        "status": "In progress",
-        "notes": "May opened after April completion. Initial Hebrew/English searches across indexed Channel 14 material, major Israeli media and independent media-watch sources found mostly ratings/media-industry items and no in-window factual claim yet meeting the candidate threshold. A May 10 report on Yinon Magal's mediated mutual-apology settlement was reviewed but concerns older personal social posts and is not treated as a May Channel 14 claim or adverse finding. Continue the own-archive/YouTube/social, official/legal and research lanes before resolution."
-      }
-    },
-    {
-      "path": "leadership-accountability/backfill/COVERAGE.csv",
-      "key_column": "period",
-      "key": "2022-12",
-      "set": {
-        "Netanyahu": "Complete",
-        "Smotrich": "Complete",
-        "Ben-Gvir": "Complete",
-        "Other current right leaders": "Complete",
-        "Official government": "Complete",
-        "Comptroller and inquiries": "No results",
-        "Court and legal": "Complete",
-        "Knesset": "Complete",
-        "Original media recovery": "Complete",
+        "Official and legal": "Complete",
+        "Fact-check and research": "Complete",
+        "Original media recovery": "In progress",
         "candidate_count": "2",
         "accepted_count": "1",
-        "media_complete_count": "1",
-        "status": "Complete",
-        "notes": "December is fully processed. LEAD-2022-0004 records Ben-Gvir's Dec. 28 Police Ordinance Amendment No. 37 and the later Jan. 2025 High Court disposition narrowly: Section 8D on ministerial investigations policy was struck 5-4, while the broader general-policy provisions remained standing subject to police professional independence. Exact enacted law, Knesset process, Ben-Gvir's defense and later ruling are preserved; exact page-2 media has a stable GitHub preview and verified Notion card. Netanyahu's Dec. 27 rehearing remains merged into LEAD-2022-0001. Additional December searches across Netanyahu, Smotrich, Ben-Gvir, other current-right leaders, Knesset, court/legal, official/government and Comptroller/inquiry lanes found no second discrete threshold event; coalition legislation/policy proposals were not forced into individualized accountability findings without a direct adverse finding or responsibility link."
+        "media_complete_count": "0",
+        "status": "In progress",
+        "notes": "June opened with two claim-level candidates. C14-JUN23-001 is Accepted as C14-2023-0002: guest Rabbi Amnon Yitzhak said Mapai was written on trains taking Jews during the Holocaust. Yad Vashem, quoted by The Seventh Eye, says the Hebrew-writing/extermination-train claim is completely false and identifies the cited Mapai-marked train image as displaced persons in 1947 after the war. The entry is explicitly Guest / interviewee, not Channel 14 editorial speech; Channel 14's disavowal/apology and Yitzhak's later objection to the interpretation are preserved. Exact claim-specific broadcast imagery and a guest-hosted replay were recovered; stable GitHub preview generation and Notion publication are still in progress. C14-JUN23-002 preserves Itamar Fleischman's claim that a reported Jerusalem Day attack on a Palestinian was fake as Pending until the exact Channel 14 date/original segment and exact underlying attack are matched. No adverse verdict is forced."
       }
     },
     {
@@ -57,20 +23,20 @@
       "key_column": "period",
       "key": "2023-01",
       "set": {
-        "Netanyahu": "In progress",
-        "Smotrich": "Pending",
-        "Ben-Gvir": "In progress",
-        "Other current right leaders": "Pending",
-        "Official government": "In progress",
-        "Comptroller and inquiries": "Pending",
-        "Court and legal": "In progress",
-        "Knesset": "In progress",
-        "Original media recovery": "In progress",
-        "candidate_count": "1",
-        "accepted_count": "1",
-        "media_complete_count": "0",
-        "status": "In progress",
-        "notes": "January opened after December completion. LEAD23-01-001 is Accepted as LEAD-2023-0001: the Jan. 18 High Court judgment directly reviewed Netanyahu's appointment of Aryeh Deri and required Deri's removal; majority reasoning included extreme unreasonableness while several justices also relied on judicial estoppel, and Justice Elron dissented from immediate invalidation. Netanyahu's defenses and his Jan. 22 compliance are preserved. Exact judgment recovered; stable final-disposition preview and Notion publication are in progress. Initial searches also rechecked Ben-Gvir appointment litigation and coalition legal/governance developments; continue all remaining leader and institutional lanes before month completion."
+        "Netanyahu": "Complete",
+        "Smotrich": "Complete",
+        "Ben-Gvir": "Complete",
+        "Other current right leaders": "Complete",
+        "Official government": "Complete",
+        "Comptroller and inquiries": "Complete",
+        "Court and legal": "Complete",
+        "Knesset": "Complete",
+        "Original media recovery": "Blocked",
+        "candidate_count": "2",
+        "accepted_count": "2",
+        "media_complete_count": "1",
+        "status": "Complete with gaps",
+        "notes": "January is fully processed with one explicit exact-media gap. Accepted events remain LEAD-2023-0001 (High Court invalidation of Netanyahu's Deri appointment; exact judgment preview and Notion card complete) and LEAD-2023-0002 (Ben-Gvir did not authorize the police commissioner and Border Police commander to attend the Jan. 23 State Control Committee hearing, causing the hearing to close; his scheduling explanation is preserved and no obstructive motive or illegality is inferred). Targeted rechecks of Smotrich and other current-right leaders found policy/jurisdiction disputes and the judicial-overhaul launch but no additional discrete event meeting the library's accountability threshold without forcing interpretation. Exact audiovisual recovery for LEAD-2023-0002 is Blocked: the Jan. 23 committee closure video could not be recovered from available Knesset/archive routes; a Mar. 15 follow-up committee video was explicitly rejected as non-exact and no substitute imagery was used."
       }
     }
   ]
