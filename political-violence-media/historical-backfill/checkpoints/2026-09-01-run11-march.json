@@ -1,0 +1,27 @@
+{
+  "candidate_path": "political-violence-media/historical-backfill/candidates/2023-03.csv",
+  "candidate_fields": ["candidate_id", "date", "location", "target", "summary", "discovery_sources", "status", "incident_id", "resolution_notes", "media_status"],
+  "candidate_appends": [
+    {
+      "candidate_id": "MAR23-024",
+      "date": "2023-03-15",
+      "location": "Deir Jarir",
+      "target": "Palestinians — West Bank",
+      "summary": "Six settlers attacked Sadek Farakhneh and family members at their tent/livestock pen, beat family members and stole about 30 sheep and a donkey.",
+      "discovery_sources": "WAFA 2023-03-15; PLO Negotiations Affairs Department Daily Situation Report 2023-03-16",
+      "status": "Accepted",
+      "incident_id": "ILPV-2023-0316",
+      "resolution_notes": "Event-level decomposition from MAR23-014. WAFA provides named same-day victim testimony and NAD independently logs the same dated incident with matching location, assault and livestock theft, although the routes may ultimately derive from the same victim account. Canonical verification therefore remains Partially verified / Medium. No stronger ideological label than Settler movement is inferred; a separately alleged security-force assault in the WAFA account is not merged into this settler incident.",
+      "media_status": "No exact incident media recovered; an archive/illustrative WAFA image was rejected and no substitute imagery was used."
+    }
+  ],
+  "coverage_path": "political-violence-media/historical-backfill/COVERAGE.csv",
+  "period": "2023-03",
+  "coverage_update": {
+    "candidate_count": "24",
+    "accepted_count": "17",
+    "media_complete_count": "3",
+    "status": "In progress",
+    "notes": "17 accepted; 0 pending; 4 unresolved; 2 merged; 1 rejected; 3 media-complete. MAR23-024 decomposes the Mar. 15 Deir Jarir component of the unresolved OCHA package: six settlers beat Sadek Farakhneh and family members and stole about 30 sheep and a donkey. WAFA plus the NAD daily report support the event, but likely source dependence keeps it Partially verified / Medium; no political label stronger than Settler movement is inferred. No exact incident media was recovered and an illustrative/archive image was rejected. MAR23-014 remains unresolved for its remaining Sinjil/Tuba/Humsa al-Bqai'a/Qarawat Bani Hassan components; MAR23-010, MAR23-015 and MAR23-016 also remain unresolved. Continue B'Tselem/Yesh Din, Guardian, +972, Israeli-broadcaster/local and exact-media lanes before month completion."
+  }
+}
