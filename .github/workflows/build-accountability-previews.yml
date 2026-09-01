@@ -79,5 +79,6 @@ jobs:
             echo "No preview changes"
           else
             git commit -m "Build accountability library previews"
+            git pull --rebase origin main
             git push
           fi
