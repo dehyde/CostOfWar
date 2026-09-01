@@ -73,10 +73,11 @@ jobs:
         run: |
           git config user.name "political-violence-backfill"
           git config user.email "actions@users.noreply.github.com"
-          git add political-violence-media/historical-backfill/candidates/2023-01.csv political-violence-media/historical-backfill/COVERAGE.csv
+          git add political-violence-media/historical-backfill/candidates political-violence-media/historical-backfill/COVERAGE.csv
           if git diff --cached --quiet; then
             echo "No state changes"
           else
-            git commit -m "Checkpoint January 2023 backfill state"
+            git commit -m "Checkpoint political violence backfill state"
+            git pull --rebase origin main
             git push
           fi
