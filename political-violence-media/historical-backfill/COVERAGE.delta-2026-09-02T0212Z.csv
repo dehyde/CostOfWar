@@ -1,0 +1,2 @@
+period,candidate_count,accepted_count,unresolved_count,media_complete_count,status,notes
+2023-03,30,23,4,3,In progress,"MAR23-030 accepted as ILPV-2023-0322, resolving one event-level component of MAR23-016. Remaining unresolved work includes MAR23-014, MAR23-015, MAR23-016 aggregate remainder and MAR23-028. No exact media for ILPV-2023-0322; no substitute imagery used. This delta supersedes the counts in the base COVERAGE.csv for this run and should be merged into the base ledger on the next safe full-file rewrite."
