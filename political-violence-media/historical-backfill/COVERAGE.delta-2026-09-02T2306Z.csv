@@ -1,0 +1,2 @@
+period,candidate_count,accepted_count,unresolved_count,media_complete_count,status,notes
+2023-03,35,27,4,3,In progress,"Unresolved work remains MAR23-014, MAR23-016, MAR23-028 and MAR23-035. This run resolved MAR23-035's date ambiguity to Mar. 26 using NAD's explicit 08:00 Mar. 26–08:00 Mar. 27 reporting window and 13:50 event time, but independent event-level corroboration is still insufficient, so the candidate remains Unresolved. Freshness findings were deduplicated to existing canonical incidents. No period marked Complete."
