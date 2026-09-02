@@ -29,7 +29,16 @@ jobs:
           with candidate_path.open(newline='', encoding='utf-8') as f:
               reader = csv.DictReader(f)
               fieldnames = reader.fieldnames
-              rows = list(reader)
+              rows = []
+              for r in reader:
+                  # Older hand-authored rows may contain an unquoted comma in the final
+                  # free-text column. DictReader stores overflow cells under key None.
+                  # Preserve them by folding the overflow back into the final field.
+                  extras = r.pop(None, []) or []
+                  if extras:
+                      tail = r.get(fieldnames[-1], '') or ''
+                      r[fieldnames[-1]] = ','.join([tail, *extras]) if tail else ','.join(extras)
+                  rows.append(r)
 
           by_id = {r['candidate_id']: r for r in rows}
           for patch in payload.get('candidate_updates', []):
