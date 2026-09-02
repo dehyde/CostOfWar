@@ -1,25 +1,21 @@
 {
   "period": "2023-03",
-  "run_marker": "2026-09-02T00:10+03:00",
+  "run_marker": "2026-09-02T04:10+03:00",
   "coverage_update": {
-    "candidate_count": "27",
-    "accepted_count": "20",
+    "candidate_count": "29",
+    "accepted_count": "22",
     "media_complete_count": "3",
     "status": "In progress",
-    "notes": "20 accepted, 4 unresolved, 2 merged, 1 rejected. This run resolved MAR23-027 as ILPV-2023-0319 after targeted recheck found independent event-level PCHR documentation of the March 15 Qarawat Bani Hassan assault; WAFA corroborates two youths injured/hospitalized and NAD names Muhammad Ahmad Assi and Ali Mahmoud Assi. OCHA's five-event aggregate is not used to allocate injuries. MAR23-014 is narrowed to the remaining Sinjil/Tuba aggregate components; MAR23-010, MAR23-015 and MAR23-016 remain unresolved. Exact Qarawat incident media was not recovered; archival/illustrative imagery was rejected and no substitute preview was used."
+    "notes": "22 accepted; 0 pending; 4 unresolved; 2 merged; 1 rejected; 3 media-complete. This run prioritized unresolved candidates. MAR23-015 was narrowed materially: NAD identifies Munir Ahmed Abdullah Mur as injured by settler stone-throwing on Al-Maarajat Road on Mar. 19, while PCHR records a similar Al-Maarajat vehicle-stoning injury on Mar. 20; NAD also names Muhammad Sami Muhammad Abu Rabi' as injured near Deir Istiya in its Mar. 27 daily report, while its monthly report dates that incident Mar. 26. Those one-day/date and OCHA location-label mismatches prevent a safe split or merge into OCHA's Mar. 19/27 Nablus/Ramallah-road aggregate, so it remains Unresolved. MAR23-028 also remains Unresolved after a second Arabic/English named-victim recheck found no independent source corroborating B'Tselem's specific Ibrahim Nofal gunpoint-threat/donkey-theft account; same-day Deir Sharaf reporting describes different incidents and was not misused as corroboration. MAR23-014 and MAR23-016 remain aggregate unitization work. No generic or merely related imagery was used."
   },
   "candidate_updates": [
     {
-      "candidate_id": "MAR23-014",
-      "resolution_notes": "Do not artificially split counts/dates across locations from the aggregate summary. Deir Jarir, Humsa and Qarawat Bani Hassan now have separately resolved event-level candidates. Remaining Sinjil/Tuba components still require event-level decomposition without allocating OCHA's aggregate injury count by guesswork."
+      "candidate_id": "MAR23-015",
+      "resolution_notes": "OCHA does not identify the exact roads or victims for its two Mar. 19/27 vehicle-stoning injuries. Targeted recheck now found two plausible event-level routes but they do not map cleanly enough to split: NAD names Munir Ahmed Abdullah Mur as injured on the evening of Mar. 19 when settlers stoned vehicles on Al-Maarajat Road, which connects Jericho and Ramallah; PCHR independently records a similar Al-Maarajat injury on Mar. 20, creating a one-day date discrepancy. NAD's Mar. 27 daily report names Muhammad Sami Muhammad Abu Rabi' as injured in a settler vehicle-stoning incident near Deir Istiya, while NAD's monthly report dates that same incident Mar. 26. OCHA describes Mar. 19 and 27 incidents on roads near Nablus and Ramallah. Preserve Unresolved rather than guess which source/date/location corresponds to each OCHA component or create duplicate incidents."
     },
     {
-      "candidate_id": "MAR23-027",
-      "status": "Accepted",
-      "incident_id": "ILPV-2023-0319",
-      "discovery_sources": "PCHR weekly update 09-15 Mar 2023; WAFA 2023-03-15; PLO NAD Monthly Report March 2023; OCHA aggregate 14-27 Mar 2023",
-      "resolution_notes": "Resolved after targeted recheck found independent event-level PCHR monitoring: on March 15 evening PCHR records two Palestinians sustaining wounds and bruises after settlers assaulted them while they worked agricultural land in Qarawat Bani Hassan. WAFA separately reports two youths injured and taken to hospital; NAD names Muhammad Ahmad Assi and Ali Mahmoud Assi. This supports one event without allocating OCHA's aggregate 14-injury package. Canonical verification remains Partially verified / Medium because Palestinian reporting routes may share local witnesses.",
-      "media_status": "No exact incident media recovered after English/Hebrew/Arabic and named-victim searches; archival/illustrative imagery explicitly rejected; no substitute preview used."
+      "candidate_id": "MAR23-028",
+      "resolution_notes": "B'Tselem provides the detailed specific account: about five armed settlers allegedly threatened 70-year-old Ibrahim Nofal and his two teenage grandsons at gunpoint at his Deir Sharaf farm on Mar. 26 and stole a donkey. A second targeted English/Arabic named-victim and same-day search still found no independent report of this exact event. WAFA and Al-Araby do report other Deir Sharaf settler incidents around Mar. 25-26, including vehicle stoning and an attack on a restaurant, but those are distinct events and are not treated as corroboration. Preserve as Unresolved on one specific testimony route."
     }
   ],
   "candidate_appends": []
