@@ -1,0 +1,2 @@
+period,candidate_count,accepted_count,unresolved_count,media_complete_count,status,notes
+2023-03,35,27,4,3,In progress,"Freshness pass found no new non-duplicate qualifying incident; recent Jalud, Beita, Qusra and al-Mughayyir findings mapped to existing canonical records. Unresolved-first backfill rechecked MAR23-028 and MAR23-035 without obtaining sufficiently independent event-level corroboration; MAR23-014 and MAR23-016 also remain unresolved aggregate/decomposition lanes. No period marked Complete."
