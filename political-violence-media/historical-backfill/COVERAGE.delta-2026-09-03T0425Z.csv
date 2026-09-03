@@ -1,0 +1,2 @@
+period,candidate_count,accepted_count,unresolved_count,media_complete_count,status,notes
+2023-03,35,27,4,3,In progress,"Unresolved-first pass revisited MAR23-035; exact-event corroboration still insufficient. MAR23-014, MAR23-016 and MAR23-028 remain unresolved. Freshness scan covered at least Aug 20-Sep 3 and surfaced no safely new non-duplicate acceptance; known recent incidents/corrections were rechecked without lowering attribution standards."
