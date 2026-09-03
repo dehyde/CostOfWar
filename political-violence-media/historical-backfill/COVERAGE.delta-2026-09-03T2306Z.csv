@@ -1,0 +1,3 @@
+period,status,candidate_count,accepted_count,media_complete_count,remaining_gaps,last_run_notes
+2023-06,In progress,4,4,2,"Broader required lanes remain open.","Urif and Huwara candidates resolved as accepted ILPV-2023-0336 and ILPV-2023-0337. Exact event media was linked. Stable GitHub previews for the two new media rows remain Blocked because exact still extraction was unavailable; no substitute imagery used."
+2026-08,In progress,,,,"Freshness lane remains open; Khillet al-Farra Aug 20 cause and actor attribution are unresolved.","Freshness candidate logged Pending. Exact fire footage documents the event but does not resolve cause or actor."
