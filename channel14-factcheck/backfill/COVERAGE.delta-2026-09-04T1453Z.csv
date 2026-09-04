@@ -1,0 +1,5 @@
+period,status,candidate_count,accepted_count,media_complete_count,remaining_gaps,last_run_notes
+2023-10,In progress,2,2,0,"Broader required output/source lanes remain open; stable exact-image preview remains Blocked.","No threshold/status change this run."
+2023-11,In progress,2,2,1,"Broader required output/source lanes remain open; one accepted claim still lacks media-complete packaging.","Historical source/output lanes remain open; no additional claim met the origin plus counter-evidence threshold this run."
+2026-08,In progress,18,9,2,"Unresolved origin/context and technical-composition candidates remain; broader source lanes remain open.","Rechecked C14-AUG26-015 and C14-AUG26-018 first. Both remain Pending after targeted original-context searches; guest attribution preserved and no adverse verdict forced."
+2026-09,In progress,0,0,0,"Continue rolling freshness, correction, official-record and exact-media pass.","14-day freshness pass found no September-dated claim meeting the full origin/evidence threshold; no forced finding."
