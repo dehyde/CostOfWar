@@ -1,0 +1,6 @@
+period,status,candidate_count,accepted_count,media_complete_count,remaining_gaps,last_run_notes
+2023-10,In progress,2,2,0,"Broader required output/source lanes remain open; stable exact-image preview remains Blocked.","No status change this run."
+2023-11,In progress,2,2,1,"Broader required output/source lanes remain open; one accepted claim still lacks media-complete packaging.","No status change; origin roles remain separated."
+2026-06,In progress,1,0,0,"Multi-part counterfactual remains unsuitable as one checkable fact-check unit without narrower recoverable claims.","No finding forced."
+2026-08,In progress,17,9,2,"Five origin/context candidates remain unresolved; one technical-composition claim remains unresolved despite exact interview; broader source lanes remain open.","Unresolved origin/context candidates rechecked; no verdict forced without the required source/origin evidence."
+2026-09,In progress,0,0,0,"Continue rolling freshness, correction, official-record and exact-media pass.","14-day freshness recheck found no new uncanonical claim meeting origin plus credible counter-evidence thresholds; existing recent claims remain deduped."
