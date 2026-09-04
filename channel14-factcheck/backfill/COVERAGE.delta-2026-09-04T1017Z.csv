@@ -1,0 +1,5 @@
+period,status,candidate_count,accepted_count,media_complete_count,remaining_gaps,last_run_notes
+2023-10,In progress,2,2,0,"Broader required output/source lanes remain open; stable exact-image preview remains Blocked.","No threshold/status change this run."
+2023-11,In progress,2,2,1,"Broader required output/source lanes remain open; one accepted claim still lacks media-complete packaging.","No threshold/status change this run."
+2026-08,In progress,17,9,2,"Five origin/context candidates remain unresolved; one technical-composition claim remains unresolved despite exact wording/capture; broader source lanes remain open.","Prioritized C14-AUG26-015 again. Official IDF counter-evidence remains strong, but the original Channel 14 segment/full interview context was not recovered; guest attribution is preserved and no adverse verdict is forced."
+2026-09,In progress,0,0,0,"Continue rolling freshness, correction, official-record and exact-media pass.","14-day freshness pass completed; no new uncanonical claim met origin plus evidence thresholds and no correction required a canonical change this run."
