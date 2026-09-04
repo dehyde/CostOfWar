@@ -1,0 +1,4 @@
+period,status,candidate_count,accepted_count,media_complete_count,remaining_gaps,last_run_notes
+2023-03,In progress,29,22,3,"MAR23-014/015/016/028 and broader required lanes remain unresolved; do not mark complete until each is resolved or explicitly blocked.","Rechecked unresolved March mappings; date/source conflicts remain and no forced merge or duplicate was created."
+2026-08,In progress,3,2,0,"Khillet al-Farra fire attribution remains disputed; rolling exact-media/correction checks remain open.","Accepted AUG26-003 as ILPV-2026-0081 Arraba near Mevo Dotan, Partially verified / Medium. Exact-event media not recovered; generic/other-incident imagery rejected."
+2026-09,In progress,1,1,0,"Continue rolling 14-day incident/correction/police-court/exact-media pass; deduplicate before acceptance.","Canonical sheet now includes ILPV-2026-0080 Halhul vineyard from Sept. 4; no additional distinct September incident was forced in this pass."
