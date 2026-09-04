@@ -1,0 +1,9 @@
+period,status,candidate_count,accepted_count,media_complete_count,remaining_gaps,last_run_notes
+2023-04,In progress,3,0,0,"Core-leader and government/legal lanes remain open.","No status inflation this run."
+2023-05,In progress,1,0,0,"Core-leader and government/legal lanes remain open.","No status inflation this run."
+2023-06,In progress,1,0,0,"Broader Netanyahu/Smotrich/Ben-Gvir, Knesset, government, inquiry and legal lanes remain open.","Existing June order-nisi candidate remains Merged into LEAD-2022-0004; procedural stage did not establish personal misconduct."
+2023-07,In progress,1,0,0,"Continue core-leader, government, Knesset, legal/inquiry and exact-media lanes.","Added LEAD23-07-001, Amichai Eshed's July 5 resignation/follow-up, and Merged it into LEAD-2023-0007 rather than duplicating the March transfer event. Eshed's motive allegation is preserved as allegation, not independently proven fact."
+2026-02,In progress,1,1,0,"Exact stable visual for accepted Rinat Saban court-order event remains unresolved.","No status change."
+2026-07,In progress,1,1,0,"Broader required lanes remain open.","No status change."
+2026-08,In progress,1,0,0,"Smotrich Aug. 20 CEC matter remains interim-only; final merits ruling not recovered.","Freshness recheck found no final merits disposition; no adverse finding forced."
+2026-09,In progress,5,1,0,"Pending Ben-Gvir/Smotrich legal and appointment matters still lack final qualifying findings; rolling freshness remains open.","Freshness pass found no new final court/official finding warranting a new individual accountability event. AG positions were preserved as legal positions rather than converted into court findings."
