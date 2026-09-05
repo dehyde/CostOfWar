@@ -6,7 +6,10 @@
       "key": "2023-03",
       "set": {
         "status": "In progress",
-        "notes": "22 accepted; 0 pending; 4 unresolved; 2 merged; 1 rejected; 3 media-complete. This run again prioritized unresolved candidates. MAR23-014 was rechecked specifically for the remaining Sinjil/Tuba components in Hebrew and English; no exact event-level match was recovered for OCHA's Mar. 15/18/21/25/26 injury aggregate. PCHR's Mar. 16 Tuba assault remains a separately dated event and was not forced into the OCHA aggregate. MAR23-015 remains unresolved because the Al-Maarajat and Deir Istiya one-day/date and location-label mismatches still prevent a safe split/merge. MAR23-028 remains unresolved after named-victim searching found no independent exact-event corroboration of B'Tselem's Ibrahim Nofal gunpoint-threat/donkey-theft account. MAR23-016 remains aggregate unitization work. No generic or merely related imagery was used."
+        "candidate_count": "29",
+        "accepted_count": "22",
+        "media_complete_count": "3",
+        "notes": "22 accepted; 0 pending; 4 unresolved; 2 merged; 1 rejected; 3 media-complete. MAR23-016 unitization advanced without creating duplicates: its Mar. 17 Husan tree-vandalism component is already canonical ILPV-2023-0322 and its mid-March Yasuf/As-Sawiya component is already canonical ILPV-2023-0324. Both canonical records explicitly tie their local event evidence to OCHA's Mar. 14-27 tree-vandalism lane. Remaining MAR23-016 tree/locality and property/livestock components still require event-level matching. MAR23-014, MAR23-015 and MAR23-028 remain unresolved. No generic or merely related imagery was used."
       }
     },
     {
@@ -15,16 +18,16 @@
       "key": "2023-10",
       "set": {
         "Channel14 own archive": "Blocked",
-        "Major Israeli media": "In progress",
-        "International reporting": "In progress",
-        "Official and legal": "In progress",
-        "Fact-check and research": "In progress",
-        "Original media recovery": "In progress",
-        "candidate_count": "1",
-        "accepted_count": "1",
+        "Major Israeli media": "Complete",
+        "International reporting": "No results",
+        "Official and legal": "Complete",
+        "Fact-check and research": "Complete",
+        "Original media recovery": "Blocked",
+        "candidate_count": "2",
+        "accepted_count": "2",
         "media_complete_count": "0",
-        "status": "In progress",
-        "notes": "State reconciliation: C14-OCT23-001 is already Accepted as canonical C14-2023-0005. On Oct. 14, reporter Ariel Idan told viewers there were no bodily casualties; Ynet and Jerusalem Post reported multiple people wounded by a Nirim mortar strike that day, while The Seventh Eye contemporaneously preserves Idan's exact wording and an exact Channel 14 broadcast frame. Origin remains Reporter, not Channel 14 editorial speech generally. Canonical Sheet and Notion records are verified. Exact claim-specific imagery is preserved in The Seventh Eye, but a standalone original clip/direct asset and stable GitHub preview remain unrecovered; no substitute imagery was used. October remains In progress because the broad Channel 14 archive is Blocked and the other required lanes are not yet fully resolved."
+        "status": "Complete with gaps",
+        "notes": "October is reconciled at 2 candidates / 2 accepted. C14-OCT23-001 is canonical C14-2023-0005 (Ariel Idan's false Oct. 14 no-bodily-casualties summary). C14-OCT23-002 is already canonical C14-2023-0010: Channel 14's Oct. 14 homepage counter labeled 3,600 as 'terrorists we eliminated,' while the IDF's Oct. 12 war diary and Channel 14's own Oct. 12 article distinguished hundreds of terrorists killed from more than 3,600 targets attacked. Exact screenshots are preserved by The Seventh Eye, but standalone original assets/stable GitHub previews remain unrecovered. Broad Hebrew/English archive/media/official/research rechecks found no third defensible October claim. Historical broad-archive access and standalone exact-media extraction are explicitly Blocked; no substitute imagery was used."
       }
     },
     {
@@ -32,20 +35,20 @@
       "key_column": "period",
       "key": "2023-04",
       "set": {
-        "Netanyahu": "In progress",
-        "Smotrich": "In progress",
-        "Ben-Gvir": "In progress",
-        "Other current right leaders": "Pending",
-        "Official government": "In progress",
-        "Comptroller and inquiries": "Pending",
-        "Court and legal": "In progress",
-        "Knesset": "Pending",
-        "Original media recovery": "Pending",
-        "candidate_count": "0",
+        "Netanyahu": "Complete",
+        "Smotrich": "Complete",
+        "Ben-Gvir": "Complete",
+        "Other current right leaders": "Complete",
+        "Official government": "Complete",
+        "Comptroller and inquiries": "No results",
+        "Court and legal": "Complete",
+        "Knesset": "No results",
+        "Original media recovery": "No results",
+        "candidate_count": "3",
         "accepted_count": "0",
         "media_complete_count": "0",
-        "status": "In progress",
-        "notes": "April core-leader/legal/government lanes were rechecked. The Apr. 3 attorney-general filing that contempt sanctions were not warranted remains a limiting follow-up already preserved in LEAD-2023-0004, not a new accountability event. The Apr. 2 Ben-Gvir national-guard proposal and contemporaneous police/AG warnings remain a governance-risk lead but do not meet the library threshold absent a concrete failure, legal finding or other direct accountability event. Renewed Netanyahu/Smotrich/Ben-Gvir and court/legal searching produced no additional distinct April event meeting the direct-responsibility standard. No motive is inferred. Continue other-current-right, Knesset, Comptroller/inquiry and exact-media lanes."
+        "status": "Complete",
+        "notes": "April is fully processed at 3 candidates / 0 accepted. LEAD23-04-001 is Merged into LEAD-2023-0004 as limiting procedural follow-up; LEAD23-04-002 is Rejected because the national-guard proposal and police/AG warnings do not establish a concrete failure or final legal violation; LEAD23-04-003 is Rejected because the earlier coalition text preserved an extreme-cases exception, so a contradiction over administrative detention is not forced. Final checks across core leaders, other prominent current-right leaders, government, legal, Knesset and Comptroller/inquiry routes found no additional April event meeting the direct-responsibility threshold. No motive is inferred. No accepted event required media publication."
       }
     }
   ]
