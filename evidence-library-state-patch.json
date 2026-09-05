@@ -1,6 +1,15 @@
 {
   "updates": [
     {
+      "path": "political-violence-media/historical-backfill/COVERAGE.csv",
+      "key_column": "period",
+      "key": "2023-03",
+      "set": {
+        "status": "In progress",
+        "notes": "22 accepted; 0 pending; 4 unresolved; 2 merged; 1 rejected; 3 media-complete. This run again prioritized unresolved candidates. MAR23-014 was rechecked specifically for the remaining Sinjil/Tuba components in Hebrew and English; no exact event-level match was recovered for OCHA's Mar. 15/18/21/25/26 injury aggregate. PCHR's Mar. 16 Tuba assault remains a separately dated event and was not forced into the OCHA aggregate. MAR23-015 remains unresolved because the Al-Maarajat and Deir Istiya one-day/date and location-label mismatches still prevent a safe split/merge. MAR23-028 remains unresolved after named-victim searching found no independent exact-event corroboration of B'Tselem's Ibrahim Nofal gunpoint-threat/donkey-theft account. MAR23-016 remains aggregate unitization work. No generic or merely related imagery was used."
+      }
+    },
+    {
       "path": "channel14-factcheck/backfill/COVERAGE.csv",
       "key_column": "period",
       "key": "2023-10",
@@ -10,12 +19,12 @@
         "International reporting": "In progress",
         "Official and legal": "In progress",
         "Fact-check and research": "In progress",
-        "Original media recovery": "Pending",
-        "candidate_count": "0",
-        "accepted_count": "0",
+        "Original media recovery": "In progress",
+        "candidate_count": "1",
+        "accepted_count": "1",
         "media_complete_count": "0",
         "status": "In progress",
-        "notes": "October opened immediately after September completion. Initial Hebrew/English searches covered indexed Channel 14/Patriots material, The Seventh Eye, major Israeli media and war-period misinformation routes. No claim has yet cleared the origin-plus-counterevidence threshold. Later November/December reporting about post-October conspiracy narratives was not backdated into October without exact broadcast provenance. The broad historical Channel 14 archive remains Blocked, and no adverse verdict or substitute media was forced. Continue date-targeted Channel 14 social/video retrieval, official war-record/correction lanes and independent corroboration."
+        "notes": "State reconciliation: C14-OCT23-001 is already Accepted as canonical C14-2023-0005. On Oct. 14, reporter Ariel Idan told viewers there were no bodily casualties; Ynet and Jerusalem Post reported multiple people wounded by a Nirim mortar strike that day, while The Seventh Eye contemporaneously preserves Idan's exact wording and an exact Channel 14 broadcast frame. Origin remains Reporter, not Channel 14 editorial speech generally. Canonical Sheet and Notion records are verified. Exact claim-specific imagery is preserved in The Seventh Eye, but a standalone original clip/direct asset and stable GitHub preview remain unrecovered; no substitute imagery was used. October remains In progress because the broad Channel 14 archive is Blocked and the other required lanes are not yet fully resolved."
       }
     },
     {
@@ -36,7 +45,7 @@
         "accepted_count": "0",
         "media_complete_count": "0",
         "status": "In progress",
-        "notes": "April opened immediately after March completion. Initial core-leader/legal/government recheck treated the Apr. 3 attorney-general filing that contempt sanctions were not warranted as a limiting follow-up already preserved in LEAD-2023-0004, not a new accountability event. The Apr. 2 Ben-Gvir national-guard proposal and contemporaneous police/AG warnings were reviewed as a governance-risk lead but not promoted absent a concrete failure, legal finding or other threshold event. No motive is inferred. Continue core-leader, other-current-right, Knesset, Comptroller/inquiry and exact-media lanes."
+        "notes": "April core-leader/legal/government lanes were rechecked. The Apr. 3 attorney-general filing that contempt sanctions were not warranted remains a limiting follow-up already preserved in LEAD-2023-0004, not a new accountability event. The Apr. 2 Ben-Gvir national-guard proposal and contemporaneous police/AG warnings remain a governance-risk lead but do not meet the library threshold absent a concrete failure, legal finding or other direct accountability event. Renewed Netanyahu/Smotrich/Ben-Gvir and court/legal searching produced no additional distinct April event meeting the direct-responsibility standard. No motive is inferred. Continue other-current-right, Knesset, Comptroller/inquiry and exact-media lanes."
       }
     }
   ]
