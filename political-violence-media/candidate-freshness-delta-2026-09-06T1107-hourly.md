@@ -1,0 +1,8 @@
+# Political Violence Candidate Freshness Delta — 2026-09-06 11:07Z
+
+- Freshness window rescanned: **2026-08-23 through 2026-09-06** before historical work.
+- Added **`FRESH-2026-0905-SHUHADA-DOGS` — Unresolved**: WAFA reports settlers/colonists used dogs to attack or menace Palestinian children and women at the Shuhada Street entrance in Hebron on Sept. 5. IMEMC carries an exact-event embedded video (`dogattack.mp4`), but its independence/original provenance is not established and no participant/police/independent same-event corroboration was recovered. No generic imagery was used.
+- Added **`FRESH-2026-0904-UMM-SAFA-OBEIYAT` — Unresolved**: WAFA reports dozens of settlers attacked Mohammad al-Obeiyat's home in Umm Safa, damaged property and erected a tent nearby. No independent exact-event corroboration or exact/original media was recovered.
+- A Sept. 5 Turmus Ayya ATV entry during Mike Huckabee's visit was screened out rather than promoted: reporting established settlers riding into the town but did not establish a qualifying assault, threat, injury or property attack for this library.
+- **`MAR23-030` remains Unresolved.** A Palestine Solidarity News item and a derivative daily-blog item both place the Deir Istiya vehicle-stoning injury to Muhammad Sami Muhammad Abu Rabi' on **March 26, 2023**, strengthening the date already supported by NAD's daily reporting window, but these secondary/derivative routes do not satisfy the missing independent exact-event corroboration/media requirement.
+- No new canonical incident was accepted in this run.
