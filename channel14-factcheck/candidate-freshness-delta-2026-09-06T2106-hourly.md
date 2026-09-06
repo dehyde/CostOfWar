@@ -1,0 +1,10 @@
+# Channel 14 Candidate Freshness Delta — 2026-09-06 21:06Z
+
+Freshness window: 2026-08-23 through 2026-09-06, followed by unresolved-first historical backfill.
+
+- **C14-AUG26-002 — Sara Netanyahu / insinuation that Yair Golan had advance knowledge of October 7 — new Unresolved candidate; no adverse verdict yet.** In a Channel 14 interview broadcast Aug. 31, Sara Netanyahu said that Golan was already “dressed and ready” very early while others, including the prime minister, did not know, in context widely understood as suggesting suspicious advance knowledge. Times of Israel preserves the wording and a Channel 14 screenshot and reports that Golan has repeatedly said he headed south around 08:00, roughly 90 minutes after the attack began, and that he rescued people near the Gaza border. Preserve origin precisely as **guest/interviewee / external speaker Sara Netanyahu**, not Channel 14 editorial speech. A stable original Channel 14 full interview/container and stronger independent timeline documentation should be recovered before assigning the narrowest verdict.
+- **No distinct new September Channel 14 claim met the inclusion/evidence threshold.** Current election/police-appointments coverage was screened but did not yield a sufficiently discrete new factual claim with resolved origin and counter-evidence.
+- **C14-MAY26-001 and C14-AUG26-001 remain Unresolved / no adverse verdict.** The May police-check framing still needs the primary State filing; the Iran attribution in the August Netanyahu threat claim remains short of primary confirmation.
+- **C14-JUN26-005 / C14-JUN26-006 unresolved-first provenance work continued.** The Bodkim June archive preserves exact quoted wording and the correct speaker roles, but no stable original Channel 14 container surfaced. C14-JUN26-005 remains a recurring panelist claim by Yotam Zimri; C14-JUN26-006 remains a guest/interviewee claim by attorney Ariel Atary.
+
+No canonical claim was accepted and no adverse verdict was forced; no Sheet→media→preview→Notion chain was triggered.
