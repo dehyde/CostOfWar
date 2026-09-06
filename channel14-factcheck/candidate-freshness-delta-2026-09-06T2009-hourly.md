@@ -1,0 +1,11 @@
+# Channel 14 Candidate Freshness Delta — 2026-09-06 20:09Z
+
+Freshness window: 2026-08-23 through 2026-09-06, followed by unresolved-first historical backfill.
+
+- **No distinct new September claim met the inclusion/evidence threshold in the freshness scan.** Current media/election-regulation coverage was screened but did not yield a sufficiently discrete factual claim with the required origin and counter-evidence for a new record.
+- **C14-MAY26-001 — editorial framing of a “police check/investigation against Channel 14” — new Unresolved candidate; no adverse verdict.** Exact Channel 14 editorial articles from May 10-11 repeatedly framed the matter as a police check opened “against Channel 14,” and the channel's formal response accused police of lying. The same Channel 14 material also quotes the police's categorical statement that no criminal investigation or criminal check was being conducted against any media organization, and quotes the State's court response describing a complaint being reviewed by the police opinion unit to determine whether there was a basis for a criminal examination. A later attorney-general letter likewise stated that no criminal investigation/check was underway against Channel 14. This may support a narrow **Missing context/Misleading** analysis, but the exact State filing and procedural distinction should be reviewed directly before any verdict. Preserve origin as **Channel 14 editorial/deskside framing**, not guest speech.
+- **C14-AUG26-001 — Netanyahu / Iranian plot against a son — remains Unresolved / no adverse verdict.** No new primary record identifying Iran as the source of the confirmed threat to Yair Netanyahu surfaced.
+- **C14-JUN26-005 — Yotam Zimri / Abraham Accords-indictment timing — remains Unresolved.** Exact-container recovery again did not surface a stable original Channel 14 container.
+- **C14-JUN26-006 — Ariel Atary / trial restart after judge retirement — remains Unresolved.** Exact-container recovery again did not surface a stable original Channel 14 container; preserve the speaker as guest/interviewee/external expert.
+
+No canonical claim was accepted in this run; no adverse verdict was forced and no Sheet→media→preview→Notion publication chain was triggered.
