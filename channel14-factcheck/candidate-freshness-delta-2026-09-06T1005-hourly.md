@@ -1,0 +1,6 @@
+# Channel 14 Fact-Check Candidate Freshness Delta — 2026-09-06 10:05Z
+
+- Freshness window rescanned: **2026-08-23 through 2026-09-06**; no new September claim passed provenance + verification thresholds.
+- **`C14-MAY23-002` provenance was narrowed:** The Seventh Eye's monitoring report explicitly attributes the quote about organ removal from minors/children as young as three to **Itamar Fleischman on `Riklin & Segal`, May 2023**. A separately preserved closely matching replay/reference points to *The Patriots* and may represent a distinct appearance or excerpt; they are not silently merged. Exact original Channel 14 episode/date/clip is still unrecovered, so the candidate remains **Unresolved / media Blocked** and no adverse canonical verdict is forced.
+- **`C14-JUN23-002`** is likewise explicitly attributed by The Seventh Eye to **Fleischman on `The Patriots`, June 2023**, claiming the reported Jerusalem Day Palestinian assault was fake. Exact original episode/date/clip is still unrecovered, and contemporaneous reporting contains multiple filmed Jerusalem Day assaults; evidence from a potentially different assault is not transferred. Candidate remains **Unresolved / media Blocked**.
+- Existing canonical July 2026 and November 2023 claims were deduplicated/reconciled; no new canonical claim was accepted in this run.
