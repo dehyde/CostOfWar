@@ -1,0 +1,10 @@
+# Political Violence Candidate Freshness Delta — 2026-09-06 21:06Z
+
+Freshness window: 2026-08-23 through 2026-09-06, followed by unresolved-first historical backfill.
+
+- **No distinct new incident met the canonical acceptance threshold in this run.** Reuters/AP freshness reporting confirms the continuing West Bank settler-violence surge and government/US response, but the screened examples were either already represented by existing incidents or lacked enough incident-specific evidence for a new record.
+- **SEP26-024 — Habima Square, Sept. 5 — materially narrowed but remains Unresolved.** Times of Israel's contemporaneous liveblog preserves the police statement that two people were arrested on suspicion of **mutual assault** and that the circumstances were under investigation. It also reports that the Protest Detainee Legal Support Front identified the accuser as Eliran Simantov and alleged that he falsely accused a protester. That latter directional allegation comes from an advocacy/legal-support group, not a police/court finding. The same report separately notes right-wing provocateur Mordechai David and supporters at the confrontation; do **not** conflate David with Simantov or infer Simantov's politics from proximity/context. Actor direction and political affiliation therefore remain unresolved.
+- **SEP26-023 — Sept. 4 condolence convoy toward al-Mughayyir — remains Unresolved.** No independent authoritative same-event corroboration or securely original participant upload surfaced beyond the already captured downstream exact-event footage route.
+- **MAR23-014 / MAR23-015 / MAR23-030 — unresolved-first backfill continued.** No new source safely decomposes the remaining OCHA aggregate components or independently corroborates the Deir Istiya vehicle-stoning injury. Preserve the existing date/source conflicts rather than forcing one-to-one mappings.
+
+No canonical incident was accepted; no Sheet→media→preview→Notion publication chain was triggered.
