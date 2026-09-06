@@ -1,0 +1,9 @@
+# Political Violence candidate freshness delta — 2026-09-06 23:09Z
+
+- Freshness window re-scanned: **2026-08-24 through 2026-09-07** across Israeli/civil-society and Palestinian-target lanes.
+- Added **SEP26-025 — Unresolved** for **2026-09-04, Turmus Ayya / Abu Awwad family home**. Times of Israel independently contextualizes exact same-event footage of an Israeli settler on the roof making territorial/religious declarations; Roya embeds a WAFA News Agency English post describing the settler as carrying a club and threatening Palestinians. Sources: https://www.timesofisrael.com/huckabee-urges-severe-consequences-for-settler-violence-crime-is-crime-terror-is-terror/ and https://en.royanews.tv/news/73337/%27Israeli%27-settler-climbs-onto-a-Palestinian-family%E2%80%99s-rooftop .
+- Canonical Sheet dedupe checks found no existing Sep. 4 Turmus Ayya / Abu Awwad roof incident; the only Abu Awwad canonical hit is the distinct **ILPV-2023-0043** Jan. 29, 2023 window/graffiti attack.
+- **Do not infer Kach/far-right membership** from the shirt/logo visible in the footage. Actor can be recorded at candidate stage as an Israeli settler per reporting; political affiliation remains **Unclear / unknown** pending explicit independent attribution.
+- SEP26-025 is not accepted yet: the event is strongly media-supported, but the reviewed reports may rely on the same underlying video and no sufficiently independent event-level corroboration or durable reusable exact-media asset was secured this run.
+- **SEP26-023/024** remain Unresolved. Historical unresolved-first work on **MAR23-030** again found no independent event-level corroboration beyond the existing NAD/PSNA route; keep the 13:50 Balata / Mohammed Sami Mohammed Abu Rabi’ identity without upgrading verification.
+- No canonical acceptance or Sheet→media→preview→Notion chain was triggered.
