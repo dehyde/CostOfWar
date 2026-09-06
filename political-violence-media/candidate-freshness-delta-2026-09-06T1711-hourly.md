@@ -1,0 +1,10 @@
+# Political Violence Candidate Freshness Delta — 2026-09-06 17:11Z
+
+Freshness window: 2026-08-23 through 2026-09-06.
+
+- **SEP26-024 — Unresolved — Habima Square, Tel Aviv, 2026-09-05:** Times of Israel reports that anti-government protesters and counterprotesters clashed after right-wing provocateur Mordechai David arrived with several supporters. Police said two people were arrested on suspicion of **mutual assault** and that the circumstances were under investigation. A protest legal-aid group separately alleged that an anti-government protester was detained after Eliran Simantov falsely shouted that he was being attacked. The available police account does **not** establish the direction of assault or a specific perpetrator, so no assault is attributed to David, Simantov, or a right-wing group at this stage. General rally footage is not treated as exact incident media.
+- **SEP26-023 — al-Mughayyir / Abu Falah condolence-convoy attack:** remains **Unresolved**. New reporting about three Palestinian brothers, including a U.S. citizen, appears to overlap the already-tracked September 4 convoy/memorial-route attack. Preserve this as one reconciliation package pending victim/unit matching rather than create a duplicate incident.
+- **MAR23-014 — OCHA five-incident assault/pepper-spray aggregate:** remains **Unresolved**. OCHA still does not map its five March 15/18/21/25/26 dates to Deir Jarir, Sinjil, Tuba, Humsa al-Bqai'a and Qarawat Bani Hassan. Targeted Sinjil/Tuba recovery again surfaced the March 16 Tuba assault already treated separately as MAR23-025, not a safe decomposition of this dated aggregate.
+- **MAR23-030 — Deir Istiya vehicle-stoning injury:** remains **Unresolved**; no stronger independent exact-event corroboration or original media surfaced in this pass.
+
+No new canonical incident was accepted in this run. No generic or merely related imagery was used.
