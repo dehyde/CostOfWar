@@ -1,0 +1,8 @@
+# Leadership Accountability Candidate Freshness Delta — 2026-09-06 08:10Z
+
+- **LEAD26-09-009 — 2026-08-30 — Itamar Ben-Gvir AI prisoner campaign video — Unresolved.** Multiple reports document that National Security Minister Itamar Ben-Gvir posted an AI-generated campaign video depicting Palestinian prisoners entering prison and emerging emaciated, accompanied by the slogan equivalent of “We promised — we delivered”; the post was later deleted. Record this narrowly as documented campaign/public conduct only. There is no legal or official finding in this run establishing misconduct, illegality, motive, or responsibility for actual prisoner treatment, so no adverse canonical accountability verdict is assigned. The original post is deleted, therefore exact-original-media recovery is incomplete.
+  - UOL, 2026-09-02: https://noticias.uol.com.br/internacional/ultimas-noticias/2026/09/02/ben-gvir-video-ia-prisioneiros-palestinos.htm
+  - Guardian, 2026-09-03 (opinion/context corroboration): https://www.theguardian.com/commentisfree/2026/sep/03/israel-palestinian-prisoners-itamar-ben-gvir-gaza
+- **LEAD26-09-008** (Netanyahu October 7 morning timeline discrepancies) remains Unresolved; PMO chronology/defense preserved and no operational-failure verdict is assigned without stronger direct-responsibility evidence.
+- **Smotrich 2026-08-20 CEC matter** remains interim-only. **Ben-Gvir Damon prison-video complaint** remains complaint-stage/Pending; neither is upgraded to a final finding.
+- Historical June 2023 police-powers litigation remains merged into existing `LEAD-2022-0004`; no duplicate event created.
