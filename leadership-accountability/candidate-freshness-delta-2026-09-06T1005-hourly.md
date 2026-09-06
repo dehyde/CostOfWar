@@ -1,0 +1,8 @@
+# Leadership Accountability Candidate Freshness Delta — 2026-09-06 10:05Z
+
+- Freshness window rescanned: **2026-08-23 through 2026-09-06**.
+- **`LEAD26-09-004` (Ben-Gvir Damon-prison campaign video)** remains **Pending**. The primary PCATI advocacy notice was recovered and confirms the Aug. 30 approach to CEC chair Justice Noam Sohlberg seeking removal/sanctions over alleged use of public assets and degrading treatment in campaign material. No final CEC merits disposition surfaced, so the petition's legal allegations are not treated as findings.
+- **`LEAD26-09-008` (Netanyahu Oct. 7 morning timeline)** remains **Unresolved**. PMO's Sept. 3 chronology says first alert 06:29, departure 07:30, arrival 08:00 (while itself noting Shin Bet records say 08:22), and first senior assessment 09:55. Sept. 4 Channel 12 reporting, preserved by Times of Israel, says an unpublished office diary records arrival at 09:00 and a credible source says 09:30. Because the underlying diary/minutes are not independently released in full, the discrepancy is preserved without a false-statement or operational-failure verdict.
+- Smotrich's Aug. 20 CEC matter remains interim-only; no final merits ruling surfaced.
+- Historical June 2023 work again found no distinct accountability event beyond the Police Ordinance proceedings already **Merged into `LEAD-2022-0004`**. The June 18 interim injunction is a procedural stage of that same law challenge, not a duplicate event.
+- No new canonical accountability event was accepted in this run.
