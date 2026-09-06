@@ -1,0 +1,11 @@
+# Leadership Accountability Candidate Freshness Delta — 2026-09-06 20:09Z
+
+Freshness window: 2026-08-23 through 2026-09-06, followed by unresolved-first historical backfill.
+
+- **LEAD26-09-008 — Netanyahu / October 7 morning timeline — materially sharpened but remains Unresolved.** Fresh Sept. 4-5 reporting preserves four different arrival markers: the PMO's released chronology says roughly 08:00; the same chronology cites Shin Bet records at 08:22; Channel 12 says an unpublished PMO diary places arrival at 09:00; and a source the network describes as credible says 09:30. The released PMO chronology separately places Netanyahu's first full situational assessment with senior security chiefs at 09:55. These conflicts increase the accountability relevance but do not resolve which arrival time is authoritative because the underlying Shin Bet and unpublished PMO records have not been recovered. Do not infer motive or intentional delay.
+- **LEAD26-09-004 — Ben-Gvir / Damon prison campaign video — remains Pending.** No Central Elections Committee merits ruling surfaced; exact subject-published video provenance remains preserved.
+- **LEAD26-08-014 — Netanyahu / Malha Mall children campaign video — remains Pending / Unresolved.** Fresh searching again found only the temporary CEC injunction and no final merits ruling or securely original Netanyahu post/video.
+- **Smotrich Aug. 20 children-in-campaign-video matter — remains interim-only.** No final merits ruling surfaced.
+- **May 2023 historical lane:** a renewed search surfaced the May 1 Supreme Court rejection of a contempt application concerning Netanyahu's conflict-of-interest arrangement. The court rejection is exculpatory as to contempt and therefore is not treated as an adverse accountability event; the broader binding conflict-of-interest framework is already contextual legal background rather than a new failure finding. No new canonical event created.
+
+No canonical accountability event was accepted in this run. Legal status, defenses and exculpatory outcomes remain preserved.
