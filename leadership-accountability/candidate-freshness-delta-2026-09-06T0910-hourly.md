@@ -1,0 +1,8 @@
+# Leadership Accountability Candidate Freshness Delta — 2026-09-06 09:10Z
+
+- Freshness window rescanned: **2026-08-23 through 2026-09-06**.
+- **State correction:** `LEAD26-09-009` is not an unresolved new event. The Aug. 30 Ben-Gvir AI prisoner campaign video is already canonical as **`LEAD-2026-0007`**, Verified / High. The candidate is therefore **Merged / duplicate** and is not counted as a separate September event. The canonical record keeps the finding narrow: documented personal misconduct in publishing synthetic campaign media depicting prisoner deprivation; no separate illegality or real-world starvation finding is inferred. Exact original X status ID and exact preserved video/stills are recorded canonically.
+- `LEAD26-09-008` (Netanyahu Oct. 7 morning timeline) remains **Unresolved**. PMO, Shin Bet-minutes reporting and Channel 12/office-diary reporting still give materially different arrival/timing accounts; PMO defenses and relay-through-military-secretary context remain preserved. No governance/operational-failure verdict is assigned without stronger primary/direct-responsibility evidence.
+- `LEAD26-09-004` (Ben-Gvir Damon-prison campaign-video petition) remains **Pending**; no final merits ruling surfaced. Smotrich's Aug. 20 CEC matter also remains interim-only.
+- Historical June 2023 Police Ordinance litigation recheck remains **Merged into `LEAD-2022-0004`**; June 7/18 proceedings are not split into duplicate accountability events.
+- No new canonical accountability event was accepted in this run.
