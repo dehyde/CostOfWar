@@ -1,0 +1,10 @@
+# Political Violence Candidate Freshness Delta — 2026-09-06 18:09Z
+
+Freshness window: 2026-08-23 through 2026-09-06, followed by unresolved-first historical backfill.
+
+- **SEP26-023 — al-Mughayyir / Abu Falah condolence-convoy attack:** remains **Unresolved**, but exact-event media support improved. Times of Israel now embeds footage showing the three injured brothers and damaged vehicle in its reporting on the September 4 attack. The available record still does not independently resolve the victim/unit reconciliation or establish securely original participant provenance, so no duplicate or canonical acceptance was created.
+- **SEP26-024 — Habima Square, Tel Aviv, 2026-09-05:** remains **Unresolved**. No newer police/court finding surfaced establishing attacker direction, a specific perpetrator, or political attribution beyond the prior mutual-assault investigation.
+- **MAR23-014 — OCHA multi-incident assault/pepper-spray aggregate:** source reconciliation was materially clarified. OCHA's March 15/18/21/25/26 date set cannot safely be mapped one-to-one to Deir Jarir, Sinjil, Tuba, Humsa al-Bqai'a and Qarawat Bani Hassan. PCHR/PSNA indicate at least two distinct March 15 incidents (Deir Jarir and Qarawat Bani Hassan), WAFA independently supports the Qarawat assault, and a March 25 Humsa injury is separately documented. Tuba timing conflicts across sources (PCHR reports March 16 while OCHA's aggregate date set does not include March 16). Keep this as an unresolved reconciliation package; do not force decomposition or date-location mapping.
+- **MAR23-030 — Deir Istiya vehicle-stoning injury:** remains **Unresolved**. NAD and PSNA match on the March 26 event, but OCHA does not independently match that date/place combination and no exact original media surfaced.
+
+No new canonical incident was accepted in this run. No generic or merely related imagery was used.
