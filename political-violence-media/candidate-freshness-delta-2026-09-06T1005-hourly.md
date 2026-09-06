@@ -1,0 +1,8 @@
+# Political Violence Candidate Freshness Delta — 2026-09-06 10:05Z
+
+- Freshness window rescanned: **2026-08-23 through 2026-09-06**.
+- Freshness reconciliation found no new canonical incident to add. The Sept. 3 first-arrest follow-up for the Aug. 29 Qusra attack is already canonical as source **`SRC-2026-0204`** on **`ILPV-2026-0059`**; the Sept. 2 al-Mughayyir fatal shooting is already **`ILPV-2026-0075`**. Newly published diplomatic/condemnation coverage was not turned into a violence incident.
+- **`MAR23-015` narrowed materially:** its March 19 component is already canonical **`ILPV-2023-0323`** (Al-Maarajat Road). WAFA, published just after midnight March 20, says the attack occurred that night and names 63-year-old Munir Ahmed Abdullah Mur; NAD independently logs the same named-victim road attack on the evening of March 19. Do not leave that component as unresolved or create a duplicate.
+- `MAR23-015` therefore remains unresolved **only for OCHA's March 27 vehicle-stoning injury**. `MAR23-030` (Muhammad Sami Muhammad Abu Rabi', Deir Istiya) remains a separate **March 26** NAD event; no independent exact-event corroboration/media was recovered, and it must not be forced into OCHA's March 27 component.
+- `MAR23-014` remains Unresolved for the still-unmapped Sinjil/Tuba components. The separately documented Tuba assault on March 16 is already a distinct event and cannot resolve an OCHA aggregate whose listed dates are March 15/18/21/25/26. The March 26 Sinjil house fire remains Rejected because contemporaneous sources conflict materially over settler arson versus an electrical fault.
+- No new canonical incident was accepted in this run.
