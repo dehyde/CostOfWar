@@ -1,0 +1,6 @@
+period,status,candidate_count,accepted_count,media_complete_count,remaining_gaps,last_run_notes
+2023-05,Complete with gaps,2,1,0,"MAY23-002 exact original broadcast/provenance remains unresolved.","Rechecked unresolved media lane first; no exact original broadcast recovered and no verdict was forced."
+2023-06,Complete with gaps,2,1,1,"JUN23-002 exact original broadcast/provenance remains unresolved.","Rechecked unresolved media lane first; canonical accepted item remains media-complete while JUN23-002 stays unresolved."
+2023-11,In progress,2,2,1,"Remaining discovery lanes require systematic closure; C14-2023-0007 exact standalone GitHub preview remains Blocked.","Canonical Sheet reconciliation verified C14-2023-0007 and C14-2023-0009 with claim origins preserved. One item has complete exact-media preview chain; the other retains exact claim capture but no reusable standalone thumbnail."
+2026-07,In progress,1,1,0,"C14-2026-0003 exact original Channel 14 media remains missing.","Canonical reconciliation retained the July 1 Bardugo/Mansour Abbas fact-check; no duplicate created."
+2026-09,In progress,0,0,0,"Rolling freshness and Channel 14 original-output discovery remain open.","Freshness scan through Sep. 6 produced no new factual claim meeting provenance plus independent counter-evidence thresholds."
