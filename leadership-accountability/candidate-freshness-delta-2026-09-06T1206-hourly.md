@@ -1,0 +1,7 @@
+# Leadership Accountability Candidate Freshness Delta — 2026-09-06 12:06Z
+
+- Freshness window rescanned: **2026-08-23 through 2026-09-06** before historical work.
+- **`LEAD26-09-008` (Netanyahu Oct. 7 morning timeline) was narrowed, not promoted.** The PMO's published schedule says Netanyahu arrived at the Kirya **around 08:00**, while the same published/reporting record cites **Shin Bet records at 08:22**. The PMO schedule itself also places the first senior situational assessment with the IDF chief and Shin Bet chief at **09:55**; that point is therefore corroborated rather than treated as a chronology conflict. The candidate remains **Unresolved** pending the underlying primary Shin Bet record or an authoritative factual adjudication. No operational-failure, falsehood or motive finding is inferred from the timing discrepancy alone.
+- Freshness rechecks found no final merits disposition for **`LEAD26-09-004`** (Damon-prison campaign-video petition) or for Smotrich's Aug. 20 children-in-campaign-video CEC matter; both retain their prior pending/interim status.
+- Historical June 2023 police-powers material remains correctly merged into `LEAD-2022-0004`; no duplicate event was created.
+- No new canonical adverse event was accepted in this run.
