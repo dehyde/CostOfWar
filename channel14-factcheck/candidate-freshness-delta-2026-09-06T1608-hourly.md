@@ -1,0 +1,10 @@
+# Channel 14 Candidate Freshness Delta — 2026-09-06 16:08Z
+
+Freshness window: 2026-08-23 through 2026-09-06.
+
+- No new September claim crossed both exact-origin/provenance and credible non-social counter-evidence thresholds in this pass; no adverse verdict was forced.
+- **C14-JUN26-005 — Yotam Zimri / Abraham Accords-indictment timing, 2026-06-30:** new **Unresolved** historical candidate. The Bodkim June archive identifies Zimri speaking on **The Patriots** and quotes: "ביום שבו נחתמו הסכמי אברהם, רץ מנדלבליט להגיש את כתב האישום" regarding Netanyahu. Strong non-social evidence directly contradicts the chronology: the indictment was filed in Jerusalem District Court on **2020-01-28**, while the Abraham Accords were signed at the White House on **2020-09-15**. Origin should be preserved as **recurring panelist speech**, not Channel 14 editorial speech. The exact original Channel 14 clip/container has not yet been recovered as a stable direct asset, so do not canonically accept/publish yet despite the strong counter-evidence.
+- **C14-JUN26-006 — Ariel Atary / Netanyahu trial must restart after judge retires, 2026-06-29/30 archive:** new **Unresolved** historical candidate. Bodkim identifies criminal-law attorney Ariel Atary speaking on Channel 14 and saying Judge Rivka Friedman-Feldman would retire soon and the trial would then have to start over. Current reporting places her retirement in **March 2028**, and Criminal Procedure Law section 233 provides for continuation by another judge when the original judge cannot finish, rather than automatic restart. Preserve origin as **guest/interviewee/external expert speech**, not Channel 14 editorial speech. Exact original Channel 14 container/media remains unrecovered, so no canonical verdict was forced.
+- Existing **C14-JUN26-002/003/004** remain Unresolved on original-container/context provenance; MAY23-002 / JUN23-002 remain broadcast-provenance blocked.
+
+No new canonical claim was accepted in this run.
