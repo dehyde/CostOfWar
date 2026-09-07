@@ -1,0 +1,6 @@
+# Channel 14 candidate freshness delta — 2026-09-07 03:06Z
+
+- Freshness window re-scanned: **2026-08-24 through 2026-09-07** across Channel 14 outputs and independent/official evidence routes. No distinct current factual claim met a new canonical acceptance threshold this run; no adverse finding was forced.
+- **C14-NOV23-003 materially advanced but remains Unresolved.** The Seventh Eye identifies the exact Irit Linur wording and dates it to **The Patriots, 27.11.2023**, while linking Reuters as counter-evidence that President Biden did in fact describe the murder of Abigail Idan's parents. A stable **official Channel 14 full-program YouTube container for 27.11.2023** was recovered. An official 26.11.2023 full-program container also exists, so the prior Nov. 26 capture/date discrepancy is not erased by inference; the exact Linur segment/timecode still must be localized in the original program before canonical media/preview publication. The origin remains **Irit Linur — recurring panelist**, not Channel 14 editorial speech.
+- **C14-JUN26-005/006 remain Unresolved** for stable exact original-container/claim-media provenance under their prior state.
+- No canonical Sheet write, exact-preview publication or Notion update was made this run.
