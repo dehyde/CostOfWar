@@ -1,0 +1,11 @@
+# Political violence candidate delta — 2026-09-07 12:11Z
+
+Freshness window rescanned: 2026-08-24 through 2026-09-07, with Israeli/civil-society discovery searched first and Palestinian-target, official-follow-up, court and exact-media lanes also checked. Known unresolved candidates were prioritized before broad rediscovery.
+
+- **SEP26-029 — New, Unresolved; exact-media/high-priority provenance candidate.** On 2026-09-04 an Israeli settler was filmed on the roof of the Abu Awwad family home in Turmus Ayya declaring the land/country his. Times of Israel independently describes the filmed entry as a raid and identifies a Kach-logo shirt; the exact embedded social video supports the rooftop presence and Kach-symbol evidence. Roya/WAFA-derived reporting further says the man carried a club and threatened residents, but that threat/club detail still needs a clean original-post/media provenance chain or independent confirmation before the incident is canonicalized as qualifying targeted intimidation. **Do not infer a broader political affiliation beyond the directly visible Kach symbol.** Canonical Sheet dedupe found the Abu Awwad home only in a distinct 2023 incident; no 2026 duplicate surfaced.
+- **SEP26-027 / SEP26-028 — Unresolved.** No independent police/IDF/medical/second-eyewitness route closed the remaining Sep. 4 al-Mughayyir–Abu Falah or Umm Safa corroboration gaps in this pass.
+- **JUL26-001 — Unresolved.** Sep. 6 High Court reporting remains strong, but the preferred direct court-hosted decision and durable exact July media chain remain outstanding.
+- **MAR23-014 / MAR23-015 / MAR23-028 — Unresolved after historical-priority recheck.** No source safely resolved their existing aggregate/locality or independent-exact-event gaps.
+- Fresh Qusra reporting was deduplicated to canonical **ILPV-2026-0059**; no duplicate incident was created. No new Israeli protester/LGBTQ/peace/human-rights/journalist civil-society incident crossed the verification threshold in this rolling pass.
+
+Accepted this run: **0**. No generic or merely related imagery used.
