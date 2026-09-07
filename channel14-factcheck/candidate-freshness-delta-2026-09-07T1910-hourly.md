@@ -1,0 +1,9 @@
+# Channel 14 fact-check candidate delta — 2026-09-07 19:10Z
+
+Freshness window rescanned: 2026-08-24 through 2026-09-07. Existing unresolved candidates were prioritized before historical discovery.
+
+- **C14-SEP26-002 — Unresolved; exact first-party container/program and origin role materially advanced.** Channel 14 article `https://www.c14.co.il/article/1347524` identifies David Peter's appearance on **Riklin & Co.** and embeds the underlying Channel 14 video. A separate first-party Channel 14 profile identifies Peter as a recurring Patriots panelist. Critically, the article's displayed quote is about appointments in the army and `להוציא את כל החטופים` (getting all the hostages out), which is materially different from the discovery-source wording `כל החטופים חזרו בחיים` (all the hostages returned alive). Do **not** assign a False verdict until the embedded video's spoken wording/timecode is directly verified; preserve possible transcript/discovery mismatch or correction. Origin: recurring panelist, not presenter/editorial speech.
+- **C14-SEP26-003 — New, Unresolved; strong False lead.** Discovery material records attorney Yotam Eyal saying on Channel 14 that `יצחק עמית מינה את עצמו לנשיא העליון` (Isaac Amit appointed himself Supreme Court president). This proposition is contradicted by the documented Judicial Selection Committee selection, independently reported by N12 and other Israeli outlets and already established in canonical `C14-2025-0002`. However, the exact current Channel 14 container/timecode and Eyal's precise origin role have not yet been recovered. Do not canonicalize or merge it into the older claim without exact-origin verification.
+- Existing August and November provenance candidates remain open; no guest/personal-social statement was reassigned to Channel 14 editorial speech.
+
+Accepted this run: **0**. No generic or merely related imagery was used.
