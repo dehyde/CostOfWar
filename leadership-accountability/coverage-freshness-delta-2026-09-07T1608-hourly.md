@@ -5,5 +5,5 @@
 - `2026-09`: **In progress** — `LEAD26-09-013` strengthened with exact judgment provenance but remains unresolved for individual responsibility; other September candidates remain open.
 - `2023-05`: **In progress** under historical backfill.
 - `2023-06` reconciliation remains open under existing state.
-- Exact-media rule retained: the Army Radio item uses the official final judgment URL; stable preview is pending/Blocked if that exact PDF cannot be retrieved, with no substitute imagery.
+- Exact-media rule retained for `LEAD-2026-0009`: the official final-judgment URL is canonical. The GitHub preview workflow attempted that exact PDF and was **Blocked** by a connection reset from the Supreme Court endpoint; no substitute imagery was used.
 - **No period newly Complete.**
