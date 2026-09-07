@@ -1,0 +1,10 @@
+# Channel 14 fact-check candidate delta — 2026-09-07 21:05Z
+
+Freshness window rescanned: 2026-08-25 through 2026-09-08. Existing exact-origin/provenance candidates were prioritized before broader discovery.
+
+- **C14-AUG26-007 — Unresolved; strong False lead.** True/Bodkim's Channel 14 index preserves an Aug. 28 statement attributed to Yaakov Bardugo: `יש גם ברית חדשה, יש ברית מכה. ברית מכה זה פקיסטן עם ערב הסעודית, המצרים שבדרך, וכמובן הטורקים והקטארים`. Reuters, the Financial Times and INSS independently identify the Aug. 7 Mecca defence pact signatories as Saudi Arabia, Turkey and Pakistan; Egypt was discussed as a possible future participant, while Qatar was not a member. However, the exact original Channel 14 clip/container and Bardugo's precise origin context/role for this appearance were not recovered. Preserve as a strong lead; do not assign a canonical False verdict until exact Channel 14 provenance is secured.
+- **C14-SEP26-002 — Unresolved.** The David Peter hostage wording mismatch remains unresolved: discovery material says `כל החטופים חזרו בחיים`, while the recovered first-party Riklin & Co. article displays materially different wording. The embedded spoken wording/timecode still needs direct verification.
+- **C14-SEP26-003 — Unresolved; strong False lead.** The current Isaac Amit `appointed himself` repetition remains contradicted by the official Judicial Selection Committee record, but the exact current Channel 14 container/timecode and Yotam Eyal's precise origin role remain missing.
+- **November 2023 tunnel-footage candidate strengthened, still Unresolved.** Walla independently records that Hillel Biton Rosen's central-news report presented the tunnel video as an exclusive/rare current-war glimpse, that the clip was actually from 2021, and that the IDF said it did not recognize or distribute it. ICE independently records the same core error. Walla also reported that the item remained on Channel 14 and Biton Rosen's Twitter pages at the time, but those original posts/closest first-party broadcast container were not recovered in this run. No substitute media was used.
+
+Accepted this run: **0**.
