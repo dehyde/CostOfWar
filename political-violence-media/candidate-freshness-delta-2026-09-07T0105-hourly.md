@@ -1,0 +1,7 @@
+# Political Violence candidate freshness delta — 2026-09-07 01:05Z
+
+- Freshness window re-scanned: **2026-08-24 through 2026-09-07** across Israeli/civil-society priority lanes and Palestinian-target/source lanes. No distinct new incident met canonical acceptance threshold beyond items already written in prior freshness passes.
+- **ILPV-2026-0059** remains the canonical Aug. 29 Qusra case; the Sep. 6 two-additional-suspect arrest update (including an IDF soldier) was already attached in the prior run. No duplicate incident was created.
+- **JUL26-001 remains Unresolved.** Canonical Sheet deduplication searches for Jalud/Tubasi found no existing July 22, 2026 displacement/home-takeover incident, so this is not currently a duplicate. Strong secondary reporting describes the Sep. 6 High Court order for the family’s safe return, but the direct judicial document and a durable exact/original media provenance route remain unrecovered; no generic or merely related image was used.
+- **MAR23-016 remains Unresolved.** Targeted event-level matching confirmed that obvious Burin (Mar. 3) and Sinjil (Feb. 27) tree-vandalism leads fall outside OCHA’s Mar. 14–27 aggregate window and therefore must not be used to unitize that aggregate. Husan and As Sawiya/Yasuf remain linked to existing canonical incidents; the remaining locality/property/livestock components still require exact event matching.
+- SEP26-023/024/025 and the remaining March unresolved candidates retain their prior status. No new canonical Sheet write or media publication was made this run.
