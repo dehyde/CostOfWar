@@ -1,0 +1,11 @@
+# Channel 14 fact-check candidate delta — 2026-09-07 14:10Z
+
+Freshness window rescanned: 2026-08-24 through 2026-09-07. Known unresolved candidates were prioritized before broader discovery and historical work.
+
+- **C14-NOV23-004 — Unresolved; exact-clip provenance materially improved.** Walla preserves Dana Varon's Nov. 6, 2023 claim that former Supreme Court president Esther Hayut had a grandson rescued after Oct. 7 through a military contact, and explains that the reported rescue story instead concerned journalist Nir Gontazh's son, rescued by Yair Golan. Walla's embedded exact broadcast clip resolves to Yanir Cozin's X status `1721564956540154109`, giving a recoverable exact-media route. It is still a third-party clip rather than the closest original Channel 14 container, so canonical publication remains withheld. Preserve Varon's presenter origin precisely.
+- **C14-NOV23-003 — Unresolved; strong False candidate unchanged on verdict.** Primary U.S.-government counter-evidence remains decisive against Irit Linur's factual assertion that Biden omitted Abigail Idan's murdered parents, but the exact timecode inside Channel 14's official Nov. 27 full-program container is still unrecovered. Origin remains **recurring panelist**, not editorial speech.
+- **C14-AUG26-004 — Unresolved; limiting context strengthened.** Benjamin Netanyahu publicly responded on Sep. 1 that Oct. 7 involved a major failure, not betrayal, and said his wife had not said there was a betrayal. This is preserved as contextual/defensive evidence; it does not erase Sara Netanyahu's separately recorded Yair Golan insinuation or justify a forced verdict. Origin remains **guest/interviewee**.
+- **C14-NOV23-005 / C14-AUG26-003 / C14-JUN26-005 / C14-JUN26-006 — Unresolved.** No closest-original provenance gain sufficient for canonical publication this pass.
+- Broader current-window searching found no additional Channel 14 factual claim meeting the candidate threshold with sufficiently recoverable origin and checkable evidence.
+
+Accepted this run: **0**. No adverse verdict was forced and no generic Channel 14 imagery was used.
