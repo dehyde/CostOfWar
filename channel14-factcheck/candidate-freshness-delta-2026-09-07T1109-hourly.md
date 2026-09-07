@@ -1,0 +1,11 @@
+# Channel 14 fact-check candidate delta — 2026-09-07 11:09Z
+
+Freshness window rescanned: 2026-08-24 through 2026-09-07. Historical unresolved work remained prioritized, with November 2023 processed before broader rediscovery.
+
+- **C14-NOV23-005 — New, Unresolved; strong False candidate.** On 2023-11-06 Channel 14 military reporter **Hillel Biton Rosen** presented tunnel-combat footage as an "exclusive/rare glimpse" of IDF fighting in the current war. Walla preserves the exact Channel 14 segment context and reports that Channel 13 traced the footage to a YouTube upload from roughly two years earlier; Walla also records the IDF spokesperson saying the video was not known to the IDF and had not been distributed by it. The surviving redirect resolves to the older YouTube video `WK5K9HRmFp4` ("מלחמת המנהרות"). ICE and The Seventh Eye independently document the same mismatch. **Remaining gaps:** recover the closest surviving original Channel 14 X/broadcast container and determine whether the exclusivity/current-war assertion was reporter speech, editorial package text/graphic, or both. Do not attribute an editorial claim more broadly than the original segment supports.
+- **C14-NOV23-004 — Unresolved.** Dana Varon / Esther Hayut grandson falsehood remains strongly contradicted and exact wording is preserved by Walla, but the closest/original Channel 14 container is still unrecovered; origin should remain panelist/unclear rather than be upgraded to recurring panelist without evidence.
+- **C14-NOV23-003 — Unresolved.** Irit Linur's Abigail Idan/Biden claim remains contradicted by strong evidence, but no defensible exact timecode inside the official Nov. 27 Patriots program was recovered in this pass. Origin remains recurring panelist, not Channel 14 editorial speech.
+- **C14-AUG26-003 / C14-JUN26-005 / C14-JUN26-006 — Unresolved.** No new original-container provenance sufficient for canonical publication surfaced.
+- Current-window searches did not surface an additional factual claim meeting the acceptance threshold without forcing an adverse finding.
+
+Accepted this run: **0**. No generic Channel 14 branding or unrelated imagery used.
