@@ -1,0 +1,9 @@
+# Channel 14 fact-check candidate delta — 2026-09-07 20:08Z
+
+Freshness window rescanned: 2026-08-24 through 2026-09-07. Existing unresolved provenance candidates were prioritized before broad discovery.
+
+- **C14-SEP26-002 — Unresolved.** Fresh social mirrors continue to preserve the discovery wording attributed to David Peter on Channel 14, `כל החטופים חזרו בחיים` (all the hostages returned alive). But the recovered first-party Channel 14 Riklin & Co. article/container displays materially different wording about `להוציא את כל החטופים` (getting all the hostages out). The embedded video's spoken wording/timecode still has not been directly verified. Preserve the mismatch; origin remains recurring panelist, not presenter/editorial speech. No False verdict is assigned yet.
+- **C14-SEP26-003 — Unresolved; strong False lead.** Current discovery material preserves attorney Yotam Eyal saying on Channel 14 that `יצחק עמית מינה את עצמו לנשיא העליון`. The proposition is contradicted by the official Judicial Selection Committee record already used for canonical `C14-2025-0002`. However, the exact current Channel 14 container/timecode and Eyal's precise origin role remain unrecovered. Do not merge the current appearance into the older canonical claim or attribute it to Channel 14 editorial speech without exact-origin verification.
+- Existing August and November provenance candidates were rechecked without a safe exact-origin/media resolution. No guest, recurring-panelist or personal-social statement was reassigned to editorial speech.
+
+Accepted this run: **0**. No generic or merely related imagery was used.
