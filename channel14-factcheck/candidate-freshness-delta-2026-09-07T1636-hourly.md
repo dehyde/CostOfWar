@@ -1,0 +1,9 @@
+# Channel 14 fact-check candidate delta — 2026-09-07 16:36Z
+
+Freshness window rescanned: 2026-08-24 through 2026-09-07. Existing unresolved candidates were prioritized before broader rediscovery.
+
+- **C14-AUG26-006 — New, Unresolved / strong False lead.** On Aug. 29, Yinon Magal's personal `YINONEWS` Telegram channel posted: "גדי איזנקוט גם הצביע נגד עונש מוות למחבלים" ("Gadi Eisenkot also voted against the death penalty for terrorists"). The exact retrieved artifact is Magal's personal social channel, so origin is preserved as **presenter/personal social output**, not Channel 14 editorial speech and not yet proven to be a Channel 14 broadcast claim. Strong counter-evidence: Times of Israel documents Eisenkot formally resigning from the Knesset on Jul. 2, 2025; the Knesset's official record says the Death Penalty for Terrorists Bill passed its second and third readings on Mar. 30, 2026, 62–48 with one abstention. If the claim refers to that final vote, Eisenkot could not have cast it. **Blocker:** recover the closest original Channel 14 broadcast/VOD/site/social container or other direct proof that the same claim appeared in Channel 14 output, and preserve exact program/timecode/role before canonicalization.
+- **C14-SEP26-001 — Unresolved / strong False candidate.** David Peter's Sep. 2 "all hostages returned alive" claim retains its existing exact-origin blocker.
+- **C14-NOV23-004 / C14-NOV23-005 / C14-AUG26-003 / 004 / 005 / C14-JUN26-005 / 006 — Unresolved.** Existing original-media, timecode, role or provenance gates remain open.
+
+Accepted this run: **0**. No adverse verdict was forced without Channel 14 scope/origin provenance.
