@@ -1,0 +1,6 @@
+# Channel 14 candidate freshness delta — 2026-09-07 02:10Z
+
+- Freshness window re-scanned: **2026-08-24 through 2026-09-07** across Channel 14 outputs and independent/official evidence routes. No distinct current factual claim met a new candidate-to-canonical acceptance threshold this run; no adverse finding was forced.
+- **C14-NOV23-003 remains Unresolved.** Unresolved-first searches again failed to recover a stable original Channel 14 container or reconcile the contemporaneous capture posted Nov. 26 with secondary monitoring that dates the Patriots broadcast to Nov. 27. Strong Reuters/CBS/AFP evidence still contradicts the narrow claim that President Biden omitted the killing of Abigail Idan’s parents, but the origin/date/media chain is not yet clean enough for canonicalization.
+- **C14-JUN26-005/006 remain Unresolved** after renewed original-container searches; archival/third-party copies are not substituted for stable Channel 14 provenance.
+- Other previously unresolved 2026 candidates retain prior status. No canonical Sheet write, exact-preview publication or Notion update was made this run.
