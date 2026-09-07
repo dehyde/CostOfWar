@@ -1,0 +1,11 @@
+# Channel 14 fact-check candidate delta — 2026-09-07 10:08Z
+
+Freshness window rescanned: 2026-08-24 through 2026-09-07. Historical unresolved work continued with November 2023 prioritized before broad rediscovery.
+
+- **C14-NOV23-004 — New, Unresolved; strong False candidate.** On 2023-11-06 Channel 14 panelist **Dana Varon** said she had read that former Supreme Court president Esther Hayut rescued her grandson from the Oct. 7 inferno through a military contact and sent him abroad. Walla preserves the wording and explains that the story conflated Hayut asking Haaretz journalist Nir Gontarz about **his** son, who had been rescued by Yair Golan and later traveled abroad. The Seventh Eye independently identifies the same Nov. 6 claim as false; Calcalist later reports that Varon and the broadcast ombudsman acknowledged the statements were false. Canonical Claims Sheet search for `אסתר חיות` returned no existing claim. **Remaining gaps:** recover the closest/original Channel 14 broadcast/post rather than only the surviving Walla-embedded repost, and reconcile whether Varon's exact origin role for this segment is recurring panelist vs guest/panelist. Do not publish with generic Channel 14 or unrelated imagery.
+- **C14-NOV23-003 — Unresolved.** Irit Linur's Nov. 27 Abigail Idan/Biden claim remains supported by strong counter-evidence, but an exact defensible timecode/original segment inside the official Patriots program was not recovered in this pass. Origin remains **Irit Linur — recurring panelist**, not Channel 14 editorial speech.
+- **C14-AUG26-003 — Unresolved.** Channel 14's own correction remains strong primary evidence of the Yifat Tomer-Yerushalmi misidentification; the removed original erroneous item/clip remains unrecovered.
+- **C14-JUN26-005 / C14-JUN26-006 — Unresolved.** No new original-container provenance surfaced.
+- Fresh current searches did not surface an additional prior-14-day factual claim meeting the evidence threshold without forcing an adverse finding.
+
+Accepted this run: **0**. No generic or merely related imagery used.
