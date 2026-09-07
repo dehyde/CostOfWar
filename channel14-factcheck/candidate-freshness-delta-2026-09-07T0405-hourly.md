@@ -1,0 +1,6 @@
+# Channel 14 candidate freshness delta — 2026-09-07 04:05Z
+
+- Freshness window re-scanned: **2026-08-24 through 2026-09-07** across Channel 14 outputs and independent/official evidence routes. No distinct current factual claim met a new canonical acceptance threshold this run; no adverse finding was forced.
+- Historical unresolved-first work again prioritized **C14-NOV23-003**. Targeted searches for the exact Irit Linur / Abigail Idan segment did not localize a defensible exact timecode inside the recovered official Channel 14 **The Patriots, 27.11.2023** full-program container. The Seventh Eye wording/date and Reuters/CBS counter-evidence remain useful, but the prior Nov. 26 capture/date discrepancy is not erased by inference. The claim remains **Unresolved** until exact original-segment provenance is reconciled. Origin remains **Irit Linur — recurring panelist**, not Channel 14 editorial speech.
+- **C14-JUN26-005/006 remain Unresolved** for stable exact original Channel 14 claim-media/container provenance under their prior state.
+- No canonical Sheet write, exact-preview publication or Notion update was made this run.
