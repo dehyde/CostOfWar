@@ -1,0 +1,8 @@
+# Political Violence candidate freshness delta — 2026-09-07 02:10Z
+
+- Freshness window re-scanned: **2026-08-24 through 2026-09-07** across Israeli/civil-society priority lanes and Palestinian-target/source lanes.
+- Added **SEP26-026 — Unresolved** for the overnight **Sep. 6–7 Hajja/Hajja (חג'ה), east of Qalqilya** incident in which **Omar Muhammad Tubasi, 20, was killed** during a clash involving Palestinian villagers, settlers and IDF forces. Times of Israel, relaying Ynet and Palestinian reporting, says villagers threw rocks at a drone flown by settlers, settlers entered the village to retrieve it, and IDF soldiers then fired at Palestinians throwing rocks. Palestinian/local reporting alleges settler shooting/assault. Those competing actor-attribution accounts are not yet reconciled, and the IDF response was not available in the contemporaneous report, so responsibility for the fatal shot is **not assigned** and no political affiliation is inferred.
+- Canonical Sheet deduplication searches for **Hajjaj**, **Tubasi** and **חג'ה** found no existing matching incident; SEP26-026 is therefore not currently a duplicate.
+- Exact-event social video/reporting exists in contemporaneous coverage, but provenance and what the footage independently proves are not yet strong enough for publication. No generic or merely related image was substituted.
+- **JUL26-001 remains Unresolved** pending the direct Jalud/Tubasi High Court document and durable exact-media provenance. **MAR23-016** and SEP26-023/024/025 retain prior unresolved status.
+- No canonical Sheet acceptance/write was made this run, so no media → GitHub preview → Notion publication chain was initiated.
