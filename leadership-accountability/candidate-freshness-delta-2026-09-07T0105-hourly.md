@@ -1,0 +1,6 @@
+# Leadership Accountability candidate freshness delta — 2026-09-07 01:05Z
+
+- Freshness window re-scanned: **2026-08-24 through 2026-09-07** for Netanyahu, Smotrich and Ben-Gvir. No distinct new adverse accountability event met canonical acceptance threshold this run; current timeline/election matters retain prior unresolved or interim status.
+- Historical backfill opened **May 2023**. **LEAD23-05-001 — Merged**: the May 31 Attorney General response addressing the constitutionality/interpretation of Ben-Gvir’s Police Ordinance amendment is procedural/legal follow-up to canonical **LEAD-2022-0004**, not a distinct event. The response’s limiting position—that the law could operate only while preserving police professional independence—belongs as follow-up context on the existing law/ruling event; no new misconduct finding is inferred.
+- **LEAD23-05-002 — Rejected**: Otzma Yehudit’s May 3 coalition boycott and May 9 return after the Gaza operation were reviewed as political/coalition maneuvering. No concrete false statement, legal/ethical finding, documented governance failure or direct-responsibility accountability event was established, so no adverse entry was forced.
+- LEAD26-09-008 remains Unresolved; LEAD26-09-004 and the Netanyahu/Smotrich election-video matters remain pending/interim absent final merits decisions. No new canonical Sheet write was made.
