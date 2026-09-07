@@ -1,0 +1,17 @@
+# Political-violence candidate delta — 2026-09-07T0806Z
+
+Freshness window rescanned: **2026-08-24 through 2026-09-07**.
+
+## Freshness / unresolved-first
+- **SEP26-028 — Umm Safa, 2026-09-04 — Unresolved (new candidate).** WAFA, citing village-council head Marwan Sabbah, reports that dozens of settlers attacked Mohammad al-Obeiyat's home/property and then erected a tent near Palestinian homes in eastern Umm Safa. Sanad separately published an exact-event report with embedded video, but its factual account also relies materially on Sabbah. Canonical Sheet dedup found no 2026 Umm Safa match. Do **not** accept yet: seek independent Israeli/NGO/OCHA corroboration and durable provenance for the embedded exact video. Sources: https://english.wafa.ps/Pages/Details/174368 ; https://snd.ps/post/166822/
+- Fresh reporting on the **2026-09-04 Umm al-Khair child injury** was rechecked and correctly deduplicated to canonical **ILPV-2026-0082**; its Times of Israel source is already stored as **SRC-2026-0222**. No duplicate/source duplicate created.
+- **SEP26-026 — Hajja / Omar Muhammad Tubasi** remains **Unresolved**. WAFA attributes the fatal head wound to settler fire, while Israeli reporting confirms IDF live fire during the same clash but does not identify the fatal shooter. Actor remains unassigned. Sources: https://www.wafa.ps/news/2026/9/6/%D8%B4%D9%87%D9%8A%D8%AF-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%AA%D8%A7%D9%86-%D8%A5%D8%AD%D8%AF%D8%A7%D9%87%D9%85%D8%A7-%D8%AE%D8%B7%D9%8A%D8%B1%D8%A9-%D9%81%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D8%B1%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%AD%D8%AC%D8%A9-153488 ; https://www.timesofisrael.com/liveblog-september-07-2026/
+- **SEP26-027 — al-Mughayyir–Abu Falah assault on three brothers, including a U.S. citizen** materially advanced but remains **Unresolved**. Times of Israel now reports Andrey Khrzhanovskiy's exact-event footage and a detailed account (vehicles blocked and stoned; passengers beaten with clubs and pepper spray; one vehicle stolen; two hospitalized), but no Reuters/AP/official/NGO exact-event corroboration surfaced. Preserve the footage as exact-event media, not as independent corroboration. Source: https://www.timesofisrael.com/huckabee-urges-severe-consequences-for-settler-violence-crime-is-crime-terror-is-terror/
+
+## Historical unresolved-first
+- **JUL26-001 — Jalud displacement/home takeover** materially advanced through the **2026-09-06 High Court order**: reporting says the court required authorities to coordinate the three families' safe return within 14 days, protect them, permit repairs, and explain enforcement failures. The state reportedly did not substantially dispute the core sequence. Still seek the authoritative court-hosted decision and durable exact July media before acceptance. Sources: https://www.timesofisrael.com/netanyahu-orders-some-west-bank-outposts-removed-amid-us-pressure-over-settler-attacks/ ; https://www.jpost.com/israel-news/article-907742
+- **MAR23-028 — Deir Sharaf, 2023-03-26** remains **Unresolved**: no independent exact-event corroboration beyond B'Tselem's detailed direct testimony surfaced in this pass.
+- No political/right-wing affiliation is inferred from context alone.
+
+## Publication state
+- **0 new canonical acceptances.** No downstream media/preview/Notion publication was initiated because no new candidate cleared the evidence and publication thresholds.
