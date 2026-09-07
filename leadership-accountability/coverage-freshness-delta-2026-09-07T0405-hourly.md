@@ -1,0 +1,7 @@
+# Leadership Accountability Coverage Freshness Delta — 2026-09-07 04:05Z
+
+- **September 2026 remains In progress.** `LEAD26-09-011` gained stronger legal-context provenance around the High Court advance-notice requirement for senior police appointments and reported non-notification before the appointments Ben-Gvir had sought; because the appointments were then frozen and no completed breach was established, the candidate remains Unresolved with no inferred violation or motive. `LEAD26-09-008` remains Unresolved; Damon/Malha/Smotrich election matters remain Pending/interim.
+- **May 2023 remains In progress.** Targeted State Comptroller/PMO and major-reporting rechecks did not establish a new direct-responsibility accountability event for Netanyahu, Smotrich or Ben-Gvir. The May 22 budget bargain was not promoted merely from coalition bargaining evidence.
+- No period was marked Complete and no accountability threshold was lowered.
+
+Next priorities: obtain primary legal/administrative material for `LEAD26-09-011`; recover underlying records for `LEAD26-09-008`; track final CEC merits outcomes; continue May 2023 direct-responsibility backfill across required official/legal and reporting lanes.
