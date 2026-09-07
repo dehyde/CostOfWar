@@ -1,0 +1,11 @@
+# Political violence candidate delta — 2026-09-07 23:09Z
+
+Freshness window rescanned: 2026-08-25 through 2026-09-08. Canonical Sheet deduplication was performed before promoting freshness leads.
+
+- **Canonical reconciliation — Finn Joughin / Umm al-Kheir is not unresolved.** The Sheet already contains `ILPV-2026-0061` as Verified / High. Exact participant video, Times of Israel reporting with police confirmation, Haaretz follow-up, and the later ToI/AP deportation follow-up are already linked (`SRC-2026-0148/0149/0150/0155`). The prior hourly delta's unresolved wording was stale and is corrected here. The underlying allegation against Joughin remains disputed, but that does not negate verification of the armed civilian detention itself.
+- **Canonical dedupe — Sep. 2 Beita two-vehicle arson.** Fresh reporting/security-footage rediscovery maps to existing `ILPV-2026-0069` (Partially verified / High). Canonical state already includes exact Alhadath security video (`MED-2026-0069`) with stable GitHub preview and a separate exact WAFA aftermath album (`MED-2026-0084`). No duplicate incident or generic imagery added.
+- **SEP26-033 — Unresolved freshness lead (high-priority Israeli civil-society lane).** On Sep. 5 at Habima Square, Times of Israel reports anti-government protesters and counterprotesters clashed after right-wing activist Mordechai David arrived with supporters; police said two people were arrested on suspicion of mutual assault. Current reporting does not identify which arrested person committed which act, so no political affiliation is assigned to a perpetrator and no canonical incident is created yet. Exact incident media and independent event-level corroboration remain to be recovered.
+- **SEP26-032 — still Unresolved.** Sep. 7 Beita/Osarin assault and electricity-infrastructure damage remains dependent on Palestinian/local reporting without a sufficiently independent event-level chain.
+- **MAR23-015 / JUL26-001 — still Unresolved.** No stronger source in this pass resolves the remaining date/incident split for `MAR23-015` or the preferred official court-hosted decision/exact-media chain for `JUL26-001`.
+
+Accepted this run: **0**. One stale unresolved state was corrected by canonical reconciliation; one new Israeli/civil-society freshness lead was added without lowering attribution standards.
