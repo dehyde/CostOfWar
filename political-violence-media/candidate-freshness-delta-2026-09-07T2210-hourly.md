@@ -1,0 +1,11 @@
+# Political violence candidate delta — 2026-09-07 22:10Z
+
+Freshness window rescanned: 2026-08-25 through 2026-09-08. Israeli/civil-society discovery priority and Palestinian-target/source lanes were both checked before historical backfill.
+
+- **Freshness:** targeted Reuters/ToI/JPost/OCHA/Israeli-media searches did not surface a new high-confidence in-scope incident beyond already-tracked/canonical September cases. The Sep. 7 Hajja/Qusra violence remains covered by existing state; no duplicate was created.
+- **SEP26-032 — Beita / Osarin, Sep. 7 — still Unresolved.** No stronger independent event-level corroboration, official finding or exact incident media surfaced beyond the previously recorded WAFA/Petra/local route. Do not infer political affiliation from settler identity alone.
+- **Finn Joughin / Umm al-Kheir — still Unresolved, competing allegations preserved.** ToI/AP reporting and exact social footage establish settler detention and police custody; AFP/lawyer reporting disputes the settlers' accusations. No adjudicated factual finding on the alleged misconduct surfaced, so the incident remains unresolved rather than converted into a one-sided account.
+- **MAR23-015 — materially strengthened but package remains Unresolved.** The Al-Maarajat component is now supported by three event-level routes: NAD records the evening of Mar. 19 and names Munir Ahmed Abdullah Mur; WAFA published just after midnight Mar. 20 naming Mur and describing masked settlers stoning vehicles; PCHR independently records a Mar. 20 Al-Maarajat vehicle-stoning injury and the wife fainting. This strongly supports one component of OCHA's two-injury aggregate, but PCHR dates it Mar. 20 while NAD/OCHA point to Mar. 19, and the second Deir Istiya component remains dependent on NAD. Do not split/canonicalize the aggregate by guesswork yet.
+- **MAR23-014 / MAR23-016 / MAR23-028 — Unresolved.** Aggregate decomposition and independent event-level corroboration gaps remain; no generic imagery substituted.
+
+Accepted this run: **0**.
