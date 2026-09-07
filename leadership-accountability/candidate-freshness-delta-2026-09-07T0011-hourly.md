@@ -1,0 +1,7 @@
+# Leadership Accountability candidate freshness delta — 2026-09-07 00:11Z
+
+- Freshness window re-scanned: **2026-08-24 through 2026-09-07** for Netanyahu, Smotrich and Ben-Gvir, including court/election developments, official timeline material and settler-violence responses.
+- **LEAD26-09-008 remains Unresolved.** Targeted searches did not recover the underlying PMO diary or Shin Bet primary arrival records. The public PMO timeline still says 06:29 first notification, 07:30 departure, approximately 08:00 arrival / 08:22 according to Shin Bet records, and 09:55 first full assessment; Channel 12-derived reporting still conflicts with 09:00/09:30 arrival claims. Preserve the conflict and do not infer motive or responsibility from the timing discrepancy alone.
+- The Sep. 6 High Court Jalud ruling sharply criticized security-force failures regarding extremist-settler violence, but **was not attached to Netanyahu, Smotrich or Ben-Gvir as an individual accountability event** because the reviewed ruling/reporting does not establish the required direct personal-responsibility link.
+- Netanyahu's Sep. 6 reported order to dismantle roughly 100 unauthorized outposts remains remedial/exculpatory context, not an adverse event. Smotrich's opposition to the order is policy positioning, not by itself a qualifying accountability event.
+- LEAD26-09-004 Ben-Gvir/Damon remains Pending; Netanyahu/Malha and Smotrich children-video matters remain interim-only absent final merits decisions. No new canonical acceptance was made.
