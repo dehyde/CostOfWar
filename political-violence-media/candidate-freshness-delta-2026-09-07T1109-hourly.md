@@ -1,0 +1,11 @@
+# Political violence candidate delta — 2026-09-07 11:09Z
+
+Freshness window rescanned: 2026-08-24 through 2026-09-07, with the Israeli/civil-society lane searched first and Palestinian-target lanes also checked. Known unresolved candidates were prioritized before broader rediscovery.
+
+- **SEP26-027 — Unresolved; corroboration/provenance lane strengthened.** Times of Israel now preserves exact-event footage from the Sep. 4 attack between al-Mughayyir and Abu Falah and reports three Palestinian brothers were attacked, including a U.S. citizen; the footage shows facial/body injuries and smashed vehicle windows. Separate ToI follow-up attributes additional details (clubs, pepper spray, vehicle theft, blocked ambulance) to activist-journalist Andrey Khrzhanovskiy. This materially improves exact-event documentation, but the reporting still substantially depends on Palestinian media/activist sourcing and no independent police/IDF/medical or second eyewitness route was recovered. Keep Unresolved rather than overstating independent corroboration.
+- **SEP26-028 — Unresolved.** Umm Safa Sep. 4 home/property attack and tent erection remain documented by WAFA from the village-council chair; a genuinely independent second route was not recovered in this pass.
+- **JUL26-001 — Unresolved; court follow-up strengthened.** Multiple Israeli reports on the Sep. 6 High Court proceeding independently describe an order requiring a safe return/protection route for three Jalud families and sharply critical questioning of enforcement failures. The direct official court-hosted decision plus a durable exact-media publication chain for the underlying July events remain outstanding.
+- **MAR23-014 / MAR23-015 / MAR23-028 — Unresolved after targeted historical recheck.** No new source safely resolves the remaining aggregate/locality mapping or supplies an independent exact-event route for MAR23-028.
+- Fresh searches did not surface a new Israeli protester/LGBTQ/peace/human-rights/journalist civil-society violence incident meeting the verification threshold in the rolling window. Current Reuters/AP/Israeli reporting on government responses to settler violence was retained as follow-up/context rather than backfilled as a violence incident by itself.
+
+Accepted this run: **0**. No generic or merely related imagery used.
