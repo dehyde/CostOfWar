@@ -1,0 +1,10 @@
+# Leadership accountability candidate delta — 2026-09-07 13:10Z
+
+Freshness window rescanned: 2026-08-24 through 2026-09-07. Known unresolved candidates were prioritized before broader discovery and historical work.
+
+- **LEAD26-08-014 — Unresolved; judgment provenance strengthened.** A full-text reproduction of HCJ 61683-12-25 plus concordant Times of Israel, Walla and Jerusalem Post reporting confirm the High Court's unanimous cancellation of Government Decision 3661 closing Army Radio and the court's finding that the decision-making process relied on an improper/extraneous consideration concerning editorial content. The court also did **not** hold that Army Radio could never lawfully be closed. The preferred direct court-hosted judgment artifact remains unrecovered, so canonical publication is still withheld.
+- **LEAD26-09-011 — Unresolved.** Current reporting continues to support the seven-day High Court notice requirement before specified senior police appointments; no new final merits finding or proven unlawful appointment action closed the candidate.
+- **LEAD26-09-012 / LEAD26-09-013 / LEAD26-09-014 / LEAD26-09-008 — Unresolved.** No new primary material closed their personal-responsibility, merits, legal-status or provenance gaps. Netanyahu's reported outpost-removal order remains remedial/context evidence rather than a forced adverse event.
+- **2023-05 historical pass — In progress.** Targeted searches across Netanyahu, Smotrich, Ben-Gvir, Knesset/government and legal routes surfaced policy speeches/disputes but no new event meeting the library's direct accountability threshold. The month is not marked Complete and broader official/comptroller/legal/original-media lanes remain to be exhausted.
+
+Accepted this run: **0**. Responses, legal-status limits and individual-responsibility constraints were preserved; no generic portrait media was used.
