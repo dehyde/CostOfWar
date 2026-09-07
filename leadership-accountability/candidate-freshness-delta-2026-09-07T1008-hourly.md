@@ -1,0 +1,11 @@
+# Leadership accountability candidate delta — 2026-09-07 10:08Z
+
+Freshness window rescanned: 2026-08-24 through 2026-09-07. Historical unresolved/backfill state also received attention.
+
+- **LEAD26-09-014 — New, Unresolved candidate.** Police officer **Reut Rosenberg** said her promotion had been unanimously recommended by the police commissioner/senior command but remained unsigned by National Security Minister **Itamar Ben-Gvir** for roughly nine months; Ynet/Walla report that other officers from the same promotion round had been approved and that Rosenberg filed an administrative petition. Reporting on 2026-09-02 says Ben-Gvir ultimately approved the promotion after roughly a year. Ben-Gvir's office said appointments require professional staff work and that the minister is not a rubber stamp. **No court finding that the delay was unlawful, no motive, and no retaliatory purpose are inferred.** Canonical Events Sheet search for `רעות רוזנברג` returned no existing event. Keep unresolved until the petition/case record or other direct primary/legal material establishes the cleanest responsibility/outcome chain.
+- **LEAD26-09-013 — Unresolved.** HCJ 41953-07-26 remains strongly documented as the Sep. 3 cancellation of Amendment 28, but direct official court-hosted judgment plus a tighter personal-responsibility link to Netanyahu remain outstanding.
+- **LEAD26-08-014 — Unresolved.** Army Radio closure decision remains supported by the unanimous High Court cancellation and identified case; direct official court-hosted judgment artifact still missing.
+- **LEAD26-09-011 / 012 / 008 — Unresolved.** Police-appointments, Jalud-responsibility and Oct. 7 timeline gaps remain; no new evidence justifies broader attribution.
+- **2023-05 / 2023-06 historical audit:** prior rejection/merge conclusions remain unchanged; no new qualifying event surfaced without overriding remedial/exculpatory context.
+
+Accepted this run: **0**. Responses, limiting context and legal uncertainty preserved.
