@@ -1,0 +1,7 @@
+# Channel 14 coverage delta — 2026-09-08 05:09Z
+
+- Freshness window **2026-08-25 through 2026-09-08** rechecked across Channel 14 first-party indexing, major Israeli/international reporting, official/legal records and independent research/fact-check routes. Current 2026 candidates remain unresolved where exact origin/media is missing.
+- The base `backfill/COVERAGE.csv` still labels **2023-11 Not started**, but persistent candidate deltas show that this is now stale. The effective overlay status is **2023-11 — In progress**: C14-NOV23-001 and C14-NOV23-002 have already been accepted/canonicalized as C14-2023-0007 and C14-2023-0009, while unresolved exact-origin/provenance work remains, including the tunnel-footage lead. Do **not** mark November Complete yet.
+- **2023-12 onward** remains largely Not started in the base systematic ledger. Work should continue through the unresolved November queue before advancing into December, while freshness continues in parallel.
+- Historical broad Channel 14 archive access remains an explicit recurring limitation; where exact archive/media cannot be recovered, the lane stays Blocked/Unresolved rather than being treated as observed.
+- **No period promoted to Complete.**
