@@ -1,0 +1,7 @@
+# Leadership accountability coverage delta — 2026-09-08 05:09Z
+
+- Freshness window **2026-08-25 through 2026-09-08** rechecked across current legal/elections reporting and available official-record discovery. Current August/September items remain interim/unresolved where final official holdings or direct personal-responsibility links are absent.
+- Base `backfill/COVERAGE.csv` remains authoritative for completed early periods through **2023-04**. Subsequent persistent deltas mean **2023-05 is effectively In progress**, not untouched: the May 1 Netanyahu no-contempt follow-up and May Comptroller routes have been reviewed, but all required subject/source lanes have not been explicitly closed, so May is not promoted to Complete.
+- **2023-06 — In progress.** LEAD23-06-001 has been resolved as Merged into LEAD-2022-0004 because the June Police Ordinance litigation is procedural history of that existing event. Broader Netanyahu/Smotrich/Ben-Gvir/other-right, official, Comptroller/inquiry, Knesset and original-media closure is not yet sufficient to mark June Complete.
+- After the May/June unresolved lane closure, systematic work remains extensive from **2023-07 onward**, plus older high-salience background only where the configured threshold is met.
+- **No period promoted to Complete.** No systemic failure was attached to an individual without a direct responsibility link.
