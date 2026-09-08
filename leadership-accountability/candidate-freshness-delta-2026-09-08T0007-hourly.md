@@ -1,0 +1,11 @@
+# Leadership accountability candidate delta — 2026-09-08 00:07Z
+
+Freshness window rescanned: 2026-08-25 through 2026-09-08, with unresolved legal-status candidates prioritized.
+
+- **LEAD26-08-018 — Unresolved / interim freshness lead.** On Aug. 13 the Central Elections Committee, through Justice Noam Sohlberg, issued a temporary injunction ordering Benjamin Netanyahu/Likud to remove a Malha Mall campaign video featuring interactions with children, with reporting describing the issue as the statutory prohibition on involving children in election propaganda. The video could be republished after removing the relevant child-contact segments. Proceedings were still pending, so this is **not** recorded as a final merits finding. Canonical `Events` was searched for `Malha` and `children`; no existing event matched. A secondary report later alleged the video remained online despite the order, but direct strong/primary confirmation of that alleged noncompliance was not recovered, so that allegation is not promoted.
+- **LEAD26-08-016 — strengthened but still Unresolved.** Secondary reporting consistently describes Sohlberg's partial Ben-Gvir ruling: blur/remove identifiable police/security personnel where possible, remove segments featuring police without Ben-Gvir/non-security personnel, while not barring his tours and imposing no costs. Preferred official CEC decision text remains missing.
+- **LEAD26-08-017 — still interim.** Smotrich's AI campaign video involving children remains supported only by a temporary injunction pending adjudication; no final merits decision was recovered.
+- **LEAD26-09-013/014 — still Unresolved.** Existing responsibility/attribution gaps remain; no systemic failure is attached to an individual without a direct responsibility link.
+- **2023-05 historical lane — no new qualifying final finding in this pass.** Primary/legal unresolved candidates were prioritized rather than forcing an adverse event.
+
+Accepted this run: **0**. Temporary orders and reported allegations retain their exact procedural status.
