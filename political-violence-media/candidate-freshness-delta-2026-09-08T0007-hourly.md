@@ -1,0 +1,11 @@
+# Political violence candidate delta — 2026-09-08 00:07Z
+
+Freshness window rescanned: 2026-08-25 through 2026-09-08. Canonical Sheet deduplication was performed before adding new freshness leads.
+
+- **SEP26-034 — Unresolved freshness lead.** Sep. 7 footage from Wadi Rahim in the South Hebron Hills shows unidentified individuals throwing stones at Palestinian electric-company workers repairing power lines and at nearby Border Police officers. Palestinian media attributed the throwers to settlers, but Times of Israel described them as unidentified and reported that Border Police/IDF had not yet commented; no injuries were reported. Exact event footage is embedded via journalist Nurit Yohanan. Canonical `Incidents` was searched for `Wadi Rahim`/`Rahim` and no duplicate of this Sep. 7 event was found. Do **not** assign settler/far-right affiliation until perpetrator identity is independently corroborated.
+- **SEP26-033 — still Unresolved.** Sep. 5 Habima Square reporting still establishes a confrontation and two arrests on suspicion of mutual assault, but does not resolve who committed which act. Exact incident media and independent event-level corroboration remain missing.
+- **SEP26-032 — strengthened but still Unresolved.** WAFA and Petra both report the Sep. 7 Beita assault/agricultural-shed attack and Beita–Osarin electricity-line damage. Because Petra appears dependent on Palestinian/local reporting rather than a clearly independent event-level chain, this is not promoted.
+- **MAR23-015 — material historical correction / split required.** The named Munir Ahmed Abdullah Mur vehicle-stoning injury on Al-Maarajat Road belongs to **Mar. 19, 2023**, not Mar. 26: the NAD daily report, WAFA and PSNA align on the Mar. 19 event and named victim. Remove Munir Mur from any Mar. 26 component before promotion. The remaining Deir Istiya/Mar. 26 component is still unresolved and should be treated separately.
+- **JUL26-001 — still Unresolved.** Preferred official court-hosted decision/exact-media chain remains missing.
+
+Accepted this run: **0**. No attribution standard was lowered and no generic imagery was used.
