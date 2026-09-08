@@ -7,7 +7,7 @@
 - `C14-SEP26-005`: chronology remains strong counter-evidence to the monitored Yinon Magal/Eisenkot death-penalty wording, but the original Magal/Channel 14 asset remains inaccessible; no adverse verdict is issued from the monitoring record alone.
 
 ## Historical unresolved-first / backfill
-- The November 6, 2023 tunnel-footage provenance lead gained another contemporaneous preservation route: Hageula reproduces the exact `@Now14Israel` wording and media token `XiRcXGPDIX`, alongside the already preserved MivzakLive route. The original Channel 14/X video binary is still unavailable, so the provenance/media gap remains unresolved and no substitute imagery is used.
+- The November 6, 2023 tunnel-footage provenance lead was rechecked. Hageula and MivzakLive both preserve the exact `@Now14Israel` wording and media token `XiRcXGPDIX`, confirming the previously recorded mirror provenance. The original Channel 14/X video binary is still unavailable, so the provenance/media gap remains unresolved and no substitute imagery is used.
 
 ## Run disposition
 - New canonical verdicts: **0**
