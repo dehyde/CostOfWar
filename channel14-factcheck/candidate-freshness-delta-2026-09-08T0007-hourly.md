@@ -1,0 +1,11 @@
+# Channel 14 fact-check candidate delta — 2026-09-08 00:07Z
+
+Freshness window rescanned: 2026-08-25 through 2026-09-08. Existing origin/provenance gaps were prioritized before broad rediscovery.
+
+- **C14-SEP26-004 — Unresolved freshness lead.** A Sep. 1 monitored statement attributed to Eddie Cohen about Ahmad al-Sharaa says: `זה הנשיא הראשון שאומר אני יש לי מגעים`. The monitoring page preserves the linked X status ID `2094750747904680442`. Strong non-social historical evidence from the Knesset, U.S. State Department historical record and ECF documents Anwar Sadat publicly offering to address the Knesset in Nov. 1977 and becoming the first Arab head of state to visit Israel. However, Cohen's surrounding context may have narrowed the claim (for example, to a Syrian president), and the exact Channel 14 container/timecode plus precise origin role are still missing. **No verdict is assigned.** Canonical `Claims` was searched for Eddie Cohen and no existing canonical match was found.
+- **November 2023 tunnel-footage candidate — provenance strengthened, still Unresolved.** MivzakLive and Hageula contemporaneously preserve the full exact Now14 post wording, attribution to `@Now14Israel`, and media token `pic.twitter.com/XiRcXGPDIX` from the already identified Nov. 6 first-party post. Direct/stable recovery of the original video binary remains unavailable, so no substitute tunnel footage is used and canonical publication remains withheld.
+- **C14-SEP26-002 — still Unresolved.** Exact Riklin & Co. container is known, but spoken wording/timecode remains unverified and differs materially from the displayed article quote.
+- **C14-SEP26-003 — still Unresolved.** The repeated Isaac Amit “appointed himself” lead still lacks exact current Channel 14 origin and resolved origin role. Older guest/panelist uses are not treated as Channel 14 editorial speech.
+- **C14-AUG26-007 — still Unresolved.** Strong counter-evidence remains against the Bardugo/Qatar “Mecca pact” statement, but exact original Channel 14 clip/container and precise origin role remain missing.
+
+Accepted this run: **0**. No adverse verdict was forced without exact-context/origin resolution.
