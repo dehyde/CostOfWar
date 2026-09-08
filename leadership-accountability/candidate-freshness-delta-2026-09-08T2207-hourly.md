@@ -1,0 +1,13 @@
+# Leadership accountability candidate/freshness delta — 2026-09-08T22:07Z
+
+Freshness window rechecked: 2026-08-26 through 2026-09-09.
+
+- `LEAD26-09-018` — **NEW / Unresolved / high-salience governance candidate.** Zman Yisrael reports, citing a report in `Hayom`, that Prime Minister Benjamin Netanyahu left the 2026-09-06 security-cabinet meeting for a meeting with Shlomo Filber, a former prosecution witness in Netanyahu's trial who now conducts opinion research, with Defense Minister Israel Katz chairing during Netanyahu's absence. Zman says neither Netanyahu's office nor Filber responded. This is currently a **single reporting chain**; no original `Hayom` item, cabinet record, meeting log, or independent confirmation was recovered, and the purpose/content of the Filber meeting is not established. Do not infer personal/electoral motive. Source: https://www.zman.co.il/live/722304/
+- `LEAD26-09-017` — **Unresolved; institution-level evidence strengthened, personal attribution still blocked.** The official procurement page remains explicitly a pre-committee `כוונה להתקשר` notice for ₪4m + ₪4m phases and does not itself prove final award/payment. Reuters now reports that on Aug. 2 the National Security Ministry agreed to a joint Ahavat Gilad project and quotes the ministry saying it chose to finance the organization because of claimed violence-prevention/youth outcomes. This materially strengthens the proposition that the **ministry** selected/endorsed the project, while not establishing a direct Ben-Gvir order, signature or final payment. Preserve the ministry's defense that sanctions against Ahavat Gilad reflect an anti-Israel agenda. Sources: https://mr.gov.il/ilgstorefront/ar/p/4000619423 ; https://www.reuters.com/world/middle-east/how-two-israeli-brothers-are-driving-west-bank-settler-land-grab-2026-09-08/
+- `LEAD26-09-016` — **Unresolved.** No official UAE confirmation, authenticated warning record or inquiry finding surfaced beyond the already-preserved AP/UAE response and PMO denial.
+- `LEAD26-09-015` unresolved; `LEAD26-08-016` Blocked; `LEAD26-08-017/018` Interim.
+- Existing canonical `LEAD-2026-0010` unchanged; exact-preview and Notion downstream gaps remain tracked.
+
+Historical/unresolved-first work included a renewed search for the preferred official CEC text for `LEAD26-08-016`; secondary reporting still documents the partial ruling and 46-second Jaffa video, but no preferred official decision text or exact original video surfaced.
+
+Run result: **0 new canonical events; 1 new high-salience unresolved candidate; 1 existing candidate materially strengthened; 0 newly Complete periods.**
