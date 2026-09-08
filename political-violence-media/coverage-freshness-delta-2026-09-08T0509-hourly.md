@@ -1,0 +1,7 @@
+# Political violence coverage delta — 2026-09-08 05:09Z
+
+- Freshness window **2026-08-25 through 2026-09-08** rechecked across recent Reuters/major Israeli reporting plus Palestinian/local and exact-media discovery lanes. Current September remains **In progress**; no lane is treated as complete merely because no additional canonical incident was accepted.
+- Earliest persistent incomplete historical period remains **2023-03 — In progress**. OCHA, Reuters and AP are already resolved in the base ledger; B'Tselem, Yesh Din, Guardian/+972, Times of Israel, Haaretz, Israeli-broadcaster, Palestinian/local and original-source/media closure remains incomplete or explicitly gapped. `MAR23-014`, `MAR23-015`, `MAR23-016` aggregate residuals and `MAR23-028` remain open.
+- `MAR23-014` was specifically reworked this run: the Mar. 16 Tuba reporting is already a separate accepted incident and cannot be used to allocate OCHA's remaining aggregate dated 15/18/21/25/26 March. This closes no remaining Sinjil/Tuba component.
+- The persistent base ledger still shows **2023-04 onward largely Not started** for systematic month-level political-violence backfill; work remains directed first at the unresolved March queue before moving into April, while freshness continues in parallel.
+- **No period promoted to Complete.** Explicit unresolved attribution, event-granularity and media gaps remain preserved.
