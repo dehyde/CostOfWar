@@ -8,7 +8,7 @@
 ### C14-NOV23-004 — materially advanced
 - Claim origin remains: recurring panelist (Irit Linor), not Channel 14 editorial speech.
 - Narrow prospective verdict remains False: Linor said President Biden omitted Abigail/Avigail Idan’s murdered parents; Biden’s 2023-11-26 remarks explicitly described her mother being killed and her father being shot and killed while shielding her.
-- Exact contemporaneous video-bearing evidence of the Channel 14 segment is now located in the Bodkim fact-check tweet: X status 1728881664812798364. This is claim-specific exact media, not generic/related imagery.
+- Exact contemporaneous video-bearing evidence of the Channel 14 segment is now located in the Bodkim fact-check tweet: @bodkim2022, X/Twitter status 1728881664812798364. Zman Israel’s 2023-12-03 page preserves the embedded tweet, its claim wording and attached-video reference. This is claim-specific exact media, not generic/related imagery.
 - Publication status: evidence-resolved, archival/publication-blocked. The prior blocker “exact clip missing” is replaced by “exact clip located; binary archival and stable GitHub preview still pending.” Do not publish canonically until the exact media binary is archived and previewed according to the write chain.
 
 ### C14-NOV23-003
