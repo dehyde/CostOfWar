@@ -6,6 +6,7 @@ Freshness window: 2026-08-27 through 2026-09-10.
 - `SEP26-046` — **Accepted as `ILPV-2026-0089`**. On 2026-09-07 in Burqa northwest of Nablus, Israel Police said several masked assailants set fire to three Palestinian cars and wounded locals. Palestinian media characterized the assailants as settlers, but police did not identify them as Israeli; political affiliation therefore remains `Unclear / unknown`.
 - Same-evening injury attribution/count is conflicting: Times of Israel reports police said locals were wounded by the masked assailants, while WAFA/PRCS attributes two beating injuries to Israeli soldiers. The canonical row therefore leaves the numeric injury count blank and severity `Unknown` rather than forcing zero/two or assuming the reports refer to the same injuries.
 - Exact same-event AlHadath video was recovered at `https://x.com/AlHadath/status/2097032190844383288`; a reusable binary/stable GitHub preview could not be recovered, so no substitute imagery and no Notion publication were used.
+- `SEP26-047` — **Unresolved**. WAFA's Arabic report dated 2026-09-08 says settlers attacked homes in al-Masoudiya on Burqa lands before dawn, injuring Mohammad al-Khalil and his son, who were hospitalized. Several Palestinian outlets repeat the same local-source wording; no independent same-event route surfaced. WAFA's English page metadata is dated Sep. 8 but its body mistakenly says Sep. 1, while the Arabic/French reports and derivative publication dates consistently indicate Sep. 8. Preserve the date ambiguity and one-origin status; do not canonize or use generic imagery.
 
 ## Historical backfill
 ### MAR23-028 — Deir Sharaf armed threat / donkey theft
@@ -19,5 +20,6 @@ Freshness window: 2026-08-27 through 2026-09-10.
 
 ## Run result
 - New canonical acceptances: 1 (`ILPV-2026-0089`).
+- New unresolved freshness candidates: 1 (`SEP26-047`).
 - Existing unresolved historical packages rechecked: 3.
 - Generic or merely related imagery used: 0.
