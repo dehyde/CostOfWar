@@ -3,8 +3,8 @@
 Freshness window: 2026-08-27 through 2026-09-10.
 
 ## Freshness
-- `SEP26-046` — **Accepted as `ILPV-2026-0089`**. On 2026-09-07 in Burqa northwest of Nablus, Israel Police said several masked assailants set fire to three Palestinian cars. Palestinian media characterized the assailants as settlers, but police did not identify them as Israeli; political affiliation therefore remains `Unclear / unknown`.
-- Same-evening injury attribution is conflicting: Times of Israel reports police said locals were wounded by the masked assailants, while WAFA/PRCS attributes two beating injuries to Israeli soldiers. The canonical row conservatively counts only the independently verified arson/property damage and does not assign those injuries to the masked assailants.
+- `SEP26-046` — **Accepted as `ILPV-2026-0089`**. On 2026-09-07 in Burqa northwest of Nablus, Israel Police said several masked assailants set fire to three Palestinian cars and wounded locals. Palestinian media characterized the assailants as settlers, but police did not identify them as Israeli; political affiliation therefore remains `Unclear / unknown`.
+- Same-evening injury attribution/count is conflicting: Times of Israel reports police said locals were wounded by the masked assailants, while WAFA/PRCS attributes two beating injuries to Israeli soldiers. The canonical row therefore leaves the numeric injury count blank and severity `Unknown` rather than forcing zero/two or assuming the reports refer to the same injuries.
 - Exact same-event AlHadath video was recovered at `https://x.com/AlHadath/status/2097032190844383288`; a reusable binary/stable GitHub preview could not be recovered, so no substitute imagery and no Notion publication were used.
 
 ## Historical backfill
