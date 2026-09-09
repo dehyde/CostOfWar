@@ -3,7 +3,8 @@
 ## Freshness
 - Prior 14+ days rescanned through 2026-09-10.
 - One new distinct incident was accepted: `ILPV-2026-0089`, the 2026-09-07 Burqa three-vehicle arson. Police also reported locals wounded, but source conflict prevents a reliable injury count/attribution; severity remains `Unknown`. Actor identity/affiliation remains deliberately unresolved.
-- Exact original media was linked in the canonical Sheet; stable preview remains Blocked, so no Notion card was created.
+- One additional fresh candidate, `SEP26-047`, remains **Unresolved**: the 2026-09-08 al-Masoudiya/Burqa assault on Mohammad al-Khalil and his son currently traces to WAFA/local-source repetitions without independent same-event corroboration; a WAFA English body-date typo is explicitly preserved rather than silently resolved.
+- Exact original media for `ILPV-2026-0089` was linked in the canonical Sheet; stable preview remains Blocked, so no Notion card was created.
 
 ## Historical backfill
 - March 2023 remains **In progress**.
