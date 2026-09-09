@@ -1,0 +1,10 @@
+# Candidate delta — 2026-09-09T13:36:49Z
+
+Freshness window rescanned: 2026-08-26 through 2026-09-09.
+
+- `LEAD26-09-023` — **Unresolved / documented procedural-lapse candidate**. On 2026-09-07, the Likud's internal court instructed party chairman Benjamin Netanyahu to present/publish his proposed reserved slate candidates by 21:00, warning that failure could support a secret-ballot procedure without the normal signature threshold and that last-minute disclosure could be viewed as an improper maneuver. Walla and Times of Israel report the tribunal instruction; Israel Hayom and additional contemporaneous reporting state the 21:00 deadline passed without publication, after which Netanyahu said the names would be released the next morning. On 2026-09-08, Likud published/finalized the reserved candidates and submitted its slate. No source found in this pass establishes a sanction, contempt finding, or final tribunal determination that Netanyahu committed a legal/ethical violation. Keep non-canonical pending recovery of the tribunal's original ruling and final procedural outcome; do not describe this as defiance of a state court.
+- `LEAD26-09-016` — **Unresolved**. Fresh recheck found Netanyahu's renewed denial and instruction to lawyers to file a defamation suit over the alleged UAE warning; no filed complaint or independent verification of the alleged warning call surfaced in this pass.
+- `LEAD26-09-019/020/021/022` — no threshold-changing primary/legal update found. In particular, no new ruling surfaced on the Damon-prison campaign-video complaint, and the Jalud ruling remains systemic without a sufficiently direct personal-responsibility finding against Katz.
+- May 2023 backfill recheck: no new adverse personal finding found in the previously reviewed Smotrich/West Bank-powers or Netanyahu litigation lanes; prior limiting/exculpatory context remains controlling.
+
+No canonical leadership event was accepted in this pass.
