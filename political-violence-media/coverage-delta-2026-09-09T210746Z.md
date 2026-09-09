@@ -2,7 +2,7 @@
 
 ## Freshness
 - Prior 14+ days rescanned through 2026-09-10.
-- One new distinct incident was accepted: `ILPV-2026-0089`, the 2026-09-07 Burqa three-vehicle arson. Actor identity/affiliation and same-evening injury attribution remain deliberately unresolved where sources conflict.
+- One new distinct incident was accepted: `ILPV-2026-0089`, the 2026-09-07 Burqa three-vehicle arson. Police also reported locals wounded, but source conflict prevents a reliable injury count/attribution; severity remains `Unknown`. Actor identity/affiliation remains deliberately unresolved.
 - Exact original media was linked in the canonical Sheet; stable preview remains Blocked, so no Notion card was created.
 
 ## Historical backfill
