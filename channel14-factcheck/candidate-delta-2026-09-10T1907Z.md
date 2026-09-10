@@ -6,8 +6,8 @@
 - `C14-2026-0005` / Sara Netanyahu–Yair Golan remains canonical False with prior legal-filing follow-up; exact reusable claim-frame/preview blocker remains unchanged.
 
 ## Historical backfill
-- `C14-MAY23-002` remains counter-evidence resolved but original Channel 14 clip / exact broadcast-date provenance blocked.
+- `C14-MAY23-002` **provenance strengthened but remains blocked**. The Seventh Eye's documented archive resolves the program as `Riklin & Segal` and preserves Fleischman's exact May 2023 claim that organs are removed from minors and that in the US "they start doing these things to children aged three." Credible medical counter-evidence remains sufficient to reject surgery-at-age-three as stated, but the exact Channel 14 broadcast day and original clip/direct asset were still not recovered in this pass. Do not canonicalize until provenance/media standards are met. Source: https://www.the7eye.org.il/529152
 - Other September unresolved/publication blockers remain in queue under their existing state.
 
 ## Writes
-- 0 new canonical claims this run. Two rediscoveries were reconciled to existing canonicals; one stale unresolved candidate was removed from the effective queue.
+- 0 new canonical claims this run. Two rediscoveries were reconciled to existing canonicals; one stale unresolved candidate was removed from the effective queue; one historical candidate gained program-level/exact-quote provenance.
