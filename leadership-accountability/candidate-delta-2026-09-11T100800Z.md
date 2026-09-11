@@ -8,10 +8,12 @@ No fresh leadership item crossed the canonical threshold in this pass. Existing 
 
 ## New historical candidate
 
-- `LEAD-HIST-NETANYAHU-CHANNEL20-001` — Benjamin Netanyahu interventions concerning Channel 20 regulatory treatment (2016-2017; evidence preserved in later recordings / trial testimony).
-  - Seventh Eye's reconstruction of investigation and trial material reports Nir Hefetz saying Netanyahu, Shlomo Filber and Hefetz divided responsibilities for assisting Channel 20 and that Hefetz's Channel 20 activity was undertaken for Netanyahu.
-  - Ynet's reporting on leaked 2017 Netanyahu-Ayoub Kara recordings independently preserves Netanyahu pressing on Channel 20 regulatory changes; Netanyahu's response was that his involvement was lawful and consistent with the attorney general's guidance and was aimed at media pluralism.
-  - Status: **Unresolved / high-priority historical background**. Before canonicalization retrieve and validate primary trial transcript/audio and the relevant regulatory/legal record. Do not infer quid pro quo, corruption, illegality, or motive from the secondary record alone. Preserve Netanyahu's legal/merits defense in any future canonical entry.
+- `LEAD-HIST-NETANYAHU-CHANNEL20-001` — Benjamin Netanyahu interventions concerning Channel 20 regulatory treatment (2016-2017; evidence preserved in recordings and later trial testimony).
+  - **Primary record located:** Jerusalem District Court transcript, State of Israel v. Netanyahu et al., case 67104-01-20, 20 Dec. 2021. On transcript page 75, Nir Hefetz testified that “100%” of his Channel 20 activity was on Benjamin Netanyahu's behalf; nearby testimony discusses Channel 20 licensing/regulatory matters and Hefetz's interactions with Communications Ministry director-general Shlomo Filber.
+  - Seventh Eye's reconstruction of investigation and trial material adds Hefetz's account that Netanyahu, Filber and Hefetz divided responsibilities for assisting Channel 20.
+  - Ynet's reporting on leaked 2017 Netanyahu-Ayoub Kara recordings independently preserves Netanyahu pressing on Channel 20 regulatory changes. Netanyahu's response was that his involvement was lawful and consistent with the attorney general's guidance and was aimed at media pluralism.
+  - Status: **Unresolved / high-priority historical background, materially strengthened**. The primary transcript establishes personal involvement/delegation but does not by itself establish an ethical or legal violation. Before adverse canonicalization, retrieve/validate the relevant recordings and attorney-general/regulatory scope and identify the narrow concrete accountability issue. Do not infer quid pro quo, corruption, illegality, or motive. Preserve Netanyahu's legal/merits defense.
+  - Primary transcript: https://cdn.the7eye.org.il/uploads/2021/12/%D7%A4%D7%A8%D7%95%D7%98%D7%95%D7%A7%D7%95%D7%9C-%D7%9E%D7%A9%D7%A4%D7%98-%D7%94%D7%9E%D7%95%D7%9C%D7%99%D7%9D-20.12.pdf
 
 ## Existing unresolved queue
 
