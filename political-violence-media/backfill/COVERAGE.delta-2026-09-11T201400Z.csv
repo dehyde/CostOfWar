@@ -1,0 +1,3 @@
+period,date_from,date_to,lane,status,notes
+freshness-14d,2026-08-28,2026-09-11,all,In progress,"Freshness pass rechecked recent canonicals and unresolved-first Omer Manor/Abu Hamra candidates. No threshold crossing or new exact media."
+historical-open,2022-08-17,2026-08-27,unresolved-first,In progress,"MAR23-028 remains B'Tselem exact-event only; South Hebron historical mapping gaps remain open. No affiliation inference from context. No period newly Complete."
