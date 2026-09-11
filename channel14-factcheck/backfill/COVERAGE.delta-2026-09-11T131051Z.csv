@@ -1,0 +1,4 @@
+period,date_from,date_to,lane,status,notes
+freshness-14d,2026-08-28,2026-09-11,all,In progress,"Freshness pass and provenance reconciliation performed. A May 2026 Bardugo/Arab-leaders condemnation claim surfaced via FakeReporter with an exact Bodkim video route, but it is not safely merged with C14-2026-0003 and remains unresolved pending exact broadcast date/program provenance. No new canonical or forced adverse verdict."
+2023-11,2023-11-01,2023-11-30,reconciliation,In progress,"Master COVERAGE.csv is stale: canonical Sheet already contains November 2023 accepted claims C14-2023-0007, C14-2023-0009 and C14-2023-0011. Do not mark Complete yet; systematic required-lane reconciliation remains pending."
+historical-open,2022-08-17,2026-08-27,unresolved-first,In progress,"Unresolved exact-media/provenance candidates remain ahead of broad rediscovery. No period newly marked Complete."
