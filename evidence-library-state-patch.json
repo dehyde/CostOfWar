@@ -9,31 +9,31 @@
         "candidate_count": "29",
         "accepted_count": "22",
         "media_complete_count": "3",
-        "notes": "22 accepted; 0 pending; 4 unresolved; 2 merged; 1 rejected; 3 media-complete. MAR23-016 unitization advanced without creating duplicates: its Mar. 17 Husan tree-vandalism component is already canonical ILPV-2023-0322 and its mid-March Yasuf/As-Sawiya component is already canonical ILPV-2023-0324. Both canonical records explicitly tie their local event evidence to OCHA's Mar. 14-27 tree-vandalism lane. Remaining MAR23-016 tree/locality and property/livestock components still require event-level matching. MAR23-014, MAR23-015 and MAR23-028 remain unresolved. No generic or merely related imagery was used."
+        "notes": "22 accepted; 0 pending; 4 unresolved; 2 merged; 1 rejected; 3 media-complete. Unresolved-first recheck again found no independent exact-event corroboration for MAR23-028 (Ibrahim Nofal / Deir Sharaf donkey theft); B'Tselem remains the only specific route, and distinct same-area incidents are not treated as corroboration. MAR23-014, MAR23-015, MAR23-016 and MAR23-028 remain unresolved. No generic or merely related imagery was used."
       }
     },
     {
       "path": "channel14-factcheck/backfill/COVERAGE.csv",
       "key_column": "period",
-      "key": "2023-10",
+      "key": "2023-11",
       "set": {
         "Channel14 own archive": "Blocked",
         "Major Israeli media": "Complete",
         "International reporting": "No results",
         "Official and legal": "Complete",
         "Fact-check and research": "Complete",
-        "Original media recovery": "Blocked",
+        "Original media recovery": "Complete",
         "candidate_count": "2",
         "accepted_count": "2",
-        "media_complete_count": "0",
+        "media_complete_count": "1",
         "status": "Complete with gaps",
-        "notes": "October is reconciled at 2 candidates / 2 accepted. C14-OCT23-001 is canonical C14-2023-0005 (Ariel Idan's false Oct. 14 no-bodily-casualties summary). C14-OCT23-002 is already canonical C14-2023-0010: Channel 14's Oct. 14 homepage counter labeled 3,600 as 'terrorists we eliminated,' while the IDF's Oct. 12 war diary and Channel 14's own Oct. 12 article distinguished hundreds of terrorists killed from more than 3,600 targets attacked. Exact screenshots are preserved by The Seventh Eye, but standalone original assets/stable GitHub previews remain unrecovered. Broad Hebrew/English archive/media/official/research rechecks found no third defensible October claim. Historical broad-archive access and standalone exact-media extraction are explicitly Blocked; no substitute imagery was used."
+        "notes": "November is reconciled at 2 candidates / 2 accepted with no duplicate canonicals. C14-NOV23-001 is canonical C14-2023-0007 (Dana Varon / Esther Hayut rescue falsehood — False / High); exact broadcast capture is recovered as C14MED-2023-0005, but its stable GitHub preview remains Blocked because the exact X post yields no thumbnail. C14-NOV23-002 is canonical C14-2023-0009 (Smadar Hila Shmueli / Shikma Bressler foreknowledge insinuation — Unsupported / Medium); exact broadcast and stable exact-frame preview C14MED-2023-0007 are complete. Broad Hebrew/English rechecks across Channel 14 search, major Israeli media, international reporting, official/regulatory material and fact-check/research routes found no third defensible November claim. Channel 14's historical first-party archive remains an explicit Blocked gap. Preserve Varon as a panelist of unresolved recurring status and Shmueli as guest/interviewee; neither is labeled Channel 14 editorial speech. No generic or related imagery was used."
       }
     },
     {
       "path": "leadership-accountability/backfill/COVERAGE.csv",
       "key_column": "period",
-      "key": "2023-04",
+      "key": "2023-05",
       "set": {
         "Netanyahu": "Complete",
         "Smotrich": "Complete",
@@ -42,13 +42,13 @@
         "Official government": "Complete",
         "Comptroller and inquiries": "No results",
         "Court and legal": "Complete",
-        "Knesset": "No results",
+        "Knesset": "Complete",
         "Original media recovery": "No results",
-        "candidate_count": "3",
+        "candidate_count": "2",
         "accepted_count": "0",
         "media_complete_count": "0",
         "status": "Complete",
-        "notes": "April is fully processed at 3 candidates / 0 accepted. LEAD23-04-001 is Merged into LEAD-2023-0004 as limiting procedural follow-up; LEAD23-04-002 is Rejected because the national-guard proposal and police/AG warnings do not establish a concrete failure or final legal violation; LEAD23-04-003 is Rejected because the earlier coalition text preserved an extreme-cases exception, so a contradiction over administrative detention is not forced. Final checks across core leaders, other prominent current-right leaders, government, legal, Knesset and Comptroller/inquiry routes found no additional April event meeting the direct-responsibility threshold. No motive is inferred. No accepted event required media publication."
+        "notes": "May is fully processed at 2 unique reviewed candidates / 0 accepted. LEAD23-05-001 preserves the May 10 Smotrich High Court interim-order denial and the later final disposition as limiting legal context: the original institutional arrangement drew legal criticism but was later amended and the final judgment did not assign Smotrich personal fault, so no individual accountability event is forced. LEAD23-05-003-C001 reviews Ben-Gvir's May 22 NIS 250m budget-support deal and rejects it as ordinary coalition budget bargaining on current evidence: no illegality, ethics breach, false statement, concrete governance failure, personal financial benefit or documented improper motive was recovered. Completion rechecks across Netanyahu, Smotrich, Ben-Gvir, other prominent current-right leaders, government, court/legal, Knesset and Comptroller/inquiry routes found no additional May event meeting the direct-responsibility threshold. No accepted event required media publication."
       }
     }
   ]
