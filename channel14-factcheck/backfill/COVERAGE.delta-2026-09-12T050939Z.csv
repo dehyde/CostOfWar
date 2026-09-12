@@ -1,0 +1,4 @@
+run_at,period,lane,status,result,gaps
+2026-09-12T050939Z,2026-08-30→2026-09-12,Freshness,In Progress,"14-day+ rescan; no new canonical; Eisenkot factual contradiction reconfirmed but Channel 14 provenance still absent","Exact Channel 14 broadcast/editorial origin still missing"
+2026-09-12T050939Z,2026-08,Historical backfill,In Progress,"Prioritized C14-AUG26-EISENKOT-DEATHPENALTY-001; C14 site/YouTube/exact-phrase searches again found no broadcast/editorial instance","Personal social output alone remains insufficient"
+2026-09-12T050939Z,2022-08-17→2026-09-12,Systematic coverage,In Progress,"No completeness status advanced; adverse-verdict standards unchanged","Historical periods and required source lanes remain incomplete or not explicitly blocked"
