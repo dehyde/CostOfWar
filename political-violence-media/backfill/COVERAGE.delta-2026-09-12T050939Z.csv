@@ -1,0 +1,4 @@
+run_at,period,lane,status,result,gaps
+2026-09-12T050939Z,2026-08-30→2026-09-12,Freshness,In Progress,"14-day+ rescan; added unresolved OWEISAT-JERUSALEM-2026-08-30 with named victim/hospitalization and incident-specific archived media; Huwara water candidate remains unresolved","Need independent exact-event route/original media source for Oweisat; Huwara still lacks independent exact-event corroboration"
+2026-09-12T050939Z,2023-03,Historical backfill,In Progress,"Prioritized unresolved state including MAR23-028; no threshold crossing","Independent exact-event route still missing"
+2026-09-12T050939Z,2026-09,Historical backfill,In Progress,"Rechecked Huwara/Khallet-Hummus/Abu-Hamra and South Hebron water-attack lanes; derivative sources not counted as independent","Multiple event-specific corroboration/media gaps remain"
