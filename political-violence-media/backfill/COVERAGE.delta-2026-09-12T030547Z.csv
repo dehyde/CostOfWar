@@ -1,0 +1,4 @@
+run_at,period,lane,status,result,gaps
+2026-09-12T030547Z,2026-08-30→2026-09-12,Freshness,In Progress,"14-day+ freshness rescan; new unresolved HUWARA-WATER-2026-09-10 with exact original video embedded by ToI; no canonical threshold crossing","Need independent incident/actor corroboration; Abu Hamra, MAR23-028 and Khallet-Hummus remain unresolved"
+2026-09-12T030547Z,2023-03,Historical backfill,In Progress,"Prioritized MAR23-028; no second independent exact-event route surfaced","Second route and exact/original media if available"
+2026-09-12T030547Z,2026-09,Historical backfill,In Progress,"Prioritized unresolved Abu Hamra and Khallet-Hummus plus South Hebron media/dedupe checks; no threshold crossing","Independent exact-event corroboration remains missing"
