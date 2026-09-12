@@ -1,0 +1,14 @@
+# Leadership accountability candidate delta — 2026-09-12T10:07:12Z
+
+## Freshness / unresolved candidates
+
+- No new leadership event crossed the canonical accountability threshold in this pass.
+- `LEAD26-09-025` — materially strengthened. Walla reported on Sep. 10 that Ben-Gvir personally interviewed **96 police officers seeking promotion in 2025, from superintendent (רפ״ק) rank upward**, after 109 such interviews in 2024; the report says prior ministers generally interviewed only candidates for the two highest command ranks. Walla also reports that Ben-Gvir insisted current appointments be individually approved by him and that several senior posts remained unfilled amid the dispute. Ben-Gvir's defense is preserved: he says a minister who signs appointments should personally assess candidates and said he is proud that appointed officers implement his policy of representation, governance, sovereignty and professionalism. This strengthens evidence of unusually direct ministerial involvement in police promotions and the direct-responsibility link around the current appointments dispute. It does **not** by itself establish illegality, corrupt motive, retaliation or personal gain. Keep `Unresolved` under the existing candidate pending stronger official/judicial findings or a sufficiently concrete standalone accountability finding.
+- `LEAD26-09-016` — new procedural follow-up: after the disputed report that UAE President Mohammed bin Zayed warned Netanyahu before October 7, Netanyahu publicly announced that he had instructed lawyers to pursue defamation action. No independently verified filed case/docket was recovered in this pass. The underlying warning remains contested between Emirati-source reporting and Netanyahu/PMO's record-based denial; the official UAE statement still does not specifically confirm the warning. Keep `Unresolved`.
+- `LEAD26-09-JALUD-001` — rechecked through recent Reuters/High Court coverage; return/protection order remains documented but no new final personal misconduct or illegality finding was recovered.
+
+## Older high-salience historical backfill
+
+- `LEAD-HIST-NETANYAHU-CHANNEL20-001` — the Sep. 10 Seventh Eye synthesis was rechecked for regulatory-intervention evidence. It adds a detailed documentary synthesis of Netanyahu's acknowledged personal involvement, recorded Netanyahu–Ayoub Kara calls, testimony and legislative/regulatory support for Channel 20/14. These materials strengthen the factual intervention record but do not supply an official/judicial finding that the Channel 20 intervention violated Netanyahu's 2016 conflict arrangement, constituted a quid pro quo, or was illegal. Keep `Unresolved` and preserve the narrower legal boundary/exculpatory context already recorded.
+
+No motive was inferred, defenses were preserved, and no systemic failure was attached to an individual without a documented responsibility link.
