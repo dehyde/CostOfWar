@@ -1,0 +1,5 @@
+run_at,period,lane,status,result,gaps
+2026-09-12T080840Z,2026-08-30→2026-09-12,Freshness,In Progress,"14-day+ rescan; Huwara water, Abu Hamra, Khallet al-Hummus and Oweisat lanes rechecked; no threshold crossing","HUWARA remains same Shaul/MEE source family; ABU-HAMRA remains WAFA-route; KHALLET-HUMMUS remains local/roundup; Oweisat political relevance remains unestablished"
+2026-09-12T080840Z,2026-09,Historical backfill,In Progress,"Prioritized already-found unresolved HUWARA-WATER-2026-09-10, KHALLET-HUMMUS-2026-09-11 and ABU-HAMRA before broad rediscovery","Independent incident-specific corroboration and/or exact media remain missing where required"
+2026-09-12T080840Z,2023-03,Historical backfill,In Progress,"Rechecked MAR23-028; no threshold crossing","Independent exact-event route remains missing"
+2026-09-12T080840Z,2022-08-17→2026-09-12,Systematic coverage,In Progress,"No completeness status advanced; evidence standards unchanged","Multiple required lanes remain unresolved or not explicitly Blocked"
