@@ -1,0 +1,5 @@
+run_at,period,lane,status,result,gaps
+2026-09-12T151106Z,2026-08-30..2026-09-12,Freshness,In Progress,"Rechecked David Peter, Yuval Malka and Eisenkot provenance lanes; no publication threshold crossing and no new claim met the required first-party-origin standard.","David Peter and Yuval Malka still lack exact first-party Channel 14 program/clip provenance; Eisenkot remains personal-social provenance only."
+2026-09-12T151106Z,2026-08,Historical unresolved,In Progress,"Prioritized unresolved August candidates before broad rediscovery; no new canonical claim.","Required first-party provenance remains missing where applicable."
+2026-09-12T151106Z,2026-06..2026-07,Historical unresolved,In Progress,"Rechecked unresolved candidates and prior dedupes; no threshold crossing.","Required provenance/evidence lanes remain unresolved where applicable."
+2026-09-12T151106Z,2022-08-17..present,Systematic,In Progress,"Freshness and unresolved-first backfill advanced without lowering verdict or provenance standards.","Multiple periods/lanes remain unresolved; none marked Complete."
