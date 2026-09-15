@@ -17,5 +17,6 @@
   {"media_id":"LEADMED-2026-0006","type":"image","source_url":"https://live-production.wcms.abc-cdn.net.au/a669ebc80e0949c06d6487cfab71bc26?cropH=1440&cropW=1080&height=1149&impolicy=wcms_crop_resize&width=862&xPos=0&yPos=147"},
   {"media_id":"LEADMED-2026-0007","type":"pdf","source_url":"https://supremedecisions.court.gov.il/Home/Download?fileName=6de1f77747e04de8872637c155dd3031&path=NetVerdicts%2F2026%2F8%2F20%2F2025-12-61683-49-2&type=4","page":1},
   {"media_id":"LEADMED-2026-0011","type":"image","source_url":"https://media.news1.co.il/UploadImages/NEWSY2049e4a1beb36d4b2587b02cc42dcd1c86.jpg"},
-  {"media_id":"LEADMED-2026-0012","type":"pdf","source_url":"https://ynet-pic1.yit.co.il/picserver6/wcm_upload_files/2026/09/09/SkiYvg1YGx/_____________________________________________________.pdf","page":1}
+  {"media_id":"LEADMED-2026-0012","type":"pdf","source_url":"https://ynet-pic1.yit.co.il/picserver6/wcm_upload_files/2026/09/09/SkiYvg1YGx/_____________________________________________________.pdf","page":1},
+  {"media_id":"LEADMED-2026-0013","type":"pdf","source_url":"https://www.law.co.il/media/computer-law/choosing_israel.pdf","page":5}
 ]
