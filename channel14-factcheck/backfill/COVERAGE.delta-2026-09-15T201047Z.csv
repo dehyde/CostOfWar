@@ -1,0 +1,5 @@
+run_utc,period_or_lane,status,progress,remaining_gaps
+2026-09-15T20:10:47Z,Freshness 2026-09-02 through 2026-09-15,In progress,"Re-scanned Channel 14 first-party/search and external fact-check/official lanes. No new claim crossed the provenance plus counter-evidence threshold; no adverse finding forced from weaker material.","Continue delayed corrections, official/court findings and exact first-party media discovery."
+2026-09-15T20:10:47Z,2024-02 unresolved-first lane,In progress,"Riklin/Atlantic candidate rechecked; exact Channel 14 source container still missing.","First-party wording/media remains required before canonical verdict."
+2026-09-15T20:10:47Z,Media repair lane,Blocked,"C14MED-2026-0012 exact stable preview remains absent/404; canonical C14-2026-0013 unchanged.","Materialize exact preview only; never use generic imagery."
+2026-09-15T20:10:47Z,Systematic 2022-08-17 through 2026-09-15,In progress,"No new canonical claim or verdict this run; unresolved candidates and media repairs were re-prioritized before broad rediscovery.","No period newly qualifies as Complete."
