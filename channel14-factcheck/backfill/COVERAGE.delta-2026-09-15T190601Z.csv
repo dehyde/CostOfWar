@@ -1,0 +1,5 @@
+run_utc,period,pass,status,progress,gaps
+2026-09-15T19:06:01Z,2026-09-02..2026-09-15,Freshness,In progress,"Freshness pass found no new claim meeting the library's provenance + counter-evidence threshold. Existing recent canonicals were checked against current state rather than duplicated.","Continue recent Channel 14 first-party output scan and corrections/court follow-up."
+2026-09-15T19:06:01Z,2025-08,Data integrity / historical,In progress,"Reconciled duplicate Guy Peleg claim: C14-2026-0015 rejected as duplicate of C14-2025-0001; new exact broadcast/court/N12 evidence moved to the earlier canonical.","Stable claim-specific preview still blocked on exact timestamp/frame extraction."
+2026-09-15T19:06:01Z,2024-02,Historical backfill,In progress,"Riklin/Atlantic candidate rechecked without forcing a verdict.","Exact first-party claim container remains missing."
+2026-09-15T19:06:01Z,2022-08-17..2026-09-15,Systematic,In progress,"0 new canonicals; 1 duplicate canonical repaired; source provenance improved for an existing canonical.","No period newly Complete; unresolved exact-media and source-lane gaps remain."
