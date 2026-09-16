@@ -1,18 +1,13 @@
-period,source_lane,status,notes
-2022-12-29..2023-03-31,Israeli security/intelligence,Not started,
-2022-12-29..2023-03-31,Foreign governments/diplomats,Not started,
-2022-12-29..2023-03-31,Professional/expert/academic,Not started,
-2022-12-29..2023-03-31,Local authority/emergency/civil-society,Not started,
-2023-04-01..2023-06-30,Israeli security/intelligence,Not started,
-2023-04-01..2023-06-30,Foreign governments/diplomats,Not started,
-2023-04-01..2023-06-30,Professional/expert/academic,Not started,
-2023-04-01..2023-06-30,Local authority/emergency/civil-society,Not started,
-2023-07-01..2023-08-31,Israeli security/intelligence,Not started,
-2023-07-01..2023-08-31,Foreign governments/diplomats,Not started,
-2023-07-01..2023-08-31,Professional/expert/academic,Not started,
-2023-07-01..2023-08-31,Local authority/emergency/civil-society,Not started,
-2023-09-01..2023-10-06,Israeli security/intelligence,Not started,
-2023-09-01..2023-10-06,Foreign governments/diplomats,Not started,
-2023-09-01..2023-10-06,Professional/expert/academic,Not started,
-2023-09-01..2023-10-06,Local authority/emergency/civil-society,Not started,
-pre-2022-12-29,Older high-salience warnings,Deferred,"Process after systematic primary window unless a major primary document surfaces earlier."
+period,military_intelligence,other_israeli_security,foreign_government_intelligence,experts_research,local_emergency_civil,primary_document_recovery,older_inherited_warnings,notes
+2022-12-29..2022-12-31,Not started,Not started,Not started,Not started,Not started,Not started,n/a,"Systematic window begins with current government."
+2023-01,Not started,Not started,Not started,Not started,Not started,Not started,n/a,
+2023-02,Not started,Not started,Not started,Not started,Not started,Not started,n/a,
+2023-03,In progress,Not started,Not started,Not started,Not started,In progress,n/a,"Lane 1 first run accepted WARN-1 (Amit Saar, Mar 19); Gallant Mar 25 remains a strong candidate; remaining MI-document chronology unresolved."
+2023-04,In progress,Not started,Not started,Not started,Not started,In progress,n/a,"IDF FOIA establishes a four-document Mar-Jul chain, but exact April presence/absence not yet resolved."
+2023-05,In progress,Not started,Not started,Not started,Not started,In progress,n/a,"PMO identifies a May 31 MI assessment; determine whether it qualifies as a warning event and recover exact document metadata/content."
+2023-06,In progress,Not started,Not started,Not started,Not started,In progress,n/a,"IDF FOIA four-document chain spans Mar-Jul; exact June presence/absence not yet resolved."
+2023-07,In progress,Not started,Not started,Not started,Not started,In progress,n/a,"Lane 1 first run accepted WARN-2 (Saar, Jul 16); July date/document reconciliation remains open. Ronen Bar warning belongs to Lane 2."
+2023-08,In progress,Not started,Not started,Not started,Not started,In progress,n/a,"Giora Eiland candidate surfaced but remains retrospective/unresolved; Lane 1 military search not complete."
+2023-09,In progress,Not started,Not started,Not started,Not started,In progress,n/a,"Border-observer, Unit 8200 and Jericho Wall chains require government-receipt tracing; no month marked complete."
+2023-10-01..2023-10-06,In progress,Not started,Not started,Not started,Not started,In progress,n/a,"Oct. 1 security-assessment candidate unresolved. Saar Oct. 6 draft is tracked as internal warning only because it reportedly did not reach PM/cabinet before the attack."
+pre-2022-12-29,n/a,n/a,n/a,n/a,n/a,In progress,In progress,"Concurrent older-warning lane enabled with no arbitrary floor where warnings were repeated to current officeholders or establish documented inherited knowledge; Jericho Wall chronology is a priority."
