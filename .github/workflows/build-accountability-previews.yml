@@ -32,6 +32,10 @@ jobs:
               out="$root/previews/${id}.jpg"
               tmp="$root/tmp/${id}"
               echo "Processing $root / $id ($type)"
+              if [ -f "$out" ]; then
+                echo "Preview already exists for $id; skipping"
+                continue
+              fi
 
               if [ "$type" = "x" ]; then
                 username=$(echo "$item" | jq -r '.username')
