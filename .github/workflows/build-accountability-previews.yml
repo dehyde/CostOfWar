@@ -36,30 +36,30 @@ jobs:
               if [ "$type" = "x" ]; then
                 username=$(echo "$item" | jq -r '.username')
                 status_id=$(echo "$item" | jq -r '.status_id')
-                if ! json=$(curl -fsSL --retry 3 "https://api.fxtwitter.com/${username}/status/${status_id}"); then
+                if ! json=$(curl -fsSL --connect-timeout 10 --max-time 45 --retry 2 "https://api.fxtwitter.com/${username}/status/${status_id}"); then
                   echo "Could not fetch X metadata for $id; skipping" >&2
                   continue
                 fi
                 thumb=$(echo "$json" | jq -r '[.tweet.media.videos[]?.thumbnail_url, .tweet.media.photos[]?.url] | map(select(. != null)) | .[0] // empty')
                 [ -n "$thumb" ] || { echo "No X thumbnail for $id; skipping" >&2; continue; }
-                curl -fsSL --retry 3 "$thumb" -o "${tmp}.img" || continue
-                ffmpeg -nostdin -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out" || rm -f "$out"
+                curl -fsSL --connect-timeout 10 --max-time 45 --retry 2 "$thumb" -o "${tmp}.img" || continue
+                timeout 60 ffmpeg -nostdin -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out" || rm -f "$out"
               elif [ "$type" = "video" ]; then
                 source_url=$(echo "$item" | jq -r '.source_url')
                 frame_second=$(echo "$item" | jq -r '.frame_second // 1')
-                ffmpeg -nostdin -y -loglevel error -ss "$frame_second" -i "$source_url" -frames:v 1 -vf "scale='min(1400,iw)':-2" -q:v 3 "$out" || rm -f "$out"
+                timeout 60 ffmpeg -nostdin -y -loglevel error -ss "$frame_second" -i "$source_url" -frames:v 1 -vf "scale='min(1400,iw)':-2" -q:v 3 "$out" || rm -f "$out"
               elif [ "$type" = "image" ]; then
                 source_url=$(echo "$item" | jq -r '.source_url')
-                curl -fsSL --retry 3 "$source_url" -o "${tmp}.img" || continue
-                ffmpeg -nostdin -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out" || rm -f "$out"
+                curl -fsSL --connect-timeout 10 --max-time 45 --retry 2 "$source_url" -o "${tmp}.img" || continue
+                timeout 60 ffmpeg -nostdin -y -loglevel error -i "${tmp}.img" -vf "scale='min(1400,iw)':-2" -q:v 3 "$out" || rm -f "$out"
               elif [ "$type" = "pdf" ]; then
                 source_url=$(echo "$item" | jq -r '.source_url')
                 page=$(echo "$item" | jq -r '.page // 1')
-                if ! curl -fsSL --retry 3 "$source_url" -o "${tmp}.pdf"; then
+                if ! curl -fsSL --connect-timeout 10 --max-time 45 --retry 2 "$source_url" -o "${tmp}.pdf"; then
                   echo "Could not download PDF for $id; skipping" >&2
                   continue
                 fi
-                if ! pdftoppm -f "$page" -singlefile -jpeg -jpegopt quality=88 -scale-to-x 1400 -scale-to-y -1 "${tmp}.pdf" "${tmp}-page" >/dev/null 2>&1; then
+                if ! timeout 60 pdftoppm -f "$page" -singlefile -jpeg -jpegopt quality=88 -scale-to-x 1400 -scale-to-y -1 "${tmp}.pdf" "${tmp}-page" >/dev/null 2>&1; then
                   echo "Could not render PDF page for $id; skipping" >&2
                   continue
                 fi
