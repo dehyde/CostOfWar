@@ -1,12 +1,12 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-17 12:13 UTC
+Last successful run: 2026-09-17 13:22 UTC
 
 ## Rotation
-- Deep lane completed this run: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**
-- Next deep lane: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**
-- Lane 4 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 4 run. New Foreign Ministry CPR documentary leads should be handled in unresolved-first/document-recovery while the deep lane rotates to Lane 5.
+- Deep lane completed this run: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**
+- Next deep lane: **6 — documentary recovery + historical blind-spot sweep**
+- Lane 5 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 5 run. Tzachi questionnaire and rabbashatz-document leads move to unresolved-first/document recovery while the deep lane rotates to Lane 6.
 
 ## Accepted warnings
 - `WARN-1` — Amit Saar / MI → Benjamin Netanyahu, 2023-03-19. Accepted / High. Strategic deterrence-escalation warning; not a specific Gaza invasion prediction.
@@ -41,49 +41,48 @@ Last successful run: 2026-09-17 12:13 UTC
 - `WARN-30` — Shin Bet + IDF leadership / wider security establishment → Benjamin Netanyahu and political echelon, 2023-09-10. Accepted / High. High-Holiday warning that rising attack attempts and multiple arenas could converge into simultaneous escalation; Netanyahu postponed worsening security-prisoner conditions after security warnings.
 - `WARN-31` — Nadav Argaman / Shin Bet → Benjamin Netanyahu, mid-2019. Accepted / Medium. Retrospective reporting says Argaman warned that Gaza/Qatari funding was leaking to Hamas’s military wing; underlying letter not public and PMO disputes the Qatari-grant characterization.
 - `WARN-32` — IDF Military Intelligence → Benjamin Netanyahu, 2020 (PMO says notification from March 2020). Accepted / High for the narrower event. MI/N12 says roughly $4m was diverted to Hamas’s military wing; PMO acknowledges Netanyahu was notified of a $4m diversion from Hamas’s civilian budget while disputing that it came from the Qatari stipend. A follow-up security consultation is reported.
+- `WARN-33` — chairs of five Hof Ashkelon Gaza-envelope community emergency/resilience teams → Benjamin Netanyahu; copies to Yoav Gallant and Herzi Halevi, 2023-05-03. Accepted / High. Original contemporaneous letter warns recurring rocket attacks plus immediate normalization leave communities in an intolerable Hamas/PIJ-dependent security reality and demands an initiatory/deterrent policy. Not a specific invasion forecast.
 
-Canonical Notion count verified this run: **32 Accepted**.
+Canonical Notion count verified this run: **33 Accepted**.
 
 ## Freshness / documentary upgrades this run
-- **No new accepted warning and no Notion publication change.** Evidence threshold was not lowered.
-- **Egypt Oct. 4 candidate rechecked:** McCaul's post-classified-briefing statement still establishes a reported Egyptian warning to “the Israelis,” but he explicitly said the unresolved question was **at what level**. No primary recipient-identifying record was recovered; candidate remains unresolved.
-- **Major documentary-recovery lead surfaced:** retrospective accounts by former Foreign Ministry Center for Policy Research (CPR) heads say CPR repeatedly warned in 2023 that Hamas was not deterred and circulated assessments to relevant intelligence/political bodies, including Jan/Mar and Sep. 19 warnings. These are not accepted because the contemporaneous papers/distribution records have not yet been recovered or independently corroborated.
-- **Strict temporal rule enforced.** Events on 2023-10-07 itself remain excluded.
+- **New accepted WARN-33.** Recovered original 3 May 2023 letter and same-day N12 report documenting transmission to Netanyahu, Gallant and Halevi.
+- **BAR-JUL30-2023-GAZA-DIRECTED-TERROR added for dedupe/scope review.** Later document-based Ynet reporting says Shin Bet warned on 30 July of rising Gaza-directed initiation of West Bank attacks and urged a message to Sinwar; primary/full transcript and exact event separation are still needed.
+- **State Comptroller Tzachi evidence added as unresolved documentary lead.** A later primary audit records 2023 preparedness gaps, but exact pre-Oct questionnaire-response and escalation dates are not public, so it is not accepted as a warning event.
+- Strict temporal rule enforced: post-Oct evidence may prove a pre-Oct warning, but no post-Oct warning event is accepted.
 
 ## Unresolved-first work this run
-1. `MFA-CPR-SEP19-2023-GAZA-BORDER` — **High-value documentary-recovery candidate.** Former CPR heads say a Sep. 19 paper warned of intensifying Gaza-border disturbances and Hamas dissatisfaction with the existing Israeli equation. Recover original paper + distribution list + independent corroboration.
-2. `MFA-CPR-MAR2023-HAMAS-NOT-DETERRED` — **High-value documentary-recovery candidate.** Retrospective account says March assessment argued Hamas calm reflected self-interest, not deterrence, and warned West Bank escalation could trigger Gaza escalation. Need original assessment and recipients.
-3. `MFA-CPR-JAN2023-CONFRONTATION-YEAR` — **High-value documentary-recovery candidate.** Retrospective account says January papers raised possibility Hamas viewed 2023 as a confrontation year. Need original documents/distribution.
-4. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` — **Strong candidate / recipient unresolved.** Need primary US briefing record or Egyptian/Israeli documentation identifying recipient and exact content.
-5. `INSS-MAR21-2023-STRATEGIC-ALERT` — **Strong candidate / receipt unresolved.** Primary warning is strong; recover event-specific delivery/acknowledgment.
-6. `INSS-JUL23-2023-READINESS-ALERT` — **Strong candidate / receipt unresolved.** Primary warning is strong; recover direct recipient evidence.
-7. `JISS-APR16-2023-PREPARE-FOR-WAR` — **Strong candidate / receipt unresolved.** Published warning of tangible multi-front war risk; recover delivery/acknowledgment.
-8. `EX-SHINBET-800-JUL16-2023` — **Scope-threshold / direct receipt.** Direct letter to Netanyahu/Gallant; original wording needed to establish stronger Oct. 7 preparedness nexus.
-9. `AMAN-SPECIALOPS-AUG19-2023` — **Investigating.** Recover original letter or high-quality reproduction before acceptance.
-10. Prior unresolved leads remain open: `EGYPT-KAMEL-NETANYAHU-LATESEP-2023`, `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023`, `DAHLAN-UAE-WARNING-CHAIN-SEP2023`, `JORDAN-ABDULLAH-JAN24-2023`, `SISI-JAN1-2023`, `ARAB-DIPLOMATS-JAN3-2023`, `OCT1-ASSESSMENT-2023`, `SHABTAI-JUN6-2023-MULTIFRONT-CAPACITY`, `BAR-FEB15-2023-EJ-ESCALATION`, `BAR-APR23-DETERRENCE`, `SECURITY-AGENCIES-JAN24-GUARDIAN2`, `GAZA-DIVISION-JUL25-2022-RAID-THREAT`, `NCO-V-LATE-WARNING-SWORD`, `NAHAL-OZ-OCT3-2023-DRILL`, `KOCHAVI-MAY2022-JERICHO-DIRECT` and broader observer-warning chains.
+1. `TZACHI-2023-READINESS-QUESTIONNAIRE` — **High-value primary-record candidate.** State Comptroller records 37% of responding settlements with no Tzachi drills, 24% reporting insufficient preparedness, and zero orderly emergency-evacuation drills for Sha’ar HaNegev Tzachi teams. Need exact questionnaire dates and pre-Oct recipient/escalation records.
+2. `RABBASHATZ-STATUS-COMMS-PREWAR-2023` — **Documentary-recovery candidate.** Later State Comptroller work points to longstanding communications/status weaknesses and a prewar MOD workstream. Need the actual pre-Oct warning source, date, content and recipient chain.
+3. `GAZA-LOCALHEADS-APR9-2023-EMERGENCY-PREPAREDNESS` — **Content-insufficient candidate.** Contemporaneous reporting establishes direct Netanyahu calls after multi-front escalation and local-head demands to accelerate emergency preparedness, but the concrete warning language is not preserved.
+4. `BAR-JUL30-2023-GAZA-DIRECTED-TERROR` — **Dedupe/scope candidate.** Need primary/full record and separation from WARN-4/late-July Bar events.
+5. `MFA-CPR-SEP19-2023-GAZA-BORDER`, `MFA-CPR-MAR2023-HAMAS-NOT-DETERRED`, `MFA-CPR-JAN2023-CONFRONTATION-YEAR` — original documents/distribution still needed.
+6. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` — exact Israeli recipient level remains unresolved.
+7. `INSS-MAR21-2023-STRATEGIC-ALERT`, `INSS-JUL23-2023-READINESS-ALERT`, `JISS-APR16-2023-PREPARE-FOR-WAR` — primary warnings strong; event-specific senior-recipient delivery remains unresolved.
+8. Prior unresolved leads remain open: `EGYPT-KAMEL-NETANYAHU-LATESEP-2023`, `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023`, `DAHLAN-UAE-WARNING-CHAIN-SEP2023`, `JORDAN-ABDULLAH-JAN24-2023`, `SISI-JAN1-2023`, `ARAB-DIPLOMATS-JAN3-2023`, `OCT1-ASSESSMENT-2023`, `SHABTAI-JUN6-2023-MULTIFRONT-CAPACITY`, `BAR-FEB15-2023-EJ-ESCALATION`, `BAR-APR23-DETERRENCE`, `SECURITY-AGENCIES-JAN24-GUARDIAN2`, `GAZA-DIVISION-JUL25-2022-RAID-THREAT`, `NCO-V-LATE-WARNING-SWORD`, `NAHAL-OZ-OCT3-2023-DRILL`, `KOCHAVI-MAY2022-JERICHO-DIRECT`, `EX-SHINBET-800-JUL16-2023`, `AMAN-SPECIALOPS-AUG19-2023` and broader observer-warning chains.
 
-## Lane 4 coverage this run
-- **2022-12-29..2022-12-31:** targeted expert/research first pass found no new distinct acceptance; In progress.
-- **2023-01:** Reichman IPS strategic-risk assessment found; CPR Jan confrontation-year lead added. Receipt/original-document gaps remain.
-- **2023-02:** Reichman IPS internal-chaos/national-security warning found; CPR Feb destabilization lead remains documentary-recovery only.
-- **2023-03:** INSS Mar. 21 strategic alert + IPS warning found; CPR Mar Hamas-not-deterred lead added. No event-specific qualifying receipt yet.
-- **2023-04:** JISS prepare-for-war / tangible multi-front-war warning found; receipt unresolved.
-- **2023-05:** Reichman Herzliya Conference established access to senior serving decision-makers but not event-specific expert-warning receipt.
-- **2023-06:** no new distinct acceptance; In progress.
-- **2023-07:** INSS Jul. 23 readiness alert found; former-Shin Bet direct letter retained below scope threshold pending original wording.
-- **2023-08:** AMAN special-operations alumni warning lead + CPR Aug. 27 full-scale-war assessment lead; originals needed.
-- **2023-09:** CPR Sep. 19 Gaza-border warning lead added; original paper/distribution required and overlap must be checked.
-- **2023-10-01..2023-10-06:** no new Lane-4 acceptance; In progress.
+## Lane 5 coverage this run
+- **2022-12-29..2022-12-31:** targeted local/emergency sweep; no qualifying distinct event recovered. In progress.
+- **2023-01:** no accepted event; local archive/correspondence recovery remains incomplete. In progress.
+- **2023-02:** no accepted event. In progress.
+- **2023-03:** no accepted event. In progress.
+- **2023-04:** direct Netanyahu/local-head emergency-preparedness call found; warning content not specific enough yet. In progress.
+- **2023-05:** **WARN-33 accepted** from five Gaza-envelope community emergency teams. In progress.
+- **2023-06:** no additional local/emergency acceptance. In progress.
+- **2023-07:** no local/emergency acceptance; Bar cross-lane documentary lead added. In progress.
+- **2023-08:** Tzachi preparedness/data lead added from later State Comptroller audit; exact pre-Oct warning-event dates unresolved. In progress.
+- **2023-09:** no additional local/emergency acceptance. In progress.
+- **2023-10-01..2023-10-06:** no additional local/emergency acceptance. In progress.
 - **No month is Complete.**
 
 ## Older-warning lane this run
 - No new older warning accepted.
+- Older rabbashatz/local-defense disputes were surfaced as background, but current-government carry-forward/repetition was not established to the acceptance threshold.
 - Existing `WARN-31` / `WARN-32` remain published.
-- CPR retrospective material may point to a longer institutional warning chain, but it is not accepted without contemporaneous records or independent corroboration.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-17T121332Z.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-17T121332Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-17T132219Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-17T132219Z.csv`
 
 ## Coverage discipline
 - Evidence may be published before or after October 7; the warning itself must predate October 7.
@@ -96,4 +95,4 @@ Canonical Notion count verified this run: **32 Accepted**.
 - Distinguish specific attack-plan/readiness warnings from imminent-attack predictions; do not retroactively upgrade specificity based on Oct. 7.
 - Do not convert ordinary demands for quiet, funding or policy change into a security warning unless a concrete risk/failure condition was communicated.
 - Famous cases must not crowd out local, professional, foreign or primary-document lanes.
-- Next run must begin with freshness/document upgrades and unresolved-first work, then execute **Lane 5**.
+- Next run must begin with freshness/document upgrades and unresolved-first work, then execute **Lane 6**.
