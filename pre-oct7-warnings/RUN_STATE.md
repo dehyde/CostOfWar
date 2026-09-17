@@ -1,11 +1,12 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-17 07:14 UTC
+Last successful run: 2026-09-17 08:22 UTC
 
 ## Rotation
-- Deep lane completed this run: **5 — local authorities / Gaza-border communities / emergency coordinators / civilian-security professionals / infrastructure and civil professional organizations**
-- Next deep lane: **6 — documentary recovery + historical blind-spot sweep**
-- Lane 5 remains **In progress**, not Complete. On return, prioritize contemporaneous Gaza-border council/security-coordinator correspondence, alert-squad and settlement-defense equipment warnings, escalation paths into IDF/police/government leadership, and implementation records for older State Comptroller findings.
+- Deep lane completed this run: **6 — documentary recovery + historical blind-spot sweep**
+- Next deep lane: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**
+- Lane 6 remains **In progress**, not Complete. On return, prioritize the Kochavi/Jericho delivery contradiction, 25 Jul 2022 Gaza Division distribution, NCO V's later pre-Oct. 7 email date/dedupe, dated observer transmissions, Zini full-report/implementation evidence, Oct. 1/Oct. 3 late-warning records, and inherited State Comptroller carry-forward.
+- No high-value lead requires a consecutive Lane 6 run; unresolved Lane 6 leads should be worked in the unresolved-first portion of the next run while the deep lane rotates to Lane 1.
 
 ## Accepted warnings
 - `WARN-1` — Amit Saar / Military Intelligence → Benjamin Netanyahu, 2023-03-19. Accepted / High. Strategic deterrence-escalation warning; not a specific Gaza invasion prediction.
@@ -24,39 +25,47 @@ Last successful run: 2026-09-17 07:14 UTC
 - `WARN-14` — Gaza Division intelligence based on Unit 8200 → senior intelligence officials, 2023-09-19. Accepted / Medium. Specific warning describing Hamas training for a large-scale invasion and roughly 200–250 hostages; no government receipt claimed.
 - `WARN-15` — Ronen Bar / Shin Bet → Benjamin Netanyahu, Yoav Gallant and senior security/intelligence officials, 2023-09-17. Accepted / Medium. After a mid-September Sinwar-origin “earthquake” warning reached Shin Bet, Bar reportedly warned Israel was “on a collision course” and urged offensive action or stronger defenses; no finding that Hamas was preparing an Oct. 7-style invasion was recorded in public reporting.
 - `WARN-16` — Ronen Bar / Shin Bet → Benjamin Netanyahu, 2023-05-21. Accepted / Medium. Protocol-based reporting says Bar warned Hamas was the next challenge and a Gaza campaign would eventually be unavoidable; PMO categorically disputes the account and says Bar assessed Hamas as deterred/stability-seeking.
-- `WARN-17` — Lt. Gen. Herzi Halevi / IDF Chief of Staff → Benjamin Netanyahu, best-supported date 2023-07-23. Accepted / High. Written warning that adversaries perceived weakening Israeli deterrence/readiness, were considering exploiting it to attack, and that Israel was entering a dangerous multi-front security zone. N12 later reproduced the letter and says Halevi ensured Netanyahu read it. PMO denial and the N12 article’s internal June/July date inconsistency are preserved. Not a Gaza-specific tactical warning.
+- `WARN-17` — Lt. Gen. Herzi Halevi / IDF Chief of Staff → Benjamin Netanyahu, best-supported date 2023-07-23. Accepted / High. Written warning that adversaries perceived weakening Israeli deterrence/readiness, were considering exploiting it to attack, and that Israel was entering a dangerous multi-front security zone. PMO denial and the N12 article’s internal June/July date inconsistency are preserved. Not a Gaza-specific tactical warning.
+- `WARN-18` — Lt. Col. Y / Gaza Division intelligence → Maj. Gen. Eliezer Toledano, Brig. Gen. Nimrod Aloni and Southern Command/Gaza Division intelligence staff, May 2022. Accepted / High. Jericho Wall presentation; Toledano said the written surprise-attack plan could signal a Hamas trend change and ordered deeper intelligence/defensive work. Mainly treated as longer-term force building, not an imminent attack prediction.
+- `WARN-19` — Lt. Col. Y / Gaza Division intelligence → MI chief Maj. Gen. Aharon Haliva, May 2022. Accepted / High. Separate presentation of the specific Jericho Wall mass-attack plan; prevailing interpretation remained force building. Exact operational response unclear.
+- `WARN-20` — Brig. Gen. Yaron Finkelman / IDF Operations Division → Operations Department, Southern Command, Gaza Division and MI participants, 2022-07-27. Accepted / High. General Staff-level Jericho Wall warning/preparation event; ordered concrete preparations for a possible mass raid and surprise under exercise cover. Partially acted; full follow-up completion not established.
+- `WARN-21` — Maj. Gen. David Zini / external red-team review → Brig. Gen. Avi Rosenfeld and Gaza Division command staff, March 2023. Accepted / High. Warning about limited surprise-raid/kidnapping readiness, local defenses and lack of concrete troop scenarios. PMO's later mass-invasion framing is preserved as disputed and is not adopted.
+- `WARN-22` — Unit 8200 veteran NCO V → intelligence superiors / Gaza-arena intelligence chain, 2023-07-06. Accepted / High. Specific written warning that Hamas exercises made Jericho Wall operationally plausible and could precede war; a senior recipient called the scenario “completely imaginary,” which V disputed. Did not reach MI chief according to reporting.
+- `WARN-23` — Unit 8200 NCO S → Gaza Division and Southern Command intelligence officers, 2023-07-10. Accepted / Medium. Specific written warning that Hamas exercises showed Jericho Wall was not merely a paper plan. Distribution is strongly documented but named recipient list remains unavailable.
+- `WARN-24` — Maj. N / Gaza Division intelligence raid section → Gaza Division intelligence officer/staff, August 2023. Accepted / High. Separate analytical warning that Hamas exercises undermined assumptions around Jericho Wall and required challenging the prevailing conception. Broad scenario was later rejected at division-intelligence level.
 
-## Freshness/document upgrades this run
-- **WARN-5 / UAE warning strengthened, classification unchanged.** Associated Press separately reported the new Haaretz/book reconstruction while preserving the PMO denial. Times of Israel reports that an **Emirati source familiar with the conversation** confirmed the reported phone-call warning route. The UAE Foreign Ministry neither confirmed nor denied the specific leaders' conversation and said relevant intelligence is shared through direct channels when necessary. Netanyahu/PMO continues to deny that the warning/call occurred and says call-log checks found no such conversation. No primary call record or authoritative inquiry finding is public. Notion WARN-5 was upgraded and post-write verified; remains **Accepted / Medium / Receipt Reported**.
-- **No opposition-origin corroboration used.** Statements by current opposition politicians asserting the report is true were treated as political claims and not used to upgrade evidentiary confidence.
-- **Egypt/Kamel chain strengthened but not accepted separately.** September 2026 reporting again says Egyptian intelligence chief Abbas Kamel separately warned Netanyahu/PMO around the same period that Hamas/Gazans were preparing “something unusual” / a “terrible” or “terrifying operation.” This is consistent with the basic claim reported after Oct. 7, but the newer outlets largely trace the account to the same reconstruction and no primary call/briefing record is public. PMO denial remains attached.
-- **No new dedupe merge.** WARN-5, WARN-8 and the Kamel direct-warning candidate remain separate pending provenance evidence showing whether they were independent events, parallel relays of common intelligence or later retellings of one warning chain.
+## Freshness / documentary upgrades this run
+- **Jericho Wall historical chain materially upgraded.** An IDF-hosted Dado Center professional reconstruction cites contemporaneous Southern Command records and establishes distinct May 2022 presentations to Southern Command/Toledano and to MI chief Haliva. It also explicitly bounds who was not presented the plan, creating a direct contradiction with later claims of chief-of-staff receipt.
+- **Official 2025 Turgeman expert-team findings integrated.** The review identifies failure to operationalize Jericho Wall, surprise-war readiness gaps across Operations Directorate/Southern Command/Gaza Division/MI, and abnormal observer-collected activity that could have helped identify change. These findings strengthen existing chains but do not by themselves create additional dated warning events.
+- **2023 exercise-warning documents recovered/segmented.** The July 6 NCO V email, July 10 NCO S report and August Maj. N analysis are treated as distinct warning events because they have separate dates/products/recipient handling rather than as retellings of one warning.
+- **Zini scope correction preserved.** The March 2023 report is accepted as a defensive-readiness warning, but not as a mass-invasion prediction; Rosenfeld/officer accounts contest the later broader political framing.
 
 ## Unresolved-first work this run
-1. `EGYPT-KAMEL-NETANYAHU-LATESEP-2023` — **Disputed / strengthened secondary evidence.** New 2026 reconstruction repeats a direct Kamel warning of an unusual/terrible Hamas operation and a reported Netanyahu/PMO response that Gaza was under control while focus was on the West Bank. Still needs Egyptian confirmation, call metadata/transcript, Israeli briefing record or authoritative inquiry evidence.
-2. `STATECOMPTROLLER-2022-CONFRONTATION-SETTLEMENT-DEFENSE` — **NEW / older inherited-warning candidate.** Primary State Comptroller follow-up audit was formally delivered to the then-prime minister on 15 Feb 2022. It documented growing confrontation-line settlement-security gaps, an estimated NIS 110m needed to complete security components in northern and Gaza sectors, incomplete distribution of communications equipment, and communications-coverage gaps in Southern Command. It stressed reliable communications for local defenders confronting hostile infiltration. Current-government/current-officeholder receipt after 29 Dec 2022 is not established, so it is **not accepted**.
-3. `OCT1-ASSESSMENT-2023` — remains **Disputed / investigating**. No primary Oct. 1 minutes or Shin Bet recommendation recovered this run.
-4. Observer / Unit 8200 / Jericho Wall chains remain open; lane 5 did not substitute retrospective vulnerability evidence for documented upward warning transmission.
-5. INSS/CIS recipient-gap candidates from Lane 4 remain open unchanged.
+1. `KOCHAVI-MAY2022-JERICHO-DIRECT` — **Disputed.** N12 reports an alleged direct Jericho Wall email/document route to then-Chief of Staff Aviv Kochavi; the IDF-hosted professional reconstruction says the plan was not presented to the chief of staff, and Kochavi denies receipt. Do not accept without contemporaneous delivery metadata or authoritative resolution.
+2. `GAZA-DIVISION-JUL25-2022-RAID-THREAT` — **Investigating.** A 25 Jul Gaza Division product described a multi-company combined raid threat; distribution/receipt and dedupe relationship to WARN-20 remain unresolved.
+3. `NCO-V-LATE-WARNING-SWORD` — **Investigating.** A later pre-Oct. 7 V email reportedly warned Jericho Wall was operational/trained and warning time could be insufficient. Exact date/distribution and distinct-event status versus WARN-22 remain unresolved.
+4. `OBSERVERS-ABNORMAL-ACTIVITY-2023` — **Investigating.** Official expert-team material confirms abnormal observer-collected information over time, but a single dated warning event with exact wording/recipient still needs primary recovery.
+5. `STATECOMPTROLLER-2022-CONFRONTATION-SETTLEMENT-DEFENSE` — remains **Investigating / older inherited-warning candidate**. Current-government carry-forward/receipt remains unproven.
+6. `OCT1-ASSESSMENT-2023`, observer/Unit 8200 late-warning chains and Oct. 3 drill records remain open.
 
-## Lane 5 coverage this run
-- **2022-12-29..2022-12-31:** targeted local/security-coordinator/emergency-body pass; no accepted event; In progress.
-- **2023-01:** targeted Gaza-border/local security search; no qualifying recipient-linked event; In progress.
-- **2023-02:** targeted local/security-coordinator search; no accepted event; In progress.
-- **2023-03:** targeted local/emergency/security professional search; no accepted event; In progress.
-- **2023-04:** reviewed 20 Apr Sderot/Gaza-border leadership meeting material. Recovered demands for durable security/quiet, but not a sufficiently specific major-disaster warning for a distinct entry; In progress.
-- **2023-05:** reviewed local-authority/emergency communications around Gaza escalation; no distinct recipient-linked acceptance; In progress.
-- **2023-06:** no new local-origin acceptance. WARN-7 police-capacity warning remains separate and was not duplicated; In progress.
-- **2023-07:** targeted local/security-coordinator search; no new acceptance; In progress.
-- **2023-08:** targeted settlement-defense/alert-squad/local emergency search; no new acceptance; In progress.
-- **2023-09:** deep search found substantial retrospective vulnerability evidence but no clean local-origin warning to a qualifying senior state/security recipient crossing threshold; In progress.
-- **2023-10-01..2023-10-06:** located a reported Sukkot-period warning passed to an event security officer near Re'im, but the recipient is below this library's senior state/security decision-maker unit threshold. Trace any upward escalation before reconsideration; In progress.
-- **Older lane:** added the 2022 State Comptroller settlement-defense audit as an unresolved inherited-knowledge candidate. Direct delivery was to the government then serving, not the current government; current-officeholder carry-forward is unresolved.
-- **No month is Complete.** Local/civilian security warnings often have strong post-Oct. 7 accounts but weak surviving evidence of pre-event upward transmission to qualifying senior recipients.
+## Lane 6 coverage this run
+- **Older / 2022:** major upgrade. Accepted WARN-18, WARN-19 and WARN-20. State Comptroller inherited-knowledge lead remains unresolved.
+- **2022-12-29..2022-12-31:** targeted documentary/historical pass; no new distinct accepted event; remains In progress.
+- **2023-01:** no new distinct Lane 6 acceptance; remains In progress.
+- **2023-02:** no new distinct Lane 6 acceptance; remains In progress.
+- **2023-03:** accepted WARN-21 under narrow documented scope; full report/implementation remain open.
+- **2023-04:** no new distinct acceptance; remains In progress.
+- **2023-05:** no new distinct acceptance; Hamas-exercise documentary chain followed forward.
+- **2023-06:** no new distinct acceptance; remains In progress.
+- **2023-07:** accepted WARN-22 and WARN-23; 25 Jul product and V later-email lead remain unresolved.
+- **2023-08:** accepted WARN-24; original paper/full distribution remain open.
+- **2023-09:** no additional distinct acceptance; observer abnormal-activity and later V warning chains remain unresolved.
+- **2023-10-01..2023-10-06:** no new distinct acceptance; Oct. 1/Oct. 3/observer late records remain open.
+- **No month is Complete.**
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-17T071408Z.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-17T071408Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-17T082216Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-17T082216Z.csv`
 
 ## Coverage discipline
 - Evidence may be published before or after October 7; the warning itself must predate October 7.
@@ -65,7 +74,8 @@ Last successful run: 2026-09-17 07:14 UTC
 - Preserve denials, contrary assessments and exculpatory facts even when a warning is accepted.
 - Warnings to senior state/security decision-makers qualify even when government-level receipt is absent; record that distinction explicitly.
 - Publicity alone does **not** establish delivery to a named decision-maker.
-- For older inherited warnings, senior-state/security institutional receipt can qualify only when a defensible current-officeholder/institutional carry-forward chain is established; old delivery to a prior government is not automatically attributed to the current one.
+- For older inherited warnings, senior-state/security institutional receipt can qualify where the warning event itself was delivered to a qualifying senior state/security decision-maker; do not automatically attribute that knowledge personally to members of the later government.
+- Distinguish a specific attack plan/readiness warning from an imminent-attack prediction; do not retroactively upgrade specificity based on what happened on Oct. 7.
 - Do not convert ordinary demands for quiet, funding or policy change into a security warning unless the source communicated a concrete risk/failure condition within scope.
 - Famous cases must not crowd out local, professional, foreign or primary-document lanes.
-- Next run must begin with freshness/document upgrades and unresolved-first work, then execute **Lane 6**.
+- Next run must begin with freshness/document upgrades and unresolved-first work, then execute **Lane 1**.
