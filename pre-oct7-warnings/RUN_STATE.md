@@ -1,12 +1,12 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-17 17:15 UTC
+Last successful run: 2026-09-17 18:18 UTC
 
 ## Rotation
-- Deep lane completed this run: **3 — foreign governments, diplomats, foreign intelligence/security services, regional partners and official foreign warnings**
-- Next deep lane: **4 — professional experts, academics, researchers, think tanks, political scientists and nonpartisan expert organizations**
-- Lane 3 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 3 run. Strong unresolved foreign-warning leads return to unresolved-first while deep discovery rotates to Lane 4.
+- Deep lane completed this run: **4 — professional experts, academics, researchers, think tanks, political scientists and nonpartisan expert organizations**
+- Next deep lane: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**
+- Lane 4 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 4 run. Strong unresolved expert/research leads return to unresolved-first while deep discovery rotates to Lane 5.
 
 ## Accepted warnings
 - `WARN-1` — Amit Saar / MI → Netanyahu, 2023-03-19. High; strategic deterrence/escalation.
@@ -14,7 +14,7 @@ Last successful run: 2026-09-17 17:15 UTC
 - `WARN-3` — Ronen Bar / Shin Bet → Netanyahu, 2023-07-23. Medium; general strategic war warning; PMO disputes Gaza characterization.
 - `WARN-4` — Ronen Bar / Shin Bet → Netanyahu, early Aug 2023. Medium; extremist violence fueling Palestinian terrorism/Hamas-PIJ.
 - `WARN-5` — UAE President Mohammed bin Zayed → Netanyahu, ~2023-09-27. Medium; reported major Sinwar operation warning; separate Emirati-source confirmation reported, UAE officially neither confirms nor denies, PMO denies call/warning.
-- `WARN-6` — Maj. Gen. (res.) Giora Eiland → Netanyahu, 2023-08-16. Medium; coordinated Iran-Hezbollah-Hamas war risk.
+- `WARN-6` — Maj. Gen. (res.) Giora Eiland → Netanyahu, 2023-08-16. Medium; coordinated Iran-Hezbollah-Hamas war risk. Evidence timing upgraded to **Both** after recovery of later reporting describing Eiland's contemporaneous pre-meeting alarm message.
 - `WARN-7` — six former police commissioners + 42 retired deputies → Netanyahu, 2023-06-09. High; impending police collapse.
 - `WARN-8` — Egyptian security/intelligence via Shin Bet-Egypt channel → Netanyahu/Israeli security bodies, Sep 2023. Medium; Hamas/Gaza “ground tremble” warning; route/date overlap with other Sinwar backchannels unresolved.
 - `WARN-9` — MI Research → PM military secretary/NSC/security chiefs/CoS office, 2018-04-16. High; specific Hamas mass-invasion scenario; Netanyahu personal review disputed.
@@ -54,40 +54,43 @@ Last successful run: 2026-09-17 17:15 UTC
 Canonical Notion count verified this run: **41 Accepted**.
 
 ## Freshness / documentary upgrades this run
-- `WARN-5` remains **Medium / Reported receipt**. Times of Israel reports a separate Emirati source familiar with the conversation confirmed the warning route; the UAE Foreign Ministry neither confirmed nor denied the specific call and said relevant intelligence is shared through direct channels. Netanyahu/PMO continues to deny the call/warning and says internal call-log checks found no call. No transcript/call record is public.
-- `WARN-8` remains **Medium**. Army Radio reporting carried by Times of Israel says Shin Bet presented Netanyahu with an Egyptian warning that Hamas intended to “make the ground in Gaza tremble.” The underlying Egyptian warning document and Israeli briefing record remain unpublished.
-- A September 2026 investigative chain says a Sinwar message referring to an “earthquake” / “mother of all surprises” reached Shin Bet through Palestinian/UAE-linked intermediaries around **15 Sep 2023**, after which Bar reportedly briefed Netanyahu and a broader assessment followed on 17 Sep. This is held unresolved pending original records and dedupe/provenance resolution against WARN-8 and WARN-15.
+- `WARN-6` materially strengthened. N12's report of Eiland's Civil Commission testimony states that immediately after his pre-meeting Military Intelligence briefing, Eiland wrote an alarmed contemporaneous post/message to acquaintances warning that Israel faced an existential danger and simultaneously sought an urgent meeting with Netanyahu, which he later dated to 16 Aug 2023. Notion `Evidence Timing` was upgraded from **Retrospective** to **Both**.
+- `WARN-6` confidence remains **Medium**: the original pre-meeting post/message and Netanyahu meeting minutes remain unrecovered, so the exact Hamas/Hezbollah warning wording Eiland says he delivered to Netanyahu is still established retrospectively.
+- Current September 2026 reporting on UAE/Sinwar warnings was checked during freshness work; it adds no threshold-changing primary evidence beyond the already-recorded WARN-5/WARN-8 contradiction and backchannel candidates.
 - Strict temporal rule enforced: later evidence may prove a pre-Oct warning; no post-Oct warning event is counted.
 
 ## Unresolved-first work this run
-1. `SINWAR-BACKCHANNEL-SEP15-2023` — **strong unresolved**. Reported Sinwar “earthquake” / “mother of all surprises” message reached Shin Bet around Sep 15 and reportedly Netanyahu via Bar. Need original Shin Bet record or independently authoritative confirmation of the specific Netanyahu briefing; provenance may overlap WARN-8/WARN-15.
-2. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` — **strong recipient-level unresolved**. Michael McCaul said after a classified U.S. intelligence briefing that Egypt warned Israelis three days before Oct. 7 and that “a warning was given,” while explicitly saying the unresolved issue was “at what level.” Egyptian and Israeli/NSC public accounts conflict.
-3. `EGYPT-KAMEL-NETANYAHU-LATESEP-2023` — **disputed**. Later investigations repeat a direct Abbas Kamel → Netanyahu warning claim; PMO categorically denies the call/warning. No Egyptian primary confirmation or call metadata recovered.
-4. `WARN-5` contradiction remains material: separate Emirati-source confirmation versus PMO/Netanyahu categorical denial and claimed call-log check.
-5. Existing non-Lane-3 high-value unresolved candidates remain open: MFA CPR assessments, Bar April deterrence, Shabtai multi-front police capacity, INSS/JISS/research leads, observer/Oct. 6 chains, local/emergency readiness, and documentary-recovery leads.
+1. `INSS-MAR21-2023-STRATEGIC-ALERT` — **strong warning content / receipt unresolved**. Primary INSS alert warns of damage to IDF function, deterrence/resilience and ability to face enemies. Targeted searches still found no event-specific delivery/acknowledgment by a named qualifying decision-maker.
+2. `INSS-JUL23-2023-READINESS-ALERT` — **strong warning content / receipt unresolved**. Primary urgent alert warns the people's-army model is at risk, military capability is weakening and deterrence is jeopardized amid rising multi-front threats. Named recipient proof remains missing.
+3. `JISS-APR16-2023-PREPARE-FOR-WAR` — **strong warning content / receipt unresolved**. Conservative JISS warned that wider/multi-front war was a tangible possibility and elected officials needed to resource preparations; event-specific government receipt remains unproven.
+4. `EX-SHINBET-800-JUL16-2023` — direct letter to Netanyahu/Gallant is well documented, but recovered wording remains too indirectly tied to Oct. 7 readiness/attack risk for acceptance under the current scope standard.
+5. `AMAN-SPECIALOPS-AUG19-2023` — original alarm letter still not recovered; no acceptance.
+6. `MFA-CPR-2022-2023-WARNING-CHAIN` — detailed retrospective IICC account says CPR repeatedly warned Hamas was not deterred and that its material went to relevant political/intelligence bodies; original papers/distribution or independent event-specific corroboration remain required.
+7. `AMIDROR-APR13-2023-IRAN-WAR` — new receipt-unresolved lead. Former NSC head/JISS fellow Yaakov Amidror publicly warned that deterioration/war with Iran was increasingly likely and Israel needed to prepare for action without US help. No qualifying recipient transmission yet established.
+8. High-value unresolved candidates from other lanes remain open, including Sinwar Sep. 15 backchannel, Egypt Oct. 4 recipient level, Bar April deterrence, Shabtai multi-front police capacity, observer/Oct. 6 chains and local/emergency readiness.
 
-## Lane 3 coverage this run
-- **2022-12-29..2022-12-31:** targeted foreign-government/intelligence search; no new distinct qualifying event in this pass. In progress.
-- **2023-01:** **WARN-39, WARN-40 and WARN-41 accepted.** Sisi and Abdullah are primary/direct government readouts; Burns is Medium because exact private wording relies on contemporaneous anonymous-official reporting despite confirmed meeting and Burns’s own near-contemporaneous corroboration. In progress.
-- **2023-02:** Burns public remarks strengthen WARN-41. Aqaba joint de-escalation communique treated as multilateral agreement/context, not a distinct warning transmission. In progress.
-- **2023-03:** Sharm el-Sheikh joint communique treated as multilateral de-escalation agreement/context; no new distinct warning accepted. In progress.
-- **2023-04:** targeted foreign-warning search found no new distinct event crossing threshold in this pass. In progress.
-- **2023-05:** foreign de-escalation warnings/condemnations around Jerusalem/Al-Aqsa found, but no distinct warning with sufficiently documented qualifying receipt accepted. In progress.
-- **2023-06:** no new distinct foreign warning accepted in this pass. In progress.
-- **2023-07:** no new distinct foreign warning accepted in this pass. In progress.
-- **2023-08:** no new distinct foreign warning accepted in this pass. In progress.
-- **2023-09:** WARN-5 and WARN-8 strengthened; Sep 15 backchannel held unresolved; Kamel direct-warning claim remains disputed. In progress.
-- **2023-10-01..2023-10-06:** Egypt Oct. 4/McCaul route remains strong unresolved because recipient level is unknown and official accounts conflict. In progress.
+## Lane 4 coverage this run
+- **2022-12-29..2022-12-31:** targeted expert/research sweep; no new qualifying event. In progress.
+- **2023-01:** IPS/CPR warning leads rechecked; no event-specific receipt recovered. In progress.
+- **2023-02:** no new qualifying direct-recipient expert warning in targeted searches. In progress.
+- **2023-03:** INSS Mar. 21 alert and IPS warnings remain strong content with recipient proof unresolved. In progress.
+- **2023-04:** JISS Apr. 16 warning revalidated; new Amidror Apr. 13 public war-preparation lead logged, but neither has qualifying recipient proof. In progress.
+- **2023-05:** Reichman archive confirms a conference framed around a multidimensional strategic alert with numerous senior serving decision-makers present; conference proximity alone is not receipt of a specific expert warning. In progress.
+- **2023-06:** no new qualifying event in targeted expert/academic searches. In progress.
+- **2023-07:** INSS Jul. 23 remains strong/receipt-unresolved; former-Shin-Bet 800 direct letter remains below scope threshold on recovered wording. In progress.
+- **2023-08:** `WARN-6` strengthened with contemporaneous pre-meeting corroboration; AMAN alumni letter remains unresolved. In progress.
+- **2023-09:** CPR Sep. 19 documentary lead remains unresolved under retrospective-claim rule. In progress.
+- **2023-10-01..2023-10-06:** no new qualifying expert/research warning with documented senior receipt. In progress.
 - **No month is Complete.**
 
 ## Older-warning lane this run
-- No new older foreign-government warning accepted this run.
-- Existing older accepted records remain WARN-9, WARN-18–WARN-20, WARN-25–WARN-26, WARN-31–WARN-32, WARN-34 and WARN-38.
-- No historical floor imposed; older foreign warnings remain eligible when inherited/repeated or demonstrably delivered to current officeholders.
+- No new older expert-origin warning accepted this run.
+- CPR retrospective account continues to indicate an older institutional warning chain, but no new original older event document crossed the threshold.
+- No historical floor imposed; older expert/professional warnings remain eligible when inherited, repeated or demonstrably delivered to current officeholders.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-17T171500Z.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-17T171500Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-17T181800Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-17T181800Z.csv`
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
@@ -100,4 +103,4 @@ Canonical Notion count verified this run: **41 Accepted**.
 - Distinguish specific attack-plan/readiness warnings from imminent-attack predictions.
 - Do not create duplicates for repeated retellings of one warning chain.
 - Famous cases must not crowd out lesser-known military, security, foreign, expert, local or document-recovery lanes.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 4**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 5**.
