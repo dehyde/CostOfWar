@@ -3,39 +3,42 @@
 Last successful run: 2026-09-17 (Asia/Jerusalem)
 
 ## Rotation
-- Deep lane completed this run: **3 — foreign governments, diplomats, foreign intelligence/security services, regional partners and official foreign warnings**
-- Next deep lane: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**
-- Lane 3 remains **In progress**, not Complete. When it returns, prioritize primary UAE/Egypt records, diplomatic documentation and still-unswept country-specific routes before repeating broad searches.
+- Deep lane completed this run: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**
+- Next deep lane: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**
+- Lane 4 remains **In progress**, not Complete. When it returns, continue institute archives, direct briefing/meeting records and lesser-known professional experts rather than repeating only Eiland/INSS.
 
 ## Accepted warnings
 - `WARN-1` — Amit Saar / Military Intelligence → Benjamin Netanyahu, 2023-03-19. Accepted / High. Strategic deterrence-escalation warning; not a specific Gaza invasion prediction.
 - `WARN-2` — Amit Saar / Military Intelligence → Benjamin Netanyahu, 2023-07-16. Accepted / High. Strategic deterrence-escalation warning; not a specific Gaza invasion prediction.
 - `BAR-JUL23-2023` — Ronen Bar / Shin Bet → Benjamin Netanyahu, 2023-07-23. Accepted / Medium. General strategic warning of war amid deterrence concerns; not categorized as a Gaza-specific warning. Netanyahu/PMO disputes the characterization.
 - `BAR-AUG23-PALESTINIAN-ESCALATION` — Ronen Bar / Shin Bet → Benjamin Netanyahu, early August 2023. Accepted / Medium. Strategic warning that Jewish extremist violence was fueling Palestinian terrorism and benefiting Hamas/PIJ; not a specific Gaza invasion warning.
-- `SEED-UAE-2023` / Notion `WARN-5` — UAE President Mohammed bin Zayed → Benjamin Netanyahu, reported around 2023-09-27. Accepted / Medium. Reported warning that Sinwar was preparing a major operation that could cause bloodshed and regional instability. Times of Israel cites a separate Emirati source familiar with the call; N12 independently reports UAE-linked confirmation that warning information was passed. PMO categorically denies the warning/call; UAE did not directly confirm or deny it. Receipt remains Reported and response status Unclear.
+- `SEED-UAE-2023` / Notion `WARN-5` — UAE President Mohammed bin Zayed → Benjamin Netanyahu, reported around 2023-09-27. Accepted / Medium. Reported warning that Sinwar was preparing a major operation that could cause bloodshed and regional instability. PMO categorically denies the warning/call; UAE has not directly confirmed the specific conversation.
+- `EILAND-AUG23-2023` / Notion `WARN-6` — Maj. Gen. (res.) Giora Eiland → Benjamin Netanyahu, 2023-08-16. Accepted / Medium. Eiland says he directly warned of a coordinated Iran-Hezbollah-Hamas campaign, explicitly naming Hamas among forces that might storm Israel and describing existential danger. Retrospective evidence only; no contemporaneous meeting record recovered.
 
 ## Freshness/document upgrade this run
-- The newly published September 2026 UAE reporting materially upgraded `SEED-UAE-2023` from contested seed to Accepted / Medium without removing the PMO denial or uncertainty about exact content.
-- No new primary transcript, formal UAE confirmation or official inquiry finding surfaced; `WARN-5` therefore remains Medium rather than High.
+- September 2026 Ynet reporting newly exposes an excerpt/image attributed to an **Amit Saar warning letter dated July 23, 2023**. It includes Hamas-linked backchannel material warning of multiple ignition points and a regional conflagration. This materially strengthens the Saar/Hamas content lane but is **not yet a new canonical warning** because older reporting identifies a July 16 Saar letter and the relationship between the two documents remains unresolved.
+- Added `MI-APR12-2023-POLITICAL-ECHELON`: contemporaneous reporting says Military Intelligence warned the political echelon that **war was closer than calm** and that deterrence was eroding. Named recipients and primary briefing evidence remain unresolved.
+- No new primary inquiry finding or contemporaneous record changed the confidence of existing UAE/Shin Bet accepted warnings this run.
 
 ## New or strengthened unresolved work
-1. `UAE-INTERMEDIARY-SHINBET-MIDSEP-2023` — Haaretz/book reporting says a Fatah intermediary and MBZ adviser directly conveyed Sinwar's mid-September warning to Shin Bet; Israeli security officials reportedly deliberated but did not interpret it as a Gaza assault threat. Need independent/primary corroboration and dedupe against `BAR-MIDSEP-2023-MULTIFRONT`.
-2. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` — Michael McCaul said after a closed US intelligence briefing that Egypt warned the Israelis three days before Oct. 7, while saying the recipient level was unclear. Strong candidate; do not attribute to Netanyahu without evidence.
-3. `EGYPT-KAMEL-NETANYAHU-LATESEP-2023` — Ynet-reported direct Kamel→Netanyahu warning remains disputed by PMO; primary Egyptian/call evidence needed.
-4. `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023` — Israel Hayom cites Egyptian and Israeli sources for warnings to the Foreign Ministry/NSC, while both institutions formally dispute key parts. Keep separate from the Oct. 4 and direct-Netanyahu claims.
-5. `OCT1-ASSESSMENT-2023` remains Disputed / investigating pending primary minutes or authoritative finding.
-6. Continue unresolved MI documents, Saar chronology, Gallant, border observers, Unit 8200, Jericho Wall, Giora Eiland and Lane 2 warning chains during their respective rotations.
-7. Older-warning lane remains concurrent: follow chains backward without a fixed historical floor where repeated/inherited knowledge by current officeholders is documented.
+1. `SAAR-JULY-DATE-RECONCILIATION` — upgraded to a strong dedupe/reconciliation candidate using the newly released July 23 excerpt. Determine whether it is distinct from WARN-2 / July 16 or a date correction before publication.
+2. `MI-APR12-2023-POLITICAL-ECHELON` — recover named recipient/forum and primary briefing evidence.
+3. `EXSEC-JUL22-2023-LETTER` — dozens of former security chiefs directly warned Netanyahu of severe security harm and invoked the eve of the Yom Kippur War. Hold because some signatories were former opposition politicians; establish whether the warning's origin can be cleanly treated as professional under the exclusion rule.
+4. `POLICE-JUN9-2023-CAPACITY-WARNING` — former police commissioners and senior commanders directly warned Netanyahu of expected police collapse and lack of capacity for a national-scale challenge. Prioritize in Lane 5 / other-security follow-up and establish response/relevance before acceptance.
+5. Continue UAE intermediary, Egypt, Oct. 1, Gallant, remaining MI documents, border observers, Unit 8200 and Jericho Wall in their respective rotations.
+6. Older-warning lane remains concurrent and has no fixed historical floor where receipt/repetition/inherited knowledge by current officeholders can be documented.
 
-## Lane 3 coverage this run
-- Ran month-targeted searches across the systematic 2022-12-29 through 2023-08 periods; no additional defensible foreign-government warning candidate crossed threshold in the first pass. Those months are **In progress**, not No-results/Complete, because diplomatic archives, country-specific records and primary-document routes remain incomplete.
-- September produced one accepted UAE warning plus distinct UAE/Egypt unresolved events.
-- Oct. 1–6 produced the strong but recipient-level-unresolved Egyptian warning candidate.
-- No additional defensible Jordanian, Saudi or US warning of a Hamas/Gaza attack to serving government recipients was established this run.
+## Lane 4 coverage this run
+- **Accepted:** Eiland Aug. 16 warning after detailed review of N12 Civil Commission reporting, a separate Davar account giving the exact meeting date, and later corroborating reporting. Classified Medium because the evidence is retrospective and no contemporaneous meeting record was recovered.
+- **July:** reviewed the direct letter from dozens of former security chiefs; kept unresolved because the signatory/origin mix includes political rivals and therefore triggers the user's exclusion rule.
+- **January-March:** reviewed INSS strategic assessments and public professional warnings (including Asaf Orion / Amos Yadlin routes). They are useful context but no additional warning crossed the direct-government-receipt threshold in this pass.
+- **Other months:** targeted expert/research searches did not produce another warning meeting both recipient and evidence thresholds. All remain In progress rather than No-results/Complete because institute archives, private briefings and primary-document routes remain incomplete.
+- **Older lane:** first backward expert sweep found no older professional warning yet demonstrably repeated to or inherited by current officeholders; keep active.
 
 ## Coverage discipline
 - No month is Complete.
 - Evidence may be published before or after October 7; the warning itself must predate October 7.
 - Keep contemporaneous evidence distinct from retrospective evidence.
 - Never infer that a warning was ignored, caused October 7, or reached a named government recipient without evidence.
-- Famous UAE/Egypt cases must not crowd out smaller foreign, expert, local or primary-document lanes.
+- Public expert commentary alone is not sufficient for canonicalization when government/senior-state receipt cannot be established.
+- Famous cases must not crowd out local, professional, foreign or primary-document lanes.
