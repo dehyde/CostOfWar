@@ -1,59 +1,56 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-18 05:08 UTC
+Last successful run: 2026-09-18 06:19 UTC
 
 ## Rotation
-- Deep lane completed this run: **3 — foreign governments, diplomats, foreign intelligence/security services, regional partners and official foreign warnings**
-- Next deep lane: **4 — professional experts, academics, researchers, think tanks, political scientists and nonpartisan expert organizations**
-- Lane 3 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 3 run.
+- Deep lane completed this run: **4 — professional experts, academics, researchers, think tanks, political scientists and nonpartisan expert organizations**
+- Next deep lane: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**
+- Lane 4 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 4 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`
-- Canonical count verified after publication: **76 Accepted**.
-- **6 new accepted warnings** this run:
-  - `WARN-71` — 29 Jan 2023: French President Emmanuel Macron → Benjamin Netanyahu. Amid rising tensions, Macron warned against measures liable to feed a spiral of violence. **High / contemporaneous / direct documented receipt / general strategic.**
-  - `WARN-72` — 2 Feb 2023: Macron → Netanyahu. Separate work-dinner warning again urged avoiding measures that could intensify the spiral of violence. **High / contemporaneous / direct documented receipt / general strategic.**
-  - `WARN-73` — 24 Mar 2023: UK PM Rishi Sunak → Netanyahu. Warned over growing West Bank tensions and urged de-escalation ahead of religious holidays. **High / contemporaneous / direct documented receipt / general strategic.**
-  - `WARN-74` — 3 Apr 2023: French Foreign Minister Catherine Colonna → Eli Cohen. Warned amid deteriorating West Bank conditions and rising Jerusalem tensions; urged restraint and adherence to Aqaba/Sharm commitments. **High / contemporaneous / direct documented receipt / general strategic.**
-  - `WARN-75` — 11 Sep 2023: UK Foreign Secretary James Cleverly → Netanyahu and Eli Cohen. Same-day official readouts document a consistent warning that heightened tensions required meaningful de-escalation; treated as one event with multiple recipients. **High / contemporaneous / direct documented receipt / general strategic.**
-  - `WARN-76` — ~27 Sep 2023: Egyptian intelligence chief Abbas Kamel → Netanyahu. Ynet/Yedioth reported on 9 Oct 2023 that Kamel warned of something unusual / a major or terrifying Gaza operation; broader Egyptian-warning accounts, McCaul's post-classified-briefing confirmation and Sep 2026 investigative reporting materially corroborate the warning chain. PMO categorically denies the contact/warning. **Medium / retrospective / reported receipt / moderately specific / Hamas attack.**
+- Canonical count verified after publication: **78 Accepted**.
+- **2 new accepted warnings** this run:
+  - `WARN-77` — 4 Oct 2018: serving IDF/Defense Ministry soldiers’ complaints commissioner Maj. Gen. (res.) Yitzhak Brik → Benjamin Netanyahu and Avigdor Lieberman. Direct letter warned of severe IDF war-readiness deficiencies, demanded an independent review, and was contemporaneously described as assessing readiness as worse than before the Yom Kippur War. Netanyahu later met Brik and convened a senior readiness review; contrary official assessments found the IDF broadly ready while acknowledging gaps. **High / contemporaneous / direct documented receipt / moderately specific / older inherited-warning lane.**
+  - `WARN-78` — 16 Jul 2023: 800 former Shin Bet personnel / “Shin Bet veterans for defending democracy” → Benjamin Netanyahu and Yoav Gallant. Direct letter warned that continued legislation would create a real, clear and immediate danger to national security, including legal-operational exposure of security personnel, and urged preservation of the people’s army. Political-advocacy context is preserved; source was a former-security professional group, not an opposition party. **High / contemporaneous / direct documented receipt / moderately specific / strategic-security warning.**
 
 ## Freshness / documentary pass
-- `WARN-5` UAE/MBZ was rechecked against Sep 2026 Times of Israel/AP reporting and the PMO's call-log denial. Separate Emirati-source confirmation strengthens the secondary evidence, but the UAE government still does not confirm the specific call and PMO categorically denies it. Classification remains **Accepted / Medium / receipt Reported**.
-- `WARN-8` Egypt→Shin Bet→Netanyahu was rechecked against Sep 2026 Army Radio/Times of Israel reporting. The direct Shin Bet-to-Netanyahu transmission is strongly reported, but no underlying Egyptian document or Israeli briefing record is public. Classification remains **Accepted / Medium / Strongly documented**.
-- No accepted warning was downgraded this run.
+- Rechecked recently surfaced reporting around accepted Egyptian/UAE warning chains (`WARN-5`, `WARN-8`, `WARN-76`). No new primary document or authoritative correction located that warrants a confidence/status change in this run.
+- Rechecked public 2026 material on readiness-warning chains; no accepted warning was downgraded.
+- No causal inference from later Oct 7 outcomes was added to any record.
 
 ## Unresolved-first work
-1. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` — strong candidate; Michael McCaul confirmed after a classified briefing that Egypt warned Israel roughly three days before Oct 7 but explicitly said recipient level was unclear. Keep distinct from WARN-76.
-2. `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023` — separate later-reported Egypt→Foreign Ministry/NSC chain; primary records and named witnesses still insufficient.
-3. `UAE-MBZ-ENVOY-2023` — Isaac Herzog retrospective account indicates repeated MBZ de-escalation messages and a special envoy who met Netanyahu; exact date, envoy identity and distinction from WARN-5 remain unresolved.
-4. `MUNICH-GROUP-MAY11-2023` — explicit public warning of deteriorating security / major conflagration; direct delivery to a named Israeli recipient remains unproven.
-5. `CLEVERLY-COHEN-MAR21-2023` — official record establishes de-escalation discussion but final readout frames it as mutual agreement rather than a distinct one-way warning; held below acceptance threshold.
-6. Cross-lane carryovers remain: `SHINBET-FEB2023-HAMAS-FORCEBUILDUP`, `SHINBET-SINWAR-11X-FEBMAR-2023`, `POLICE-JUN6-2023-MULTIARENA-CAPACITY`, `BAR-APR23-DETERRENCE`, `SAAR-JULY-DATE-RECONCILIATION`, local/rabbashatz chains and military surveillance escalation paths.
+1. `AVI-GIL-AUG21-2023-BRIEFING` — contemporaneous PMO record confirms the 21 Aug briefing with Netanyahu, Lapid and military secretary Avi Gil; Lapid later testified Gil warned that Iran, Hezbollah, Gaza and West Bank actors saw Israeli weakness, internal division, readiness loss and US friction as an opportunity. Exact warning content still depends mainly on retrospective opposition testimony. Need Gil confirmation, transcript, minutes or briefing material before acceptance.
+2. `INSS-MAR21-2023-URGENT-ALERT` — strong contemporaneous public warning of serious IDF/operational damage and reduced ability to face enemies; direct named-recipient delivery remains unproven.
+3. `INSS-JUL23-2023-READINESS-ALERT` — strong public warning of reserve-system collapse, weakened military capability/deterrence and multi-arena danger; direct named-recipient delivery remains unproven.
+4. `JISS-APR2023-RED-FLAG` and `IDSF-APR16-2023-MULTIFRONT` — substantive expert warnings, but current evidence is public publication rather than documented delivery to a named qualifying decision-maker.
+5. `HCJ6820-SEP2023-READINESS` — primary Supreme Court record establishes readiness litigation and government acknowledgment of ongoing Netanyahu/Gallant/Halevi/Hanegbi engagement, but mixed professional/protest origin and the court’s factual-basis caveat prevent promotion without the underlying professional correspondence.
+6. `BRIK-AUG7-2023-PUBLIC-READINESS` — explicit public Brik warning that the IDF was not ready for a difficult war; 2023 named-recipient delivery remains unresolved. Keep distinct from older `WARN-77`.
+7. Cross-lane carryovers remain: `EGYPT-OCT4-2023-ISRAELI-OFFICIALS`, `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023`, `UAE-MBZ-ENVOY-2023`, `MUNICH-GROUP-MAY11-2023`, `SHINBET-FEB2023-HAMAS-FORCEBUILDUP`, `SHINBET-SINWAR-11X-FEBMAR-2023`, `POLICE-JUN6-2023-MULTIARENA-CAPACITY`, `BAR-APR23-DETERRENCE`, `SAAR-JULY-DATE-RECONCILIATION`, local/rabbashatz chains and military surveillance escalation paths.
 
-## Lane 3 coverage this run
-- **2022-12-29..2022-12-31:** targeted transition sweep; no new qualifying direct foreign warning; In progress.
-- **2023-01:** accepted WARN-71; existing Sisi/Austin/Borrell/Sullivan/Abdullah/Burns/Blinken events remain distinct; In progress.
-- **2023-02:** accepted WARN-72; existing Blinken Feb 18 remains distinct; In progress.
-- **2023-03:** accepted WARN-73; Cleverly-Cohen Mar 21 held below threshold; existing Biden Mar 19 remains distinct; In progress.
-- **2023-04:** accepted WARN-74; existing Austin Apr 8 remains distinct; In progress.
-- **2023-05:** existing Borrell May 2 rechecked; Munich Group May 11 added as recipient-unresolved candidate; In progress.
-- **2023-06:** existing Sullivan-Hanegbi Jun 23 rechecked; no new distinct acceptance; In progress.
-- **2023-07:** existing Austin Jul 6 and Biden Jul 17 rechecked; no new distinct acceptance; In progress.
-- **2023-08:** Blinken-Dermer Aug 17 stabilization discussion remains below warning threshold on available wording; In progress.
-- **2023-09:** accepted WARN-75 and WARN-76; WARN-5 and WARN-8 freshness evidence rechecked; In progress.
-- **2023-10-01..2023-10-06:** Oct 4 Egyptian-warning chain remains strong but recipient-unresolved; strict cutoff preserved; In progress.
+## Lane 4 coverage this run
+- **2022-12-29..2022-12-31:** targeted transition sweep; no new qualifying direct expert warning; In progress.
+- **2023-01:** early INSS strategic material rechecked; no new direct named-recipient warning; In progress.
+- **2023-02:** professional/former-security material searched; no distinct accepted direct event; In progress.
+- **2023-03:** INSS 21 Mar first-ever “urgent strategic alert” tracked; recipient delivery unresolved; In progress.
+- **2023-04:** JISS red-flag analysis, IDSF 16 Apr multi-front warning, Hayman and Amidror public warnings tracked; no direct named-recipient delivery established; In progress.
+- **2023-05:** expert/think-tank multi-front and readiness analysis searched; no new accepted direct event; In progress.
+- **2023-06:** targeted expert/research pass found no new qualifying direct warning; In progress.
+- **2023-07:** accepted `WARN-78`; INSS 23 Jul warning remains recipient-unresolved; In progress.
+- **2023-08:** existing `WARN-6` Giora Eiland rechecked and not duplicated; Avi Gil 21 Aug remains unresolved under retrospective-claim rule; Brik 7 Aug public warning lacks direct recipient; In progress.
+- **2023-09:** HCJ 6820/23 primary record reviewed; underlying professional warning/source boundary unresolved; In progress.
+- **2023-10-01..2023-10-06:** no additional qualifying Lane-4 direct warning established; strict cutoff preserved; In progress.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Followed older foreign/regional warning chains only where they could establish inherited or repeated knowledge relevant to 2023 officeholders.
-- No additional older warning was accepted because no distinct older event with demonstrable delivery/repetition to current officeholders was established this run.
-- No arbitrary historical floor imposed.
+- **Accepted `WARN-77` (4 Oct 2018)** because the serving 2018 IDF ombudsman directly warned Netanyahu, a 2023 officeholder, about systemic military readiness; later Netanyahu follow-up confirms receipt and engagement.
+- The record explicitly does **not** assume that 2018 deficiencies persisted unchanged to 2023. Contrary official readiness findings are preserved.
+- Continue backward only on high-salience chains with demonstrable delivery, repetition or inherited knowledge relevant to serving 2023 officeholders; no arbitrary historical floor.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-18T050817Z.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-18T050817Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-18T061900Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-18T061900Z.csv`
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
@@ -62,8 +59,9 @@ Last successful run: 2026-09-18 05:08 UTC
 - Preserve denials, contrary assessments and exculpatory facts.
 - Warnings to senior state/security decision-makers qualify even without government-level receipt; record the distinction.
 - Publicity alone does not establish delivery to a named decision-maker.
+- Post-event “I warned them” testimony requires independent corroboration or contemporaneous evidence before acceptance.
 - Do not attribute institutional inherited knowledge personally without evidence.
 - Distinguish specific attack-plan/readiness warnings from general diplomatic or strategic escalation warnings.
 - Do not create duplicates for repeated retellings of one warning chain.
 - Famous cases must not crowd out lesser-known military, security, foreign, expert, local or document-recovery lanes.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 4**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 5**.
