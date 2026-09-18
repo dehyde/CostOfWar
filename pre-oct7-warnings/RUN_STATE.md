@@ -1,60 +1,61 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-18 02:21 UTC
+Last successful run: 2026-09-18 03:15 UTC
 
 ## Rotation
-- Deep lane completed this run: **6 — documentary recovery + historical blind-spot sweep**
-- Next deep lane: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**
-- Lane 6 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 6 run.
+- Deep lane completed this run: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**
+- Next deep lane: **2 — Shin Bet / Mossad / National Security Council / police / Home Front / other Israeli professional security bodies**
+- Lane 1 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 1 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`
-- Canonical count verified after publication: **66 Accepted**.
-- **2 new accepted warnings** this run:
-  - `WARN-65` — 22 Mar 2023: IDF Chief of Staff Herzi Halevi → Benjamin Netanyahu. Direct meeting warning that IDF readiness faced a real and critical concern, intelligence personnel could leave, and terrorist organizations were identifying weakness in the IDF. **Medium confidence / contemporaneous / moderately specific / military readiness + deterrence erosion.** Distinct from WARN-42 (5 Mar) because this was a later meeting with materially escalated content.
-  - `WARN-66` — 23–25 Mar 2023: Defense Minister Yoav Gallant → Benjamin Netanyahu / government. Private warning on 23 Mar about military/security consequences, followed by a 25 Mar public statement that the rift penetrating the IDF/security agencies posed a clear, immediate and tangible threat to state security. Netanyahu announced Gallant's dismissal on 26 Mar; later legislative pause is not causally attributed to this warning. **High confidence / contemporaneous / moderately specific / military readiness + deterrence erosion.**
+- Canonical count verified after publication: **67 Accepted**.
+- **1 new accepted warning** this run:
+  - `WARN-67` — 30 Jul 2023: senior IDF / defense-establishment officials → Benjamin Netanyahu. In a high-level northern-front security assessment, officials warned that Nasrallah's increasing risk-taking and a mistaken assessment could ignite conflict across the entire front. PMO confirmed Netanyahu received the assessment and said he accepted the IDF/defense-establishment recommendations. **Medium confidence / contemporaneous / moderately specific / regional-war-risk + deterrence-erosion.** Exact speaker and full transcript are not public.
 
 ## Freshness / documentary pass
-- Rechecked newly surfaced Sep 2026 reporting and the displayed image/excerpt of Amit Saar's 23 Jul 2023 warning letter. The library already contains a distinct accepted Jul 23 Saar warning; the older Jul 16 Saar entry remains separately published pending authoritative chronology establishing whether Jul 16 was distinct or a date error. No duplicate created.
-- Rechecked fresh Sep 2026 international reporting on the UAE warning. It materially repeats the Haaretz/book claim and PMO denial but does not provide new independent primary proof; WARN-5 remains Medium / disputed, with denial preserved.
-- Rechecked later-released Shin Bet material on the Feb 2023 Hamas force-buildup/readiness assessment. Warning content remains material, but no original distribution list establishing qualifying recipient receipt was recovered.
+- `WARN-22` strengthened with 17 Sep 2026 Times of Israel reporting on the formal dismissal of the Gaza Division intelligence officer who had rejected NCO V's Jul 2023 mass-raid analysis as “completely imaginary.” The article independently restates the warning/rejection chain. The Notion entry was upgraded with this later evidence.
+- This does **not** change the warning date or prove escalation to MI chief Aharon Haliva/government; the dismissal is retrospective institutional action, not contemporaneous warning evidence.
+- Rechecked the Jul 2023 Amit Saar chronology and Oct 6 indicator chain; no duplicate/new accepted event created from unresolved or post-midnight material.
 - No accepted warning was downgraded this run.
 
 ## Unresolved-first work
 1. `SHINBET-FEB2023-HAMAS-FORCEBUILDUP` — strong content; original February assessment/distribution remains missing.
-2. `SAAR-JULY-DATE-RECONCILIATION` — Jul 23 actual document image/content is strong; reconcile against older Jul 16 reporting before correcting/merging accepted entries.
-3. `EGYPT-KAMEL-NETANYAHU-LATESEP-2023` — disputed; recover Egyptian primary confirmation, call metadata/transcript or authoritative inquiry chronology.
-4. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` — strong candidate; McCaul confirms a warning to Israelis but recipient level remains unresolved.
-5. `BAR-APR23-DETERRENCE` — exact April forum/recipient and contemporaneous record remain missing.
-6. `POLICE-JUN6-2023-MULTIARENA-CAPACITY` — official warning content strong; qualifying senior recipient for that exact warning remains unproven.
-7. `OCT1-ASSESSMENT-2023` — remains disputed; primary Oct. 1 meeting minutes/recommendation absent.
-8. `RABBASHATZ-MAY2-2023-AUTHORITY` — original letter/full preparedness-warning wording still needed.
-9. `ZALTZ-JUL30-2023-LOCAL-PLANNING` — direct receipt by a qualifying named decision-maker remains unproven.
-10. Cross-lane gaps remain: Oct. 3 observer escalation chain, Oct. 6 pre-midnight internal chain, Tzachi readiness timing, rabbashatz communications/status, Unit 8200 / observer escalation paths, obscure local/foreign primary records.
+2. `SAAR-JULY-DATE-RECONCILIATION` — Jul 23 document evidence is strong; reconcile against older Jul 16 reporting before correcting/merging accepted entries.
+3. `ORTAL-FEB23-2023` — strong professional warning on Gaza/border-defense assumptions and surprise vulnerability; named qualifying recipient not established.
+4. `HALIVA-MAY22-2023` — strong contemporaneous public MI-chief warning of possible large regional war; named recipient delivery for this specific event not established.
+5. `GAZA-OBSERVATION-BALLOON-2023` — lower-level reports of intensified Hamas preparations are material, but a distinct dated warning plus qualifying senior receipt remains unrecovered.
+6. `OCT6-PREMIDNIGHT-INDICATORS` — raw signs reportedly began before midnight, but documented senior assessments/alerts occurred after midnight Oct 7; strict temporal cutoff preserved.
+7. `EGYPT-KAMEL-NETANYAHU-LATESEP-2023` — disputed; recover Egyptian primary confirmation, call metadata/transcript or authoritative inquiry chronology.
+8. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` — strong candidate; recipient level remains unresolved.
+9. `BAR-APR23-DETERRENCE` — exact April forum/recipient and contemporaneous record remain missing.
+10. `POLICE-JUN6-2023-MULTIARENA-CAPACITY` — official warning content strong; qualifying senior recipient for that exact warning remains unproven.
+11. `OCT1-ASSESSMENT-2023` — remains disputed; primary Oct 1 meeting minutes/recommendation absent.
+12. `RABBASHATZ-MAY2-2023-AUTHORITY` and `ZALTZ-JUL30-2023-LOCAL-PLANNING` remain unresolved outside Lane 1.
 
-## Lane 6 coverage this run
-- **2022-12-29..2022-12-31:** targeted documentary/historical sweep; no new qualifying event; In progress.
-- **2023-01:** no new acceptance; primary-document recovery continues; In progress.
-- **2023-02:** Shin Bet Hamas force-buildup/readiness assessment rechecked; receipt gap remains; In progress.
-- **2023-03:** accepted WARN-65 and WARN-66; In progress.
-- **2023-04:** MI Apr 12 and Bar April warning chains remain below threshold because named recipient/forum or primary delivery record remains missing; In progress.
-- **2023-05:** no new event; May 21 Bar dispute and May 31 MI assessment not duplicated; In progress.
-- **2023-06:** no new event; police capacity recipient gap remains; In progress.
-- **2023-07:** Jul 23 Saar document rechecked; no duplicate; Jul 16/23 chronology remains unresolved; In progress.
-- **2023-08:** no new event; existing readiness/Comptroller warnings not duplicated; In progress.
-- **2023-09:** fresh UAE/Egypt/backchannel reporting rechecked; no new primary resolution; In progress.
-- **2023-10-01..2023-10-06:** Oct 1 remains disputed; Oct 4 Egypt recipient level unresolved; Oct 6 Saar draft remained internal before attack; In progress.
+## Lane 1 coverage this run
+- **2022-12-29..2022-12-31:** targeted military/intelligence transition sweep; no new qualifying event; In progress.
+- **2023-01:** no new acceptance; military/intelligence archive recovery continues; In progress.
+- **2023-02:** Ortal warning identified as strong lead; receipt gap remains; In progress.
+- **2023-03:** existing Halevi/Gallant readiness sequence rechecked; no duplicate; In progress.
+- **2023-04:** spring military deterrence/escalation chains rechecked; no new acceptance; In progress.
+- **2023-05:** Haliva May 22 regional-war warning retained as unresolved because named recipient delivery was not established; In progress.
+- **2023-06:** Gaza/MI chain rechecked; no new distinct event; In progress.
+- **2023-07:** accepted WARN-67; strengthened WARN-22; Saar Jul 16/23 chronology remains unresolved; In progress.
+- **2023-08:** existing Gaza Division/Jericho Wall and readiness chains rechecked; no new event; In progress.
+- **2023-09:** observation/surveillance warning chain tracked but not aggregated without a distinct dated event and senior receipt; In progress.
+- **2023-10-01..2023-10-06:** strict cutoff preserved; post-midnight Oct 7 senior alerts excluded; pre-midnight raw indicators alone not counted; In progress.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Followed older border-protection and readiness chains through official material.
-- Older records continue to establish longstanding vulnerabilities, but no additional older warning was accepted because this run did not establish a distinct qualifying warning delivered/repeated to 2023 officeholders.
+- Followed older military doctrine/border-defense material only where it could establish inherited or repeated knowledge relevant to 2023 officeholders.
+- No additional older warning was accepted because this run did not establish a distinct qualifying warning delivered/repeated to current officeholders.
 - No arbitrary historical floor imposed.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-18T022100Z.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-18T022100Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-18T031500Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-18T031500Z.csv`
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
@@ -67,4 +68,4 @@ Last successful run: 2026-09-18 02:21 UTC
 - Distinguish specific attack-plan/readiness warnings from general diplomatic or strategic escalation warnings.
 - Do not create duplicates for repeated retellings of one warning chain.
 - Famous cases must not crowd out lesser-known military, security, foreign, expert, local or document-recovery lanes.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 1**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 2**.
