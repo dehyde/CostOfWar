@@ -1,56 +1,55 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-18 19:15 UTC
+Last successful run: 2026-09-18 20:13 UTC
 
 ## Rotation
-- Deep lane completed this run: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
-- Next deep lane: **6 — documentary recovery + historical blind-spot sweep**.
-- Lane 5 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 5 run; unresolved local leads return to unresolved-first work.
+- Deep lane completed this run: **6 — documentary recovery + historical blind-spot sweep**.
+- Next deep lane: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**.
+- Lane 6 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 6 run; unresolved documentary leads return to unresolved-first work.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
-- Persistent state was reconciled against Notion: two accepted pages added after the prior automated state were already present as **WARN-100** and **WARN-101**. The November 2015 page body had an internal dedupe sentence mistakenly referring to itself as WARN-100; this run corrected it to **WARN-101**.
-- **1 new accepted warning** was published this run as auto-ID **WARN-102**.
-- Current reconciled publication state: **102 Accepted warnings**. Aggregate SQL recount remains unavailable because the Notion Query Data Source quota is exhausted, but direct page creation/fetch and sequential IDs confirm WARN-100, WARN-101 and WARN-102 are Accepted.
+- Reconciled the stale automated state against Notion: **WARN-103** (Eliezer Toledano, Nov 2022) was already present as Accepted but had not yet been reflected in this file.
+- **1 new accepted warning** was published this run as **WARN-104**.
+- Current reconciled publication state: **104 Accepted warnings**, sequentially verified through direct Notion fetch of WARN-104.
 
 ### New accepted warning
-- `WARN-102` — **30 Dec 2022**: **Israel Police Commissioner Kobi Shabtai + Border Police commander Amir Cohen → Benjamin Netanyahu, Yoav Gallant, Itamar Ben Gvir**. Their readiness assessment found that required resources had not been transferred and conditions were not ready for police to assume security responsibility for Jerusalem-envelope settlements from the IDF. Netanyahu, Gallant and Ben Gvir postponed the transfer by **30 days** to examine police readiness. **High / Contemporaneous / Direct documented receipt / Specific / Border vulnerability + internal-security readiness / Response: Acted.** Multiple contemporaneous independent reports document both the professional assessment and immediate government response. Original assessment/minutes are not public.
+- `WARN-104` — **January 2023, exact date unresolved**: **Maj. Gen. Aharon Haliva / IDF Military Intelligence → Benjamin Netanyahu**. Yedioth/Ynet's 28 Feb 2025 document-based investigation reports Haliva warned that Israel was in an **“intelligence-access drought in Gaza”**, meaning intelligence coverage in the Strip was insufficient. It reports that Netanyahu agreed intelligence access needed improvement and that MI was trying to improve coverage. **Medium / Retrospective / Strongly documented receipt / Moderately specific intelligence-readiness warning / Response: Partially acted.** The underlying meeting minutes are not public; PMO broadly rejected the investigation's framing but did not specifically deny this exchange. Not an imminent-attack warning.
 
 ## Freshness / documentary upgrades
-- `WARN-15` — **strengthened, no confidence change**. Ynetnews reporting dated **18 Sep 2026** adds that after the 15 Sep 2023 Sinwar-channel warning reached Shin Bet, Ronen Bar spoke with Netanyahu and recommended either acting to neutralize the threat or **significantly strengthening Gaza-border defenses**. The Notion entry and source list were updated. It remains **Medium** because the underlying Shin Bet record/meeting minutes are not public and the precise interpretation is partly retrospective.
-- `WARN-5` — rechecked. Later reporting continues to strengthen provenance of the Sinwar→UAE warning chain but does not resolve the disputed alleged MBZ→Netanyahu call; no confidence change and no duplicate created.
+- Fresh Sep 18 reporting on the **Sinwar→UAE/Shin Bet warning chain** was checked. The material strengthens provenance already incorporated into WARN-5/WARN-15 but does not resolve the disputed MBZ→Netanyahu call or justify a duplicate.
+- Official **State Comptroller national-security-concept material** was reviewed as document-recovery evidence. It confirms important prewar institutional context, including an April 2023 government decision acknowledging continuing Gaza-envelope rocket/infiltration exposure and a July 2 directive emphasizing preservation of Gaza calm alongside readiness. These are preserved as context, not promoted as separate warning events without a distinct professional warning/delivery event.
 
 ## Unresolved-first work
-1. `ZALTZ-JUL30-2023-LOCAL-READINESS` — Giora Zaltz warned that excluding northern local leaders from a PM situation assessment could exact a heavy price and weaken home-front readiness for a prolonged military event. Strong contemporaneous content; named-recipient receipt remains unproven.
-2. `NORTHERN-HEADS-JUL15-2023-GORDIN` — northern local leaders directly raised Hezbollah/border concerns with Northern Command chief Ori Gordin; direct receipt exists, but exact warning wording and distinctness from existing northern-border entries need stronger documentation.
-3. `DAVIDI-APR20-2023-GAZA-POLICY` — direct Netanyahu meeting with Sderot/Gaza-envelope heads; likely overlaps WARN-33 and is less specific. Hold unless distinct warning content/chronology is recovered.
-4. `JERUSALEM-ENVELOPE-RABBASHATZ-JAN10-2023` — continuation of WARN-102 chain; determine whether January implementation/removal of experienced local security coordinators produced a distinct warning event to qualifying recipients.
-5. Expert carryovers: `INSS-MAR21-2023-URGENT-ALERT`, `INSS-JUL23-2023-READINESS-ALERT`, `JISS-APR17-2023-WAR`, `CARMON-AUG31-2023-WAR`, `YADLIN-MAR23-2023-MULTIFRONT`.
-6. Foreign carryovers: `EGYPT-OCT4-2023-ISRAELI-OFFICIALS`, `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023`, `MUNICH-GROUP-MAY11-2023-CONFLAGRATION`, `MICHEL-MAR08-2023-ESCALATION`.
-7. Security/document-recovery carryovers: `HALIVA-JAN2023-GAZA-ACCESS`, `BAR-FEB2023-WAY-TO-ESCALATION`, `BAR-APR23-DETERRENCE`, `BAR-MIDSEP-2023-MULTIFRONT`, `SAAR-OCT6-2023-UNSENT`, `NCO-V-LATE-SWORD-EMAIL-2023`, `NCO-V-JUN1-DATE-RECONCILIATION`, `JERICHO-NOV2022-SESSION-HALIVA-RECONCILIATION`, `SAAR-JULY-DATE-RECONCILIATION`, `SHINBET-SINWAR-11X-FEBMAR-2023`, `AVI-GIL-AUG21-2023-BRIEFING`.
+1. `SHINBET-SINWAR-11X-FEBMAR-2023` — N12 says Shin Bet/security officials notified Netanyahu 11 times in Feb-Mar 2023 of high-quality Sinwar-targeting opportunities. Still **Disputed / Investigating**: anonymous retrospective source, no underlying minutes/recommendations, and categorical PMO contrary account.
+2. `AVI-GIL-AUG21-2023-BRIEFING` — Aug 21 Netanyahu-Lapid meeting with military secretary Avi Gil is contemporaneously documented, but the alleged warning content (enemy perception of weakness/readiness loss) is still mainly Lapid's retrospective testimony. Keep unresolved; official Comptroller reconstruction records a more reassuring Haliva Hamas assessment on Aug 22.
+3. `KOCHAVI-POST-GUARDIAN-2021-NOT-DETERRED` — State Comptroller records Kochavi's Dec 2024 statement that after Guardian of the Walls he warned in closed rooms that Hamas was not sufficiently deterred and Sinwar was unpredictable. Hold pending exact dates, forums, recipients and contemporaneous corroboration.
+4. `ZALTZ-JUL30-2023-LOCAL-READINESS` — receipt proof still missing.
+5. `NORTHERN-HEADS-JUL15-2023-GORDIN` — direct receipt exists; exact wording/distinctness unresolved.
+6. Expert carryovers: `INSS-MAR21-2023-URGENT-ALERT`, `INSS-JUL23-2023-READINESS-ALERT`, `JISS-APR17-2023-WAR`, `CARMON-AUG31-2023-WAR`, `YADLIN-MAR23-2023-MULTIFRONT`.
+7. Foreign carryovers: `EGYPT-OCT4-2023-ISRAELI-OFFICIALS`, `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023`, `MUNICH-GROUP-MAY11-2023-CONFLAGRATION`, `MICHEL-MAR08-2023-ESCALATION`.
+8. Other document-recovery carryovers: `BAR-FEB2023-WAY-TO-ESCALATION`, `BAR-APR23-DETERRENCE`, `BAR-MIDSEP-2023-MULTIFRONT`, `SAAR-OCT6-2023-UNSENT`, `NCO-V-LATE-SWORD-EMAIL-2023`, `NCO-V-JUN1-DATE-RECONCILIATION`, `JERICHO-NOV2022-SESSION-HALIVA-RECONCILIATION`, `SAAR-JULY-DATE-RECONCILIATION`.
 
-## Lane 5 coverage this run
-- **2022-12-29..2022-12-31:** WARN-102 accepted from the 30 Dec police/Border Police readiness assessment and documented ministerial response; In progress.
-- **2023-01:** Jerusalem-envelope resident/security-coordinator continuation reviewed; no separate event accepted; In progress.
-- **2023-02:** targeted local/emergency sweep; no additional threshold-crossing event; In progress.
-- **2023-03:** northern-border protection/readiness material checked against existing entries; no duplicate; In progress.
-- **2023-04:** Apr 9 urgent protection requests and Apr 20 Netanyahu-Sderot/Gaza-envelope meeting reviewed; direct contact exists but content overlaps existing entries or lacks distinct enough warning formulation; In progress.
-- **2023-05:** existing WARN-33 remains the strongest qualifying Gaza-envelope local warning; no duplicate; In progress.
-- **2023-06:** targeted sweep; no new threshold-crossing event; In progress.
-- **2023-07:** Zaltz 30 Jul and northern local-heads/Gordin 15–16 Jul identified as unresolved candidates; In progress.
-- **2023-08:** West Bank local-head protest and northern protection complaints reviewed; no new qualifying event; In progress.
-- **2023-09:** late-September Gaza-fence/community concerns checked against accepted Gadi Yarkoni warning; no duplicate; In progress.
-- **2023-10-01..2023-10-06:** targeted final-week local/emergency sweep; no new qualifying event this pass; In progress.
+## Lane 6 coverage this run
+- **2022-12-29..2022-12-31:** documentary carryovers checked; no new event; In progress.
+- **2023-01:** WARN-104 accepted; exact meeting date/original minutes still sought; In progress.
+- **2023-02–03:** 11x Sinwar-targeting claim rechecked; remains disputed/unresolved; In progress.
+- **2023-04:** official government-decision language confirms Gaza-envelope infiltration exposure as institutional knowledge; context only; In progress.
+- **2023-05–06:** official inquiry/reconstruction material reviewed; no new distinct threshold-crossing event; In progress.
+- **2023-07:** July 2 Gaza-calm/readiness directive retained as response/policy context; existing warning events remain distinct; In progress.
+- **2023-08:** Avi Gil warning-content claim remains unresolved; Aug 22 contrary/reassuring assessment preserved; In progress.
+- **2023-09:** no distinct new event beyond already captured UAE/Egypt/Sinwar/local/military chains; In progress.
+- **2023-10-01..2023-10-06:** final-week disputed chains rechecked; no new promotion; In progress.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Official **Feb 2022** Knesset discussions on Jerusalem-envelope security documented preexisting concern about a security vacuum/infiltration risk. This materially strengthens the inherited-risk context for WARN-102 but is not counted as a separate warning to the 2023 government.
-- Older local/security warnings remain separate background unless evidence establishes a distinct repetition to, or inherited documented knowledge by, a serving 2023 officeholder.
+- Kochavi's retrospective claim of post-Guardian-of-the-Walls closed-room warnings is now tracked but not accepted without original dates/recipients/corroboration.
+- Older State Comptroller tunnel/readiness material was deduplicated against existing accepted older-warning entries rather than republished.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-18T191500Z.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-18T191500Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-18T201300Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-18T201300Z.csv`
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
@@ -61,4 +60,4 @@ Last successful run: 2026-09-18 19:15 UTC
 - Post-event `I warned them` testimony requires independent corroboration or contemporaneous evidence before acceptance.
 - Distinguish specific attack-plan/readiness warnings from general strategic, institutional and emergency-preparedness warnings.
 - Do not create duplicates for repeated retellings, repeated presentations of the same artifact without distinct warning content, or response milestones.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 6**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 1**.
