@@ -1,59 +1,57 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-19 09:09 UTC
+Last successful run: 2026-09-19 10:15 UTC
 
 ## Rotation
-- Deep lane completed this run: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**.
-- Next deep lane: **2 — Shin Bet / Mossad / National Security Council / police / Home Front / other Israeli professional security bodies**.
-- Lane 1 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 1 run; unresolved military/intelligence leads return to unresolved-first work.
+- Deep lane completed this run: **2 — Shin Bet / Mossad / National Security Council / police / Home Front / other Israeli professional security bodies**.
+- Next deep lane: **3 — foreign governments, diplomats, foreign intelligence/security services, regional partners and official foreign warnings**.
+- Lane 2 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 2 run; unresolved Lane 2 leads return to unresolved-first work.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
-- **0 new accepted warnings published this run.**
-- Canonical accepted count remains **113**, through **WARN-113**.
-- No Notion warning entry required creation or substantive upgrade this run; fresh Lane 1 evidence was either already integrated or below receipt threshold.
+- **1 new accepted warning published this run: WARN-114.**
+- Canonical accepted count is now **114**, through **WARN-114**.
+- **WARN-114 — 6 Feb 2023:** Shin Bet director Ronen Bar and IDF Chief of Staff Herzi Halevi reportedly warned Prime Minister Benjamin Netanyahu that carrying out the planned Wadi Qaddum demolition in East Jerusalem could trigger escalation lasting through Ramadan. Netanyahu postponed the demolition. Medium confidence: contemporaneous named warning-chain reporting plus independent contemporaneous corroboration of the security concern and postponement; no official transcript/written warning. Other diplomatic pressure was also reported, so no sole-causation claim is made. Not a Gaza/Oct. 7 attack warning.
 
 ## Freshness / documentary upgrades
-1. **Gaza Division intelligence-officer dismissal audit:** Times of Israel, 17 Sep 2026, confirms Lt. Col. “Aleph” was formally dismissed after previously rejecting Unit 8200 NCO V's detailed pre-Oct. 7 warnings as “completely imaginary.” This is important institutional/provenance evidence, but WARN-22 already contains this Sep. 17 upgrade. No duplicate or second freshness note was added to Notion.
-2. The fresh dismissal reporting again describes V's “the sword is coming / warn the people” email as having been sent in the days before Oct. 7. Existing WARN-22/WARN-27 already preserve the unresolved dating conflict between this description and Ynet's document reconstruction. No separate warning event is created without a distinct dated primary record.
-3. Spring-2023 Hamas **emoji** signaling remains retrospective evidence only: the emoji code was decoded after Oct. 7. It cannot itself establish a contemporaneous May warning. The contemporaneous SIM-activation episode remains a separate unresolved lead.
+1. No newly published primary Lane 2 record was found that materially changes an existing accepted warning's confidence or recipient chain.
+2. Recent Shin Bet/inquiry reporting was audited against the existing September/October warning entries; material already represented in the publication layer was deduped rather than republished.
+3. Recent foreign/UAE warning reporting belongs to Lane 3 and is already represented in WARN-5; it was not duplicated in this Lane 2 pass.
 
 ## Unresolved-first work
-1. `MI-APR12-2023-POLITICAL-ECHELON` — **Resolved / deduped to WARN-11.** Notion publication-state audit confirmed the Apr. 9–12 MI “war is closer than calm” warning is already accepted as WARN-11 at Medium confidence, with recipient recorded as the Israeli political echelon and specific ministers/forum publicly unidentified. Do not rediscover as a candidate; continue only for named-recipient/primary-document upgrades.
-2. `OBSERVERS-OCT3-2023-IRREGULAR-DRILL` — **New / Investigating.** On 3 Oct 2023, Nahal Oz surveillance soldiers reportedly flagged a highly irregular Hamas Nukhba drill combining rocket fire with roughly 170 fighters practicing the storming of Israeli tanks. Kan reporting, carried by Times of Israel, says commanders were alerted and dismissed it as another drill. Exact recipient identities/ranks are not public; keep below acceptance threshold until a qualifying senior recipient chain is recovered.
-3. `SIM-EMOJI-MAY2023-PRIOR-MASS-ATTACK` — **Investigating / no upgrade.** Contemporaneous May SIM activations are documented retrospectively, but no qualifying senior-recipient warning event is established; emoji interpretation was post-event.
-4. `OCT6-2023-WEAPONS-ALERT-UNREAD` — **Investigating / no upgrade.** No authoritative evidence recovered proving pre-midnight receipt by a qualifying senior decision-maker; reported unread/internal alert remains below threshold.
-5. `TKUMA-KFIR-STANDBY-WEAPONS` — **Investigating.** Need Kfir's contemporaneous written message, exact date, named recipient or independent corroboration.
-6. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` — **Investigating / recipient unresolved.** No primary Egyptian warning record or new evidence resolving Israeli recipient level.
-7. `ZALTZ-JUL30-2023-LOCAL-READINESS` — **Investigating / receipt unresolved.** Need direct delivery/acknowledged receipt by PMO, IDF chief or Northern Command.
-8. `GANZ-SEP2023-WAR` — remains **retrospective / uncorroborated**.
-9. `RABBASHATZ-PREOCT2023-READINESS` — documentary chain strengthened by later State Comptroller material, but a distinct pre-Oct. 7 warning event and recipient chain remain required.
-10. Expert carryovers: `INSS-MAR21-2023-URGENT-ALERT`, `INSS-JUL23-2023-READINESS-ALERT`, `JISS-APR16-2023-WAR`, `CARMON-AUG31-2023-WAR`, `YADLIN-MAR23-2023-MULTIFRONT`, `AMIDROR-APR13-2023-WAR`.
-11. Israeli-security carryovers for Lane 2/unresolved-first: `SHINBET-SINWAR-11X-FEBMAR-2023`, `BAR-APR23-DETERRENCE`, `AVI-GIL-AUG21-2023-BRIEFING`, `HFC-NEA-JUN5-2023-MULTIFRONT-HOMEFRONT`.
-12. Foreign carryover: `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023` remains separate from represented Kamel/Sinwar/UAE chains unless documentary evidence proves identity or distinctness.
+1. `SHINBET-SINWAR-11X-FEBMAR-2023` — **Investigating / disputed; source upgraded.** Original N12 reporting from 28 Jan 2026 was recovered. It cites a senior security-system official claiming Shin Bet informed Netanyahu on 11 occasions in Feb–Mar 2023 that a high-quality operational opportunity existed to target Yahya Sinwar. PMO/Netanyahu categorically says the opposite and says contemporaneous minutes support its account. No acceptance without primary records or independent corroboration.
+2. `BAR-APR23-DETERRENCE` — **Investigating / no threshold upgrade.** Ronen Bar's later sworn affidavit is authoritative retrospective evidence that Shin Bet warned of a 'perfect storm' and recommended a targeted forceful move in April 2023, but the specific event still lacks exact date/forum/recipient and independent contemporaneous corroboration. Preserve Netanyahu's contrary account citing contemporaneous restraint assessments.
+3. `AVI-GIL-AUG21-2023-BRIEFING` — **Investigating / opposition-derived content.** The Aug. 21 briefing and Avi Gil's attendance are contemporaneously documented, but the publicly available substantive warning content remains derived from later opposition-leader testimony. Need Gil/protocol/minutes or another non-opposition professional source.
+4. `HFC-NEA-JUN5-2023-MULTIFRONT-HOMEFRONT` — **Investigating / no qualifying source-to-recipient warning.** The multi-front exercise and Gallant visit are contemporaneously documented, but recovered reporting quotes Gallant's own warning rather than a distinct HFC/NEA warning delivered to him. Need the underlying professional assessment/minutes.
+5. `OBSERVERS-OCT3-2023-IRREGULAR-DRILL` — remains **Investigating**; exact qualifying senior recipient chain unresolved.
+6. `SIM-EMOJI-MAY2023-PRIOR-MASS-ATTACK` — remains **Investigating**; contemporaneous SIM anomaly exists retrospectively in reporting, but emoji interpretation was post-event and senior receipt is unproven.
+7. `OCT6-2023-WEAPONS-ALERT-UNREAD` — remains **Investigating**; no evidence of timely receipt by a qualifying senior decision-maker.
+8. `TKUMA-KFIR-STANDBY-WEAPONS`, `EGYPT-OCT4-2023-ISRAELI-OFFICIALS`, `ZALTZ-JUL30-2023-LOCAL-READINESS`, `GANZ-SEP2023-WAR`, `RABBASHATZ-PREOCT2023-READINESS` remain unresolved under prior evidence standards.
+9. Expert carryovers remain unresolved: `INSS-MAR21-2023-URGENT-ALERT`, `INSS-JUL23-2023-READINESS-ALERT`, `JISS-APR16-2023-WAR`, `CARMON-AUG31-2023-WAR`, `YADLIN-MAR23-2023-MULTIFRONT`, `AMIDROR-APR13-2023-WAR`.
+10. Foreign carryover for next Lane 3: `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023`, plus other disputed Egyptian recipient/date chains, remains to be resolved without merging distinct claims.
 
-## Lane 1 coverage this run
-- **2022-12-29..2022-12-31:** existing Jericho Wall/raid-threat chains audited; no new distinct warning; In progress.
-- **2023-01:** existing Haliva Gaza-intelligence-access warning already represented; no new distinct event; In progress.
-- **2023-02:** no new distinct Lane 1 warning meeting threshold; In progress.
-- **2023-03:** existing Zini/Halevi/Saar military-readiness and deterrence warnings already represented; no new distinct event; In progress.
-- **2023-04:** stale Apr. 9–12 MI candidate reconciled to existing WARN-11; In progress.
-- **2023-05:** prior SIM-activation episode remains recipient-unresolved; retrospective emoji interpretation excluded as contemporaneous warning evidence; In progress.
-- **2023-06:** no new distinct military/intelligence warning with qualifying receipt; In progress.
-- **2023-07:** WARN-22/WARN-23 already cover the Unit 8200 V/S warning chain; fresh dismissal evidence already integrated; In progress.
-- **2023-08:** WARN-24 already covers Maj. N's Gaza Division Jericho Wall reassessment warning; In progress.
-- **2023-09:** WARN-35, WARN-14, WARN-12, WARN-13 and WARN-27 already cover the principal recovered Lane 1 chains; no new distinct acceptance; In progress.
-- **2023-10-01..2023-10-06:** new unresolved Oct. 3 observer-drill lead logged; WARN-81 and WARN-109 already cover other Oct. 3/Oct. 6 senior-receipt warnings; Oct. 6 weapons alert remains recipient-unresolved; In progress.
+## Lane 2 coverage this run
+- **2022-12-29..2022-12-31:** targeted Shin Bet/Mossad/NSC/police/Home Front sweep found no new distinct qualifying event; In progress.
+- **2023-01:** existing January security-assessment/policing escalation warnings audited; no new distinct event; In progress.
+- **2023-02:** **WARN-114 accepted** for the Feb. 6 Bar/Halevi→Netanyahu Wadi Qaddum escalation warning; existing Feb. 15 Bar/Ben Gvir and multi-agency Ramadan warning events deduped; In progress.
+- **2023-03:** existing Bar/institutional deterioration warnings already represented; claimed 11 Sinwar notifications remain disputed; In progress.
+- **2023-04:** Bar April deterrence candidate remains receipt/date/corroboration unresolved; In progress.
+- **2023-05:** existing May Gaza assessment material and spring SIM anomaly audited; no new acceptance; In progress.
+- **2023-06:** existing police-capacity and Shin Bet resource-diversion warnings represented; HFC/NEA exercise material remains below threshold for a distinct inbound warning; In progress.
+- **2023-07:** Bar July war warning and related Shin Bet material already represented; no new distinct event; In progress.
+- **2023-08:** Avi Gil Aug. 21 content remains below threshold due to opposition-derived substantive account; existing Bar/other warnings already represented; In progress.
+- **2023-09:** existing High Holiday/collision-course/Egyptian-channel/multi-front chains audited; no new distinct event; In progress.
+- **2023-10-01..2023-10-06:** existing Oct. 1 and early-October warning chains audited; no new distinct Lane 2 acceptance; In progress.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Existing 2018–2022 Hamas raid/Jericho Wall and military-readiness warnings were audited against the publication layer; no new distinct older Lane 1 event crossed threshold.
-- Continue following warning chains backward where they establish inherited/repeated knowledge, without imposing a fixed historical floor.
+- Older Shin Bet/Mossad/NSC/police/Home Front chains were checked where they could establish inherited or repeated knowledge for current officeholders.
+- No new distinct older warning crossed threshold this run. Continue backward tracing without a fixed historical floor when a strong chain warrants it.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-19T090912Z.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-19T090912Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-19T101500Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-19T101500Z.csv`
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
@@ -65,4 +63,4 @@ Last successful run: 2026-09-19 09:09 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, diplomatic, readiness, border-vulnerability and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, repeated presentations of the same artifact without distinct warning content, negotiated communiques without a distinct warning source, or response milestones.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 2**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 3**.
