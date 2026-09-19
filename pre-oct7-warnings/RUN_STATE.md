@@ -1,84 +1,89 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-19 18:10 UTC
+Last successful run: 2026-09-19 19:15 UTC
 
 ## Rotation
-- Deep lane completed this run: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**.
-- Next deep lane: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
-- Lane 4 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 4 run; unresolved expert-warning delivery gaps return to unresolved-first work.
+- Deep lane completed this run: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
+- Next deep lane: **6 — documentary recovery + historical blind-spot sweep: primary letters/minutes/videos/testimony, older warnings, obscure Hebrew/local sources, later-released post-Oct. 7 evidence, corrections and deduplication across all prior lanes**.
+- Lane 5 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 5 run; unresolved local recipient gaps return to unresolved-first work.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
-- **0 new accepted warnings this run.**
-- Canonical accepted count remains **119**.
+- **1 new accepted warning this run: WARN-121.**
+- Canonical accepted count is now **120** (verified by Notion query after publication).
 - `WARN-115` remains an auto-ID consumed by a previously corrected Investigating page and is excluded from the accepted count.
-- No Notion entry was created because no newly discovered Lane 4 event met the recipient/evidence threshold.
+
+## New accepted warning
+### WARN-121 — Rahat mayor → Gallant, May 2023
+- Source: **Atta Abu Mediam, Mayor of Rahat**.
+- Recipient: **Defense Minister Yoav Gallant**.
+- Warning: roughly **25,000 Rahat residents lacked access to protective space**; Abu Mediam asked for **50 transportable shelters**.
+- Evidence: contemporaneous TheMarker report dated 18 May 2023 as preserved in later Israel Democracy Institute scholarship; Negev Coexistence Forum's 15 Nov 2023 position paper independently records that Abu Mediam turned to Gallant in May in a public appeal demanding 50 transportable shelters.
+- Classification: **specific civilian-protection / border-vulnerability warning**, not a Hamas ground-attack prediction.
+- Confidence: **Medium**. The original appeal/letter and a Gallant acknowledgment have not been recovered; actual personal reading is not proven.
+- Response: **Unclear**. NCF later quotes Abu Mediam saying that when he asked for 50 shelters, two were delivered, but timing and causal connection to this May appeal are unresolved.
+- Do not infer that the shelter gap caused specific October 7 deaths; later rocket casualties are aftermath/context only.
 
 ## Freshness / documentary upgrades
-1. Rechecked recent retrospective warning coverage against the accepted library; no new primary document materially upgraded an accepted warning this run.
-2. Early-hours Oct. 7 alert material remains outside scope because the warning event itself occurred on 2023-10-07, not before it.
-3. Existing Ronen Bar July and MI strategic-warning chains were deduped against published entries; no new recipient-grade evidence was recovered.
+1. Recent September 2026 coverage was rechecked. The newly prominent UAE-warning claim is already represented in the library and remains disputed by the Prime Minister's Office; no duplicate was created.
+2. Recent reporting about the early-hours Oct. 7 alert chain remains outside scope for the warning-event temporal rule because those alerts occurred on 2023-10-07 itself.
+3. No new primary document materially upgraded an accepted local/emergency warning in this pass.
 
 ## Unresolved-first work
-1. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` — still unresolved: no primary warning record or named qualifying recipient.
-2. `BAR-APR23-DETERRENCE` — still unresolved: affidavit + contemporaneous public remarks support the theme, but exact recommendation date/forum/named recipient remain missing.
-3. `MI-APR12-2023-POLITICAL-ECHELON` — already WARN-11; named political recipient/forum upgrade remains unresolved.
-4. `OCT3-OBSERVERS-DRILL` — no named qualifying senior recipient recovered.
-5. `TKUMA-KFIR-STANDBY-WEAPONS` — contemporaneous written warning proves content; senior military delivery remains uncorroborated.
+1. `TKUMA-KFIR-STANDBY-WEAPONS` — **strengthened but not promoted**. A 4 Oct 2023 written report reproduced by Makor Rishon states that Tkuma's military standby squad effectively did not exist after the army removed its weapons. This proves contemporaneous warning content/timing, but the document went to the moshav committee. Kfir's claim that he separately warned a sector brigade commander remains retrospective, without an exact date or independent corroboration of senior receipt.
+2. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` — still unresolved: no primary warning record or named qualifying recipient.
+3. `BAR-APR23-DETERRENCE` — still unresolved: affidavit + contemporaneous public remarks support the theme, but exact recommendation date/forum/named recipient remain missing.
+4. `MI-APR12-2023-POLITICAL-ECHELON` — already WARN-11; named political recipient/forum upgrade remains unresolved.
+5. `OCT3-OBSERVERS-DRILL` — no named qualifying senior recipient recovered.
 6. `BINDER-91-SURPRISE-DEFENSE-2019-2022` — exact warning date/recipient/contemporaneous record missing.
 7. Other unresolved candidates remain under prior standards, including Sinwar-opportunity claims, Avi Gil Aug. 21, Home Front June 5, May SIM anomaly and Oct. 6 unread/internal alert.
 
-## Lane 4 findings
-### JISS — 16 Apr 2023
-- Primary contemporaneous JISS paper recovered: **“Israel should prepare for war — and politicians need to come to their senses.”**
-- It warned that deterioration into a wider conflict had become more likely, Israel should prepare for a tangible possibility of war, and an Iran confrontation could become multi-front.
-- Same-day Times of Israel reporting independently reproduced the warning.
-- **Not accepted:** no document, correspondence, meeting record or other evidence proves this specific warning was delivered to Netanyahu, Gallant, the cabinet or another named qualifying senior decision-maker. Publicity alone does not establish receipt.
+## Lane 5 findings
+### Rahat — 18 May 2023
+- New Accepted **WARN-121** as above.
+- Later IDI research cites the contemporaneous TheMarker report and a 2023 Knesset research source for Rahat's severe shelter deficit.
+- Negev Coexistence Forum independently documents the May appeal to Gallant and 50-shelter request.
+- No original appeal or ministerial receipt record recovered, so confidence remains Medium.
 
-### INSS — 21 Mar 2023
-- Primary contemporaneous INSS Strategic Alert recovered/rechecked. It warned that the internal crisis was magnifying severe security/geopolitical/economic threats, degrading resilience and military capability, and increasing escalation risk.
-- **Not accepted as a distinct event:** direct delivery of this specific March alert to a named qualifying recipient remains unproven.
-- Keep separate from **WARN-116**, the 23 Jan 2023 INSS assessment directly presented to President Herzog.
+### Tkuma — 4 Oct 2023
+- The contemporaneous written report strongly proves the standby-squad vulnerability warning existed before Oct. 7.
+- **Not accepted:** the qualifying senior-recipient leg remains uncorroborated.
 
-### Business Forum — 21 Mar 2023
-- Contemporaneous reporting documents a direct letter to Netanyahu warning of damage to the economy, society, national resilience and security.
-- **Not promoted:** security content is broad and the event is primarily political-economic/civic advocacy; current evidence does not establish a sufficiently distinct October-7-preparedness warning unit.
+### Other local/emergency material
+- Existing **WARN-63** (Ashkelon shelter warning) and **WARN-107** (14 Jul northern local leaders → Northern Command) were rechecked/deduped rather than duplicated.
+- 20 Apr Gaza-envelope leaders' meeting with Netanyahu and September Gaza-border disorder reporting were reviewed; no sufficiently distinct new warning unit with documented qualifying receipt was recovered.
 
-### Contrary evidence
-- Retain Tamir Hayman's May 2023 public assessment that Israel was not on the eve of a comprehensive war as contextual counterevidence when evaluating broad strategic-warning claims.
-
-## Lane 4 coverage this run
-- **2022-12-29..2022-12-31:** targeted expert search; no new qualifying recipient event; In progress.
-- **2023-01:** WARN-116 deduped; no additional distinct event; In progress.
-- **2023-02:** JISS/INSS/Reichman/former-security expert material reviewed; no new qualifying receipt; In progress.
-- **2023-03:** INSS alert and other expert warnings reviewed; direct recipient gap remains. Business Forum scope-boundary case tracked; In progress.
-- **2023-04:** JISS war-preparedness warning recovered as strong content/timing evidence but lacks named-receipt proof; In progress.
-- **2023-05:** Hayman contrary assessment retained; no new qualifying event; In progress.
-- **2023-06:** no additional distinct qualifying expert event; In progress.
-- **2023-07:** existing expert/readiness chains rechecked; no new unit; In progress.
-- **2023-08:** Eiland already WARN-6; no additional distinct event; In progress.
-- **2023-09:** public expert/think-tank material reviewed; no new named-receipt event; In progress.
-- **2023-10-01..2023-10-06:** no new qualifying expert/research warning recovered; In progress.
+## Lane 5 coverage this run
+- **2022-12-29..2022-12-31:** targeted local/emergency search; no new qualifying event; In progress.
+- **2023-01:** WARN-63 chain rechecked/deduped; In progress.
+- **2023-02:** no additional distinct qualifying local/emergency event; In progress.
+- **2023-03:** civilian-protection/local-readiness material reviewed against existing entries; In progress.
+- **2023-04:** Gaza-envelope/local emergency concerns reviewed; no distinct new unit; In progress.
+- **2023-05:** **WARN-121 accepted**; In progress.
+- **2023-06:** no additional distinct qualifying event; In progress.
+- **2023-07:** WARN-107 and northern-protection chains rechecked/deduped; In progress.
+- **2023-08:** no additional distinct qualifying event; In progress.
+- **2023-09:** Gaza-border local concerns reviewed; no new named-recipient unit; In progress.
+- **2023-10-01..2023-10-06:** Tkuma 4 Oct candidate strengthened, senior receipt unresolved; In progress.
 - **No month is Complete.**
 
 ## Older-warning lane
-- 2018 Yitzhak Brik readiness-warning chain was recovered during historical searching and **deduped to existing WARN-53**; no duplicate created.
-- Existing WARN-53 already preserves the direct Netanyahu warning/briefing plus contrary IDF/readiness assessments.
-- No additional older expert warning crossed the threshold this rotation.
+- Older Gaza-border fence/tunnel, standby-squad and northern civilian-protection chains were followed backward and deduped against already-accepted entries.
+- No additional older local/emergency warning crossed the acceptance threshold this rotation.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-19T181025Z.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-19T181025Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-19T191506Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-19T191506Z.csv`
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
 - Keep contemporaneous evidence distinct from retrospective evidence.
 - Never infer that a warning was ignored, caused October 7, or reached a named recipient without evidence.
 - Preserve denials, contrary assessments and exculpatory facts.
-- Publicity alone does not establish delivery to a named decision-maker.
+- Publicity alone does not establish that a named official personally read a warning; record addressed/targeted delivery separately from direct acknowledgment.
 - Post-event `I warned them` testimony requires independent corroboration or contemporaneous evidence before acceptance.
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, diplomatic, readiness, border-vulnerability and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, response milestones or overlapping protection requests.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 5**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 6**.
