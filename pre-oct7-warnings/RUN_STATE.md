@@ -1,68 +1,77 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-20 19:17 UTC
+Last successful run: 2026-09-20 20:09 UTC
 
 ## Rotation
-- Deep lane completed this run: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
-- Next deep lane: **6 — documentary recovery + historical blind-spot sweep**.
-- Lane 5 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 5 run.
+- Deep lane completed this run: **6 — documentary recovery + historical blind-spot sweep**.
+- Next deep lane: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**.
+- Lane 6 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 6 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
-- **1 new accepted warning this run: WARN-132.**
-- Canonical accepted count is now **130**, verified directly against Notion after publication.
+- **0 new accepted warnings this run.**
+- Canonical accepted count remains **130**.
 - `WARN-5` remains **Disputed** and excluded from accepted count.
 - `WARN-115` remains **Investigating** and excluded.
 
-### WARN-132 — September 2023 Defense Ministry Adri Committee rabashatz-readiness warning
-- Source: Defense Ministry Adri Committee, a professional internal committee examining rabashatz operation/status/employment.
-- Warning date: September 2023; exact presentation date is not public.
-- Evidence release: State Comptroller report, 12 May 2026. This is retrospective official evidence that reproduces/assesses contemporaneous 2023 committee records.
-- The committee found unclear rabashatz authorities and command-and-control, major variation in role/equipment/operation, inadequate training and readiness-maintenance gaps, and related welfare/legal ambiguities. Committee records cited by the Comptroller say rabashatzim reported that these deficiencies harmed their fitness/readiness.
-- Recipient evidence: the State Comptroller states the committee presented its findings/recommendations to the **Defense Ministry director-general in September 2023**. Direct documented receipt therefore meets threshold for a serving senior state/security decision-maker.
-- Response: **Partially acted**. The director-general approved the recommendations in principle in September, sought responses from relevant actors including senior IDF regional commanders, and the process was intended to continue after Simchat Torah before submission to the defense minister. October 7 interrupted that sequence.
-- Limitation: no evidence establishes that Yoav Gallant received this September committee report before Oct. 7; do not infer ministerial receipt. Exact operational effect on Oct. 7 is not inferred.
-- Classification: Accepted / **High confidence** / Moderately specific / Military readiness + border vulnerability / retrospective official evidence reproducing contemporaneous records.
-- Deduplication: distinct from WARN-130. WARN-130 is the May National Rabashatz Organization warning to Gallant; WARN-132 is the later formal internal Defense Ministry committee finding delivered to the ministry director-general.
+## Freshness / document-upgrade pass
+### WARN-5 — UAE/MBZ alleged warning
+- Added a named contrary account to the Notion record: former strategic affairs minister **Ron Dermer** said publicly on 9 Sep 2026 that the alleged Netanyahu–MBZ call did not occur and that he would have known had it taken place.
+- This strengthens the denial side alongside the PMO/call-log denial and the 19 Sep UAE official statement that security details are not handled at national-leader level.
+- Contrary evidence remains substantial: Haaretz/book sourcing, a separate Emirati source reported by Times of Israel, Kan's report that MBZ later told CIA director William Burns he had warned Netanyahu generally, and the independently supported upstream intermediary chain.
+- No transcript, call metadata, contemporaneous UAE/Israeli record, Burns testimony or formal inquiry finding is public. Classification remains **Disputed / Medium confidence / government-level receipt not established**.
 
-## Freshness / documentary upgrade
-- The May 2026 State Comptroller rabashatz report was reviewed as a high-authority retrospective documentary upgrade. It materially establishes the previously under-documented September 2023 Adri Committee recipient/action chain and supports WARN-132.
-- No other newly surfaced primary/official document found in the freshness pass materially changed another canonical warning's confidence or recipient status.
-- The report also strengthens the historical context behind WARN-130, but it does not independently prove WARN-130's most specific weapons/squad-size/vehicle claims, so WARN-130 remains Medium confidence.
+### Qatar/Hamas financing chain
+- The 19 Sep 2026 Yedioth/Ynet internal-document and testimony investigation was rechecked. Its material points are already incorporated into WARN-31 and related canonical financing warnings; no duplicate created.
 
-## Unresolved-first / Lane 5 candidate resolution
-1. `POLICE-JUN9-2023-CAPACITY-WARNING` is stale in the canonical candidate file and was already reconciled in prior state to **WARN-7**; no duplicate created.
-2. `WARN-130` remains canonical Accepted / Medium / Partially acted. April-May contemporaneous rabashatz letters and the 2026 Comptroller report remain corroborating context, not separate duplicates.
-3. `GAZA-ENVELOPE-ANON-GALLANT-LETTER-2023` added as **Investigating**. JNS (11 Jan 2026) quotes an anonymous source familiar with Gaza-envelope security arrangements saying professionals protested standby-squad cuts and sent Gallant a pre-Oct. 7 letter saying they were in danger. Makor Rishon later syndicated the same account and is not independent corroboration. The claim may simply retell WARN-130. Require original letter/date/source/receipt evidence before acceptance.
-4. The September Adri Committee finding crossed threshold and was published as **WARN-132** because official State Comptroller evidence directly documents presentation to the Defense Ministry director-general and the in-principle response.
+## Unresolved-first resolution
+### BAR-APR23-DETERRENCE — evidence upgraded, still Investigating
+- Recovered/verified the full public transcription of Ronen Bar's **21 Apr 2025 sworn High Court affidavit**.
+- Paragraph 11(b) states that in 2023 Shin Bet forcefully warned the political echelon that adversaries saw an opportunity in Israel's internal rift and that Israel could face a 'perfect storm'; in **April 2023** the service recommended a focused forceful move to halt erosion of deterrence.
+- Contemporaneous public remarks by Bar on **2 Apr** and **25 Apr 2023** independently corroborate the underlying assessment that internal division, converging fronts and adversary testing created danger.
+- Threshold is still not met for a separate accepted private-warning event because the exact April date/forum, named recipients and contemporaneous record of the political-echelon delivery/specific recommendation remain unavailable. Netanyahu's later sworn response disputes Bar's characterization of prewar warnings.
 
-Other unresolved candidates remain open from prior lanes, including `BAR-APR23-DETERRENCE`, `IDF-PASSOVER-EVE-ALERT-2023`, `8200-OCT6-GOLD-ALERT-2023`, `AUG2023-SIMILAR-WEAPONS-ALERT`, `INSS-MAR21-2023-STRATEGIC-ALERT`, `INSS-JUL23-2023-URGENT-ALERT`, `CARMON-AUG31-2023` and the recipient-unresolved ~4 Oct Egyptian warning.
+### IDF-PASSOVER-EVE-ALERT-2023
+- Targeted documentary search did not recover the alleged contemporaneous 5 Apr 2023 alert record or independent primary corroboration. Remains Investigating.
 
-## Lane 5 coverage this run
-- **2022-12-29..2022-12-31:** targeted local/emergency/civil-professional search; no new distinct qualifying event; In progress.
-- **2023-01:** targeted Gaza-envelope/local-authority/rabashatz search; no new distinct qualifying event; In progress.
-- **2023-02:** targeted local/emergency/civil-professional search; no new distinct qualifying event; In progress.
-- **2023-03:** targeted local-authority and civilian-security search; no new distinct qualifying event; In progress.
-- **2023-04:** 20 Apr rabashatz authority/conditions warning rechecked as contemporaneous support for WARN-130; no separate event; In progress.
-- **2023-05:** WARN-130 remains the canonical National Rabashatz Organization→Gallant event; Adri Committee work began in the first half of 2023 but its qualifying delivery milestone occurred in September; In progress.
-- **2023-06:** 5 Jun contemporaneous reporting on unresolved rabashatz status/command problems and proposed funding reviewed as context; no separate recipient-documented event crossed threshold; In progress.
-- **2023-07:** targeted local/Gaza-envelope search; no new distinct qualifying July event; In progress.
-- **2023-08:** pre-final Adri Committee work and Defense Ministry deliberations rechecked; no separate August delivery milestone; In progress.
-- **2023-09:** **WARN-132 accepted** from the Adri Committee's September presentation to the Defense Ministry director-general; In progress.
-- **2023-10-01..2023-10-06:** targeted local-authority/Gaza-envelope/emergency-professional search; no new distinct qualifying event; In progress.
+### 8200-OCT6-GOLD-ALERT-2023
+- Rechecked late-preattack documentary reporting. The alert remains important internal evidence, but senior state/security decision-maker receipt is still unestablished. Remains Investigating.
+
+## New unresolved candidate — GAZA-COUNCIL-SEP26-DISASTER
+- **Warning date:** 26 Sep 2023.
+- **Source:** heads of Gaza-envelope regional councils / local professional-security leadership; individual names not stated in the N12 article.
+- **Contemporaneous evidence:** N12, published 26 Sep 2023 23:22 and updated 27 Sep 01:07.
+- During the tenth consecutive day of violent Gaza-border disturbances, the council heads said militants felt near the fence 'like a promenade' and warned that it would eventually **end in disaster** for soldiers on the fence or Gaza-envelope residents.
+- N12 explicitly says the council heads were sharply criticizing **government and military policy**. The same report says the security establishment understood that a single tactical casualty incident could deteriorate into escalation and was divided over Hamas readiness for another round.
+- **Not accepted:** the report does not name the council heads or document that this specific warning was delivered to/read by/acknowledged by a named serving senior government or security decision-maker. Public criticism is not treated as proof of receipt.
+- Resolution target: identify the council heads and recover letters, messages, meeting records or a documented government/IDF response showing senior receipt.
+
+## Lane 6 month-by-month coverage this run
+- **2022-12-29..2022-12-31:** documentary/blind-spot search; no new distinct qualifying event; In progress.
+- **2023-01:** documentary recovery; no new distinct qualifying event beyond canonical chains; In progress.
+- **2023-02:** documentary recovery; no new distinct qualifying event; In progress.
+- **2023-03:** Saar/MI warning documents and later FOIA confirmation rechecked; already canonical; In progress.
+- **2023-04:** Bar sworn affidavit verified; BAR-APR23 strengthened but still receipt/document unresolved. Passover-eve primary alert not recovered; In progress.
+- **2023-05:** known MI/Gaza documentary chains rechecked; no new distinct event; In progress.
+- **2023-06:** letter/minutes/testimony recovery found no new distinct event beyond canonical chains; In progress.
+- **2023-07:** four MI warnings/FOIA and Bar/Halevi records rechecked; already canonical or date-reconciliation state; In progress.
+- **2023-08:** no new distinct documentary event beyond canonical readiness/multi-front chains and unresolved expert candidates; In progress.
+- **2023-09:** new unresolved `GAZA-COUNCIL-SEP26-DISASTER`; WARN-5 denial side strengthened with Dermer's on-record statement; In progress.
+- **2023-10-01..2023-10-06:** Oct. 1 Bar/Sinwar event already canonical; Oct. 6 Unit 8200 alert remains senior-receipt unresolved; In progress.
 - **No month is Complete.**
 
-## Older-warning lane
-- The State Comptroller confirms that core rabashatz command/employment problems had been identified in earlier audits over many years.
-- Those older deficiencies became directly relevant to the current-government scope because the 2023 Adri Committee formally re-examined and redelivered them to the serving Defense Ministry director-general. That current-government delivery is captured as WARN-132 rather than creating a separate old warning.
-- No additional older local/emergency warning with separately documented inheritance, repetition or redelivery crossed threshold this run.
+## Older-warning / historical blind-spot sweep
+- Rechecked the older Jericho Wall/Hamas invasion-plan chain, including reporting that the plan lineage goes back to 2018; existing canonical entries already capture the defensible warning/recipient milestones, so no duplicate created.
+- Rechecked older Qatar/Hamas force-building and financing warnings; the 2026 document/testimony upgrades are already attached to the relevant canonical entries.
+- Rechecked State Comptroller border/community-readiness chains; existing older/current-government entries already capture the defensible receipt milestones.
+- No additional older warning with separately documented inheritance, repetition or redelivery to current officeholders crossed threshold this run.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-20T191042Z.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-20T191042Z.csv`
-- Coverage canonical updated: `COVERAGE.csv`
-- Notion publication created: `WARN-132`.
+- Candidate delta: `CANDIDATES.delta-2026-09-20T201500Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-20T201500Z.csv`
+- Canonical `COVERAGE.csv` updated with Lane 6 results.
+- Notion `WARN-5` dispute section upgraded; no new Notion warning entry created.
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
@@ -74,4 +83,4 @@ Other unresolved candidates remain open from prior lanes, including `BAR-APR23-D
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, diplomatic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 6**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 1**.
