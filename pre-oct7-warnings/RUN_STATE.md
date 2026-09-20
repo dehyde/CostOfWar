@@ -1,63 +1,54 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-19 23:16 UTC
+Last successful run: 2026-09-20 00:11 UTC
 
 ## Rotation
-- Deep lane completed this run: **3 — foreign governments, diplomats, foreign intelligence/security services, regional partners and official foreign warnings**.
-- Next deep lane: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**.
-- Lane 3 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 3 run.
+- Deep lane completed this run: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**.
+- Next deep lane: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
+- Lane 4 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 4 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
-- **1 new accepted warning this run: WARN-124.**
-- Canonical accepted count is now **123**.
+- **0 new accepted warnings this run.**
+- Canonical accepted count remains **123**.
 - `WARN-115` remains an auto-ID consumed by a previously corrected Investigating page and is excluded from the accepted count.
-
-## New accepted warning
-### WARN-124 — Egypt warns Netanyahu that Qatar, Turkey and Iran are funding Hamas’s military wing, 2018
-- Source: **Egyptian government/intelligence; exact issuing unit/person not public**.
-- Recipient: **Prime Minister Benjamin Netanyahu**.
-- Warning: Yedioth/Ynet reports that a 2018 Egyptian document delivered to Netanyahu warned that funds from Qatar, Turkey and Iran were being transferred directly to Hamas's military wing rather than only for civilian purposes.
-- Classification: **Moderately specific / Hamas military-financing and force-building warning; not an imminent-attack forecast**.
-- Evidence timing: **Retrospective** — warning/document was contemporaneous in 2018, but public evidence surfaced on 19 Sep 2026.
-- Receipt: **Strongly documented** through document/testimony-based investigative reporting; underlying Egyptian document itself remains unpublished.
-- Response: **Unclear**. No response specifically tied to the Egyptian document has been recovered. Israel continued the Qatari-funding arrangement; Netanyahu publicly defended it in Nov 2018 as humanitarian/calming and supported by security agencies/cabinet.
-- Contrary evidence: PMO rejects the investigation and says security chiefs supported the grant; Qatar denies funding Hamas and says aid was delivered to civilians through coordinated mechanisms.
-- Confidence: **Medium**.
+- No Notion entry was created or upgraded this run because no candidate crossed the evidence threshold and no accepted entry received a material evidence upgrade.
 
 ## Freshness / documentary upgrades
-1. **WARN-31 strengthened, classification unchanged (Medium):** Yedioth/Ynet 19 Sep 2026 reports internal MI documents from Feb 2019 onward repeatedly recorded Hamas government-to-military-wing transfers and assessed the Qatari grant as a source; State Comptroller testimony and intelligence-source reporting strengthen the broader factual premise. Original Argaman letter remains unpublished and PMO dispute remains.
-2. **WARN-32 strengthened, remains High / Partially acted:** the same investigation reports State Comptroller testimony quantifying roughly $4m/month diverted during 2019-21, another MI assessment around 40% of the military-wing budget, and a separate covert Qatar-related financing channel. PMO still disputes attribution of the acknowledged $4m diversion to the Qatari stipend itself.
-3. Existing UAE late-September warning (WARN-5) and Egypt warning chain (WARN-8/WARN-76) were re-audited; no confidence change or duplicate created.
+1. **MI Control / Devil's Advocate Sep. 21 & 26, 2023** material was rechecked against later N12 reconstruction. The events are already represented by WARN-14, WARN-45 and WARN-71; no duplicate and no confidence change.
+2. Recent resurfacing of the disputed late-September UAE warning and other already-tracked warning chains produced no new primary document, recipient proof or correction sufficient for an entry-level upgrade.
+3. No newly published inquiry/declassification/document found in this pass materially changed an accepted warning's confidence or response classification.
 
 ## Unresolved-first work
-1. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` — McCaul's post-classified-briefing statement confirms Egypt warned Israel roughly three days before Oct. 7 but explicitly leaves recipient level unresolved. No public primary warning record or named qualifying recipient surfaced; no promotion.
-2. `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023` — later report of Egyptian warnings that Gaza was explosive / something big was coming remains disputed by Israeli Foreign Ministry/NSC accounts; no new documentary resolution.
-3. `BAR-APR23-DETERRENCE`, `MAR23-HALEVI-BAR-GALLANT-JOINT`, `HAIM-COHEN-AUG23-OPENING-STRIKE`, `BINDER-91-SURPRISE-DEFENSE-2019-2022`, `OCT3-OBSERVERS-DRILL`, and `TKUMA-KFIR-STANDBY-WEAPONS` remain below threshold under their existing gaps.
+1. `JISS-APR16-2023-WAR-PREPAREDNESS` — contemporaneous JISS warning that Israel should prepare for a tangible possibility of war / multi-front deterioration remains strong, but no named qualifying recipient or delivery record surfaced; no promotion.
+2. `INSS-MAR21-2023-STRATEGIC-ALERT` — primary INSS strategic alert remains strong on warning content, but named-recipient delivery for this specific alert is still unproven; no promotion.
+3. `INSS-JUL23-2023-READINESS` — primary INSS warning on military cohesion/capability, deterrence and multi-front escalation risk remains unresolved on direct named receipt; no promotion.
+4. `EXSHINBET-JUL17-2023-800-LETTER` — contemporaneous reporting documents a direct letter from ~800 former Shin Bet personnel to Netanyahu and Gallant warning of a clear and immediate security danger. Tracked as **scope boundary / investigating**, not accepted, because available evidence is heavily political/legal in framing and does not yet establish a sufficiently concrete Oct. 7-preparedness/readiness warning. Need original full text and stronger professional-security nexus.
+5. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS`, `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023`, `BAR-APR23-DETERRENCE`, `MAR23-HALEVI-BAR-GALLANT-JOINT`, `HAIM-COHEN-AUG23-OPENING-STRIKE`, `BINDER-91-SURPRISE-DEFENSE-2019-2022`, `OCT3-OBSERVERS-DRILL`, and `TKUMA-KFIR-STANDBY-WEAPONS` remain below threshold under their existing gaps.
 
-## Lane 3 coverage this run
-- **2022-12-29..2022-12-31:** targeted foreign-government/diplomatic/intelligence sweep; no new distinct event; In progress.
-- **2023-01:** Egyptian/Jordanian/U.S. and other official foreign warnings reconciled against existing entries; In progress.
-- **2023-02:** U.S./European/Jordanian escalation warnings reviewed/deduped; In progress.
-- **2023-03:** UAE/Jordan/U.S./European diplomatic warning chains reviewed; existing entries control; In progress.
-- **2023-04:** foreign-government/intelligence and regional-partner routes searched/reconciled; In progress.
-- **2023-05:** foreign Gaza/regional-escalation warning material reviewed; In progress.
-- **2023-06:** U.S./European/Jordanian and regional-partner warning material re-audited; In progress.
-- **2023-07:** foreign diplomatic/intelligence chains reviewed; no new distinct event; In progress.
-- **2023-08:** foreign-government/intelligence routes rechecked; no new distinct event; In progress.
-- **2023-09:** UAE/Egypt warning chains re-audited; WARN-5/WARN-8/WARN-76 control; mid-Sep Egyptian claim remains disputed; In progress.
-- **2023-10-01..2023-10-06:** Oct. 4 Egypt warning remains unresolved on recipient level; In progress.
+## Lane 4 coverage this run
+- **2022-12-29..2022-12-31:** targeted expert/academic/think-tank sweep; no new distinct event with documented named qualifying receipt; In progress.
+- **2023-01:** INSS January strategic-assessment chain remains represented by WARN-116; no additional direct-delivery expert event; In progress.
+- **2023-02:** academic/expert security warnings linked to the judicial-overhaul crisis reviewed; direct receipt/concrete preparedness nexus insufficient for new acceptance; In progress.
+- **2023-03:** INSS Mar. 21 alert and public Yadlin warnings re-audited; receipt gap remains; In progress.
+- **2023-04:** JISS Apr. 16 warning and Amidror expert material re-audited; no qualifying named receipt found; In progress.
+- **2023-05:** expert/research warning and contrary-assessment material reviewed; no new distinct qualifying event; In progress.
+- **2023-06:** targeted INSS/JISS/IDSF/former-security expert search produced no additional direct-delivery event; In progress.
+- **2023-07:** INSS Jul. 23 warning remains unresolved on named receipt; former-Shin-Bet Jul. 17 letter tracked as scope-boundary candidate; In progress.
+- **2023-08:** existing Giora Eiland chain remains WARN-6; Carmon/other public expert warnings yielded no new receipt proof; In progress.
+- **2023-09:** Reichman/ICT direct-warning event remains WARN-80; MI Control Sep. 21/26 material deduped to WARN-14/WARN-45/WARN-71; In progress.
+- **2023-10-01..2023-10-06:** no distinct expert/research direct-delivery warning beyond existing tracked chains; In progress.
 - **No month is Complete.**
 
 ## Older-warning lane
-- **WARN-124 accepted:** 2018 Egyptian document-delivery warning to Netanyahu concerning foreign funding reaching Hamas's military wing.
-- The same 2026 investigation materially strengthens older 2019/2020 Hamas-financing warnings already published as WARN-31 and WARN-32; no duplicates created.
-- Older Jericho Wall / Hamas invasion-plan material remains deduped against existing accepted entries.
+- Older Brik readiness-warning material remains deduped to WARN-53.
+- Other inherited/repeated expert assessments were rechecked without a new warning crossing the evidence threshold.
+- No historical floor imposed; older material remains active where later delivery/repetition/inherited knowledge can be documented.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-19T231645Z.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-19T231645Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-20T001100Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-20T001100Z.csv`
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
@@ -69,4 +60,4 @@ Last successful run: 2026-09-19 23:16 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, diplomatic, readiness, border-vulnerability and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, response milestones or overlapping protection requests.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 4**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 5**.
