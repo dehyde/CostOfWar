@@ -14,10 +14,11 @@ Last successful run: 2026-09-20 01:06 UTC
 - Canonical accepted count remains **123**.
 - `WARN-115` remains an auto-ID consumed by a previously corrected Investigating page and is excluded from the accepted count.
 - Two accepted Notion entries received material documentary upgrades: **WARN-43** and **WARN-64**.
+- **WARN-64 confidence upgraded from Medium to High** after recovery of a contemporaneous March 2023 urgent letter directly addressed to serving ministers.
 
 ## Freshness / documentary upgrades
 1. **WARN-43 — State Comptroller northern-border readiness warning:** the declassified official report's recommendation section was added to the entry. It explicitly urged the Prime Minister and political-security cabinet to assess Lebanon/Hezbollah noncompliance with UNSCR 1701 and determine policy for the resulting operational problem, and urged the Chief of Staff to reassess Blue Line force posture and operational means given rising threats since early 2023, Hezbollah proximity and barrier weak points. This is a High-reliability primary-document upgrade; no new warning event was created.
-2. **WARN-64 — northern local-authority protection warning:** a contemporaneous 6 Jun 2023 report reproducing a PMO Director-General Yossi Shelley reply shows the Prime Minister's Office had requested urgent documents from the Confrontation Line Forum for preparation of a government decision. Davidovich's contemporaneous response warned that reduced Shield of the North funding left residents exposed and without required state protection and risked loss of life. Added as direct institutional-receipt evidence for the continuing warning chain, not as a duplicate event. Overall confidence remains Medium because it does not prove Gallant personally read the original 15 Mar warning.
+2. **WARN-64 — northern local-authority protection warning:** recovered a contemporaneous **22 Mar 2023 urgent letter** from Moshe Davidovich / the Confrontation Line Forum addressed by name to **Defense Minister Yoav Gallant and Finance Minister Bezalel Smotrich**. The reproduced letter described the northern front as sensitive, volatile and dangerous, said roughly 250,000 residents were exposed, and warned that Hezbollah understood home-front preparedness to be an Israeli weakness. Defense and Finance Ministry responses were published with the letter. A separate contemporaneous 6 Jun report reproduces correspondence with PMO DG Yossi Shelley after the PMO requested urgent documents for preparation of a government decision. These records establish direct documented government-level receipt for the warning chain. WARN-64 was upgraded to **High confidence**; no duplicate event created.
 3. Recent resurfacing of already-tracked local protection and standby-squad claims yielded no additional accepted warning after deduplication.
 
 ## Unresolved-first work
@@ -28,10 +29,10 @@ Last successful run: 2026-09-20 01:06 UTC
 - **2022-12-29..2022-12-31:** targeted local-authority/emergency/civil-security sweep; no distinct new direct-delivery event found; In progress.
 - **2023-01:** targeted Gaza-border and northern local-authority/security-coordinator searches; no new qualifying direct-delivery event; In progress.
 - **2023-02:** targeted local-authority/civilian-security searches; no new qualifying direct-delivery event; In progress.
-- **2023-03:** northern-border protection chain remains represented by WARN-64; no distinct March duplicate; In progress.
+- **2023-03:** northern-border protection chain remains represented by WARN-64; recovered direct 22 Mar letter to Gallant and Smotrich and upgraded confidence; no duplicate created; In progress.
 - **2023-04:** Davidovich/Confrontation Line Forum protection warnings re-audited and kept as repetitions attached to WARN-64; In progress.
 - **2023-05:** Rahat mayor Atta Abu Mediam protection request to Gallant remains WARN-121; no additional distinct event crossed threshold; In progress.
-- **2023-06:** direct PMO correspondence recovered and attached to WARN-64 as receipt-strengthening evidence; In progress.
+- **2023-06:** direct PMO correspondence recovered and attached to WARN-64 as further receipt-strengthening evidence; In progress.
 - **2023-07:** targeted local-security/standby-squad searches plus official IDF historical material reviewed; no distinct July warning with documented qualifying receipt accepted; In progress.
 - **2023-08:** targeted Gaza-border/northern local-authority and civilian-security searches; no new distinct event crossed threshold; In progress.
 - **2023-09:** targeted local-authority, standby-squad and emergency-preparedness searches around Gaza-border escalation; no new distinct warning with documented qualifying receipt crossed threshold; In progress.
