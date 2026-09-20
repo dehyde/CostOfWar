@@ -1,57 +1,63 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-20 15:10 UTC
+Last successful run: 2026-09-20 16:07 UTC
 
 ## Rotation
-- Deep lane completed this run: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**.
-- Next deep lane: **2 — Shin Bet / Mossad / National Security Council / police / Home Front / other Israeli professional security bodies**.
-- Lane 1 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 1 run.
+- Deep lane completed this run: **2 — Shin Bet / Mossad / National Security Council / police / Home Front / other Israeli professional security bodies**.
+- Next deep lane: **3 — foreign governments, diplomats, foreign intelligence/security services, regional partners and official foreign warnings**.
+- Lane 2 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 2 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
 - **0 new accepted warnings this run.**
-- Canonical accepted count remains **128**.
-- No Notion entry was created because no new lead met the publication threshold.
+- Canonical accepted count remains **128** (verified directly against Notion).
+- No Notion entry was created because no new lead crossed the publication threshold.
 - `WARN-5` remains **Disputed** and excluded from accepted count.
 - `WARN-115` remains Investigating and excluded.
 
 ## Freshness / documentary upgrade
-- Fresh searches of September 2026 IDF/N12 reporting found no newly surfaced primary document that changes an accepted warning's confidence or receipt finding.
-- The 17 Sep 2026 final dismissal of the Gaza Division intelligence officer again corroborates the documented warning/rejection chain already attached to the Unit 8200/Gaza Division entries; it does not create a new pre-Oct. 7 warning event.
-- No accepted record required a Notion content change in this run.
+- Fresh Hebrew/English searches across current Shin Bet/police/security reporting found no newly surfaced primary document that changes an accepted warning's confidence, recipient finding or response classification.
+- The September 2026 UAE/Sinwar/Egypt reporting and contradictions are already incorporated into the relevant canonical entries (`WARN-5`, `WARN-8`, `WARN-15`) and do not justify a duplicate.
+- Fresh reporting on older Qatari-funding / Hamas-force-building warnings was checked against Notion; the substantive 2018–2020 Argaman, Egyptian and Military Intelligence warning events are already canonical.
+- A retrospective claim that Shin Bet had multiple 2023 opportunities/recommendations to target Sinwar is treated as contextual only unless tied to a distinct documented warning event: a strike recommendation alone is not automatically a warning of impending attack/readiness collapse, and the public account is disputed by the PMO.
 
 ## Unresolved-first / state reconciliation
-1. `SAAR-JULY-DATE-RECONCILIATION` is **resolved**: canonical Notion `WARN-10` already records the **23 Jul 2023** Saar letter as a distinct Accepted / High-confidence warning, separate from the 16 Jul event.
-2. `IDF-FOIA-REMAINING-2023` is **resolved at the current evidence level**: the four MI warning documents acknowledged by the IDF are represented as 19 Mar (`WARN-1`), 31 May (`WARN-46`), 16 Jul (`WARN-2`), and 23 Jul (`WARN-10`). Reopen if original FOIA metadata or full documents contradict this mapping.
-3. `MI-APR12-2023-POLITICAL-ECHELON` is **resolved**: it is already canonical `WARN-11` / Accepted / Medium, with the unnamed-recipient limitation preserved.
-4. **New unresolved candidate — `IDF-PASSOVER-EVE-ALERT-2023`:** N12's 25 Nov 2023 retrospective report says MI detected early indicators of a Hamas attack planned for **5 Apr 2023 / Passover eve**, leading the IDF to raise alert; Hamas allegedly canceled after detecting the change in posture. The report relies on unnamed Unit 8200 soldiers and the IDF publicly said the reported picture was far from accurate. No primary alert order or independent confirmation of the attack-cancellation causal chain was recovered. **Investigating only.**
-5. **New unresolved candidate — `8200-OCT6-GOLD-ALERT-2023`:** N12's 24 Nov 2025 report says a Unit 8200 alert on **6 Oct 2023** flagged activation of a significant weapons-related component in northern Gaza, emptying warehouses and operational movement. 8200 reportedly emailed rather than called; no one in Gaza Division opened the message and division/Southern Command/CoS assessments were unaware. This fails the senior-recipient threshold and remains **Investigating / internal receipt unresolved**.
-6. **New unresolved lead — `AUG2023-SIMILAR-WEAPONS-ALERT`:** the same N12 report says a similar alert roughly 1.5 months earlier triggered sector-wide heightened readiness. Exact date, original alert, named recipient and outcome remain unresolved.
+The candidate overlay had drifted behind the canonical Notion database. Six Lane-2 candidates were reconciled without creating duplicates:
+1. `BAR-FEB15-2023-EJ-ESCALATION` → already **Accepted as WARN-36** (Bar→Ben Gvir East Jerusalem escalation warning; Medium; contemporaneous).
+2. `BAR-MAY21-2023-GAZA-CAMPAIGN` → already **Accepted as WARN-16** (Bar→Netanyahu Hamas/Gaza-campaign warning; Medium; PMO contradiction preserved).
+3. `POLICE-JUN9-2023-CAPACITY-WARNING` → already **Accepted as WARN-7** (former police chiefs→Netanyahu impending police-collapse warning; High).
+4. `BAR-JUN11-2023-RESOURCE-DIVERSION` → already **Accepted as WARN-37** (Bar→Netanyahu counterterror-resource diversion warning; High).
+5. `BAR-MIDSEP-2023-MULTIFRONT` → already **Accepted as WARN-15** (mid-September collision-course/multi-front warning; Medium; no specific Oct. 7 invasion prediction claimed).
+6. `OCT1-ASSESSMENT-2023` → already **Accepted as WARN-68** (Oct. 1 heightened Hamas warning / Sinwar recommendation; Medium; detailed PMO contrary account preserved).
 
-## Lane 1 coverage this run
-- **2022-12-29..2022-12-31:** targeted military/intelligence search; no new qualifying event; In progress.
-- **2023-01:** targeted Hebrew/English search; no new distinct senior-recipient military/intelligence warning; In progress.
-- **2023-02:** Gaza/MI warning and readiness sweep; no new distinct event crossed threshold; In progress.
-- **2023-03:** existing Saar/MI deterrence-warning chain rechecked; no additional event promoted; In progress.
-- **2023-04:** Passover-eve alert chain surfaced as unresolved retrospective candidate; no promotion; In progress.
-- **2023-05:** state audit confirmed the 31 May MI document is already accepted `WARN-46`; no new event; In progress.
-- **2023-06:** targeted military/intelligence search; no new distinct event; In progress.
-- **2023-07:** stale Saar reconciliation resolved to existing `WARN-10`; Unit 8200/Jericho Wall chains deduped; In progress.
-- **2023-08:** similar earlier weapons-alert lead added; date/record/recipient unresolved; In progress.
-- **2023-09:** rechecked exercises, surveillance/8200 reporting, border disturbances and existing 19 Sep mass-hostage warning; no new accepted event; In progress.
-- **2023-10-01..2023-10-06:** added Oct. 6 'golden intelligence' internal alert lead; senior receipt not established; In progress.
+Still unresolved:
+- `BAR-APR23-DETERRENCE`: retrospective affidavit indicates an April warning/recommendation about adversaries exploiting internal division and deterrence erosion, but exact date, forum, named recipients and contemporaneous corroboration remain insufficient to split it cleanly from adjacent March/May events.
+- Lane-1 unresolved leads from the previous run remain open: `IDF-PASSOVER-EVE-ALERT-2023`, `8200-OCT6-GOLD-ALERT-2023`, `AUG2023-SIMILAR-WEAPONS-ALERT`.
+
+## Lane 2 coverage this run
+- **2022-12-29..2022-12-31:** targeted Shin Bet/Mossad/NSC/police/Home Front search; no new distinct qualifying event; In progress.
+- **2023-01:** rechecked Israeli professional-security escalation/readiness reporting; no new distinct event; In progress.
+- **2023-02:** reconciled Bar→Ben Gvir East Jerusalem warning to WARN-36; In progress.
+- **2023-03:** rechecked Shin Bet deterrence/internal-rift and police/Ramadan chains; canonical records already cover defensible events; In progress.
+- **2023-04:** BAR-APR23-DETERRENCE remains unresolved for date/forum/recipient/documentary reasons; In progress.
+- **2023-05:** reconciled Bar→Netanyahu Gaza-campaign warning to WARN-16; In progress.
+- **2023-06:** reconciled former-police-chiefs warning to WARN-7 and Bar counterterror-resource warning to WARN-37; In progress.
+- **2023-07:** rechecked Bar strategic war warning and adjacent security-service chains; canonical entry already exists; In progress.
+- **2023-08:** rechecked Shin Bet Palestinian escalation, police capacity and counterterror-readiness chains; no new distinct event promoted; In progress.
+- **2023-09:** reconciled Bar multi-front/collision-course warning to WARN-15; Sep. 3 Shin Bet South warning already canonical; In progress.
+- **2023-10-01..2023-10-06:** reconciled Oct. 1 Bar/Sinwar candidate to WARN-68; no new distinct Lane-2 event crossed threshold; In progress.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Followed Jericho Wall / Unit 8200 warning chains backward into 2022.
-- Existing accepted historical entries already represent the substantive 2022 warning sequence, including plan presentation, capability warnings and senior military receipt where documented.
-- No new evidence recovered of a separate older warning formally inherited or explicitly redelivered to a member of the serving 2023 government.
+- Rechecked Shin Bet/Mossad/Gaza financing and force-building warning chains exposed or refreshed in September 2026 reporting.
+- Existing canonical historical entries already represent the defensible Argaman / Egyptian / Military Intelligence Qatari-funding and Hamas-buildup warnings.
+- No new evidence recovered of a distinct older warning formally inherited or explicitly redelivered to a serving 2023 officeholder beyond existing entries.
 - No arbitrary historical floor imposed.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-20T151000Z.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-20T151000Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-20T160700Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-20T160700Z.csv`
 - Coverage canonical updated: `COVERAGE.csv`
 
 ## Coverage discipline
@@ -64,4 +70,4 @@ Last successful run: 2026-09-20 15:10 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, diplomatic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 2**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 3**.
