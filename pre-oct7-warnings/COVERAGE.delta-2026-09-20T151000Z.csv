@@ -1,0 +1,13 @@
+period,lane,status,update
+2022-12-29..2022-12-31,military_intelligence,In progress,"Targeted Lane 1 search found no new qualifying warning; routine Gaza rocket activity alone does not establish a warning event to a senior decision-maker."
+2023-01,military_intelligence,In progress,"Targeted Hebrew/English search found no new distinct senior-recipient military/intelligence warning."
+2023-02,military_intelligence,In progress,"Reviewed Gaza/MI warning and readiness leads; no new distinct event crossed threshold."
+2023-03,military_intelligence,In progress,"Existing Saar/MI deterrence-warning chain remains canonical; no additional distinct military warning promoted."
+2023-04,military_intelligence,In progress,"New unresolved Passover-eve alert lead added: N12 says MI detected early attack signs and alert was raised, allegedly causing Hamas to cancel. Retrospective anonymous sourcing plus IDF pushback keeps it Investigating."
+2023-05,military_intelligence,In progress,"Canonical 31 May MI document (WARN-46) confirmed during state audit; no new distinct event promoted."
+2023-06,military_intelligence,In progress,"Targeted search found no new qualifying military/intelligence warning beyond existing chains."
+2023-07,military_intelligence,In progress,"State audit confirmed 23 Jul Saar letter is already distinct accepted WARN-10; stale reconciliation candidate resolved. Existing Unit 8200/Jericho Wall warnings deduped."
+2023-08,military_intelligence,In progress,"Added unresolved lead for a similar weapons-related alert roughly 1.5 months before Oct. 7 that reportedly triggered sector-wide heightened readiness; exact date/record/recipient unresolved."
+2023-09,military_intelligence,In progress,"Rechecked Hamas exercises, border disturbances, Unit 8200/Gaza Division reporting and existing Sep 19 mass-hostage document; no new accepted event."
+2023-10-01..2023-10-06,military_intelligence,In progress,"Added unresolved Oct. 6 Unit 8200 'golden intelligence' alert: weapons-related activation and operational movement reportedly should have triggered sector alerting, but email was unread and senior assessments did not receive it. Fails senior-receipt threshold for acceptance."
+pre-2022-12-29,older_inherited_warnings,In progress,"Lane 1 followed Jericho Wall/Unit 8200 chains backward into 2022; existing accepted historical warnings already cover the substantive chain. No new inherited/redelivered event identified."
