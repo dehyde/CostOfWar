@@ -1,64 +1,63 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-20 02:05 UTC
+Last successful run: 2026-09-20 03:13 UTC
 
 ## Rotation
-- Deep lane completed this run: **6 — documentary recovery + historical blind-spot sweep**.
-- Next deep lane: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**.
-- Lane 6 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 6 run.
+- Deep lane completed this run: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**.
+- Next deep lane: **2 — Shin Bet / Mossad / National Security Council / police / Home Front / other Israeli professional security bodies**.
+- Lane 1 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 1 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
-- **1 new accepted warning this run: WARN-125.**
-- Canonical accepted count is now **124**.
+- **1 new accepted warning this run: WARN-126.**
+- Canonical accepted count is now **125**.
 - `WARN-115` remains an auto-ID consumed by a previously corrected Investigating page and is excluded from the accepted count.
 
 ## New accepted warning
-### WARN-125 — State Comptroller conflict-community defense/communications warning
-- **Warning event:** 15 Feb 2022.
-- **Source:** State Comptroller Matanyahu Englman / Office of the State Comptroller.
-- **Recipient:** Prime Minister Naftali Bennett; the audited IDF/Defense Ministry system; Knesset State Control Committee.
-- **Primary evidence:** official State Comptroller follow-up audit on security components in conflict-line communities.
-- The report states that the community-defense layer is intended to operate during hostile infiltration until army forces arrive; it documented persistent shortcomings including an estimated **NIS 110m** needed to complete security components in northern/Gaza-area communities, Southern Command communications-coverage gaps, incomplete communications equipment and underfunded maintenance/rehabilitation.
-- The official report states it was delivered to the prime minister and Knesset State Control Committee on **15 Feb 2022** and that findings were current to that date; public release was **10 May 2022**.
-- A 20 May 2024 Knesset follow-up records partial corrective work, including DMR communications distribution beginning around March 2023, while reviewing persistent communications/readiness gaps.
-- **Classification:** High confidence; direct documented receipt; moderately specific border-vulnerability/military-readiness warning; response Partially acted.
-- **Critical scope limitation:** this report went to PM **Naftali Bennett**, not Benjamin Netanyahu. It is an older-warning-chain event and must not be cited as proof Netanyahu personally received the 2022 report. It was not a forecast of the timing or scale of the Oct. 7 Hamas assault.
+### WARN-126 — Hamas barrier-breaching explosive tests warned to Gaza Division and Southern Command
+- **Warning event:** best-known range Sep 2023, latest reported test in mid-September.
+- **Source:** Gaza-border surveillance soldiers, supported by military/engineering professionals.
+- **Recipient:** Gaza Division headquarters and Southern Command headquarters; individual officers on the distribution list are not public.
+- **Evidence:** Walla's 25 Jan 2024 military-source investigation reports progressively larger explosive tests near the former Karni crossing and says surveillance soldiers produced a professional assessment that the tests were systematic and part of a broader mission; the assessment was sent to both headquarters. Independent Oct 2023 surveillance-soldier testimony corroborates repeated Hamas training/explosives observations passed up the chain. A contemporaneous 22 Sep 2023 IDF statement corroborates violent fence activity in the period but not the internal assessment itself.
+- **Classification:** Medium confidence; strongly documented senior-military receipt; Specific border-vulnerability warning; response Rejected/dismissed based on reported misclassification as provocation.
+- **Critical scope limitation:** no public evidence shows that the assessment predicted the Oct. 7 date, force size, or full Jericho Wall invasion plan. No contemporaneous copy or named-recipient distribution list has been recovered.
 
 ## Freshness / documentary upgrades
-1. Rechecked the current official State Comptroller record and parliamentary follow-up for community-defense/communications deficiencies. The recovered primary material supports WARN-125 without relying on retrospective attribution alone.
-2. Recovered the official **2018 predecessor audit** documenting earlier community-defense and communications shortcomings, including risks that communications deficiencies could delay an IDF response during hostile infiltration. It is tracked as an older chain rather than a separate Accepted event pending exact recipient/delivery and inherited-knowledge reconciliation.
-3. No newly surfaced September 2026 report materially changed the confidence/status of an already accepted warning in this pass.
+1. `IDF-PASSOVER-APR5-2023-ALERT` was downgraded to **Disputed / do not accept**. Early post-event reporting claimed Israel detected a planned Passover attack, raised alert and thereby caused Hamas to cancel. A later IDF intelligence investigation instead reported that Military Intelligence **missed** Hamas intentions to execute Jericho Wall around Passover 2023 and assessed that Hamas delayed while completing capabilities. Preserve both accounts; the later official finding materially contradicts the earlier causal story.
+2. `SAAR-JULY-DATE-RECONCILIATION` is **Resolved / deduped**. The distinct 23 Jul 2023 Amit Saar letter is already published as **WARN-10**, separate from the 16 Jul warning, and supported by the Sep 2026 document excerpt plus the IDF FOIA confirmation that four MI warning documents reached Netanyahu between March and July.
+3. Rechecked the mid-September Hamas/Sinwar “earthquake” backchannel. It remains attached to the existing WARN-8/related warning-chain reconciliation rather than split into a new event because the Egyptian, intermediary and Shin Bet routes may describe overlapping relays of the same warning.
 
 ## Unresolved-first work
-1. `UK-CLEVERLY-COHEN-MAR21-2023` remains below Accepted threshold. The contemporaneous UK FCDO readout directly documents Cleverly and Eli Cohen meeting and jointly noting the need to de-escalate and preserve the holy-site status quo, but it does **not** establish a one-directional warning delivered by Cleverly to Cohen. Keep separate from the already accepted 11 Sep 2023 Cleverly warning to Netanyahu/Cohen.
-2. `COMPTROLLER-2018-COMMUNITY-DEFENSE` added as an older-chain reconciliation candidate. Recover exact delivery recipients/date and determine whether the warning was materially repeated to or inherited by serving 2023 officeholders before considering a distinct entry.
-3. Existing unresolved high-value candidates remain below threshold, including `BAR-APR23-DETERRENCE`, `MI-APR12-2023-POLITICAL-ECHELON`, `JISS-APR16-2023-WAR-PREPAREDNESS`, `INSS-MAR21-2023-STRATEGIC-ALERT`, `INSS-JUL23-2023-READINESS`, `EGYPT-OCT4-2023-ISRAELI-OFFICIALS`, `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023`, `HAIM-COHEN-AUG23-OPENING-STRIKE`, `BINDER-91-SURPRISE-DEFENSE-2019-2022`, `TKUMA-KFIR-STANDBY-WEAPONS`, and `OCT3-OBSERVERS-DRILL`.
+1. `MI-APR12-2023-POLITICAL-ECHELON` remains below Accepted threshold: contemporaneous reporting says MI warned the political echelon that war was closer than calm and deterrence was eroding, but named recipient/forum and primary briefing material remain unresolved.
+2. `HAIM-COHEN-AUG23-OPENING-STRIKE` remains unresolved because the retrospective claim is disputed by people around then-Southern Command chief Yaron Finkelman and no contemporaneous record has surfaced.
+3. `OCT3-OBSERVERS-DRILL` remains unresolved pending event-level documentation and escalation-path evidence; do not merge generic observer warnings into a government-level event without receipt evidence.
+4. Other high-value candidates remain below threshold, including `BAR-APR23-DETERRENCE`, `JISS-APR16-2023-WAR-PREPAREDNESS`, `INSS-MAR21-2023-STRATEGIC-ALERT`, `INSS-JUL23-2023-READINESS`, `EGYPT-OCT4-2023-ISRAELI-OFFICIALS`, `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023`, `BINDER-91-SURPRISE-DEFENSE-2019-2022`, `TKUMA-KFIR-STANDBY-WEAPONS`, `UK-CLEVERLY-COHEN-MAR21-2023`, and `COMPTROLLER-2018-COMMUNITY-DEFENSE`.
 
-## Lane 6 coverage this run
-- **2022-12-29..2022-12-31:** documentary-recovery sweep; no distinct new warning specific to this short period; In progress.
-- **2023-01:** documentary/repository sweep; no distinct new qualifying event; In progress.
-- **2023-02:** documentary/repository sweep; existing Bar/Ben-Gvir chain retained; no additional event; In progress.
-- **2023-03:** primary-document chains around MI/security/local warnings rechecked; no additional distinct event; In progress.
-- **2023-04:** primary recovery for MI/strategic-warning routes remains unresolved on named recipient/briefing record; In progress.
-- **2023-05:** PMO/MI and Bar meeting documentary routes remain open; no new distinct event; In progress.
-- **2023-06:** police/local-security documentary routes reviewed; no additional distinct event crossed threshold; In progress.
-- **2023-07:** Saar warning-document/date reconciliation remains open; no duplicate created; In progress.
-- **2023-08:** documentary blind-spot sweep; no additional distinct event crossed threshold; In progress.
-- **2023-09:** foreign/security primary-document routes remain open; no additional distinct event crossed threshold; In progress.
-- **2023-10-01..2023-10-06:** Oct. 1 and Oct. 6 primary-material routes remain unresolved; no new distinct warning accepted; In progress.
+## Lane 1 coverage this run
+- **2022-12-29..2022-12-31:** targeted IDF/MI/Southern Command/Gaza Division sweep; no distinct new event; In progress.
+- **2023-01:** targeted military/intelligence sweep; no distinct new qualifying event; In progress.
+- **2023-02:** targeted military/intelligence sweep; no additional distinct event; In progress.
+- **2023-03:** military-warning chains rechecked; no additional distinct event crossed threshold; In progress.
+- **2023-04:** `MI-APR12-2023-POLITICAL-ECHELON` remains unresolved; Passover-alert claim downgraded to Disputed after later IDF inquiry; In progress.
+- **2023-05:** May 31 MI-document route remains open; no additional military event crossed threshold; In progress.
+- **2023-06:** no additional distinct military/intelligence event with sufficient recipient evidence crossed threshold; In progress.
+- **2023-07:** `SAAR-JULY-DATE-RECONCILIATION` resolved to existing WARN-10; full four-document FOIA metadata recovery remains open; In progress.
+- **2023-08:** existing Gaza/MI chains rechecked; no additional distinct event crossed threshold; In progress.
+- **2023-09:** **WARN-126 accepted** from the barrier-explosives warning chain; In progress.
+- **2023-10-01..2023-10-06:** immediate-prewar indicator chains rechecked; existing accepted/internal events retained, no additional distinct warning crossed threshold; In progress.
 - **No month is Complete.**
 
 ## Older-warning lane
-- **WARN-125 accepted** from the 15 Feb 2022 State Comptroller delivery to PM Bennett.
-- Official 2018 predecessor audit recovered and tracked separately for recipient/inherited-knowledge reconciliation.
-- No arbitrary historical floor imposed; older chains remain active when they can establish repeated delivery or inherited documented knowledge.
+- No new older warning accepted in this Lane 1 run.
+- Older Jericho Wall/military-warning chains were checked against existing accepted entries and deduped rather than republished.
+- `COMPTROLLER-2018-COMMUNITY-DEFENSE` remains open for exact recipient/inherited-knowledge reconciliation.
+- No arbitrary historical floor imposed.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-20T020549Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-20T031302Z.csv`
 - Coverage canonical updated: `COVERAGE.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-20T020549Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-20T031302Z.csv`
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
@@ -70,4 +69,4 @@ Last successful run: 2026-09-20 02:05 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, diplomatic, readiness, border-vulnerability and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, response milestones or overlapping protection requests.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 1**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 2**.
