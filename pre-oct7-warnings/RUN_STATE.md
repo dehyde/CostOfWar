@@ -1,60 +1,57 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-20 13:06 UTC
+Last successful run: 2026-09-20 14:17 UTC
 
 ## Rotation
-- Deep lane completed this run: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
-- Next deep lane: **6 — documentary recovery + historical blind-spot sweep: primary letters/minutes/videos/testimony, older warnings, obscure Hebrew/local sources, later-released post-Oct. 7 evidence, corrections and deduplication across prior lanes**.
-- Lane 5 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 5 run.
+- Deep lane completed this run: **6 — documentary recovery + historical blind-spot sweep: primary letters/minutes/videos/testimony, older warnings, obscure Hebrew/local sources, later-released post-Oct. 7 evidence, corrections and deduplication across prior lanes**.
+- Next deep lane: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**.
+- Lane 6 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 6 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
-- **1 new accepted warning this run: WARN-130.**
-- Canonical accepted count is now **128**.
+- **0 new accepted warnings this run.**
+- Canonical accepted count remains **128**.
 - `WARN-5` remains **Disputed** and excluded from accepted count.
-- `WARN-115` remains an auto-ID consumed by a previously corrected Investigating page and is excluded from the accepted count.
+- `WARN-115` remains Investigating and excluded from accepted count.
 
-## New accepted warning
-- **WARN-130 — May 2023, Itay Hoffmann / National Rabashatz Organization → Defense Minister Yoav Gallant.** In an interview published 12 Oct 2023, Hoffmann said Gallant was the only defense minister in the preceding years who met the organization and dated that meeting to about five months earlier. He described the organization's prewar requests to restore weapons removed from some standby squads, reverse reductions that left some squads at roughly 5–6 members instead of 16, address missing security vehicles / removal of armored vehicles, and regularize rabashatz authority/status.
-- Acceptance is **Medium confidence** because the precise warning content is retrospective and no meeting minutes have been released. It clears the retrospective-evidence rule because the recipient/action chain is independently corroborated: Calcalist reports Gallant ordered the Amit Adari committee in **May 2023** to examine rabashatz conditions/status and that conclusions existed before the war; the **May 2026 State Comptroller** confirms Gallant decided before the war to upgrade rabashatz status and documents longstanding role, communications and equipment deficiencies.
-- Response is **Partially acted**, not ignored: prewar committee/status work occurred. Public evidence does not establish that the specific weapons, squad-manpower, vehicle, communications or operational-authority gaps were corrected before Oct. 7.
-- Notion page created with the evidentiary caveats and no causal inference.
-
-## Freshness / documentary upgrades
-- **Existing Egyptian-warning candidate materially strengthened:** Times of Israel reported on **9 Sep 2026**, citing Army Radio, that Shin Bet presented Netanyahu with an Egyptian warning that Hamas intended to **“make the ground in Gaza tremble.”** The report says the Egyptian message was general and lacked precise operational detail; then-Shin Bet chief Ronen Bar interpreted it at least partly through the hostage-negotiation context.
-- This adds a named government-recipient chain that was previously missing, but the event remains **Investigating** because no Egyptian/Shin Bet primary document, exact warning date, Netanyahu briefing record or original Army Radio record was recovered. Earlier conflicting/less-specific accounts must still be reconciled.
-- WARN-5 UAE dispute was rechecked for overlap; no duplicate created.
+## Freshness / documentary upgrade
+- **WARN-130 materially strengthened.** A contemporaneous Channel 14 report dated **2 May 2023** states that the National Rabashatz Organization sent Defense Minister **Yoav Gallant** a signed letter that morning. The reproduced warning said unresolved authority/employment conditions were degrading the coordinators' operational role and announced withdrawal from criminal / ambiguity-resolved incidents while retaining clearly military incidents.
+- An earlier **20 Apr 2023** contemporaneous report records Itay Hoffmann publicly urging Gallant to regularize rabashatz authority/conditions and includes a warning that residents could be left without local response to suspicious-person reports.
+- These records directly strengthen the prewar institutional-readiness and Gallant-recipient chain. They do **not** independently corroborate the later-reported weapons removals, squad reductions to roughly 5–6 instead of 16, or vehicle gaps.
+- WARN-130 therefore remains **Accepted / Medium**, response **Partially acted**; Notion `Evidence Timing` upgraded from **Retrospective** to **Both** and the documentary limits were added to the page.
+- `RABASHATZ-MAY2-2023-GALLANT-LETTER` is recorded as **Merged evidence → WARN-130**, not a duplicate accepted warning.
 
 ## Unresolved-first / candidate work
-1. `RABASHATZ-JAN2023-GALLANT-PUBLIC` — **Investigating / receipt unresolved.** Contemporaneous National Rabashatz Organization public warning addressed to Gallant about the rabashatz/security-status crisis. Later May action is relevant context, but personal receipt of the specific January warning is not proven.
-2. `RABASHATZ-MAR23-2023-UNUSUAL-ALERTS` — **Investigating / recipient unresolved.** On 23 Mar 2023 Hoffmann said there were unusually numerous alerts across sectors from Metula to Eilat and described heightened local-defense readiness. Contemporary warning, but no named senior recipient.
-3. `BINI-KFIR-TKUMA-WEAPONS-REMOVAL` — remains **Investigating**. Kfir retrospectively says he warned a senior Gaza-area officer about weapons removal and was told to trust the barrier; exact date, named officer and contemporaneous message remain unrecovered.
-4. `JISS-APR16-2023-WAR-PREP`, `INSS-MAR21-2023-STRATEGIC-ALERT`, `INSS-JUL23-2023-PEOPLES-ARMY`, `CARMON-AUG31-2023-WAR-FORECAST`, `AMIDROR-APR13-2023-IRAN-WAR-PREP` and `HADAR-MEDIATORS-KIDNAPPING-PREOCT7` remain unresolved under their prior evidentiary classifications; no duplicate rediscovery created.
+1. `RABASHATZ-JAN2023-GALLANT-PUBLIC` — remains **Investigating / receipt unresolved**. No primary proof that Gallant personally received/acknowledged that specific January public warning.
+2. `RABASHATZ-MAR23-2023-UNUSUAL-ALERTS` — remains **Investigating / recipient unresolved**. No named senior recipient/distribution record recovered.
+3. `BINI-KFIR-TKUMA-WEAPONS-REMOVAL` — remains **Investigating**. No exact date, named officer or contemporaneous message recovered.
+4. Egypt late-warning chain — no original Egyptian/Shin Bet document, exact warning date or briefing record recovered; no promotion.
+5. `OCT1-ASSESSMENT-2023` / immediate-prewar security-warning chains — no primary meeting minutes or recommendation documents recovered; no promotion.
+6. Existing JISS/INSS/Carmon/Amidror/Hadar expert candidates remain under their prior receipt/documentary gaps; no duplicate rediscovery.
 
-## Lane 5 coverage this run
-- **2022-12-29..2022-12-31:** targeted local/emergency/civilian-security search; no distinct named-recipient event found; In progress.
-- **2023-01:** National Rabashatz Organization public Gallant warning added as receipt-unresolved; In progress.
-- **2023-02:** no additional qualifying local/emergency event crossed threshold; In progress.
-- **2023-03:** Hoffmann unusual-alerts/Ramadan warning added as recipient-unresolved; In progress.
-- **2023-04:** 20 Apr Gaza-envelope leaders / Alon Davidi meeting rechecked; demand for long-term security remains too nonspecific to promote; In progress.
-- **2023-05:** **WARN-130 accepted / Medium**; In progress pending meeting-minute/document recovery.
-- **2023-06:** no additional distinct named-recipient local/emergency warning crossed threshold; In progress.
-- **2023-07:** no additional distinct local/emergency event crossed threshold; In progress.
-- **2023-08:** no additional distinct named-recipient local/emergency warning crossed threshold; In progress.
-- **2023-09:** Gaza-envelope/local/security-coordinator sweep found no new distinct event meeting threshold; Egyptian freshness upgrade recorded separately; In progress.
-- **2023-10-01..2023-10-06:** no additional qualifying local warning; Bini Kfir remains unresolved; In progress.
+## Lane 6 coverage this run
+- **2022-12-29..2022-12-31:** targeted official/audit, documentary and obscure-source recovery; no distinct qualifying named-recipient document found; In progress.
+- **2023-01:** rechecked rabashatz documentary chain; January personal receipt remains unproven; In progress.
+- **2023-02:** reviewed State Comptroller/official defense material. Serious seam-barrier/readiness findings were found but no new Gaza/Oct. 7-relevant warning event meeting recipient/relevance threshold; In progress.
+- **2023-03:** searched primary/archival support for March professional warnings; no new named-recipient primary record crossed threshold; In progress.
+- **2023-04:** recovered contemporaneous 20 Apr rabashatz authority/conditions warning chain; supports WARN-130 context, not a separate accepted event; In progress.
+- **2023-05:** recovered **2 May direct letter-to-Gallant evidence** and merged it into WARN-130; In progress pending original letter/full meeting record and specific weapons/manpower/vehicle corroboration.
+- **2023-06:** official records/correspondence/later-audit sweep; no new distinct event crossed threshold; In progress.
+- **2023-07:** primary/later-released documentary sweep; no new distinct event promoted; In progress.
+- **2023-08:** documentary sweep; no new distinct warning crossed threshold; In progress.
+- **2023-09:** later-released documents/official records/obscure reporting searched; no new distinct event promoted; In progress.
+- **2023-10-01..2023-10-06:** immediate-prewar primary-record sweep; no new distinct event promoted; In progress.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Added **19 Jun 2014 Gaza-envelope local-authority letter → then-Defense Minister Moshe Ya'alon** as strong historical-chain evidence. The letter warned that eliminating security-coordinator positions would collapse the ability to maintain emergency procedures and manage coming escalations and would damage emergency-team coordination. Contemporaneous Ynet reproduces the warning language.
-- It is **not accepted as a distinct current-government event** because the recipient was a prior government and no evidence yet shows this specific warning was formally inherited or redelivered to a member of the government serving in 2023.
-- A 2022 rabashatz chain-of-command/status warning and the State Comptroller's finding that some structural problems had been flagged around two decades earlier further support the inherited-problem chain, without replacing the need for current-recipient evidence.
+- Rechecked the **19 Jun 2014** Gaza-envelope security-coordinator warning, the **2022** rabashatz institutional chain and later State Comptroller findings documenting longstanding structural deficiencies.
+- These continue to establish an inherited vulnerability chain, but no new evidence was recovered showing a specific older warning was formally inherited or explicitly redelivered to a member of the serving 2023 government.
 - No arbitrary historical floor imposed.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-20T130629Z.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-20T130629Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-20T141700Z.csv`
+- Coverage delta: `COVERAGE.delta-2026-09-20T141700Z.csv`
 - Coverage canonical updated: `COVERAGE.csv`
 
 ## Coverage discipline
@@ -67,4 +64,4 @@ Last successful run: 2026-09-20 13:06 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, diplomatic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 6**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 1**.
