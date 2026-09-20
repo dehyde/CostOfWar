@@ -1,63 +1,53 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-20 05:16 UTC
+Last successful run: 2026-09-20 06:10 UTC
 
 ## Rotation
-- Deep lane completed this run: **3 — foreign governments, diplomats, foreign intelligence/security services, regional partners and official foreign warnings**.
-- Next deep lane: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**.
-- Lane 3 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 3 run.
+- Deep lane completed this run: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**.
+- Next deep lane: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
+- Lane 4 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 4 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
-- **1 new accepted warning this run: WARN-127.**
-- Canonical accepted count is now **125**.
-- `WARN-5` remains Disputed after the prior run's UAE official-source contradiction.
+- **0 new accepted warnings this run.**
+- Canonical accepted count remains **125**.
+- `WARN-5` remains Disputed.
 - `WARN-115` remains an auto-ID consumed by a previously corrected Investigating page and is excluded from the accepted count.
 
-## New Accepted
-### WARN-127 — 10 May 2023 Sullivan→Hanegbi Gaza de-escalation warning
-- During active Israel–Palestinian Islamic Jihad fighting in Gaza, U.S. National Security Advisor **Jake Sullivan** spoke directly with Israeli National Security Advisor **Tzachi Hanegbi**.
-- The contemporaneous White House readout says Sullivan emphasized the need to **de-escalate tensions and prevent further loss of life** while reaffirming support for Israel's security and right to defend itself.
-- **High confidence / contemporaneous / direct documented receipt.**
-- Scope is a general regional-escalation warning during active Gaza fighting, **not** a Hamas Oct. 7 invasion forecast.
-- Israel continued operations; an Egypt-brokered ceasefire took effect on 13 May, but no causal link to Sullivan's warning is inferred.
-
 ## Freshness / documentary upgrade
-- **WARN-8** (early-Sep Egypt→Shin Bet→Netanyahu) was re-audited; its 2026 Army Radio/Times of Israel and Israel Hayom documentary-recovery material is already incorporated. No status change.
-- **WARN-76** (reported late-Sep Abbas Kamel→Netanyahu warning) was re-audited; PMO denial and limiting evidence are already incorporated. No status change.
-- `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` remains unresolved/disputed. McCaul's post-classified-briefing statement is materially limited by a senior U.S. participant in that briefing who told Israel Hayom that McCaul had misspoken/exaggerated and that the warning discussed was low-grade/basic, not concrete.
+- Rechecked newly published September 2026 evidence around the Sinwar→Sufian Abu Zaida→Shin Bet→Netanyahu “earthquake” chain. The 18 Sep Times of Israel/Ynet material identifying Abu Zaida, documenting the 15 Sep relay to Shin Bet, Bar's immediate call to Netanyahu and the 17 Sep security assessment is **already incorporated in WARN-15**. No duplicate or status change.
+- No newly surfaced expert/research primary document changed the status of an accepted warning this run.
 
-## Unresolved-first / dedupe resolution
-1. `EGYPT-OCT4-2023-ISRAELI-OFFICIALS` — **Disputed / recipient level unresolved**. Need Egyptian/Israeli primary record identifying recipient, timing and exact content.
-2. `EGYPT-FOREIGNMIN-NSC-MIDSEP-2023` — **Disputed / investigating**. Israel Hayom's later multi-source account is directly contested by formal Foreign Ministry and NSC denials; no primary meeting record recovered.
-3. `UK-CLEVERLY-COHEN-MAR21-2023` — **Resolved / below threshold as a distinct warning.** UK pre-meeting material said Cleverly would raise de-escalation concerns, but the official post-meeting readout records mutual agreement on de-escalation rather than a one-directional warning delivered by Cleverly.
-4. `BAR-APR23-DETERRENCE`, `MI-APR12-2023-POLITICAL-ECHELON`, `HAIM-COHEN-AUG23-OPENING-STRIKE`, `TKUMA-KFIR-STANDBY-WEAPONS`, `COMPTROLLER-2018-COMMUNITY-DEFENSE` and other cross-lane candidates remain below threshold pending their lane-specific evidence gaps.
+## Unresolved-first / Lane 4 resolution
+1. `JISS-APR16-2023-WAR-PREP` — **Strong candidate / receipt unresolved.** Primary JISS paper explicitly warned Israel to prepare for a tangible possibility of war amid growing multi-front danger; contemporaneous independent reporting corroborates the content. Need named-recipient delivery/acknowledgment before acceptance.
+2. `INSS-MAR21-2023-STRATEGIC-ALERT` — **Strong candidate / receipt unresolved.** Primary INSS urgent alert plus contemporaneous Times of Israel/Jerusalem Post reporting document warnings of degraded IDF functioning, deterrence and national-security capacity. Need named-recipient delivery evidence.
+3. `INSS-JUL23-2023-PEOPLES-ARMY` — **Strong candidate / receipt unresolved.** Primary INSS alert warns the people’s-army model could dissolve, weakening the military and regional deterrence amid escalating multi-front threats. Need named-recipient delivery evidence.
+4. `CARMON-AUG31-2023-WAR-FORECAST` — **New Investigating candidate.** Yigal Carmon/MEMRI publicly forecast possible war in Sep-Oct 2023, citing Hamas/Hezbollah threats, regional coordination and potentially unusually deadly weapons. Contemporaneous Iran International coverage confirms the warning and records a contrary assessment from Amir Avivi. Later Times of Israel reporting clarifies Carmon's forecast focused mainly on West Bank/Lebanon escalation rather than the tactical Gaza invasion. No reliable evidence yet shows pre-Oct. 7 delivery to a named serving decision-maker.
+5. `WARN-80` (Reichman/ICT multi-front preparedness research) was revalidated against ICT's official institutional account that findings were presented before the war to political and military-security decision-makers. No status change; remains Accepted / Medium.
 
-## Lane 3 coverage this run
-- **2022-12-29..2022-12-31:** targeted foreign-government/diplomatic sweep; no distinct qualifying event; In progress.
-- **2023-01:** revalidated multiple direct foreign warnings already published (Egypt, Jordan, U.S., EU, France); no additional event crossed threshold; In progress.
-- **2023-02:** revalidated existing foreign-warning entries; no additional event crossed threshold; In progress.
-- **2023-03:** revalidated existing foreign warnings; Cleverly→Cohen 21 Mar candidate resolved below threshold as a distinct event; In progress.
-- **2023-04:** revalidated existing foreign escalation warnings; no additional event crossed threshold; In progress.
-- **2023-05:** **WARN-127 accepted and published**; In progress.
-- **2023-06:** revalidated existing foreign escalation communications; no additional event crossed threshold; In progress.
-- **2023-07:** revalidated existing direct foreign-government warnings; no additional event crossed threshold; In progress.
-- **2023-08:** revalidated existing foreign-government warnings; no additional event crossed threshold; In progress.
-- **2023-09:** WARN-8 and WARN-76 retained with caveats; WARN-5 remains Disputed; Egypt Foreign Ministry/NSC claim remains disputed/unresolved; In progress.
-- **2023-10-01..2023-10-06:** Egypt Oct. 4 claim remains disputed/unresolved; existing Oct. 4 Jordan warning retained; no additional event crossed threshold; In progress.
+## Lane 4 coverage this run
+- **2022-12-29..2022-12-31:** targeted expert/research sweep; no distinct qualifying event; In progress.
+- **2023-01:** revalidated existing INSS strategic-assessment warning presented to President Herzog; no additional event crossed threshold; In progress.
+- **2023-02:** targeted expert/research sweep; no additional event crossed threshold; In progress.
+- **2023-03:** INSS 21 Mar urgent alert strengthened but direct named-recipient receipt remains unresolved; public Amos Yadlin warnings reviewed without treating publicity as receipt; In progress.
+- **2023-04:** JISS 16 Apr tangible-war warning strengthened; named recipient unresolved; In progress.
+- **2023-05:** targeted sweep; no new event crossed threshold; In progress.
+- **2023-06:** WARN-80 research/delivery campaign revalidated; no new June event crossed threshold; In progress.
+- **2023-07:** INSS 23 Jul alert strengthened; direct receipt unresolved; In progress.
+- **2023-08:** new Carmon/MEMRI Aug 31 candidate added; recipient unresolved; WARN-6 Eiland→Netanyahu remains the accepted direct expert warning; In progress.
+- **2023-09:** WARN-80 briefing campaign revalidated; no additional expert event crossed threshold; In progress.
+- **2023-10-01..2023-10-06:** targeted expert/research sweep; no additional event crossed threshold; In progress.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Rechecked older foreign-warning chains and retained **WARN-124**, the 2018 Egyptian warning to Netanyahu concerning alleged diversion of foreign funding to Hamas's military wing.
-- No additional older foreign warning crossed threshold this run.
-- `COMPTROLLER-2018-COMMUNITY-DEFENSE` remains open in documentary/older-warning work.
+- Revalidated the existing **Yitzhak Brik** readiness-warning chain and older expert/readiness material.
+- No additional older expert warning crossed threshold this run.
 - No arbitrary historical floor imposed.
 
 ## Persistent-state overlays
-- Candidate delta: `CANDIDATES.delta-2026-09-20T051600Z.csv`
+- Candidate delta: `CANDIDATES.delta-2026-09-20T061039Z.csv`
 - Coverage canonical updated: `COVERAGE.csv`
-- Coverage delta: `COVERAGE.delta-2026-09-20T051600Z.csv`
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
@@ -69,4 +59,4 @@ Last successful run: 2026-09-20 05:16 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, diplomatic, readiness, border-vulnerability and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, response milestones or overlapping protection requests.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 4**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 5**.
