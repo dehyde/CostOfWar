@@ -1,0 +1,4 @@
+period,source_lane,status,notes
+2023-09,military_intelligence,In progress,"Lane 1 added SEP27-2023-GAZA-DIV-RAID-SUMMARY for dedupe/recipient resolution; WARN-27 and WARN-35 already cover adjacent distinct warnings."
+2023-10-01..2023-10-06,military_intelligence,In progress,"Lane 1 added OCT4-2023-GAZA-BASE-DEFENSE-INSPECTION and OCT6-NIGHT-R-GAZA-DIV-RAID-WARNING as unresolved; OCT3-2023-NAHAL-OZ-170-FIGHTER-DRILL remains unresolved."
+pre-2022-12-29,older_inherited_warnings,In progress,"Rechecked Jericho Wall/8200 and Gaza/Southern Command chains against later IDF/Turgeman and document-based evidence; existing older records already cover principal events, no new inherited/redelivered warning crossed threshold."
