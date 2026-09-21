@@ -1,70 +1,81 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-21 17:14 UTC
+Last successful run: 2026-09-21 18:12 UTC
 
 ## Rotation
-- Rotation repair: the preceding live run completed **Lane 1 — IDF / MI / Southern Command / Gaza Division**, but its GitHub write-back failed. That completion is carried forward here rather than rerunning Lane 1.
-- Deep lane completed this run: **2 — Shin Bet / Mossad / National Security Council / police / Home Front / other Israeli professional security bodies**.
-- Next deep lane: **3 — foreign governments, diplomats, foreign intelligence/security services and regional partners**.
-- Lane 2 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 2 run.
+- Deep lane completed this run: **3 — foreign governments, diplomats, foreign intelligence/security services and regional partners**.
+- Next deep lane: **4 — professional experts, academics, researchers, think tanks, political scientists and nonpartisan expert organizations**.
+- Lane 3 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 3 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
-- **0 new accepted warnings this run; canonical accepted count remains 134.**
-- `WARN-15` was materially strengthened on source provenance but remains **Accepted / Medium**.
+- **1 new accepted warning this run; canonical accepted count is now 135.**
+- New entry: **WARN-137 / Accepted-High** — 21 Sep 2023 Egyptian Foreign Minister Sameh Shoukry directly warned Israeli Foreign Minister Eli Cohen that escalation risked a vicious cycle of violence.
 
 ## Freshness / document-upgrade pass
-### WARN-15 — direct intermediary identification
-- Former PA minister **Sufian Abu Zaida** publicly identified himself in a Facebook video as the intermediary previously pseudonymized as **“Coal Eyes,”** saying he personally received Yahya Sinwar's pre-Oct. 7 `zilzal` / “earthquake” warning.
-- N12 and Walla on 18 Sep 2026 reproduce the self-identification; Times of Israel separately identifies Abu Zaida and reports a senior Shin Bet source saying the warning was promptly conveyed to Netanyahu and that offensive or defensive action was recommended.
-- This is direct-source corroboration of the intermediary's identity and the existence of the Sinwar message, but it does not independently establish the exact downstream wording, meeting record or Netanyahu response.
-- Notion `WARN-15` upgraded; confidence remains **Medium** pending the underlying Shin Bet record / 17 Sep meeting minutes.
+### WARN-5 — UAE/MBZ warning remains Disputed / Medium
+- Rechecked the newly surfaced September 2026 UAE-warning controversy.
+- Supporting evidence remains substantial: Haaretz/book investigation, a separate Emirati source reported by Times of Israel, UAE-linked sourcing reported by N12, and Kan reporting that MBZ later told CIA director William Burns he had warned Netanyahu of a possible violent Palestinian explosion.
+- Contrary evidence remains material: PMO says no warning/call occurred and says call-log checks found none; Ron Dermer denies the call; a 19 Sep 2026 official UAE source told *The National* that security matters are handled through relevant entities and not at national-leader level.
+- No transcript, call record, Burns testimony or formal inquiry finding was recovered. **No status change; government-level receipt remains unestablished.**
+
+### WARN-124 — older Egyptian Hamas-financing warning rechecked
+- Fresh 2026 reporting on Egyptian/Israeli warnings about Qatari money funding Hamas's military wing is already incorporated in WARN-124.
+- No new primary 2018 Egyptian document or receipt record was recovered; remains **Accepted / Medium**.
 
 ## Unresolved-first resolution
-### BAR-APR23-DETERRENCE — remains Investigating
-- Rechecked Ronen Bar's sworn affidavit describing an April 2023 warning that adversaries saw a window of opportunity and his proposal for a targeted forceful move to restore deterrence.
-- No independent contemporaneous corroboration, exact meeting date/forum or primary April record was recovered. Do not accept solely from retrospective self-testimony.
+### EGYPT-FOREIGNMIN-NSC-MIDSEP-2023 — remains Disputed
+- Israel Hayom's 28 Dec 2025 investigation reports that roughly two weeks before Oct. 7 an Egyptian delegation warned Foreign Ministry counterparts that Gaza/the Palestinian arena was highly explosive and could escalate; Israeli sources quoted in the same article confirm recurring Egyptian messages.
+- The same report separately cites two Israeli political sources alleging a more focused Egyptian warning to the NSC about **“something big”** approaching.
+- However, the Foreign Ministry formally denies that the reported meeting/information existed, and the NSC denies receiving a concrete warning about the Oct. 7 attack or impending war.
+- Exact date, attendees, cable/minutes and qualifying downstream recipient remain unrecovered. Keep **Disputed**; do not infer Netanyahu receipt.
 
-### GAZA-DIVISION-OCT4-2023 — remains Investigating
-- Rechecked the 4 Oct General Staff camp-defense inspection of Gaza Division bases. Reporting and IDF limiting context remain consistent: severe base-security failures were found, but the audit was not a simulation of the eventual mass invasion.
-- Still no public evidence that the findings/report were formally delivered to a qualifying senior state/security decision-maker before Oct. 7. Do not accept yet.
+### EGYPT-OCT4-2023-ISRAELI-OFFICIALS — remains Investigating
+- Michael McCaul stated after a classified US intelligence briefing that Egypt warned Israel roughly three days before Oct. 7 that an event like the attack could occur, while explicitly saying the recipient level was unclear.
+- Israeli/NSC accounts deny receiving a concrete attack warning.
+- Until recipient level and exact content are established, this remains below the acceptance threshold.
 
-### Stale candidate reconciliation
-- `BAR-MAY21-2023-GAZA-CAMPAIGN` is already canonical as **WARN-16 / Accepted-Medium** in Notion; no duplicate.
-- `BAR-MIDSEP-2023-MULTIFRONT` is already incorporated into **WARN-15 / Accepted-Medium**; new Abu Zaida material is corroboration, not a separate event.
+## New accepted warning — WARN-137
+### 21 Sep 2023 — Sameh Shoukry → Eli Cohen
+- Egyptian Foreign Minister **Sameh Shoukry** met Israeli Foreign Minister **Eli Cohen** at UNGA in New York.
+- Egyptian Foreign Ministry spokesman Ahmed Abu Zeid's contemporaneous account says Shoukry urged Israel to prioritize de-escalation and warned that escalation could lead to a **vicious cycle of violence**.
+- Ahram Online/Gate Ahram reproduce the ministry spokesman's statement and ministry-supplied meeting image; Anadolu independently corroborates the meeting and warning.
+- Receipt by Cohen is direct and documented; the warning is **general strategic / regional escalation**, not a Hamas-attack prediction.
+- No discrete Israeli operational response is documented, so response status is **Unclear**, not “ignored.”
+- Underlying Egyptian MFA webpage/social record was not recovered, so no secondary URL is mislabeled as primary evidence in the Notion property.
 
-## Lane 2 deep-discovery pass
-Targeted Hebrew/English searches were run month-by-month across Shin Bet, Mossad, NSC, police, Prison Service, Home Front and related professional-security bodies.
+## Lane 3 deep-discovery pass
+Targeted English/Hebrew/Arabic searches were run across the backfill window and foreign-government/intelligence lane.
 
-- **2022-12-29..2022-12-31:** transition-period Israeli security-body sweep; no new distinct event.
-- **2023-01:** Shin Bet/NSC/police readiness and escalation sweep; no new distinct event.
-- **2023-02:** East Jerusalem / pre-Ramadan professional-security warnings rechecked; existing canonical entries cover identified events.
-- **2023-03:** Ramadan, police and multi-front security-warning chains rechecked; existing canonical entries cover identified qualifying events.
-- **2023-04:** Bar deterrence warning remains below threshold for lack of independent/contemporaneous corroboration.
-- **2023-05:** 21 May Bar→Netanyahu Hamas/Gaza warning already canonical as WARN-16; no duplicate.
-- **2023-06:** Shin Bet resource-diversion and police-capacity warning chains rechecked; relevant qualifying events already canonical.
-- **2023-07:** Bar strategic war warning and Mossad/NSC material rechecked; existing canonical warnings cover identified events.
-- **2023-08:** Shin Bet Palestinian-escalation/Jewish-extremist and police-capacity warnings rechecked; existing canonical entries cover identified events.
-- **2023-09:** early-September Gaza-readiness and mid-September Sinwar/Shin Bet warning chains rechecked. WARN-129 already covers the 3 Sep Shin Bet South/Finkelman warning; WARN-15 received the Abu Zaida provenance upgrade.
-- **2023-10-01..2023-10-06:** Oct. 1 Shin Bet/Sinwar-targeting and other Israeli security-body material rechecked; no new distinct event beyond existing canonical entries. Oct. 7 early-morning alerts remain excluded by the strict temporal rule.
+- **2022-12-29..2022-12-31:** no new distinct qualifying foreign warning.
+- **2023-01:** Sisi, King Abdullah, Sullivan/Burns, Blinken and related escalation-warning chains rechecked; existing canonical entries cover qualifying events.
+- **2023-02:** Aqaba/de-escalation and foreign diplomatic warnings rechecked; no new distinct accepted event.
+- **2023-03:** Sharm el-Sheikh, US/EU/Jordan/UAE and Ramadan-escalation warning chains rechecked; canonical coverage already exists.
+- **2023-04:** Jordanian/US/foreign warnings during multi-front escalation rechecked; no new distinct event.
+- **2023-05:** Gaza/West Bank foreign-government warning sweep; no new distinct event beyond canonical entries.
+- **2023-06:** foreign warnings to Netanyahu/Cohen/Gallant rechecked; 27 Jun Blinken→Cohen already canonical as WARN-135.
+- **2023-07:** Biden/US and other foreign warnings on violence/regional deterioration rechecked; no new distinct event.
+- **2023-08:** no new distinct qualifying foreign warning identified.
+- **2023-09:** **WARN-137 newly accepted.** Egypt→Shin Bet (WARN-8), Abbas Kamel/Netanyahu (WARN-76) and UAE/MBZ (WARN-5) chains re-audited and kept distinct.
+- **2023-10-01..2023-10-06:** late Egyptian attack-warning claims rechecked; Oct. 4 recipient level remains unresolved.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Rechecked inherited Shin Bet/Mossad Hamas-financing, deterrence and security-policy warning chains.
-- No new older warning crossed the acceptance threshold this run; existing older canonical entries remain in place.
+- Rechecked foreign Hamas-financing / inherited-risk chains before the current government.
+- WARN-124 (2018 Egyptian warning that Qatar/Turkey/Iran money was reaching Hamas's military wing) remains the relevant canonical foreign warning; no new older event crossed threshold.
 
 ## Dedupe / source-quality audit
-- No duplicate warnings created.
-- Direct Abu Zaida self-identification was attached to WARN-15 rather than split into a new event.
-- Retrospective self-testimony remains insufficient without corroboration when it is the sole evidence of delivery.
-- Contrary official accounts remain preserved, especially around May/September 2023 Hamas assessments.
+- WARN-137 is distinct from Egypt's later intelligence-warning chains: it is a direct 21 Sep foreign-minister-level regional-escalation warning, not evidence that Egypt forecast the Oct. 7 operational attack.
+- WARN-8, WARN-76, WARN-5 and the unresolved Foreign Ministry/NSC delegation claim remain separate because dates, channels, recipients and warning specificity differ.
+- Public diplomatic statements without evidence of targeted delivery to a qualifying Israeli recipient were not accepted merely because they were public.
+- Official denials and contrary accounts remain preserved.
 
 ## Persistent state
-- Candidate delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-21T1714Z_lane2.csv`.
-- `COVERAGE.csv` updated with the Lane 2 month-by-month pass.
-- `RUN_STATE.md` repaired for the prior Lane 1 write failure and advanced to **Lane 3**.
-- Notion `WARN-15` upgraded; no new Notion page created.
+- Candidate delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-21T1812Z_lane3.csv`.
+- `COVERAGE.csv` updated with the Lane 3 month-by-month pass.
+- `RUN_STATE.md` advanced to **Lane 4**.
+- Notion: new `WARN-137` page created.
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
@@ -76,4 +87,4 @@ Targeted Hebrew/English searches were run month-by-month across Shin Bet, Mossad
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, diplomatic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 3**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 4**.
