@@ -1,68 +1,68 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-21 05:12 UTC
+Last successful run: 2026-09-21 06:12 UTC
 
 ## Rotation
-- Deep lane completed this run: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
-- Next deep lane: **6 — documentary recovery + historical blind-spot sweep**.
-- Lane 5 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 5 run.
+- Deep lane completed this run: **6 — documentary recovery + historical blind-spot sweep**.
+- Next deep lane: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**.
+- Lane 6 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 6 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
 - **0 new accepted warnings this run. Canonical accepted count remains 132.**
-- `WARN-64` was upgraded with additional contemporaneous operational shelter-warning evidence; no duplicate warning was created.
 - `WARN-5` remains **Disputed** and excluded from accepted count.
-- `WARN-115` remains **Investigating** and excluded.
+- `WARN-10` remains **Accepted / High** and resolves the 23 Jul Saar date/dedupe question as a distinct event from the 16 Jul warning.
+- `WARN-15` remains **Accepted / Medium** and absorbs the mid-September Bar/multi-front candidate chain; do not duplicate it.
+- No Notion page required a change this run.
 
 ## Freshness / document-upgrade pass
-- Rechecked current September 2026 reconstructions against accepted and unresolved chains.
-- N12's **8 Sep 2026** reconstruction independently places the **26 Sep 2023 Gaza-envelope council-head warning** in its chronology of pre-Oct. 7 red flags, strengthening provenance of the warning content but not solving recipient evidence.
-- No fresh primary document changed an accepted/disputed status this run.
+- Rechecked September 2026 document-based reconstructions and current published corrections against accepted/disputed entries.
+- No new primary document changed a canonical status.
+- Fresh Ynet reconstruction materially strengthens the internal Unit 8200 warning chain: it says personnel warned of potential danger in **April 2023**, and after a **September 2023** meeting emails were sent to more senior officials. Postwar evidence indicates Hamas had come close to launching a mass-invasion attempt in April. Named qualifying recipients and the warning document remain unrecovered, so this is not accepted as a government warning.
 
 ## Unresolved-first resolution
-### GAZA-COUNCILS-SEP26-2023 — strengthened, still Investigating
-- On **26 Sep 2023**, during the tenth day of violent Gaza-border disturbances, Gaza-envelope council heads warned contemporaneously that militants felt at the fence **"like a promenade"** and that the situation would eventually **"end in disaster"** for soldiers at the fence or residents of the Gaza envelope.
-- N12 documented the warning in real time on 26 Sep 2023; N12's 8 Sep 2026 reconstruction later included it in the pre-attack warning chronology.
-- Warning content/provenance is therefore strong. However, the publication does not identify the speaking council head(s) and does not establish direct delivery to a named qualifying senior government/security decision-maker.
-- Status: **Investigating / receipt unresolved**. Do not accept based on media publication alone.
+### SEED-UNIT8200-2023 — strengthened, still Investigating
+- Fresh 2026 Ynet reporting, based on IDF investigations/intelligence sources, says Unit 8200 and other IDF personnel cited an April 2023 warning of potential danger; after a September meeting, several emails went to more senior officials.
+- The same reconstruction says the direct Gaza Division intelligence officer had not systematically escalated earlier warnings to the highest MI levels or political decision-makers.
+- Status remains **Investigating / recipient unresolved**. Recover the April warning document, September emails, exact dates and named recipients before acceptance.
 
-### WARN-64 — evidence upgrade, no new event
-- Recovered a contemporaneous **6 Jun 2023 Israel Hayom** investigation showing northern-border local-authority heads had approached a **senior Home Front Command official** about inadequate shelter deployment.
-- Merom HaGalil security-department head **Guy Eyal** said communities were begging for additional mobile shelters inside populated areas, warned that children at playgrounds could have **zero warning time**, and challenged the plan to distribute shelters only once an emergency began.
-- The IDF/Home Front Command provided a contemporaneous response. This is operationally specific corroboration/repetition of the already-canonical northern protection chain, not a separate event.
-- Notion `WARN-64` updated with this evidence and source.
+### POLICE-JUN9-2023-CAPACITY-WARNING — unchanged threshold
+- The 9 Jun 2023 direct letter from six former police commissioners and 42 retired senior commanders remains a strong contemporaneous warning of expected police collapse / inability to meet a national-scale challenge.
+- Lane 6 found no stronger primary receipt/response record or sufficiently specific Oct. 7 preparedness nexus to justify acceptance.
 
-## Lane 5 month-by-month coverage this run
-- **2022-12-29..2022-12-31:** targeted local/emergency/civil-security search; no new distinct qualifying event; In progress.
-- **2023-01:** early-2023 local protection/readiness chains rechecked, including already-canonical Ashkelon material; In progress.
-- **2023-02:** targeted local-authority/emergency search; no new recipient-documented event; In progress.
-- **2023-03:** WARN-64 northern protection chain rechecked; already canonical; In progress.
-- **2023-04:** Gaza-envelope local-authority/government engagement around escalation/protection requests rechecked; no new distinct event accepted; In progress.
-- **2023-05:** existing Rahat and southern shelter/local-protection chains rechecked; no new distinct event accepted; In progress.
-- **2023-06:** WARN-64 strengthened with Israel Hayom's contemporaneous Home Front Command / mobile-shelter evidence; In progress.
-- **2023-07:** northern local leaders' Hezbollah-presence/provocation warning to Northern Command rechecked; already canonical; In progress.
-- **2023-08:** targeted local/emergency/civil-security search; no new recipient-documented event accepted; In progress.
-- **2023-09:** GAZA-COUNCILS-SEP26 strengthened but remains receipt-unresolved; In progress.
-- **2023-10-01..2023-10-06:** immediate pre-attack local/civil chains rechecked; no new distinct event accepted; In progress.
+## Lane 6 month-by-month coverage this run
+- **2022-12-29..2022-12-31:** transition-period documentary/historical search; no new distinct qualifying event; In progress.
+- **2023-01:** no new documentary event crossing threshold; In progress.
+- **2023-02:** previously reconciled security-warning chains rechecked; no new distinct event; In progress.
+- **2023-03:** later-released reconstructions rechecked against existing Saar/MI and protection chains; no new distinct event; In progress.
+- **2023-04:** Unit 8200 warning chain strengthened by later IDF-investigation-based reporting; exact document/recipient unresolved; In progress.
+- **2023-05:** no new distinct documentary event crossing threshold; In progress.
+- **2023-06:** former-police-commanders letter rechecked; remains unresolved; In progress.
+- **2023-07:** Saar date/dedupe reconciliation resolved to canonical `WARN-10`; In progress.
+- **2023-08:** expert/security documentary chains rechecked; no new distinct event; In progress.
+- **2023-09:** stale candidate state reconciled: Bar mid-September chain is covered by `WARN-15`; UAE leader-warning seed maps to **Disputed `WARN-5`**; Unit 8200 September email chain strengthened but recipient unresolved; In progress.
+- **2023-10-01..2023-10-06:** immediate pre-attack documentary chains rechecked; no new distinct accepted event; In progress.
 - **No month is Complete.**
 
 ## Older-warning / historical blind-spot sweep
-- Followed older Gaza-border community-defense, tunnel/security and civilian-protection/readiness chains where they could establish inherited knowledge or later redelivery.
-- Existing older canonical warnings remain in place; no new older warning with documented inheritance, repetition or redelivery to a serving 2023 officeholder crossed threshold.
+- Rechecked older State Comptroller tunnel/readiness, Jericho Wall/8200, Gaza/Qatar-financing and inherited-knowledge chains.
+- Existing Notion records already cover the principal recovered 2013–2022 warning documents/events.
+- No new older warning with documented inheritance, repetition or redelivery to a serving 2023 officeholder crossed threshold.
 - No arbitrary historical floor imposed.
 
 ## Dedupe / source-quality audit
-- The 6 Jun Israel Hayom mobile-shelter evidence was attached to `WARN-64` rather than counted separately because it concerns the same continuing northern civilian-protection vulnerability chain already delivered to Gallant, Smotrich and the PMO.
-- The 26 Sep Gaza-envelope council warning remains a distinct unresolved event because its warning content and date are separate, but qualifying recipient evidence is still missing.
-- Contemporaneous N12/Israel Hayom reporting is treated as strong secondary evidence for warning content; it is not substituted for direct recipient proof.
+- `SAAR-JULY-DATE-RECONCILIATION` is **Resolved**: 23 Jul is a distinct warning already published as `WARN-10`, not a date correction to 16 Jul.
+- `BAR-MIDSEP-2023-MULTIFRONT` is **Resolved / covered by WARN-15**; additional September reporting is corroboration, not a new event.
+- `SEED-UAE-2023` is corrected to **Disputed / canonical WARN-5** after the UAE official-source statement, PMO/call-log denial and Ron Dermer denial, while supporting Haaretz/Times of Israel/Kan evidence remains preserved.
+- Fresh Unit 8200 reporting is retained as an unresolved documentary lead because vague receipt by “more senior officials” does not establish qualifying government/senior-decision-maker receipt.
 
 ## Persistent state
-- Candidate delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-21T0512Z_lane5.csv`.
-- Coverage delta: `pre-oct7-warnings/COVERAGE.delta-2026-09-21T051200Z.csv`.
-- Canonical `COVERAGE.csv` updated with the Lane 5 pass.
-- `RUN_STATE.md` advanced to Lane 6.
-- Notion `WARN-64` upgraded; no new page created.
+- Candidate delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-21T0612Z_lane6.csv`.
+- Coverage delta: `pre-oct7-warnings/COVERAGE.delta-2026-09-21T061200Z.csv`.
+- Canonical `COVERAGE.csv` updated with the Lane 6 pass.
+- `RUN_STATE.md` advanced to Lane 1.
+- Notion unchanged; no warning crossed the publication threshold and the three dedupe/status reconciliations were already canonical there.
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
@@ -74,4 +74,4 @@ Last successful run: 2026-09-21 05:12 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, diplomatic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 6**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 1**.
