@@ -1,78 +1,70 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-21 07:08 UTC
+Last successful run: 2026-09-21 11:09 UTC
 
 ## Rotation
-- Deep lane completed this run: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**.
-- Next deep lane: **2 — Shin Bet / Mossad / National Security Council / police / Home Front / other Israeli professional security bodies**.
-- Lane 1 remains **In progress**, not Complete.
-- No high-value lead requires a consecutive Lane 1 run.
+- Deep lane completed this run: **2 — Shin Bet / Mossad / National Security Council / police / Home Front / other Israeli professional security bodies**.
+- Next deep lane: **3 — foreign governments, diplomats, foreign intelligence/security services and regional partners**.
+- Lane 2 remains **In progress**, not Complete.
+- No high-value lead requires a consecutive Lane 2 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
-- **0 new accepted warnings this run. Canonical accepted count remains 132.**
-- `WARN-5` remains **Disputed** and excluded from accepted count.
-- `WARN-22` already covers NCO V's 6 Jul 2023 mass-raid warning and includes the 17 Sep 2026 dismissal/rejection-chain evidence; no duplicate or page update required.
-- `WARN-27` already covers V's 28 Sep 2023 rebuttal/hostage warning; the 27 Sep Gaza Division summary is retained separately only as a dedupe/recipient-resolution candidate.
-- `WARN-35` already covers the September warning by Unit 8200 commander P to senior Southern Command officers; do not duplicate it.
+- **0 new accepted warnings this run. Canonical accepted count remains 133.**
+- GitHub count was stale at 132 because WARN-135 was published to Notion after the prior successful GitHub state write; this run reconciles the count.
+- `WARN-135` = Antony Blinken → Eli Cohen, 27 Jun 2023; Accepted / High.
+- `WARN-36` already covers Bar's 15 Feb 2023 direct East Jerusalem broad-escalation warning to Ben-Gvir.
+- `WARN-37` already covers Bar's 11 Jun 2023 counterterror-resource warning to Netanyahu.
+- `WARN-15` already covers the 15–17 Sep Shin Bet/Sinwar “earthquake” / collision-course warning chain.
+- `WARN-68` already covers Bar's 1 Oct warning/recommendation regarding Hamas/Sinwar, with the PMO contrary account preserved.
 - Notion unchanged this run because no unresolved candidate crossed the publication threshold.
 
 ## Freshness / document-upgrade pass
-- Rechecked the September 2026 reporting on the dismissal of the Gaza Division intelligence officer and the 2025 official Turgeman review against existing Unit 8200/Jericho Wall records.
-- The new institutional-action reporting materially corroborates the warning/rejection chain but is already incorporated in `WARN-22`; it does not create a new pre-Oct. 7 warning event.
-- No new primary document changed a canonical accepted/disputed status.
+- Rechecked September 2026 reporting on the mid-September Shin Bet warning chain and the 1 Oct Bar/Netanyahu meeting against existing WARN-15 and WARN-68.
+- These later reports are already incorporated in Notion; no new primary document changed status or confidence.
+- Rechecked Netanyahu/PMO contrary accounts for Bar's May and October assessments; disputes remain preserved rather than resolved by inference.
 
 ## Unresolved-first resolution
-### OCT4-2023-GAZA-BASE-DEFENSE-INSPECTION — new strong candidate
-- On 4 Oct 2023, three days before the attack, a General Staff surprise camp-defense inspection reportedly found severe access and base-defense failures across Gaza Division outposts. At Nahal Oz, inspectors reportedly entered without authorization, accessed weapons/classified material and penetrated the operations/surveillance war room.
-- The IDF acknowledged a routine base-defense inspection but said it was not a simulation of a mass surprise assault by thousands.
-- Status: **Investigating / senior receipt unresolved**. Recover the original report, distribution list, delivery timing and pre-Oct. 7 corrective action before acceptance.
+### BAR-APR23-DETERRENCE — strengthened but still Investigating
+- Ronen Bar's April 2025 sworn High Court affidavit specifically says he warned **Benjamin Netanyahu** during the 2023 internal crisis that adversaries saw an opportunity and that in April he proposed a targeted forceful move to restore deterrence.
+- This strengthens the named-recipient claim relative to the stale candidate row.
+- Under the evidence rule it is still insufficient for acceptance by itself because it is retrospective self-testimony; recover the exact April date/forum and independent or contemporaneous corroboration (written recommendation, minutes, or another professional witness/source).
 
-### OCT6-NIGHT-R-GAZA-DIV-RAID-WARNING — new strong candidate
-- Ynet reports that during the night before the attack, Gaza Division intelligence soldier `R` concluded from accumulating indicators that Hamas was about to conduct a raid and tried to persuade commanders.
-- The same investigation says senior IDF officials found R credible and serious but that the MI night investigation did **not** reach unequivocal conclusions about his account.
-- Status: **Investigating / corroboration and recipient chain unresolved**. Recover underlying inquiry testimony/document, exact pre-06:29 timeline and named recipients. Do not accept a retrospective account while the official inquiry record remains equivocal.
+### BAR-MAY21-2023-GAZA-CAMPAIGN — remains Disputed
+- Later reporting says Bar told Netanyahu on 21 May that Hamas was the next challenge and a Gaza campaign would be unavoidable.
+- PMO gives the opposite characterization: Bar emphasized Hamas was deterred while Netanyahu raised possible targeted action.
+- No primary minutes/transcript or authoritative inquiry finding was recovered; do not resolve the contradiction.
 
-### SEP27-2023-GAZA-DIV-RAID-SUMMARY — new dedupe/recipient candidate
-- Document-based Ynet reporting describes a 27 Sep Gaza Division intelligence summary following a 26 Sep discussion on Hamas raid scenarios. It reportedly assessed raid probability as **medium** while simultaneously treating Hamas's stated objectives as unrealistic/pompous.
-- The summary prompted NCO V's 28 Sep warning that the scenarios were realistic; that response is already canonical as `WARN-27`.
-- Status: **Investigating / dedupe + named-recipient resolution**. Recover the original summary and recipient list before deciding whether it is a distinct warning event or context for WARN-27.
-
-### OCT3-2023-NAHAL-OZ-170-FIGHTER-DRILL — unchanged threshold
-- The reported highly unusual Hamas exercise involving roughly 170 fighters remains a strong unresolved lead.
-- Original observation/intelligence log and exact qualifying senior recipient chain remain unrecovered; no acceptance.
-
-## Lane 1 month-by-month coverage this run
-- **2022-12-29..2022-12-31:** targeted IDF/MI/Gaza/Southern Command search; no new distinct qualifying event; In progress.
-- **2023-01:** targeted military/intelligence search; no new event crossing threshold; In progress.
-- **2023-02:** targeted military/intelligence search; no new event crossing threshold; In progress.
-- **2023-03:** David Zini/Gaza Division readiness chain rechecked; already canonical; In progress.
-- **2023-04:** Unit 8200 April warning seed rechecked; exact warning document and named recipient unresolved; In progress.
-- **2023-05:** Jericho Wall/Gaza Division chains rechecked; no new distinct event; In progress.
-- **2023-06:** military/intelligence search produced no new distinct event crossing threshold; In progress.
-- **2023-07:** Unit 8200/Jericho Wall and Saar chains rechecked; WARN-22/WARN-10 already canonical; In progress.
-- **2023-08:** Gaza Division raid-section/senior-command chains rechecked; no new distinct event; In progress.
-- **2023-09:** new 27 Sep Gaza Division raid-summary candidate retained for dedupe/recipient resolution; WARN-27 and WARN-35 prevent duplicate publication; In progress.
-- **2023-10-01..2023-10-06:** added unresolved 4 Oct base-defense inspection and 6 Oct R warning; 3 Oct Nahal Oz drill remains unresolved; In progress.
+## Lane 2 month-by-month coverage this run
+- **2022-12-29..2022-12-31:** targeted other-security search; no new distinct qualifying event; In progress.
+- **2023-01:** targeted Shin Bet/Mossad/NSC/police/Home Front search; known events already canonical; In progress.
+- **2023-02:** BAR-FEB15 reconciled to existing WARN-36; original Channel 13 contemporaneous report recovered; In progress.
+- **2023-03:** existing Bar/police/security escalation chains rechecked; no new event; In progress.
+- **2023-04:** BAR-APR23 recipient claim strengthened to Netanyahu but corroboration still insufficient; In progress.
+- **2023-05:** BAR-MAY21 remains disputed; In progress.
+- **2023-06:** stale candidate BAR-JUN11 reconciled to existing WARN-37; police capacity warnings already canonical; In progress.
+- **2023-07:** Bar strategic war-warning chain already canonical; no new distinct event; In progress.
+- **2023-08:** Bar Palestinian-escalation warning already canonical; no new distinct event; In progress.
+- **2023-09:** BAR-MIDSEP reconciled to existing WARN-15 with 2025/2026 corroboration; In progress.
+- **2023-10-01..2023-10-06:** OCT1-ASSESSMENT reconciled to existing WARN-68; no additional Lane 2 event crossed threshold; In progress.
 - **No month is Complete.**
 
 ## Older-warning / historical blind-spot sweep
-- Rechecked older Jericho Wall/8200 and Gaza/Southern Command warning chains against the 2025 Turgeman review and later document-based reconstructions.
-- Principal recovered 2016–2022 military warning events are already canonical in Notion.
-- No new older warning with documented inheritance, repetition or redelivery to a serving 2023 officeholder crossed threshold.
-- No arbitrary historical floor imposed.
+- Rechecked older Shin Bet/Mossad/NSC/police/Home Front chains for inheritance or redelivery to serving 2023 officeholders.
+- No new older warning crossed threshold; older lane remains open.
 
 ## Dedupe / source-quality audit
-- The September Unit 8200 commander-P warning is **already WARN-35**; no duplicate created.
-- NCO V's 6 Jul warning is **already WARN-22**, and the 28 Sep response is **WARN-27**.
-- The 27 Sep Gaza Division summary is kept unresolved pending evidence that it is a distinct warning event rather than the same 26–28 Sep intelligence chain.
-- The 4 Oct inspection is treated as a readiness/vulnerability audit, not as an attack prediction; IDF's limiting characterization is preserved.
-- R's 6 Oct account is not accepted because the same reporting says the MI night investigation did not reach unequivocal conclusions.
+- BAR-FEB15 is **already WARN-36**; no duplicate.
+- BAR-JUN11 is **already WARN-37**; no duplicate.
+- BAR-MIDSEP is **already WARN-15**; no duplicate.
+- OCT1-ASSESSMENT is **already WARN-68**; no duplicate.
+- BAR-APR23 remains below threshold because retrospective sworn self-testimony lacks independent/contemporaneous corroboration.
+- BAR-MAY21 remains disputed because published accounts directly conflict.
 
 ## Persistent state
-- Candidate delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-21T0708Z_lane1.csv`.
-- Canonical `COVERAGE.csv` updated with the Lane 1 pass.
-- `RUN_STATE.md` advanced to Lane 2.
+- Candidate reconciliation delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-21T1109Z_lane2.csv`.
+- Canonical `COVERAGE.csv` updated with the Lane 2 pass.
+- `RUN_STATE.md` advanced to Lane 3 and accepted-count drift corrected to 133.
 - Notion unchanged; no warning crossed the publication threshold.
 
 ## Coverage discipline
@@ -85,4 +77,4 @@ Last successful run: 2026-09-21 07:08 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, diplomatic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 2**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 3**.
