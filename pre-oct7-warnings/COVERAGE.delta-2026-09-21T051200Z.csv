@@ -1,0 +1,13 @@
+period,source_lane,status,notes
+2022-12-29..2022-12-31,local_emergency_civil,In progress,"Targeted Lane 5 search; no new distinct qualifying warning recovered. Keep open; not No results/Complete."
+2023-01,local_emergency_civil,In progress,"Rechecked early-2023 local protection/readiness chains; Ashkelon and other existing local warnings remain canonical. No new distinct event accepted."
+2023-02,local_emergency_civil,In progress,"Targeted local-authority/emergency search found no new recipient-documented event. Keep open."
+2023-03,local_emergency_civil,In progress,"Rechecked WARN-64 northern-border Shield of the North warning chain; already canonical."
+2023-04,local_emergency_civil,In progress,"Rechecked Gaza-envelope local-authority/government engagement around April escalation and protection requests; no new distinct event accepted."
+2023-05,local_emergency_civil,In progress,"Existing Rahat shelter warning and southern local-protection chains remain canonical; no new distinct event accepted."
+2023-06,local_emergency_civil,In progress,"WARN-64 strengthened with contemporaneous 6 Jun Israel Hayom evidence of local-authority approach to a senior Home Front Command official and operational shelter-deployment warning; treated as repetition/corroboration, not a new event."
+2023-07,local_emergency_civil,In progress,"Rechecked northern local leaders' Hezbollah-presence/provocation warnings to Northern Command; already canonical. No duplicate created."
+2023-08,local_emergency_civil,In progress,"Targeted local/emergency search; no new recipient-documented warning accepted. Keep open."
+2023-09,local_emergency_civil,In progress,"26 Sep Gaza-envelope council-head warning materially strengthened by contemporaneous N12 plus N12's 8 Sep 2026 reconstruction, but named source/direct qualifying recipient remains unresolved; Investigating."
+2023-10-01..2023-10-06,local_emergency_civil,In progress,"Rechecked local/civil warning chains immediately before the attack; existing Oct. 6 West Bank/local warning remains canonical. No new distinct event accepted."
+pre-2022-12-29,older_inherited_warnings,In progress,"Older local/community-defense chains, including Gaza-border tunnel/security and long-running protection/readiness deficits, were followed where relevant; no new inherited/re-delivered warning to a serving 2023 officeholder crossed threshold this pass."
