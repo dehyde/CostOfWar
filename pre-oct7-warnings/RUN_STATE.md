@@ -1,71 +1,70 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-22 07:10 UTC
+Last successful run: 2026-09-22 09:24 UTC
 
 ## Rotation
-- Deep lane completed this run: **4 — professional experts, academics, researchers, think tanks, political scientists and nonpartisan expert organizations**.
-- Next deep lane: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian-security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
-- Lane 4 remains **In progress**, not Complete.
-- No high-value unresolved primary-document lead warrants a consecutive Lane 4 run.
+- Deep lane completed this run: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian-security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
+- Next deep lane: **6 — documentary recovery + historical blind-spot sweep**.
+- Lane 5 remains **In progress**, not Complete.
+- No high-value unresolved primary-document lead warrants a consecutive Lane 5 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
 - **0 new Accepted warnings this run; canonical Accepted count remains 136.**
-- **WARN-80 remains Accepted / Medium** and was strengthened with additional retrospective recipient/distribution evidence.
+- **WARN-130 remains Accepted / Medium** and was strengthened with independent operational corroboration of the underlying Gaza-envelope weapons/readiness vulnerability.
+- **WARN-64 remains Accepted / High** and was strengthened with a contemporaneous Knesset committee transcript documenting a May 2023 repetition of the northern-home-front warning and additional government/NSC receipt context.
 
 ## Freshness / document-upgrade pass
-### WARN-80 — Reichman/ICT multi-front preparedness warning strengthened
-- A Jerusalem Post interview published **12 Sep 2025** records ICT/Reichman president Boaz Ganor specifying that the research team held **43 meetings**, including with top decision-makers, and **sent the report and recommendations to the prime minister and heads of all Israeli defense branches**.
-- The same report says Maj.-Gen. (res.) Yitzhak Brik's contribution had warned before Oct. 7 that Israeli infantry was not prepared to defend the country, **including the South against Hamas**.
-- ICT's own retrospective institutional page independently states that the multi-front-war findings were presented in the months before the war to many military-security and political decision-makers.
-- Notion WARN-80 upgraded. **Confidence remains Medium** because no public contemporaneous distribution log, meeting minutes or recipient acknowledgment was recovered.
+### WARN-130 — Gaza-envelope community-defense weapons vulnerability strengthened
+- Zman Yisrael reporting published **8 Oct 2023** independently documents the pre-existing Southern Command weapons-reduction policy in Gaza-envelope communities.
+- At Ein HaBesor, residents said long guns had been reduced from **43 to 21 and then recently to six**; the report says Gaza-envelope officials had complained about the security impact when the policy was introduced.
+- This independently corroborates the underlying weapons/readiness vulnerability described by Itay Hoffmann. It does **not** prove the exact Ein HaBesor figures or Hoffmann's specific weapons/manpower/vehicle details were presented to Gallant in May 2023.
+- Notion WARN-130 upgraded. **Confidence remains Medium; response remains Partially acted.**
+
+### WARN-64 — northern protection warning gets primary-record upgrade
+- A **4 May 2023 Knesset committee transcript** records Moshe Davidovich saying war was a matter of **when, not if**, that the Northern Command general had told local leaders the danger was “at the door,” and that inadequate home-front protection would force the IDF to divert effort to casualties rather than the main fight.
+- The same transcript records NSC official Itzik Bar saying he had presented the northern-protection program directly to Finance Minister **Bezalel Smotrich** about two months earlier; Davidovich said Smotrich had also visited the region about two weeks before the hearing.
+- Treated as a repetition/documentary upgrade to the existing warning chain, not a new warning event. Notion WARN-64 upgraded; **High confidence unchanged**.
 
 ## Unresolved-first resolution
-### INSS-MAR21-2023-STRATEGIC — Investigating / Medium
-- Primary contemporaneous INSS urgent alert and contemporaneous independent reporting strongly establish the warning content: internal crisis harming IDF functioning/readiness, deterrence and strategic relationships, with danger to national security.
-- Targeted search did not recover a named-recipient delivery record. Publicly addressing the government is not treated as proof of receipt.
+### BAR-APR23-DETERRENCE — Investigating
+- Rechecked Bar's later sworn account that Shin Bet warned of deterrence erosion / a possible multi-front “perfect storm” and recommended a targeted forceful move in April 2023.
+- No independent contemporaneous briefing record, exact forum/date or authoritative inquiry record was recovered. Remains below threshold as a distinct warning event.
 
-### INSS-JUL23-2023-ALERT — Investigating / Medium
-- Primary contemporaneous INSS alert warned that the reserve-based 'people's army' model risked dissolution, damaging competence/functioning and deterrence while multi-arena danger was rising.
-- Targeted Netanyahu/Gallant/decision-maker receipt searches did not recover a direct distribution record.
+### OCT4-GAZA-DIVISION-INSPECTION — Investigating
+- Existing evidence establishes the 4 Oct General Staff inspection and serious Gaza Division post-defense failures.
+- No pre-Oct. 7 distribution or briefing record to a qualifying senior decision-maker was recovered. IDF's limiting account that this was routine camp-defense testing rather than a mass-invasion simulation remains preserved.
 
-### CARMON-AUG31-2023 — Investigating / Medium
-- Contemporaneous MEMRI warning plus 5 Sep 2023 independent reporting confirms the prewar warning of possible war in September-October and escalation involving Hamas/Hezbollah.
-- No evidence located that it was directly delivered to a qualifying senior Israeli decision-maker before Oct. 7.
-
-### YADLIN-MAR23 / MILSTEIN-FEB23 / IPS-JUL23 — remain unresolved
-- Amos Yadlin's 23 Mar 'perfect storm' warning, Michael Milshtein's 23 Feb Jerusalem/Ramadan multi-front escalation warning and Reichman/IPS's July Hamas multi-front analysis all retain strong contemporaneous content evidence.
-- No direct named-recipient delivery record was recovered for these specific warning events.
-
-## Lane 4 month-by-month / source-lane sweep
-- **2022-12-29..2023-01:** rechecked inherited and early-government expert/research assessments; existing canonical warnings remain strongest.
-- **2023-02:** Milshtein/Reichman IPS warning re-audited; receipt unresolved.
-- **2023-03:** INSS urgent alert and Yadlin 'perfect storm' warning re-audited; receipt unresolved.
-- **2023-04:** Amidror and JISS war/readiness warnings rechecked; no direct qualifying recipient record recovered.
-- **2023-05:** INSS/Udi Dekel Hamas-strategy analysis retained as discovery lead; no direct receipt or clearly distinct accepted event established.
-- **2023-06:** targeted INSS/JISS/Reichman and other professional-security research; no new distinct warning crossed threshold.
-- **2023-07:** INSS reserve/readiness alert and Reichman/IPS Hamas multi-front analysis re-audited; receipt unresolved. WARN-131 remains canonical for the distinct Hezbollah-tents warning.
-- **2023-08:** Carmon 31 Aug warning re-audited; recipient unresolved.
-- **2023-09:** WARN-80 materially strengthened with Ganor's later 43-meeting/distribution detail and Brik's South/Hamas readiness warning. Reichman conference co-presence remains only a provenance lead; attendance is not warning receipt.
-- **2023-10-01..2023-10-06:** no new distinct expert/research warning with qualifying recipient evidence crossed threshold.
+## Lane 5 month-by-month / source-lane sweep
+- **2022-12-29..2023-01:** targeted transition-period local-authority/community-security/emergency sources; no new distinct recipient-documented event crossed threshold.
+- **2023-02:** rechecked local/community-security and emergency-readiness sources; no new distinct February event.
+- **2023-03:** WARN-64 strengthened via the later 4 May Knesset primary-record repetition and receipt context; no duplicate March event.
+- **2023-04:** re-audited the Hoffmann/rabashatz authority-readiness chain; no separate event beyond WARN-130.
+- **2023-05:** WARN-130 materially strengthened with independent Gaza-envelope weapons/readiness corroboration; WARN-64 also gained the 4 May Knesset transcript upgrade.
+- **2023-06:** rechecked northern shelter/Home Front and PMO chains; existing WARN-64 captures qualifying repetitions.
+- **2023-07:** re-audited WARN-107 local-authority warning to Northern Command; no stronger transcript or separate event recovered.
+- **2023-08:** targeted northern-border protection/emergency/civilian-security warnings; no new distinct event crossed threshold.
+- **2023-09:** re-audited WARN-97 Gaza-fence/local-authority warning; no stronger prewar direct-delivery record recovered.
+- **2023-10-01..2023-10-06:** targeted final-days local/emergency/civil-security warnings; no new qualifying event crossed threshold.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Followed the Reichman/ICT multi-front preparedness chain back into its **2020–2023** research period because the later-2023 delivery establishes inherited warning context.
-- The new Ganor evidence strengthens WARN-80 but does not justify splitting a new older event without a distinct earlier delivery record.
-- No new older warning crossed threshold this run.
+- Rechecked WARN-130's older weapons-readiness predecessor chain, including the contemporaneous **15 Aug 2022** rabashatz/community-security warning.
+- The new 8 Oct 2023 Zman evidence independently corroborates the longstanding weapons-reduction condition but does not establish a separate older warning event delivered to the current government.
+- No new older warning crossed threshold.
 
 ## Dedupe / source-quality audit
-- Did not promote public INSS, Carmon, Yadlin, Milshtein, Amidror or JISS warnings absent evidence they reached a qualifying named recipient.
-- Did not infer warning delivery from Reichman conference attendance or from public publication alone.
-- Kept WARN-80 at Medium because the new 43-meeting/distribution detail is retrospective and lacks public contemporaneous delivery records.
-- No inference of deliberate disregard, causation or motive is made; contrary assessments and response evidence remain preserved.
+- Did not split WARN-64's May/June repetitions into duplicate events.
+- Did not treat post-Oct. 7 documentation of the weapons vulnerability as proof of what Gallant was told in May 2023.
+- Did not promote BAR-APR23-DETERRENCE or the 4 Oct inspection absent the required recipient/delivery evidence.
+- No inference of deliberate disregard, causation or motive is made; partial-action and contrary/limiting accounts remain preserved.
 
 ## Persistent state
-- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-22T0710Z_lane4.csv`.
-- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-22T0710Z_lane4.csv`.
-- `RUN_STATE.md` advanced to **Lane 5**.
-- Notion: WARN-80 upgraded; no new page created.
+- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-22T0924Z_lane5.csv`.
+- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-22T0924Z_lane5.csv`.
+- Canonical `COVERAGE.csv` updated.
+- `RUN_STATE.md` advanced to **Lane 6**.
+- Notion: WARN-130 and WARN-64 upgraded; no new page created.
 
 ## Coverage discipline
 - Warning event must predate 2023-10-07; evidence may be published at any date.
@@ -77,4 +76,4 @@ Last successful run: 2026-09-22 07:10 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, chronology variants, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 5**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 6**.
