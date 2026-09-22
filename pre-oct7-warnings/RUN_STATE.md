@@ -1,90 +1,83 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-22 15:08 UTC
+Last successful run: 2026-09-22 17:06 UTC
 
 ## Rotation
-- Deep lane completed this run: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**.
-- Next deep lane: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
-- Lane 4 remains **In progress**, not Complete.
-- No high-value unresolved primary-document lead warrants a consecutive Lane 4 run.
+- Deep lane completed this run: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
+- Next deep lane: **6 — documentary recovery + historical blind-spot sweep**.
+- Lane 5 remains **In progress**, not Complete.
+- No high-value unresolved primary-document lead warrants a consecutive Lane 5 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
 - **0 new Accepted warnings this run; canonical Accepted count remains 137.**
-- No Notion page was created or upgraded because no newly recovered evidence crossed the publication threshold for an unresolved Lane-4 warning.
+- No new Notion page was created and no existing page required an upgrade: the strongest fresh official rabashatz evidence was already incorporated in WARN-130, WARN-107 was a dedupe audit, and the two discovery leads remain below publication threshold.
 
 ## Freshness / document-upgrade pass
-- Fresh 2026 reporting on already-canonical warning chains was checked; no new primary document or authoritative finding changed an Accepted warning's status/confidence this run.
-- Fresh reporting on Giora Eiland's 16 Aug 2023 warning reiterates his retrospective account and the underlying claim that the MI war-risk assessment had worsened in summer 2023; WARN-6 remains already Accepted / Medium and was not duplicated or upgraded without primary minutes/documentation.
-- Recent UAE/Egypt warning reporting remains tracked in the foreign-warning state from the prior run; Lane 4 did not reopen those chains except for freshness triage.
+- Reviewed the State Comptroller's **12 May 2026** official rabashatz review. It documents longstanding role/employment deficiencies, confirms prewar Gallant action on rabashatz status, and reports that **88%** of surveyed Gaza-envelope rabashatz respondents said the employment/subordination framework harmed their ability to perform the role.
+- This is strong official retrospective corroboration of the community-defense vulnerability underlying WARN-130, but the canonical WARN-130 page already contains it. It does not independently prove the exact weapons/manpower/vehicle details conveyed in the May 2023 Gallant meeting, so WARN-130 remains **Accepted / Medium / Partially acted**.
+- Fresh searches for newly released Oct. 7 warning/inquiry documents did not surface another authoritative primary record that changes an existing warning's status/confidence this run.
 
 ## Unresolved-first resolution
-### YADLIN-MAR23-2023 — Strong candidate / receipt unresolved
-- Contemporaneous N12 column of **23 Mar 2023** is unusually explicit: former MI chief Amos Yadlin warned that four explosive arenas could combine into a **'perfect storm'**, explicitly included Gaza among Palestinian arenas, and said IDF readiness and Israeli deterrence were already weakening.
-- The column directly addresses Netanyahu and repeatedly frames the warning as one he should act on.
-- In an Oct 2023 Politico interview, Yadlin later said Netanyahu 'got all the warnings' from security chiefs and 'independent writers like me.' This strengthens provenance but remains retrospective self-testimony, not independent proof Netanyahu received/read this specific column or a private briefing.
-- **Not Accepted.** Need independent receipt/briefing evidence.
-- Eligibility note: Yadlin's prior 2015 Labor political role is disclosed; this candidate is retained only as a 2023 professional former-MI/security-expert warning, not as opposition-party-origin evidence.
+### GAZA-COUNCILS-SEP26-2023 — Investigating
+- Contemporaneous N12, **26–27 Sep 2023**, records Gaza-envelope council heads warning during the tenth consecutive day of violent fence disturbances that militants felt near the fence **'like a promenade'** and that it would **'end in disaster'** for soldiers or Gaza-envelope residents.
+- The same report documents explosives, shooting at IDF positions, incendiary/explosive balloons and restrictions on fire crews near exposed fence areas.
+- A later N12 chronology independently repeats the warning episode.
+- **Not Accepted.** The quoted council head(s) remain unnamed and no evidence yet shows direct pre-Oct. 7 delivery to a named qualifying senior state/security decision-maker rather than a warning made through the press.
 
-### INSS-MAR21-2023-STRATEGIC-ALERT — Investigating
-- Primary contemporaneous INSS 'urgent strategic alert' and contemporaneous reporting remain strong for warning content.
-- This run found additional public/parliamentary amplification but no direct named-recipient delivery record for the specific alert.
-- **No status change.**
+### WARN-107 — Accepted / Medium, dedupe audit
+- Re-audited the **14 Jul 2023** Upper Galilee local-leaders meeting with Northern Command chief Maj. Gen. Ori Gordin.
+- Contemporaneous N12 directly documents local warnings about growing Hezbollah presence, demonstrations, disturbances and border provocations; Gordin acknowledged the concerns, presented readiness and assessed the probability of immediate confrontation as low.
+- Existing Notion WARN-107 already captures the event accurately. No duplicate or status change.
 
-### AMIDROR-APR13-2023 — Investigating
-- Contemporaneous Radio 103FM/JNS reporting confirms Amidror warned that 'war is much closer than peace,' deterioration risk was unusually high and Israel should prepare for war.
-- No direct delivery/meeting evidence to a serving qualifying decision-maker was recovered.
-- **No status change.**
+### WARN-130 — Accepted / Medium, freshness audit
+- Rechecked against the 2026 State Comptroller material and existing immediate post-Oct. 7 operational corroboration.
+- Structural vulnerability is strongly corroborated; exact May 2023 meeting content remains partly retrospective. No confidence/status change.
 
-### CARMON-AUG31-2023 — Investigating
-- The 31 Aug warning of possible war in Sep-Oct 2023 remains unusually time-specific and explicitly references Hamas/Hezbollah escalation paths.
-- Contemporaneous 5 Sep reporting independently confirms the warning was published before Oct. 7.
-- No evidence recovered that it was delivered to a named serving Israeli decision-maker before Oct. 7.
-- **No status change.**
+## New Lane-5 discovery leads
+### NEMA-WESTERN-NEGEV-AUG2019 — Older-warning candidate / Investigating
+- Shakuf's **18 Oct 2023** investigation reports that in **Aug 2019**, western-Negev local-authority heads sent then-PM/Defense Minister **Benjamin Netanyahu** a letter protesting the weakening of the National Emergency Authority (NEMA / Rachel) and transfer of powers to Home Front Command.
+- It reproduces a contemporaneous Radio Darom account by **Tamir Idan**, then Sdot Negev Regional Council head, saying he had earlier complained to the Defense Ministry director-general about Home Front Command conduct; that projects in his council were frozen; that senior defense officials, including the deputy chief of staff, knew; and that local authorities could not function effectively without NEMA.
+- This is relevant to the **older inherited-warning** lane because Netanyahu was the documented 2019 recipient and again became prime minister in Dec 2022.
+- **Not Accepted.** The original August 2019 letter and Radio Darom recording/transcript have not been recovered, and the exact warning/disaster language plus any 2022–23 repetition/inheritance record remain to be established.
 
-## New Lane-4 discovery leads
-### ACADEMICS-FEB7-2023-SECURITY-PETITION
-- More than 240 Israeli/international academics warned that the judicial initiative threatened Israel's national security and would weaken its ability to defend itself; the petition said weakening democratic institutions played into enemies' hands and could threaten Israel's existence.
-- Contemporaneous reporting establishes the warning and organizer/signatories.
-- The target was the Israeli government in general; no named qualifying recipient/delivery record was recovered.
-- **Discovery lead only; not Accepted.**
+### APR20-SDEROT-LONGTERM — Reviewed / insufficient as distinct warning
+- N12 contemporaneously records Sderot Mayor **Alon Davidi** telling Netanyahu and the cabinet in Sderot on **20 Apr 2023** that the security situation and quiet must be secured for the long term; Netanyahu replied that Israel would strike terror.
+- Direct receipt is clear, but this is a broad policy demand after rocket fire, not a sufficiently specific warning of impending attack, readiness collapse, border vulnerability or major disaster distinct from already-catalogued Gaza-envelope warning chains.
+- **Not retained as a new Accepted event.** Logged to prevent rediscovery inflation.
 
-### REICHMAN-IPS-FEB9-2023
-- Primary Reichman IPS publication warned that internal political chaos and Palestinian-policy choices could erode Israel's strategic strength, damage essential U.S./Arab relationships and reduce its ability to address Iran/regional threats.
-- IPS's mission to advise decision-makers does not prove this specific paper reached one.
-- **Discovery lead only; not Accepted.**
-
-## Lane 4 month-by-month / deep-discovery sweep
-- **2022-12-29..2022-12-31:** targeted expert/research transition-period records; no new distinct warning with documented receipt.
-- **2023-01:** existing direct-recipient INSS strategic-assessment presentation to President Herzog remains canonical; no new distinct event.
-- **2023-02:** new 240+ academics security-petition lead and Reichman IPS 9 Feb lead; both lack named receipt.
-- **2023-03:** Yadlin 23 Mar candidate materially strengthened; INSS 21 Mar alert rechecked; receipt remains unresolved.
-- **2023-04:** Amidror 13 Apr and JISS 16 Apr warning records re-audited; content strong, direct delivery unproven.
-- **2023-05:** INSS Hamas analysis and Herzliya Conference expert/government participation rechecked; co-presence is not receipt.
-- **2023-06:** IPS 26 Jun warned of dangerous Palestinian strategy accelerating PA decay and Iranian/Hamas entrenchment in the West Bank; no named delivery record.
-- **2023-07:** INSS reserve/readiness urgent alert and other research outputs rechecked; no new direct-recipient event.
-- **2023-08:** Carmon 31 Aug rechecked; Eiland 16 Aug remains already Accepted as WARN-6 and was not duplicated.
-- **2023-09:** Reichman/ICT conference provenance rechecked; senior-official attendance does not prove a distinct warning was delivered. WARN-80 already captures the separately evidenced multi-front preparedness project. IPS 27 Sep public warning lacks named delivery evidence.
-- **2023-10-01..2023-10-06:** no new Lane-4 expert/research warning with documented receipt established.
+## Lane 5 month-by-month / deep-discovery sweep
+- **2022-12-29..2022-12-31:** targeted local/emergency/community-security transition-period records; no new qualifying event.
+- **2023-01:** existing Ashkelon protection warning remains canonical; no additional January event.
+- **2023-02:** no new distinct local/emergency warning with qualifying recipient evidence.
+- **2023-03:** rechecked northern-border local-security context after the Megiddo infiltration; no new distinct local-authority event.
+- **2023-04:** reviewed the 20 Apr Sderot cabinet/local-head meeting; broad demand, not a separate accepted warning. Existing rabashatz/Gaza-envelope chains remain canonical.
+- **2023-05:** WARN-130 freshness/audit pass; no new event.
+- **2023-06:** targeted northern protection/emergency/community-security records; no new distinct June event.
+- **2023-07:** WARN-107 re-audited and deduplicated; no status change.
+- **2023-08:** targeted northern-border and Gaza-envelope local/emergency sources; no new distinct event.
+- **2023-09:** GAZA-COUNCILS-SEP26 remains strong on warning content but unresolved on named source/recipient/delivery.
+- **2023-10-01..2023-10-06:** no new distinct Lane-5 event with documented qualifying receipt.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Followed older expert/research chains where later distribution to current officeholders might matter.
-- WARN-80 already captures the multi-year Reichman/ICT preparedness project and its documented distribution to senior decision-makers.
-- No distinct older warning event newly crossed threshold this run; older lane remains **In progress**.
+- Added **NEMA-WESTERN-NEGEV-AUG2019** as a new historical blind-spot candidate for documentary recovery.
+- It is not counted as Accepted without the original 2019 letter/record and stronger evidence defining the warning content and inheritance/repetition into the 2022–23 government.
+- Existing older rabashatz/weapons-readiness predecessor chain remains captured under WARN-130 and was not duplicated.
+- Older lane remains **In progress**.
 
 ## Dedupe / source-quality audit
-- Yadlin's 23 Mar public warning is not merged into Gallant/Halevi/MI warning events: it is a separate professional-source warning, but remains unpublished because receipt is not independently proven.
-- The 240-academics petition is not treated as delivered merely because it was public or because Macron separately raised democratic concerns with Netanyahu.
-- Reichman/IPS public papers are not merged into WARN-80; WARN-80 rests on separate evidence of the ICT preparedness project and documented distribution.
-- Reichman/ICT conference co-presence remains insufficient for a new event without session-specific warning evidence.
-- Carmon's accurate timing does not substitute for recipient evidence.
+- WARN-107 already captures the July 14 local-authority → Northern Command event; no duplicate created.
+- WARN-130 already contains the official May 2026 State Comptroller corroboration; no redundant Notion update was made.
+- The Sep. 26 Gaza-council press warning is not treated as delivered to a senior recipient merely because security officials were publicly debating the same fence escalation.
+- The April 20 Sderot request for long-term quiet is logged as insufficiently specific rather than inflated into another warning event.
+- The 2019 NEMA chain is retained as an older candidate, not accepted on a single retrospective investigative reconstruction.
 - No inference of deliberate disregard, causation or motive is made.
 
 ## Persistent state
-- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-22T1508Z_lane4.csv`.
-- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-22T1508Z_lane4.csv`.
-- `RUN_STATE.md` advanced to **Lane 5**.
+- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-22T1706Z_lane5.csv`.
+- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-22T1706Z_lane5.csv`.
+- `RUN_STATE.md` advanced to **Lane 6**.
 - Canonical Accepted count remains **137**.
 - Canonical `CANDIDATES.csv` and `COVERAGE.csv` remain supplemented by current deltas pending a safe full canonical merge; no period status was promoted to Complete.
 
@@ -98,4 +91,4 @@ Last successful run: 2026-09-22 15:08 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, chronology variants, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 5**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 6**.
