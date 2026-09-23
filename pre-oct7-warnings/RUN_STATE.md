@@ -1,54 +1,51 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-23 — Lane 5 recovery/reconciliation run
+Last successful run: 2026-09-23 — Lane 6 documentary-recovery / historical blind-spot run
 
 ## Rotation
-- Deep lane completed this run: **5 — local authorities / Gaza-border communities / emergency-security coordinators / civil-professional bodies**.
-- Next deep lane: **6 — documentary recovery + historical blind-spot sweep**.
-- Lane 5 remains **In progress**, not Complete.
-- No high-value unresolved primary-document lead warrants a consecutive Lane 5 run.
-
-## State-recovery note
-- The GitHub repository/folder was recovered at `dehyde/CostOfWar/pre-oct7-warnings/`.
-- The prior persisted `RUN_STATE.md` was stale at the 2026-09-23 16:12Z Lane-6 snapshot because subsequent successful Lane 1, 2, 3 and 4 runs were completed but their persistence attempts failed.
-- Current Notion state directly verifies **143 Accepted warnings**, including **WARN-145**. Rotation is therefore reconciled to the actual completed sequence and advances from this Lane 5 run to Lane 6.
-- No skipped/failed persistence attempt is treated as a completed deep lane by itself; only the successful research runs are used for rotation.
+- Deep lane completed this run: **6 — documentary recovery + historical blind-spot sweep**.
+- Next deep lane: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**.
+- Lane 6 remains **In progress**, not Complete.
+- No high-value unresolved primary-document lead warrants a consecutive Lane 6 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
 - **0 new Accepted warnings this run; canonical Accepted count remains 143.**
-- **WARN-128** was upgraded in place with a primary 9 Aug 2022 Knesset record corroborating older evacuation/home-front readiness gaps; no duplicate page was created.
+- **WARN-87** was upgraded in place with primary 19 Apr 2017 Knesset testimony showing Netanyahu personally articulated a materially similar Hamas combined mass-raid threat concept. No duplicate warning was created.
 
 ## Freshness / document-upgrade pass
-- Rechecked recent 2026 reporting and official-material releases across known UAE, Egypt, Qatar-funding, MI and final-days warning chains.
-- No new status-changing warning/document was found beyond material already incorporated in the publication layer.
-- The 2025 State Comptroller resilience-center report was used as retrospective structural corroboration for the new July 2023 unresolved resilience-center candidate; it does not by itself prove prewar delivery to a qualifying senior recipient.
+- Rechecked newly published 2026 document-based reporting and official-material reconstructions.
+- The exact warning/recommendation section of the **21 Sep 2023 Mossad memorandum** is already incorporated in **WARN-145**.
+- The **5 Aug 2020 Military Intelligence diversion review** and later State Comptroller testimony describing Netanyahu's receipt/request for clarifications are already incorporated in **WARN-32**.
+- No additional Accepted warning or status change resulted from the freshness pass.
 
 ## Unresolved-first resolution
-- **FM-CPR-2023:** remains **Investigating**. Rechecked reporting on Foreign Ministry CPR/Mamad 2023 assessments; no public primary paper, distribution list or authoritative named-recipient record was recovered.
-- **RESILIENCE-CENTERS-JUL3-2023:** newly logged **Strong candidate / Investigating**. Contemporaneous Ynet reporting and later Shakuf reconstruction document Gaza-envelope resilience-center/local leaders warning in the 3 Jul Health Committee that centers were collapsing under load and needed stable wartime/recovery resources. The centers' remit included emergency-preparedness training for municipal teams, social workers and standby teams. Acceptance is blocked because the exact executive recipient of the earlier NIS 5m request and a primary delivery/distribution record remain unresolved; committee exposure alone is not treated as qualifying government receipt.
+- **FM-CPR-2023:** strengthened to **Strong candidate / Investigating**. Ynet's retrospective reconstruction by former Foreign Ministry CPR/Mamad heads says Jan-Sep 2023 products repeatedly challenged the view that Hamas was deterred, warned of rising Palestinian/Gaza confrontation risk, and on 19 Sep flagged escalating Gaza-border disturbances. The former heads say the products were sent broadly to relevant intelligence and political bodies. Acceptance remains blocked because no original 2023 paper, distribution list, named qualifying recipient or independent authoritative delivery record was recovered.
+- **SAAR-OCT6-UNSENT-2023:** remains **Investigating**. Retrospective reporting says Saar's urgent 6 Oct warning reached MI chief Aharon Haliva and IDF chief Herzi Halevi, who authorized forwarding it to the political echelon, but the attack occurred before it was sent to Netanyahu/cabinet. No contemporaneous draft/transmission record was recovered.
+- **RESILIENCE-CENTERS-JUL3-2023:** remains **Strong candidate / Investigating**; no new qualifying executive-recipient evidence was recovered in this documentary pass.
 
-## Lane 5 deep-discovery pass
-- Performed targeted month-by-month local/emergency/civil-professional searching across **2022-12-29 through 2023-10-06**, covering Gaza-border and northern local authorities, protection/migun, evacuation, resilience centers, rabashatz/community-defense, emergency operations and Home Front interfaces.
-- Recovered the **3 Jul 2023 resilience-center** candidate above.
-- Rechecked April/May/June/July northern-protection and Gaza-local-leader chains already represented in Notion; no duplicate events were created.
-- No other local/emergency warning crossed the acceptance threshold.
+## Lane 6 deep-discovery pass
+- Performed documentary-recovery / historical-blind-spot searching month-by-month across **2022-12-29 through 2023-10-06**, including Knesset records, later-released intelligence/document reporting, final-days warning records, older threat assessments and deduplication against existing Notion entries.
+- Recovered a **primary contemporaneous Knesset State Control Committee transcript dated 19 Apr 2017**. Netanyahu said intelligence showed Hamas had prepared a combined surprise attack involving thousands of rockets, naval raids, paragliders, tunnel infiltration and trained forces intended to abduct and kill in Israeli communities and bases; he separately described hundreds of fighters infiltrating multiple points simultaneously.
+- The 2017 transcript was attached to **WARN-87** as direct corroboration that Netanyahu personally possessed and articulated a materially similar Hamas mass-raid threat concept by Apr 2017. It is **not** treated as proof that the knowledge came from Liberman's 21 Dec 2016 memorandum.
+- Rechecked the final-days Saar warning and a separate night-6-Oct intelligence alert; the latter concerned another significant event rather than the mass invasion and was not promoted into a distinct warning entry.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Recovered a **primary Knesset record from 9 Aug 2022** in which Sdot Negev Regional Council head Tamir Idan said the military evacuation plan remained incomplete/unclear, standing evacuation-destination contracts were missing, some authorities lacked emergency operations centers for budget reasons, and orderly Home Front guidance had been missing before heavy end-of-operation rocket fire.
-- This was added as **older-chain corroboration to WARN-128**, not counted as a new warning because this pass did not establish a later direct re-delivery of the exact 2022 warning to members of the government serving on 7 Oct 2023.
+- Primary 19 Apr 2017 Knesset testimony materially strengthens the older inherited-knowledge record around **WARN-87**.
+- Existing older Liberman, State Comptroller, Qatar-financing, border/tunnel and Jericho-Wall warning chains were rechecked for duplicates; no additional distinct event crossed the threshold.
 
 ## Dedupe / source-quality audit
-- July 2023 resilience-center evidence: Ynet = **strong contemporaneous secondary**; Open Knesset = **primary/official meeting metadata**; Shakuf/HaMakom = **strong retrospective investigative secondary**; State Comptroller 2025 = **high-reliability official retrospective structural evidence**.
-- 9 Aug 2022 home-front corroboration = **primary contemporaneous Knesset record**.
-- No inference of ignored warning, causation or motive was made.
+- 19 Apr 2017 Knesset transcript = **primary contemporaneous parliamentary record**.
+- FM-CPR-2023 = **retrospective professional-source reconstruction in strong secondary reporting**, still lacking underlying papers and named-receipt documentation.
+- Saar 6 Oct = **retrospective strong secondary reporting**, still lacking released contemporaneous draft/transmission evidence.
+- No inference of ignored warning, causation or motive was made; contrary/limiting evidence remains preserved.
 
 ## Persistent state
-- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-23_lane5_recovery.csv`.
-- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-23_lane5_recovery.csv`.
-- `RUN_STATE.md` reconciled and advanced to **Lane 6**.
-- Canonical Accepted count: **143**, verified directly from Notion.
+- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-23_lane6.csv`.
+- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-23_lane6.csv`.
+- `RUN_STATE.md` advanced to **Lane 1**.
+- Canonical Accepted count: **143**.
 - Canonical `CANDIDATES.csv` and `COVERAGE.csv` remain supplemented by deltas pending a safe full canonical merge; no period status was promoted to Complete.
 
 ## Coverage discipline
@@ -60,4 +57,4 @@ Last successful run: 2026-09-23 — Lane 5 recovery/reconciliation run
 - Opposition-origin claims are excluded as warning origins unless the underlying warning is independently established by a qualifying professional/non-opposition source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, chronology variants, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 6**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 1**.
