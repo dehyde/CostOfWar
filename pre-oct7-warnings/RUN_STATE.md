@@ -1,62 +1,75 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-23 02:06 UTC
+Last successful run: 2026-09-23 03:07 UTC
 
 ## Rotation
-- Deep lane completed this run: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
-- Next deep lane: **6 — documentary recovery + historical blind-spot sweep**.
-- Lane 5 remains **In progress**, not Complete.
-- No high-value unresolved primary-document lead warrants a consecutive Lane 5 run.
+- Deep lane completed this run: **6 — documentary recovery + historical blind-spot sweep**.
+- Next deep lane: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**.
+- Lane 6 remains **In progress**, not Complete.
+- No high-value unresolved primary-document lead warrants a consecutive Lane 6 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
 - **0 new Accepted warnings this run; canonical Accepted count remains 140.**
-- No Notion page was created or upgraded because no Lane-5 item crossed the evidence threshold and no freshness item materially changed an Accepted entry.
+- No new Notion page was required. One metadata correction was made: WARN-2's Evidence Date was corrected to **2023-11-20**, the first identified post-event publication date for the July-16 Saar warning, instead of the database-entry creation date.
 
 ## Freshness / document-upgrade pass
-- Rechecked recent official/retrospective home-front, rabashatz, local-security and emergency-preparedness material against existing Accepted warnings.
-- No newly surfaced primary record or authoritative inquiry finding changed the status/confidence of an Accepted warning.
-- WARN-64 northern protection, WARN-97 Yarkoni/Gaza Division, WARN-107 northern local-authority/Northern Command and WARN-130 rabashatz/Gallant were dedupe-audited; existing Notion pages remain canonical.
+- Rechecked recent 2026 document/protocol reporting, the MI warning-letter series, final-days Unit 8200/Gaza-Division reporting and older official warning chains.
+- The newly exposed **23 Jul 2023 Amit Saar** document is already incorporated in canonical WARN-10 and therefore does not create a new warning in this run.
+- WARN-2's evidence-publication metadata was corrected; status/confidence remain Accepted / High.
+- No newly surfaced source changed another Accepted warning's status/confidence.
 
 ## Unresolved-first resolution
-### GAZA-COUNCILS-SEP26-2023 — Investigating / speaker and recipient unresolved
-- Contemporaneous N12 on 26 Sep 2023 records Gaza-envelope council heads warning that militants felt at the fence "like a promenade" and that the situation would end in disaster for soldiers or residents.
-- Exact-phrase and attribution-focused searches this run located only republications/retellings, not identification of the quoted council head(s) or direct delivery to a named qualifying senior recipient.
-- **No status change.** Do not merge this anonymous/plural quotation into WARN-97 solely because Gadi Yarkoni made a related direct warning to Gaza Division commander Avi Rosenfeld in the same period.
+### SAAR-JULY-DATE-RECONCILIATION — Resolved / deduped
+- The **16 Jul 2023** and **23 Jul 2023** Saar warnings are now treated as distinct events, not competing dates for one letter.
+- Canonical **WARN-2** covers the 16 Jul general deterrence/escalation warning.
+- Canonical **WARN-10** covers the separately dated 23 Jul warning containing Hamas-linked backchannel material about multiple "ignition fuses" and possible regional conflagration.
+- September 2026 Ynet document-based reporting identifies the 23 Jul item as a separate letter; November 2023 reporting independently identifies the 16 Jul letter.
+- **No new Accepted count:** both events were already published separately in Notion.
 
-## New Lane-5 candidate
-### DAVIDI-MAY03-2023 — Investigating / exact recipient delivery unresolved
-- On **3 May 2023**, after a major Gaza rocket escalation, Sderot Mayor **Alon Davidi** warned contemporaneously that the government's policy of operational immunity for Hamas/PIJ was weak and that Israel would **"pay a price for it in the summer"**; he said the groups had acted before and would continue.
-- N12 and Ynet independently recorded the warning in real time.
-- Walla's contemporaneous report adds Davidi's statement that roughly two weeks earlier he had directly told **Prime Minister Benjamin Netanyahu** that he missed Operation Protective Edge. A Netanyahu meeting with Gaza-envelope local leaders on **20 Apr 2023** is independently documented.
-- This supports direct delivery of the **broader policy concern**, but does not prove Netanyahu or another qualifying recipient received the exact 3 May "pay a price in summer" warning. The 20 Apr meeting record itself contains a broad demand for long-term security rather than a sufficiently specific disaster warning.
-- **Not Accepted.** Need meeting notes, PMO/local-authority correspondence, recording, acknowledgment or other evidence establishing the warning content actually delivered to a qualifying recipient.
+### IDF-FOIA-REMAINING-2023 — Resolved / mapped with caveat
+- The best-supported mapping now accounts for the four MI warning documents formally acknowledged by the IDF FOIA response:
+  1. WARN-1 — 19 Mar 2023
+  2. WARN-46 — 31 May 2023
+  3. WARN-2 — 16 Jul 2023
+  4. WARN-10 — 23 Jul 2023
+- Full uncensored texts and official metadata for the complete four-document set remain unavailable publicly, so the mapping retains a caveat rather than being described as complete archival recovery.
 
-## Lane 5 month-by-month / deep-discovery sweep
-- Targeted Hebrew/English searching covered **2022-12-29 through 2023-10-06** across local authorities, emergency/security coordinators, civilian-security professionals and civil/emergency bodies.
-- **Dec–Mar:** no new distinct event with qualifying receipt beyond canonical protection/emergency warning chains.
-- **Apr:** rechecked 9 Apr Netanyahu calls with local leaders and 20 Apr Sderot cabinet/local-head meeting; direct contact is documented, but no new sufficiently specific distinct warning crossed threshold.
-- **May:** DAVIDI-MAY03-2023 added as an unresolved candidate; existing WARN-130 remains canonical.
-- **Jun–Aug:** targeted local/emergency searches produced no new distinct event beyond existing northern/Gaza/community-defense entries.
-- **Sep:** anonymous 26 Sep Gaza-council warning remains unresolved; WARN-97 remains separately canonical.
-- **Oct 1–6:** no new distinct Lane-5 warning with documented qualifying receipt crossed threshold.
+### GAZA-DIV-AUDIT-OCT4-2023 — Investigating / unchanged
+- Strong postwar reporting establishes serious base/camp-security failures in the 4 Oct inspection.
+- No public record recovered this run proves that the inspection findings were delivered before Oct 7 to a named qualifying senior decision-maker.
+- Keep separate from attack-plan/intelligence warnings.
+
+### IAF-8200-SHARING-2023 — Investigating / unchanged
+- Retrospective reporting supports prewar intelligence-sharing complaints.
+- No contemporaneous complaint, meeting record, formal memo or sufficiently identified senior recipient was recovered.
+
+## Lane 6 month-by-month / deep-discovery sweep
+- Targeted Hebrew/English documentary and historical searches covered **2022-12-29 through 2023-10-06**, plus older inherited-warning chains.
+- **Dec–Apr:** no new distinct documentary warning crossed threshold beyond canonical records.
+- **May:** stale FOIA placeholder reconciled against canonical WARN-46 (31 May).
+- **Jun:** later-released letter/protocol material checked; no new distinct event established.
+- **Jul:** Saar 16/23 Jul date issue resolved; four-document MI warning series mapped with caveat.
+- **Aug:** no new distinct documentary event crossed threshold.
+- **Sep:** Gida/Hayun, IAF-8200, foreign-warning and Hamas-exercise documentary leads rechecked; no new qualifying senior-recipient record recovered.
+- **Oct 1–6:** Gaza-Division inspection and Unit-8200/final-days leads rechecked; unresolved recipient/provenance gaps remain.
 - **No month is Complete.** Detailed updates are in the current coverage delta.
 
 ## Older-warning lane
-- Rechecked the already tracked **2019 western-Negev National Emergency Authority warning** and older Gaza-border/tunnel/community-defense chains.
-- No new older candidate crossed threshold this run; original 2019 letter/Radio Darom material remains a documentary-recovery gap.
+- Rechecked older high-salience documentary chains, including the 2016 Liberman mass-invasion warning, State Comptroller/Gaza-border warnings, 2019 funding/emergency-authority warnings and related inherited-risk material.
+- These remain represented by existing canonical entries where threshold was met; no new distinct older warning crossed threshold this run.
 - Older lane remains **In progress**.
 
 ## Dedupe / source-quality audit
-- Public warning content, co-presence and institutional publicity were not treated as proof of personal receipt.
-- DAVIDI-MAY03-2023 is retained as a candidate rather than merged into the 20 Apr meeting because the exact warning language/date differ and receipt of the sharper 3 May prediction is unproven.
-- GAZA-COUNCILS-SEP26-2023 remains separate from WARN-97 because the anonymous plural N12 quotation cannot be attributed to Yarkoni without evidence.
+- Closed the stale Saar July reconciliation candidate rather than creating a duplicate warning.
+- Closed the stale generic four-MI-documents placeholder by mapping it to existing canonical entries WARN-1, WARN-46, WARN-2 and WARN-10.
+- Postwar document recovery was not treated as evidence that a document had reached a particular senior recipient before Oct 7 unless delivery/receipt was separately established.
 - No inference of deliberate disregard, causation or motive is made.
 
 ## Persistent state
-- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-23T0206Z_lane5.csv`.
-- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-23T0206Z_lane5.csv`.
-- `RUN_STATE.md` advanced to **Lane 6**.
+- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-23T0307Z_lane6.csv`.
+- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-23T0307Z_lane6.csv`.
+- `RUN_STATE.md` advanced to **Lane 1**.
 - Canonical Accepted count remains **140**.
 - Canonical `CANDIDATES.csv` and `COVERAGE.csv` remain supplemented by current deltas pending a safe full canonical merge; no period status was promoted to Complete.
 
@@ -70,4 +83,4 @@ Last successful run: 2026-09-23 02:06 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, chronology variants, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 6**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 1**.
