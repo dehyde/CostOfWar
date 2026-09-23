@@ -1,80 +1,106 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-23 06:09 UTC
+Last successful run: 2026-09-23 07:05 UTC
 
 ## Rotation
-- Deep lane completed this run: **3 — foreign governments, diplomats, foreign intelligence/security services, regional partners and official foreign warnings**.
-- Next deep lane: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**.
-- Lane 3 remains **In progress**, not Complete.
-- No high-value unresolved primary-document lead warrants a consecutive Lane 3 run.
+- Deep lane completed this run: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**.
+- Next deep lane: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
+- Lane 4 remains **In progress**, not Complete.
+- No high-value unresolved primary-document lead warrants a consecutive Lane 4 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
 - **0 new Accepted warnings this run; canonical Accepted count remains 141.**
-- No Notion entry required a status/confidence change in this run.
-- Latest Channel 12 UAE evidence was already present in WARN-142 and WARN-5 when audited, so no duplicate Notion write was made.
+- WARN-6 (Giora Eiland → Netanyahu, 16 Aug 2023) received a source-quality upgrade: the 17 Sep 2026 Maariv podcast carrying a direct retrospective Eiland interview was added to the page and Key Sources. Status remains Accepted / Medium; no recipient or response conclusion changed.
+- No new Notion page was created because none of the new expert/research leads established qualifying named receipt.
 
 ## Freshness / document-upgrade pass
-- Rechecked newly published **22 Sep 2026 Channel 12** reporting citing three senior Emirati sources with direct knowledge.
-- The report materially reinforces **WARN-142**: UAE intelligence warned the Shin Bet in September 2023 that Hamas could carry out a violent action by the end of the month.
-- The same reporting says MBZ later allegedly called Netanyahu to ensure the warning had reached him. This adds support to the disputed leader-level leg, but does not resolve **WARN-5** because PMO denies any call/receipt, says call-log checks found none, and later official UAE language says security matters are handled through relevant entities rather than at national-leader level.
-- No public UAE cable, Shin Bet intake record, leader call record/transcript, William Burns testimony or authoritative inquiry finding surfaced.
-- No Accepted warning changed status or confidence.
+- Rechecked recent post-Oct. 7 evidence for accepted and unresolved expert/research warnings.
+- A direct Maariv podcast interview with Giora Eiland, published 17 Sep 2026, is consistent with the existing WARN-6 chronology: Eiland says Aharon Haliva's summer 2023 assessment sharply raised multi-front-war risk, after which Eiland sought and obtained a direct Netanyahu meeting. This strengthens source provenance but remains retrospective testimony and does not justify raising WARN-6 above Medium confidence.
+- No new primary document, meeting minute, delivery record, sworn record or authoritative inquiry finding was found that resolves the receipt gaps for the principal Lane-4 candidates.
 
 ## Unresolved-first resolution
-### DAHLAN-UAE-WARNING-CHAIN-SEP2023 — Resolved / deduped
-- Dahlan's postwar statement that “we passed warnings on to the Israelis” is now best treated as corroborating provenance around the better-documented UAE intelligence→Shin Bet chain.
-- Haaretz/Times of Israel reconstruct the Palestinian intermediary→UAE/Shin Bet route; Sufian Abu Zaida later identified himself as an intermediary; Channel 12 now separately establishes an institution-level UAE intelligence warning to Shin Bet through three senior Emirati sources.
-- No evidence establishes a separate Dahlan-authored transmission with its own distinct pre-Oct. 7 date/content/recipient.
-- Do not create a duplicate of WARN-142 unless distinct contemporaneous transmission evidence appears.
-
-### EGYPT-FOREIGNMIN-NSC-MIDSEP-2023 — Disputed / secondary corroboration only
-- Israel Hayom's Dec 2025 investigation cites a senior Egyptian source, several Israeli Foreign Ministry sources and two Israeli political sources for warnings that Gaza was extremely volatile/could explode and that “something big” was coming; it also reports a possible 26 Sep Egyptian-linked aircraft/meeting route.
-- Later Ynet reporting repeats the 26 Sep urgent-meeting/warning account, adding secondary corroboration but no new primary record.
-- The Foreign Ministry and NSC formally deny receiving the described warning. No released Egyptian cable, Israeli minutes/visitor record or authoritative inquiry finding establishes named senior receipt.
+### GIDA-HAYUN-MAY-SEP-2023 — Strong candidate / recipient level unresolved
+- The 9 May warning concerns an attempted Hamas infiltration/kidnapping scenario, potentially including a maritime route.
+- The 12 Sep warning concerns a Hamas exercise involving naval commandos and elite ground units moving toward multiple land targets under rocket/mortar/IED/RPG cover.
+- Public reporting documents a real prewar reporting relationship with IDF intelligence officers and Gaza-border security coordinators, plus separate direct contact with Col. G, head of IDF information-security.
+- Targeted rechecking still did not establish that the specific May or September messages reached Col. G or another qualifying senior decision-maker.
 - Remains below Accepted threshold.
 
-### EGYPT-OCT4-2023-ISRAELI-OFFICIALS — Strong candidate / unchanged
-- US House Foreign Affairs chair Michael McCaul said after a closed intelligence briefing that Egypt warned Israelis roughly three days before the attack and explicitly said the unresolved question was **“at what level.”**
-- An Egyptian official separately told Times of Israel that Egyptian intelligence warned Israeli counterparts Hamas was planning “something big.”
-- This confirms a warning to Israelis at some level but does not establish receipt by Netanyahu or another named qualifying senior decision-maker.
-- Need primary briefing/Egyptian/Israeli documentation identifying recipient, timing and content.
+### YADLIN-MAR23-2023 — Strong candidate / receipt unresolved
+- Yadlin's 23 Mar 2023 warning of a possible multi-arena “perfect storm,” weakening readiness and deterrence, and Gaza among potentially erupting Palestinian arenas remains firmly contemporaneous.
+- No independent evidence was recovered that Netanyahu or another named qualifying serving decision-maker actually received/read this specific warning or received an equivalent private Yadlin briefing.
+- Later Yadlin statements describing himself among those who warned Netanyahu remain retrospective self-testimony.
 
-### EGYPT-KAMEL-NETANYAHU-LATESEP-2023 — Disputed / unchanged
-- The direct Abbas Kamel→Netanyahu warning claim remains supported by retrospective/reporting accounts but categorically denied by PMO, which says Netanyahu neither spoke nor met with Kamel in the relevant period.
-- No Egyptian call record, transcript, direct official confirmation or authoritative inquiry finding was recovered.
+### ACADEMICS-FEB7-2023-SECURITY-PETITION — Receipt unresolved
+- The petition's warning that the judicial initiative threatened national security and Israel's ability to defend itself is well documented contemporaneously.
+- No direct delivery correspondence, named recipient acknowledgment or meeting record was recovered.
 
-## Lane 3 month-by-month / deep-discovery sweep
-- Targeted Hebrew/English searches covered **2022-12-29 through 2023-10-06**, plus older foreign-warning chains and lesser-known regional partners.
-- **Dec 29–31:** no new distinct qualifying foreign warning crossed threshold.
-- **Jan:** Sisi→Netanyahu, King Abdullah→Netanyahu and Arab-diplomat escalation warnings rechecked; qualifying events are already canonical or remain scope-threshold.
-- **Feb:** US/Jordan/Egypt-facilitated Aqaba de-escalation material and direct US warnings rechecked; existing canonical entries control, and the joint communique was not treated as a separate disaster warning.
-- **Mar:** regional/Ramadan escalation warnings rechecked; no new distinct event.
-- **Apr:** Jordanian Al-Aqsa escalation warnings and Israeli receipt/response are already canonical; no duplicate.
-- **May:** US/Jordanian Gaza and Flag March de-escalation warning chains rechecked; existing canonical entries control.
-- **Jun:** targeted foreign-government/intelligence searches found no new distinct qualifying event.
-- **Jul:** US Austin/Biden security discussions checked; public records do not establish a US warning to Israel of readiness collapse. Gallant's own readiness message is not converted into a foreign warning.
-- **Aug:** targeted regional-partner/intelligence searches found no new distinct qualifying event.
-- **Sep:** WARN-142 strengthened by the new three-source UAE report; WARN-5 remains Disputed; Dahlan chain deduped; Egypt Foreign Ministry/NSC chain remains unresolved.
-- **Oct 1–6:** Egypt's reported ~4 Oct warning remains unresolved on recipient level; no new distinct event crossed threshold.
+### INSS-MAR21-2023-STRATEGIC-ALERT — Receipt unresolved
+- Primary INSS material and same-day reporting strongly establish the warning that the internal rupture threatened IDF functioning/fighting spirit and Israel's ability to confront external threats.
+- No named qualifying delivery/receipt evidence was recovered.
+
+### AMIDROR-APR13-2023 — Receipt unresolved
+- Amidror's public warning that war was “much closer than peace,” deterioration risk had grown and Israel should prepare for war remains well established.
+- No direct delivery/meeting evidence tying that warning to a named serving decision-maker was found.
+
+### IDSF-AUG16-2023-HEZBOLLAH — Receipt unresolved
+- The primary IDSF assessment warned of Hezbollah's increasing boldness/readiness and real escalation potential and explicitly framed itself as recommendations for the political echelon.
+- No cover letter, delivery record, briefing minutes or named official acknowledgment was found. Intended audience is not treated as receipt.
+
+### CARMON-AUG31-2023 — Receipt unresolved
+- Carmon's contemporaneous late-August warning of possible war in September–October 2023 remains unusually time-specific and independently documented.
+- No independently corroborated pre-Oct. 7 delivery to a named serving Israeli decision-maker was recovered. Prediction accuracy is not treated as receipt evidence.
+
+## New Lane-4 discovery leads
+### JISS-APR16-2023-WAR-PREP — New / receipt unresolved
+- Primary JISS position paper dated 16 Apr 2023 warned that internal rupture had caused enormous damage, Israel appeared increasingly unable to function, enemies were gaining confidence, and the risk of deterioration into wider conflict was materially higher.
+- It said Israel needed to prepare for a **tangible possibility of war**, potentially a **multi-front war**, and that elected officials should ensure the IDF had resources to prepare for a war that might be unavoidable.
+- Times of Israel independently reported the warning contemporaneously.
+- No named serving decision-maker receipt/delivery evidence was found. Track as candidate; do not publish to Notion yet.
+
+### INSS-APR19-2023-CONVERGING-AXES — New / receipt unresolved
+- Udi Dekel / INSS warned that the Hamas/PIJ-centered Palestinian resistance axis was converging with the Iran-Hezbollah axis and that Israel's internal crisis was increasing adversary audacity and testing deterrence.
+- The primary INSS Insight explicitly said the Israeli government must reduce polarization, restore deterrence/rules vis-a-vis Hezbollah, block Iranian consolidation and undermine Hamas's growing position.
+- No named delivery/receipt record was recovered. Explicit government recommendations are not treated as proof of receipt.
+
+### INSS-JUN2023-PA-HAMAS-MULTIFRONT — New / receipt unresolved
+- INSS Strategic Assessment warned that a weakening PA alongside a strengthening Hamas, erosion of deterrence against Hezbollah/Iran and rising likelihood of multi-front conflict created a strategic dilemma for Israel.
+- It recommended redefining Israel's policy toward Hamas, sustained damage to Hamas military capability, and advance preparation of the home front/other arenas for escalation.
+- No named qualifying receipt evidence was found. Track as unresolved candidate only.
+
+## Lane 4 month-by-month / deep-discovery sweep
+- Targeted Hebrew/English searches covered **2022-12-29 through 2023-10-06**, plus older professional/expert warning chains.
+- **Dec 29–31:** no new distinct receipt-backed expert warning established.
+- **Jan:** expert/research records re-audited against accepted Notion entries; no new distinct event crossed threshold.
+- **Feb:** academics petition and Reichman IPS chains rechecked; warning content strong, receipt unresolved.
+- **Mar:** Yadlin 23 Mar and INSS 21 Mar warnings rechecked; no new named receipt evidence.
+- **Apr:** **new JISS 16 Apr** and **new INSS 19 Apr** unresolved leads added; Amidror 13 Apr rechecked.
+- **May:** Gida/Hayun 9 May dated infiltration warning rechecked; senior receipt unresolved.
+- **Jun:** **new INSS June** Hamas/PA/deterrence/multi-front lead added; named receipt unresolved.
+- **Jul:** INSS 23 Jul urgent alert remains separately tracked; no new delivery evidence.
+- **Aug:** IDSF 16 Aug and Carmon 31 Aug rechecked; WARN-6 source provenance upgraded with direct Sep 2026 Eiland interview.
+- **Sep:** Gida/Hayun 12 Sep warning and Reichman/ICT chains rechecked; WARN-80 already captures the distinct distributed multi-front preparedness report; no duplicate.
+- **Oct 1–6:** targeted final-days expert/research searches found no new distinct warning with qualifying receipt.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Rechecked older foreign-warning chains, including Egypt's 2018 warning that Qatar/Turkey/Iran-linked funding was reaching Hamas's military wing.
-- Existing Notion entries already capture qualifying older events; no new distinct older warning crossed threshold.
+- Rechecked older JISS war-readiness doctrine/recommendations, Brik readiness warning chains and older expert multi-front assessments where relevant to inherited/repeated knowledge.
+- Existing accepted entries already capture qualifying inherited/repeated warnings; no new older warning crossed threshold this run.
 - Older lane remains **In progress**.
 
 ## Dedupe / source-quality audit
-- WARN-142 (UAE intelligence→Shin Bet) remains distinct from WARN-5 (alleged MBZ→Netanyahu follow-up call).
-- The Dahlan/intermediary material is retained as provenance/corroboration unless a separate dated transmission is proven.
-- McCaul's statement establishes an Egyptian warning to Israelis but explicitly preserves uncertainty about recipient level; it is not treated as Netanyahu receipt.
-- Repeated/derivative reporting did not substitute for primary records or independent recipient evidence.
+- New JISS 16 Apr and INSS 19 Apr warnings are kept separate from serving-security-chief warnings in the same April escalation period because source, warning content and evidence basis differ.
+- INSS June assessment is tracked separately from the 21 Mar and 23 Jul INSS alerts because it addresses a distinct Hamas/PA/deterrence/multi-front strategic warning.
+- WARN-80 remains the controlling accepted Reichman/ICT multi-front-preparedness distribution event; conference co-presence is not treated as a separate warning.
+- The new Maariv Eiland interview was added as source provenance to WARN-6, not as a new warning event.
+- Public publication, intended audience and direct public address do not establish personal receipt by a named official.
 - No inference of deliberate disregard, causation or motive is made.
 
 ## Persistent state
-- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-23T0609Z_lane3.csv`.
-- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-23T0609Z_lane3.csv`.
-- `RUN_STATE.md` advanced to **Lane 4**.
+- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-23T0705Z_lane4.csv`.
+- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-23T0705Z_lane4.csv`.
+- `RUN_STATE.md` advanced to **Lane 5**.
 - Canonical Accepted count is **141**.
 - Canonical `CANDIDATES.csv` and `COVERAGE.csv` remain supplemented by current deltas pending a safe full canonical merge; no period status was promoted to Complete.
 
@@ -88,4 +114,4 @@ Last successful run: 2026-09-23 06:09 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, chronology variants, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 4**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 5**.
