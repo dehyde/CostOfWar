@@ -1,70 +1,80 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-23 05:10 UTC
+Last successful run: 2026-09-23 06:09 UTC
 
 ## Rotation
-- Deep lane completed this run: **2 — Shin Bet / Mossad / National Security Council / police / Home Front / other Israeli professional security bodies**.
-- Next deep lane: **3 — foreign governments, diplomats, foreign intelligence/security services, regional partners and official foreign warnings**.
-- Lane 2 remains **In progress**, not Complete.
-- No high-value unresolved primary-document lead warrants a consecutive Lane 2 run.
+- Deep lane completed this run: **3 — foreign governments, diplomats, foreign intelligence/security services, regional partners and official foreign warnings**.
+- Next deep lane: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**.
+- Lane 3 remains **In progress**, not Complete.
+- No high-value unresolved primary-document lead warrants a consecutive Lane 3 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
 - **0 new Accepted warnings this run; canonical Accepted count remains 141.**
 - No Notion entry required a status/confidence change in this run.
+- Latest Channel 12 UAE evidence was already present in WARN-142 and WARN-5 when audited, so no duplicate Notion write was made.
 
 ## Freshness / document-upgrade pass
-- Rechecked the latest September 2026 UAE-warning reporting and Hamas-financing document/testimony reporting.
-- The UAE intelligence-to-Shin Bet evidence was already incorporated as **WARN-142**; the alleged MBZ-to-Netanyahu follow-up leg remains separately **Disputed** as WARN-5 with official UAE/PMO contrary accounts preserved.
-- Newer Hamas-financing reporting was already incorporated in the existing Argaman/Military Intelligence/Barnea warning entries; no duplicate warning event was created.
-- No existing Accepted warning changed status or confidence in this pass.
+- Rechecked newly published **22 Sep 2026 Channel 12** reporting citing three senior Emirati sources with direct knowledge.
+- The report materially reinforces **WARN-142**: UAE intelligence warned the Shin Bet in September 2023 that Hamas could carry out a violent action by the end of the month.
+- The same reporting says MBZ later allegedly called Netanyahu to ensure the warning had reached him. This adds support to the disputed leader-level leg, but does not resolve **WARN-5** because PMO denies any call/receipt, says call-log checks found none, and later official UAE language says security matters are handled through relevant entities rather than at national-leader level.
+- No public UAE cable, Shin Bet intake record, leader call record/transcript, William Burns testimony or authoritative inquiry finding surfaced.
+- No Accepted warning changed status or confidence.
 
 ## Unresolved-first resolution
-### BAR-APR23-DETERRENCE — Investigating / unchanged
-- Ronen Bar's April 2025 sworn High Court affidavit says he warned Netanyahu that adversaries saw a window of opportunity amid Israel's internal rift and that in April 2023 he recommended a focused forceful move to arrest deterrence erosion.
-- The named-recipient claim is material, but the public evidence remains principally Bar's retrospective sworn testimony and reporting reproducing it.
-- No independent contemporaneous April memo, meeting minutes, written recommendation, recipient acknowledgment or authoritative inquiry finding was recovered.
-- Keep below Accepted threshold under the project's retrospective-claim rule.
+### DAHLAN-UAE-WARNING-CHAIN-SEP2023 — Resolved / deduped
+- Dahlan's postwar statement that “we passed warnings on to the Israelis” is now best treated as corroborating provenance around the better-documented UAE intelligence→Shin Bet chain.
+- Haaretz/Times of Israel reconstruct the Palestinian intermediary→UAE/Shin Bet route; Sufian Abu Zaida later identified himself as an intermediary; Channel 12 now separately establishes an institution-level UAE intelligence warning to Shin Bet through three senior Emirati sources.
+- No evidence establishes a separate Dahlan-authored transmission with its own distinct pre-Oct. 7 date/content/recipient.
+- Do not create a duplicate of WARN-142 unless distinct contemporaneous transmission evidence appears.
 
-### BAR-AUG22-2023-PREEMPTIVE-GAZA — Strong candidate / strengthened but not Accepted
-- Yedioth/Ynet investigative reporting identifies **22 Aug 2023** as the date on which Bar reportedly urged an initiated strike in Gaza and quotes Netanyahu's reported rejection: a Gaza strike might help but would not change the main trend.
-- The broader investigation says it is based on internal documents and testimony; contemporaneous reporting independently establishes that Bar and other security chiefs participated in security consultations that day.
-- However, the exact underlying contemporaneous meeting record/notes for this recommendation are not public, and repeated accounts by the same investigative team are not treated as independent corroboration.
-- Date and reported response are clearer, but the event remains below the acceptance threshold.
+### EGYPT-FOREIGNMIN-NSC-MIDSEP-2023 — Disputed / secondary corroboration only
+- Israel Hayom's Dec 2025 investigation cites a senior Egyptian source, several Israeli Foreign Ministry sources and two Israeli political sources for warnings that Gaza was extremely volatile/could explode and that “something big” was coming; it also reports a possible 26 Sep Egyptian-linked aircraft/meeting route.
+- Later Ynet reporting repeats the 26 Sep urgent-meeting/warning account, adding secondary corroboration but no new primary record.
+- The Foreign Ministry and NSC formally deny receiving the described warning. No released Egyptian cable, Israeli minutes/visitor record or authoritative inquiry finding establishes named senior receipt.
+- Remains below Accepted threshold.
 
-### UAE-SEP2023-INTEL-CHAIN — Resolved / already represented
-- Latest reporting further supports a UAE intelligence warning to the Shin Bet before Oct. 7, including multiple senior Emirati-source accounts.
-- That distinct warning is already canonical as **WARN-142**.
-- The alleged leader-level MBZ-to-Netanyahu call remains materially disputed and is kept separate as **WARN-5**; no merge or status change.
+### EGYPT-OCT4-2023-ISRAELI-OFFICIALS — Strong candidate / unchanged
+- US House Foreign Affairs chair Michael McCaul said after a closed intelligence briefing that Egypt warned Israelis roughly three days before the attack and explicitly said the unresolved question was **“at what level.”**
+- An Egyptian official separately told Times of Israel that Egyptian intelligence warned Israeli counterparts Hamas was planning “something big.”
+- This confirms a warning to Israelis at some level but does not establish receipt by Netanyahu or another named qualifying senior decision-maker.
+- Need primary briefing/Egyptian/Israeli documentation identifying recipient, timing and content.
 
-## Lane 2 month-by-month / deep-discovery sweep
-- Targeted Hebrew/English searches covered **2022-12-29 through 2023-10-06**, plus older inherited-warning chains, across Shin Bet, Mossad, NSC, police, Home Front/NEMA and related professional-security bodies.
-- **Dec–Jan:** no new distinct qualifying Lane 2 event crossed threshold beyond canonical records.
-- **Feb–Mar:** East Jerusalem/Ramadan, police and Bar strategic-warning chains rechecked; qualifying events are already canonical.
-- **Apr:** BAR-APR23 remains Investigating for lack of independent contemporaneous corroboration.
-- **May:** the Bar 21 May Hamas/Gaza warning remains represented by disputed canonical WARN-16; no duplicate.
-- **Jun:** police capacity and Shin Bet resource-diversion warnings are already canonical.
-- **Jul:** Bar's 3 Jul written strategy warning, 23 Jul strategic warning and 31 Jul Gaza-linked threat-warning rise are already represented as distinct canonical events.
-- **Aug:** BAR-AUG22 strengthened but remains below threshold.
-- **Sep:** UAE/Shin Bet freshness already represented by WARN-142; WARN-5 remains disputed; other Bar/Mossad/NSC chains rechecked without a new distinct event.
-- **Oct 1–6:** Bar's 1 Oct Hamas/Sinwar warning remains canonical WARN-68; no additional Lane 2 final-days event crossed threshold.
-- **No month is Complete.** Detailed updates are in the current coverage delta.
+### EGYPT-KAMEL-NETANYAHU-LATESEP-2023 — Disputed / unchanged
+- The direct Abbas Kamel→Netanyahu warning claim remains supported by retrospective/reporting accounts but categorically denied by PMO, which says Netanyahu neither spoke nor met with Kamel in the relevant period.
+- No Egyptian call record, transcript, direct official confirmation or authoritative inquiry finding was recovered.
+
+## Lane 3 month-by-month / deep-discovery sweep
+- Targeted Hebrew/English searches covered **2022-12-29 through 2023-10-06**, plus older foreign-warning chains and lesser-known regional partners.
+- **Dec 29–31:** no new distinct qualifying foreign warning crossed threshold.
+- **Jan:** Sisi→Netanyahu, King Abdullah→Netanyahu and Arab-diplomat escalation warnings rechecked; qualifying events are already canonical or remain scope-threshold.
+- **Feb:** US/Jordan/Egypt-facilitated Aqaba de-escalation material and direct US warnings rechecked; existing canonical entries control, and the joint communique was not treated as a separate disaster warning.
+- **Mar:** regional/Ramadan escalation warnings rechecked; no new distinct event.
+- **Apr:** Jordanian Al-Aqsa escalation warnings and Israeli receipt/response are already canonical; no duplicate.
+- **May:** US/Jordanian Gaza and Flag March de-escalation warning chains rechecked; existing canonical entries control.
+- **Jun:** targeted foreign-government/intelligence searches found no new distinct qualifying event.
+- **Jul:** US Austin/Biden security discussions checked; public records do not establish a US warning to Israel of readiness collapse. Gallant's own readiness message is not converted into a foreign warning.
+- **Aug:** targeted regional-partner/intelligence searches found no new distinct qualifying event.
+- **Sep:** WARN-142 strengthened by the new three-source UAE report; WARN-5 remains Disputed; Dahlan chain deduped; Egypt Foreign Ministry/NSC chain remains unresolved.
+- **Oct 1–6:** Egypt's reported ~4 Oct warning remains unresolved on recipient level; no new distinct event crossed threshold.
+- **No month is Complete.**
 
 ## Older-warning lane
-- Rechecked older Shin Bet/Mossad/NSC/police/Home Front chains, including Hamas-financing warnings and inherited civil-readiness material.
-- Existing canonical entries already capture qualifying older events; no new distinct older warning crossed threshold this run.
+- Rechecked older foreign-warning chains, including Egypt's 2018 warning that Qatar/Turkey/Iran-linked funding was reaching Hamas's military wing.
+- Existing Notion entries already capture qualifying older events; no new distinct older warning crossed threshold.
 - Older lane remains **In progress**.
 
 ## Dedupe / source-quality audit
-- Latest UAE reporting was attached conceptually to the already-separated WARN-142/WARN-5 records rather than creating a duplicate.
-- Repeated Yedioth/Ynet retellings from the same investigative team were not treated as independent corroboration for BAR-AUG22.
-- Sworn retrospective testimony alone was not promoted to Accepted without independent/documentary corroboration.
+- WARN-142 (UAE intelligence→Shin Bet) remains distinct from WARN-5 (alleged MBZ→Netanyahu follow-up call).
+- The Dahlan/intermediary material is retained as provenance/corroboration unless a separate dated transmission is proven.
+- McCaul's statement establishes an Egyptian warning to Israelis but explicitly preserves uncertainty about recipient level; it is not treated as Netanyahu receipt.
+- Repeated/derivative reporting did not substitute for primary records or independent recipient evidence.
 - No inference of deliberate disregard, causation or motive is made.
 
 ## Persistent state
-- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-23T0510Z_lane2.csv`.
-- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-23T0510Z_lane2.csv`.
-- `RUN_STATE.md` advanced to **Lane 3**.
+- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-23T0609Z_lane3.csv`.
+- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-23T0609Z_lane3.csv`.
+- `RUN_STATE.md` advanced to **Lane 4**.
 - Canonical Accepted count is **141**.
 - Canonical `CANDIDATES.csv` and `COVERAGE.csv` remain supplemented by current deltas pending a safe full canonical merge; no period status was promoted to Complete.
 
@@ -78,4 +88,4 @@ Last successful run: 2026-09-23 05:10 UTC
 - Opposition-origin testimony is not sufficient unless independently established by a non-opposition/professional source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, chronology variants, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 3**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 4**.
