@@ -1,49 +1,49 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-23 15:09 UTC
+Last successful run: 2026-09-23 16:12 UTC
 
 ## Rotation
-- Deep lane completed this run: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
-- Next deep lane: **6 — documentary recovery + historical blind-spot sweep**.
-- Lane 5 remains **In progress**, not Complete.
-- No high-value unresolved primary-document lead warrants a consecutive Lane 5 run.
+- Deep lane completed this run: **6 — documentary recovery + historical blind-spot sweep**.
+- Next deep lane: **1 — IDF / Military Intelligence / Southern Command / Gaza Division / surveillance units / reserve-security professionals**.
+- Lane 6 remains **In progress**, not Complete.
+- No high-value unresolved primary-document lead warrants a consecutive Lane 6 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
 - **0 new Accepted warnings this run; canonical Accepted count remains 142.**
-- No Notion page was created. The Tomer Glam/Ashkelon result rediscovered in discovery was confirmed as existing **WARN-63**, so no duplicate was created.
+- **WARN-15** was upgraded in place with new response/interpretation evidence; no duplicate page was created.
 
 ## Freshness / document-upgrade pass
-- Rechecked local-defense / rabashatz warning chains against the May 2026 State Comptroller review and recent reporting.
-- **WARN-130** already contains the material State Comptroller finding that the defense minister decided before the war to upgrade rabashatz status, along with the recovered Jan 2022 parliamentary warning chain; no additional document changed its classification, response status or confidence this run.
-- No new inquiry finding, declassification, primary recipient record, correction or response document materially changed another accepted Lane 5 warning in this pass.
+- **WARN-15 materially strengthened/clarified:** N12 on 22 Sep 2026 reports the Sinwar message as warning that an “earthquake” was expected in Israeli prisons over the prisoner issue. Shin Bet requested a special assessment; contemporaneous intelligence that Iran wanted Hamas to take over Elizabeth Tsurkov negotiations fit the message so closely that participants said no alternative interpretation was offered.
+- This strengthens the documented contemporaneous **interpretation/response context** while limiting overstatement: the message was not treated at the time as a forecast of a mass Gaza invasion. It does not independently settle the Egyptian/Emirati/intermediary provenance variants. Confidence remains **Medium**.
+- The fresh 22 Sep UAE reporting was already incorporated in WARN-142/WARN-5 in the previous pass; no duplicate change was made.
 
 ## Unresolved-first resolution
-- **Alon Davidi — 20 Apr / 3 May 2023:** strengthened. Contemporary N12/Kipa reporting now directly documents Davidi telling Prime Minister Netanyahu at the 20 Apr government meeting in Sderot that the region required long-term security/quiet. Walla on 3 May contemporaneously records Davidi saying he had told the PM about two weeks earlier that he missed the sustained quiet achieved after Protective Edge, while publicly warning that the current policy would not bring security and that Hamas/PIJ were controlling events. This materially strengthens named-recipient evidence, but the exact private warning content remains only partially reconstructed, so the chain remains **Investigating**.
-- **GAZA-COUNCILS-SEP26-2023:** remains **Investigating**. The contemporaneous N12 warning that fence conditions could end in disaster remains strong content evidence, but targeted searches again failed to identify the speaking council head(s) or documented delivery to a qualifying named senior recipient. **WARN-97** separately records Gadi Yarkoni's warning to Gaza Division commander Avi Rosenfeld and should not be merged without attribution evidence.
+- **SAAR-JULY-DATE-RECONCILIATION:** resolved as a state/dedupe issue. The 23 Jul Amit Saar “multiple ignition fuses” letter is already separately published as **WARN-10**, supported by the newly uncensored Ynet excerpt. It remains distinct from the 16 Jul warning in the publication layer. Broader four-document FOIA-series metadata is still unresolved.
+- **IDF-FOIA-REMAINING-2023:** remains **Investigating**. Rechecked Kan/Ynet/FOIA-derived reporting and accepted March/May/July entries; no newly released complete official texts, distribution metadata or response records were recovered.
+- **MI-APR12-2023-POLITICAL-ECHELON:** remains **Strong candidate / Investigating**. Contemporaneous Walla reporting plus Netanyahu’s next-day public response establish the assessment’s existence, but the underlying memo and named delivery metadata remain unrecovered.
+- **GALLANT-MAR25-2023:** remains **Strong candidate / Investigating**. Fresh N12 reconstruction again supports the Halevi/Bar→Gallant briefing chain preceding Gallant’s public warning, but no primary private meeting record or exact delivery text to Netanyahu/cabinet was recovered.
+- **OCT3-6-PRIMARY-RECORDS:** remains **Investigating**. Final-days indicators/readiness reports still lack a newly recovered primary record establishing a distinct pre-7-Oct warning delivered to a named qualifying senior decision-maker.
 
-## Lane 5 deep-discovery pass
-- Performed targeted Hebrew/English searches across local authorities, Gaza-border communities, civilian security coordinators, emergency bodies and local preparedness chains for each month from **2022-12-29 through 2023-10-06**, while following older rabashatz/standby-squad chains backward.
-- **WARN-63 Tomer Glam / Ashkelon shelter-gap letter** was rediscovered and deduplicated as an existing Accepted warning. Its existing entry already records direct written receipt by Netanyahu, Gallant and Smotrich and partial later government action on the underlying protection gap.
-- April–May coverage produced the Davidi recipient-evidence upgrade above, but not enough evidence for a new Accepted warning.
-- September coverage did not resolve the anonymous/plural 26 Sep Gaza-council warning attribution problem.
-- Broader public criticism or media-only statements were not promoted absent documented delivery to a qualifying serving decision-maker.
+## Lane 6 deep-discovery pass
+- Performed a month-by-month documentary/historical sweep across **2022-12-29 through 2023-10-06**, plus older inherited-risk chains.
+- Re-audited later-released inquiry/reporting material, MI warning-document chains, Shin Bet warning chains, Gaza Division/final-days records, older border/community-defense material and dedupe conflicts.
+- The only material evidence upgrade was the WARN-15 N12 clarification above; no new warning event crossed the acceptance threshold.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Rechecked the older rabashatz / standby-squad readiness chain linked to **WARN-130**.
-- The current-government awareness bridge remains supported by Gallant's prewar remedial work already recorded in WARN-130; no new distinct older warning crossed threshold in this run.
+- Rechecked older Gaza-border/tunnel, community-defense, national-security-conception and inherited-risk chains represented in the library.
+- No new distinct older warning crossed threshold this run; older material remains separately tracked and is not allowed to crowd out 2023 coverage.
 
 ## Dedupe / source-quality audit
-- **WARN-63** was confirmed as an existing publication and not duplicated.
-- Davidi's 20 Apr recipient evidence is **strong contemporaneous secondary evidence**; his description on 3 May of what he had told Netanyahu two weeks earlier is contemporaneous reporting of a retrospective characterization of the private exchange, not a released meeting record.
-- N12's 26 Sep Gaza-council warning remains strong contemporaneous warning-content evidence, but speaker attribution and qualifying recipient evidence remain unresolved.
-- No inference of ignored warning, causation or motive is made.
+- WARN-15 N12 evidence is **strong investigative secondary**, quoting participants in the special assessment; the underlying assessment record remains unpublished.
+- WARN-10 / 23 Jul Saar was confirmed as an existing distinct publication and not duplicated.
+- No inference of ignored warning, causation or motive was made; contradictory contemporaneous assessments remain preserved.
 
 ## Persistent state
-- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-23T1509Z_lane5.csv`.
-- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-23T1509Z_lane5.csv`.
-- `RUN_STATE.md` advanced to **Lane 6**.
+- Candidate/audit delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-23T1612Z_lane6.csv`.
+- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-23T1612Z_lane6.csv`.
+- `RUN_STATE.md` advanced to **Lane 1**.
 - Canonical Accepted count remains **142**.
 - Canonical `CANDIDATES.csv` and `COVERAGE.csv` remain supplemented by current deltas pending a safe full canonical merge; no period status was promoted to Complete.
 
@@ -56,4 +56,4 @@ Last successful run: 2026-09-23 15:09 UTC
 - Opposition-origin claims are excluded as warning origins unless the underlying warning is independently established by a qualifying professional/non-opposition source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, chronology variants, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 6**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 1**.
