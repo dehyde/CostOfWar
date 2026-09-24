@@ -1,47 +1,51 @@
 # Pre-Oct 7 Warnings — Run State
 
-Last successful run: 2026-09-23 — Lane 3 foreign governments / diplomats / foreign intelligence run
+Last successful run: 2026-09-23 — Lane 4 professional experts / academics / researchers / think tanks run
 
 ## Rotation
-- Deep lane completed this run: **3 — foreign governments, diplomats, foreign intelligence/security services, regional partners and official foreign warnings**.
-- Next deep lane: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**.
-- Lane 3 remains **In progress**, not Complete.
-- No high-value unresolved primary-document lead warrants a consecutive Lane 3 run.
+- Deep lane completed this run: **4 — professional experts, academics, researchers, think tanks, political scientists, strategic/security institutes and nonpartisan expert organizations**.
+- Next deep lane: **5 — local authorities, Gaza-border communities, emergency/security coordinators, civilian security professionals, infrastructure/emergency bodies and civil-society professional organizations**.
+- Lane 4 remains **In progress**, not Complete.
+- No high-value unresolved primary-document lead warrants a consecutive Lane 4 run.
 
 ## Canonical publication state
 - Notion database: `Pre-Oct 7 Warnings`.
 - **0 new Accepted warnings this run; canonical Accepted count remains 143.**
-- No Notion status change was warranted this run because the newly strengthened foreign-warning leads still fail recipient/provenance thresholds.
+- No Notion write was warranted: no new expert-origin event crossed the receipt/corroboration threshold, and the strongest delivered expert-research chain is already represented by WARN-80.
 
 ## Freshness / document-upgrade pass
-- Checked current 23 Sep 2026 reporting and recent investigative/official material for UAE, Egypt and other foreign-warning upgrades, corrections and recipient evidence.
-- WARN-142 (UAE intelligence→Shin Bet) remains Accepted / Medium; WARN-5 (reported MBZ→Netanyahu call) remains Disputed / Medium. Current Ravid/N12/Times of Israel follow-up adds no further primary record beyond the already incorporated three-Emirati-source account.
-- Rechecked Egyptian warning variants, including the Army Radio/Times of Israel 'make the ground in Gaza tremble' chain and the disputed Abbas Kamel direct-warning claim; no new primary record resolved those conflicts.
+- Rechecked current 23 Sep 2026 reporting for newly surfaced warning documents, recipient evidence and corrections.
+- UAE institutional warning / disputed MBZ leader-call reporting remains already incorporated in WARN-142 and WARN-5; the latest follow-up adds no new primary document or contradiction requiring another status change.
+- No fresh primary expert/research document materially upgraded an accepted entry this run.
 
 ## Unresolved-first resolution
-- **US-INTEL-SEP28-OCT5-2023:** source quality upgraded to original CNN reporting/transcript and CNN republications. Sept. 28 warned Hamas might escalate cross-border rocket attacks; Oct. 5 CIA warned generally of increased Hamas violence. CNN explicitly says it is unclear whether these U.S. assessments were shared with Israel, so the candidate remains unresolved and is not a qualifying Israeli-government warning.
-- **ARAB-ALLY-ANGER-WARNINGS-2022-23:** strengthened with original CNN reporting quoting a senior official from an unnamed Arab country that their government repeatedly warned U.S. and Israeli officials that Palestinian anger was reaching a dangerous level. Still unresolved because country, dates, exact Israeli recipients/recipient seniority and contemporaneous records are unknown.
-- Kept separate a second unnamed Middle Eastern diplomat's repeated warnings to U.S. officials about Hamas weapons buildup; that account currently lacks an Israeli-recipient chain and is contextual only.
+- **INSS-MAR21-2023-STRATEGIC:** primary contemporaneous INSS strategic alert remains strong warning content, but no named qualifying recipient/delivery record was recovered.
+- **JISS-APR16-2023:** contemporaneous JISS paper clearly warned Israel should prepare for potentially unavoidable war and that internal rupture endangered military capability; no direct recipient/acknowledgment found.
+- **AMIDROR-APR13-2023:** contemporaneous warning that deterioration/war with Iran was increasingly likely remains public expert commentary without proven qualifying delivery.
+- **CARMON-AUG31-2023:** contemporaneous Sep-Oct possible-war warning involving Hamas/Hezbollah remains unresolved because no qualifying Israeli recipient/delivery evidence was found; later claims that it predicted the exact Oct. 7 invasion overstate the original warning.
+- **REICHMAN-ICT-2023:** resolved as already represented by **WARN-80**; official ICT/Ganor/Brik retrospective evidence supports a broad prewar briefing campaign to Netanyahu and senior defense/security decision-makers. No duplicate created.
 
-## Lane 3 deep-discovery pass
-- Performed targeted month-by-month foreign-government/intelligence/diplomatic searches across **2022-12-29 through 2023-10-06**, plus older foreign-warning checks.
-- Rechecked January Egyptian presidential de-escalation warning; February CIA/Burns warning; March UAE/Khaldoon warning; spring Jordan/Egypt/U.S./UAE holy-site and regional-escalation warnings; summer Jordan/U.S./regional-partner warnings; September UAE/Egypt chains; and Oct. 4-5 Egypt/U.S.-intelligence candidates.
-- Existing Notion entries already capture the qualifying distinct foreign-warning events surfaced in this pass; no duplicate created.
+## Lane 4 deep-discovery pass
+- Performed targeted month-by-month expert/research searches across **2022-12-29 through 2023-10-06**, plus older-warning checks.
+- Rechecked INSS annual/strategic alerts, JISS, Amidror, Michael Milshtein, Udi Dekel, Yigal Carmon/MEMRI, Brik, and Reichman/ICT material.
+- Added **MILSHSTEIN-APR-MAY-2023-HAMAS-STRATEGY** as a discovery lead: contemporaneous N12 analyses challenged the assumption that Gaza calm meant Hamas restraint and described Hamas's deliberate cross-arena/double-game strategy. No direct qualifying government/security delivery is established, so it is not Accepted.
+- Existing Notion WARN-80 already captures the strongest qualifying research-origin delivery chain surfaced in this pass.
 - **No month is Complete.**
 
 ## Older-warning lane
-- Reviewed older foreign-government/intelligence warning chains and inherited regional-risk/Qatar-funding material. No additional distinct older warning crossed threshold this run.
+- Rechecked older Brik/BESA and inherited professional-research warning chains.
+- Existing accepted entries capture qualifying direct-delivery chains; older public research without documented delivery remains contextual/unresolved.
 
 ## Dedupe / source-quality audit
-- U.S. Sept. 28/Oct. 5 assessments are not counted because Israeli delivery is expressly unresolved.
-- Anonymous Arab-country testimony is not accepted without identifying provenance/recipient level or documentary/independent corroboration.
-- UAE institutional and leader-level allegations remain split: accepted institution-to-institution warning vs disputed leader-call warning.
-- No inference of ignored warning, causation or motive was made; official denials and contrary accounts remain preserved.
+- Public think-tank papers, interviews and op-eds are not treated as government receipt without delivery evidence.
+- Reichman/ICT report delivery is not duplicated by individual presentations or conference co-presence.
+- Carmon's contemporaneous warning is preserved narrowly; later retrospective descriptions are not allowed to inflate its specificity.
+- No inference of ignored warning, causation or motive was made; contrary assessments and recipient uncertainty remain preserved.
 
 ## Persistent state
-- Candidate delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-23_lane3.csv`.
-- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-23_lane3.csv`.
-- `RUN_STATE.md` advanced to **Lane 4**.
+- Candidate delta: `pre-oct7-warnings/deltas/CANDIDATES_DELTA_2026-09-23_lane4.csv`.
+- Coverage delta: `pre-oct7-warnings/deltas/COVERAGE_DELTA_2026-09-23_lane4.csv`.
+- `RUN_STATE.md` advanced to **Lane 5**.
 - Canonical Accepted count: **143**.
 - Canonical `CANDIDATES.csv` and `COVERAGE.csv` remain supplemented by deltas pending a safe full canonical merge; no period status was promoted to Complete.
 
@@ -54,4 +58,4 @@ Last successful run: 2026-09-23 — Lane 3 foreign governments / diplomats / for
 - Opposition-origin claims are excluded as warning origins unless the underlying warning is independently established by a qualifying professional/non-opposition source.
 - Distinguish specific Hamas/Gaza attack-plan warnings from general strategic, readiness, border-vulnerability, civil-emergency and regional-escalation warnings.
 - Do not create duplicates for repeated retellings, chronology variants, response milestones or overlapping predecessor audits.
-- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 4**.
+- Next run begins with freshness/document upgrades and unresolved-first work, then executes **Lane 5**.
